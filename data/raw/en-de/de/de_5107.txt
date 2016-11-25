@@ -1,0 +1,44 @@
+Verrat der Ökonomen
+LONDON : Alle epochalen Ereignisse beruhen auf Vorstellungen – einer Korrelierung normalerweise unverbundener Ereignisse , die die Menschheit aus ihrem üblichen Trott herausreißt .
+Derartige Vorstellungen bringen hervor , was der Autor Nassim Nicholas Taleb „ schwarze Schwäne “ genannt hat : unvorhersehbare Ereignisse mit enormen Auswirkungen .
+Eine kleine Zahl dieser schwarzen Schwäne , so Taleb „ erklärt fast alles , was in unserer Welt passiert “ .
+Der Wohlstand des ersten Zeitalters der Globalisierung vor 1914 etwa resultierte aus einer erfolgreichen Konstellation verschiedener Entwicklungen : sinkenden Transport- und Kommunikationskosten , den technologischen Durchbrüchen der zweiten Industriellen Revolution , dem friedlichen Zustand der internationalen Beziehungen und der erfolgreichen Handhabung des Goldstandards durch Großbritannien .
+In den Zwischenkriegsjahren dagegen verband sich eine vergiftete internationale Politik mit wirtschaftlichen Ungleichgewichten , um die Große Depression hervorzurufen und dem Zweiten Weltkrieg den Weg zu bereiten .
+Betrachten wir nun die jüngsten Finanzinnovationen .
+Auf dem Rücken der neuen Computer- und Telekommunikationstechnologie entstand ein riesiger Markt für derivative Finanzinstrumente .
+Collateralized Debt Obligations ( CDOs , überwiegend an Hypotheken geknüpft ) machten eine neue Bevölkerung aufstrebender Eigenheimbesitzer angeblich kreditwürdig , indem sie die ausgebenden Banken in die Lage versetzen , „ minderwertige “ Schulden an andere Investoren zu verkaufen .
+Vor der Verbriefung waren es in der Regel die Banken , die die Hypotheken hielten ; nun konnten sie diese aus ihren Büchern tilgen .
+Freilich landeten die aus der Bilanz der einen Bank gelöschten verbrieften Kreditforderungen zumeist in den Büchern anderer Banken .
+Hieraus ergab sich ein wunderbares System zur Streuung der Risken einzelner Banken , das freilich nur deshalb funktionierte , weil das Ausfallsrisiko aller Banken , die später als „ toxisch “ bezeichnete Schuldverschreibungen hielten , erhöht wurde .
+Da all diese Derivate auf denselben Vermögenswerten basierten , steckten , falls mit diesen Vermögenswerten etwas schief gehen sollte , alle Schuldtitel haltenden Banken in derselben Tinte .
+Ermöglicht wurde die Verbreitung von Derivaten durch die Leichtigkeit , mit der sich das Schuldvolumen für eine bestehende Menge Realvermögens ausweiten ließ .
+Diese Skalierbarkeit wurde noch verstärkt durch Verwendung von Credit Default Swaps ( CDS ) , die als vorgebliche Versicherung gegen Kreditausfälle angeboten wurden .
+Da für jeden Kreditnehmer eine unbegrenzte Anzahl von CDS verkauft werden konnte , konnte das Angebot an Swaps sehr viel schneller wachsen als das der Schuldverschreibungen .
+Die CDS vergrößerten das Ausmaß der Blase , indem sie die Geschwindigkeit , mit der das Geld zirkulierte , enorm erhöhten .
+Der CDO-Markt wuchs in den Jahren 2000 bis 2006 von 275 Milliarden auf 4,7 Billionen Dollar ; der CDS-Markt dagegen viermal so schnell , nämlich von 920 Milliarden in 2001 auf 62 Billionen Ende 2007 .
+Mittels der CDS fanden Derivate ihren Weg in die Portfolios von Banken überall auf der Welt .
+Die Abhängigkeit der Gesamtstruktur von kontinuierlich steigenden Häuserpreisen aber wurde selten explizit gemacht : Bei einem bröckelnden Häusermarkt würden sich diese papiernen Sicherheitsversprechen zu – in den Worten von Warren Buffett – „ finanziellen Massenvernichtungswaffen “ entwickeln .
+Doch die Finanzmediation hätte nie in die Katastrophe geführt ( oder überhaupt so weit ) , wären da nicht die von Amerikas Handels- und Haushaltsdefiziten ausgehenden globalen Ungleichgewichte gewesen , die großteils durch die Ersparnisse der Chinesen finanziert wurden .
+Flexible Wechselkurse sollten Länder daran hindern , ihre Währungen zu manipulieren , doch durch Akkumulation großer Mengen an US-Schatzanleihen hielten die ostasiatischen Länder , insbesondere China , ihre Währungen künstlich niedrig .
+Diese ostasiatische „ Sparwut “ ermöglichte die durch Schulden angeheizte Konsumwut in den USA , Großbritannien und einem Großteil der westlichen Welt .
+Diese Verbindung aus chinesischen Ersparnissen und amerikanischem Konsum hatte freilich einen fatalen Fehler : Sie schuf nicht rückzahlbare Schulden .
+Die chinesischen Investments erfolgten zunehmend in Form offizieller Käufe von US-Schatzanleihen .
+Diese Investitionen schufen keine neuen Ressourcen , um die Mittel zur Rückzahlung zur Verfügung zu stellen .
+Vielmehr wanderte im Gegenzug zum Aufbau des US-Schuldenberges ein Großteil der amerikanischen Fertigungskapazitäten nach China ab .
+Die chinesischen Ersparnisse flossen also nicht in die Schaffung neuer Vermögenswerte , sondern in Finanzspekulationen und Konsumwahn .
+Die „ überschüssigen “ chinesischen Ersparnisse ermöglichten die amerikanische Kreditausweitung der Jahre 2003-2005 , als die Federal Funds Rate ( der Zinssatz für Tagesgelder , zu dem US-Banken einander Kredite geben ) bei 1 % gehalten wurde .
+Das ultrabillige Geld verursachte eine steile Zunahme jener Hypotheken , die an Kreditnehmer mit schlechter Bonität vergeben wurden – ein Markt , der zusammenbrach , als die Zinsen nach 2005 stetig bis auf 5 % anstiegen . Die Finanzkrise des Jahres 2008 war der Beginn eines äußerst schmerzhaften , aber unvermeidlichen Entschuldungsprozesses .
+Diese Interpretation der Ursprünge der aktuellen Rezession wird durch die die „ Geldschwemme “ propagierende Schule bestritten .
+Laut dieser hatte die Krise eine und nur eine Ursache : die übermäßige Kreditschöpfung während der Zeit , als Alan Greenspan Chairman der US Federal Reserve war .
+Diese Sichtweise greift auf die „ österreichische “ Theorie der Konjunkturzyklen zurück und auch auf Milton Friedmans Erklärung der Großen Depression von 1929 .
+Sie war damals falsch und ist es auch heute .
+Diese Argumentation geht davon aus , dass Märkte absolut effizient sind . Falls sie sich irren , muss der Grund dafür bei der Politik liegen .
+Diese Sicht ist selbstwidersprüchlich , denn wenn die Marktteilnehmer absolut rational handelten und perfekt informiert wären , hätten sie sich nicht von einer Politik täuschen lassen , die das Geld billiger machte , als es wirklich war .
+Greenspan ist das Opfer , das die Anhänger dieser Schule dem Gott des Marktes darbieten .
+Dies legt einen grundlegenderen Grund für die Wirtschaftskrise nahe : die Dominanz der Chicagoer Wirtschaftsschule mit ihrem Glauben an die Selbstregulierungskräfte freier Märkte .
+Dieser Glaube rechtfertigte – oder rationalisierte – die Deregulierung der Finanzmärkte im Namen der so genannten „ Effizienzmarkthypothese “ und führte direkt zur Verbreitung von Modellen für das finanzielle Risikomanagement , die durch Ausschluss der Ausfallmöglichkeit den Umfang der im System vorhandenen Risiken gröblich unterschätzten .
+Wenn es also darum geht , jemandem den Schwarzen Peter zuzuschieben , dann gebe ich eher den Ökonomen als den Bankern die Schuld für die Krise .
+Sie etablierten das Ideensystem , das Banker , Politiker und Aufsichtsbehörden dann angewandt haben .
+John Maynard Keynes schrieb einst , dass „ praktische Menschen , die sich selbst für relativ immun gegenüber geistigen Einflüssen halten , gewöhnlich die Sklaven irgendeines verblichenen Ökonomen “ seien .
+Die meisten Mitglieder der heutigen Ökonomengilde sind freilich nicht verblichen , sondern weiter in der ideologischen Nachbarschaft Chicagos tätig .
+Man sollte ihre Annahmen rücksichtslos bloßstellen , denn sie hätten es fast geschafft , unsere Welt zu zerstören .

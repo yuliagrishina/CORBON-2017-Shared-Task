@@ -1,0 +1,37 @@
+Große Hoffnung Wasserstoff
+Rhinecliff , New York : In seinem 1874 erschienen Roman Die geheimnisvolle Insel lässt Jules Verne seinen Helden Cyrus Harding , einen Ingenieur , erklären , dass man „ eines Tages Wasser als Brennstoff verwenden wird , dass der Wasserstoff und der Sauerstoff , aus denen es besteht , allein oder gemeinsam eine unerschöpfliche Quelle von Wärme und Licht bieten werden . “ Wasser , so Harding , würde „ zweifellos durch elektrischen Strom “ in Wasserstoff und Sauerstoff aufgespalten werden .
+Viele von Vernes Träumereien bleiben Fantasien , doch was den Wasserstoff angeht , so ist seine Zeit gekommen .
+Es sind inzwischen bereits hunderte wasserstoffbetriebene Prototypen von Autos , Bussen , Lieferwagen und Minivans , einem oder zwei Motorrädern , ein paar Motorrollern , Nutzfahrzeugen ( u.a. einer Menge Gabelstapler ) und sogar ein paar Traktoren in Betrieb .
+Vor zwei Jahren hat das Europäische Parlament in Straßburg mit überwältigender Mehrheit eine Erklärung verabschiedet , die auf eine grüne Wasserstoffwirtschaft drängt .
+Wasserstoffprojekte werden in Nordamerika , Europa , Japan , Korea , Australien , Südamerika und , im Embryonialstadium , in China und Indien vorangetrieben .
+Die meisten der Wasserstofffahrzeuge werden mit Brennstoffzellen betrieben , doch BMW und Mazda haben auch Benzinmotoren auf Wasserstoff umgestellt ( schicke V12er bei BMW , Wankelmotoren bei Mazda ) .
+Tatsächlich sind die Pläne so bedeutender Automobilhersteller wie Toyota , Honda , Daimler , General Motors und Hyundai / Kia für die gewerbliche Produktion von mit Wasserstoffzellen betriebenen Autos inzwischen weit fortgeschritten .
+Honda hat im vergangenen Jahr den Prototyp einer Fertigungsstraße für Brennstoffzellenfahrzeuge vorgestellt ;
+Daimler hat in diesem Jahr bereits eine in Betrieb genommen ;
+Hyundai / Kia plant , seine bis 2012 fertigzustellen , und Toyota , der wohl größte Akteur , bis 2015 – zunächst für kleinere Stückzahlen , später für tausende und noch später für eine steil wachsende Anzahl von Fahrzeugen .
+Wie Erdgas kann Wasserstoff bei entsprechender Umrüstung des Motors als Autotreibstoff verwendet werden .
+Doch die Autohersteller halten Brennstoffzellen für die bessere , effizientere , leisere und sauberere Kraftquelle für den Transportsektor .
+Sie funktionieren so etwa wie eine Batterie , außer dass ihr Brennstoff ständig wieder aufgefüllt wird . Er reagiert in elektrochemischer Weise mit dem Sauerstoff aus der Luft und erzeugt dabei Strom , der einen Elektromotor antreibt .
+Heute werden derartige Fahrzeuge von Hand gebaut und sind teuer ; sie kosten pro Stück rund eine Million Dollar , plusminus ein paar hunderttausend Dollar .
+Diese Kosten freilich werden sinken , wenn erst einmal die Serienproduktion anläuft : Toyota hat erklärt , es erwarte , die Branche mit seinen Kostenreduzierungen zu „ schockieren “ , wenn es die gewerbliche Produktion aufnimmt .
+Das Unternehmen geht davon aus , dass die Kosten für Brennstoffzellenstapel , das Herzstück des Antriebsstrangs , um bis zu 90 % zurückgehen werden .
+Das US-Energieministerium geht in seiner aktuellen Analyse davon aus , dass die Fertigungskosten für eine Brennstoffzelle von etwa 80 kW bei Einsatz der Technologie des Jahres 2010 und unter Annahme eines Produktionsvolumens von etwa 500.000 Einheiten etwa 57 Dollar pro Kilowatt betragen dürften .
+Angesichts der zu erwartenden technologischen Verbesserungen würden die Kosten bis 2015 auf etwa 47 Dollar pro kW sinken – was in Reichweite des Zielwertes des Ministeriums von 30 Dollar pro kW liegt , einem Richtwert , der mehr oder weniger den heutigen Fertigungskosten für Benzinmotoren entspricht .
+Was die Treibstoffkosten für den Wasserstoff angeht , so gibt es derzeit keine klaren Zahlen , doch der Zielwert der USA liegt bei 2-3 Dollar pro kg bis etwa 2018 ( ein Kilo Wasserstoff hat denselben Energiegehalt wie eine US-Gallone ( 3,785 Liter ) Benzin ) .
+Da Brennstoffzellen etwa doppelt so effizient sind wie Verbrennungsmotoren , lägen die die Kosten pro Kilometereinheit effektiv bei etwa der Hälfte davon .
+Die USA standen in diesem Bereich bei Forschung und Entwicklung traditionell an vorderster Front , doch in den letzten Jahren wurde der Wasserstoff durch intensive lobbyistische Bemühungen zugunsten anderer Alternativen zur Seite gedrängt .
+Einige einflussreiche Befürworter von Plug-in-Hybrids , Batteriefahrzeugen und Biodiesel-Automobilen argumentieren , dass diese näher an der Marktreife stünden und bessere , preiswertere Technologien seien als Wasserstoff und Brennstoffzellenautos .
+Diese Ansicht hatte sich auch die Regierung Obama zu Eigen gemacht , was in diesem Sommer den neuen Energieminister Steven Chu , einen mit dem Nobelpreis ausgezeichneten Physiker , in einige Verlegenheit stürzte .
+Chu hatte eine Kürzung der Fördermittel für die Wasserstoff- und Brennstoffzellentechnologie im Umfang von 130 Millionen Dollar angeordnet .
+Doch ein Aufschrei der Empörung unterschiedlichster Gruppen – von der Union of Concerned Scientists und dem National Research Council über Brennstoffzellen- und Wasserstoffverbände bis hin zur American Lung Association und den Automobilherstellern – dürfte , im Verbund mit starker Unterstützung im Kongress , wohl dazu führen , dass diese Kürzungen rückgängig gemacht werden .
+Es ist dabei anzumerken , dass die Wasserstoffunterstützer nicht gegen batteriebetriebene Autos sind und Biotreibstoffe als zusätzliche erneuerbare Quelle von Wasserstoff begrüßen .
+Doch aufgrund des Gewichts von Elektrobatterien , ihrer begrenzten Reichweite , der Kosten und anderer Gesichtspunkte sind Batterien am besten für Stadtautos mit begrenzter Reichweite geeignet .
+Zudem binden wasserstoffbetriebene Brennstoffzellenfahrzeuge in der Regel sowieso Batterien in Hybridkonfigurationen ein , was diese in die Lage versetzt , jene Reichweite von 500 km abzudecken , die die Verbraucher verlangen .
+Zahllose Labors arbeiten derzeit an besseren , billigeren Methoden zur Wasserstoffspeicherung und -lagerung und an Wegen , um die Kosten zu senken und die Haltbarkeit der Brennstoffzellen zu erhöhen .
+Beides bleiben wichtige Anliegen .
+Darüber hinaus gilt es , eine Infrastruktur zur Wasserstoffbetankung aufzubauen .
+Dies wird teuer , doch vermutlich nicht teurer als die Erhaltung der gegenwärtigen Infrastruktur für fossile Brennstoffe , und dürfte mit Tankstellenclustern oder -korridoren in Ballungsgebieten beginnen , die sich allmählich weiter ausbreiten .
+Anfänge derartiger Cluster gibt es bereits in den Großräumen von Los Angeles und New York sowie bezeichnenderweise in Japan .
+Tatsächlich sollen in Tokio mehr als ein Dutzend bedeutender japanischer Energiegesellschaften dabei sein , sich zusammenzuschließen , um die Schaffung einer nationalen Infrastruktur zur Wasserstoffbetankung bis 2015 voranzutreiben .
+Die Wasserstoffrevolution hat begonnen , auch wenn die Lunte nur langsam brennt .
+Wasserstoff ist nicht die einzige Waffe im Kampf gegen die globale Erwärmung , doch er ist ein grundlegendes Element – im wahrsten Sinne des Wortes .

@@ -1,0 +1,35 @@
+Big Data für arme Studenten
+WASHINGTON , DC – Länder brauchen qualifizierte und talentierte Menschen , um mit Innovationen die Voraussetzungen für langfristiges Wirtschaftswachstum zu schaffen .
+Das gilt für Industrie- genauso wie für Entwicklungsländer .
+Aber die Bedingung dafür sind Investitionen in Bildung und Ausbildung .
+Wenn wir die Armut beenden , die Arbeitslosigkeit reduzieren und die zunehmende wirtschaftliche Ungleichheit bekämpfen wollen , brauchen wir neue , bessere und günstigere Wege , die Menschen auszubilden - und zwar in großem Maßstab .
+Dieses Ziel mag zwar sogar für wohlhabendere Länder unerreichbar scheinen , aber die intelligente Sammlung , Analyse und Nutzung von Bildungsdaten könnte eine große Veränderung bewirken .
+Und glücklicherweise leben wir in einem Zeitalter , in welchem uns die Informationstechnologie den Zugang zu erschwinglicher und gleichzeitig hochwertiger Bildung ermöglicht .
+Big Data - komplexe Datensets mit hohem Volumen , die von Unternehmen verwendet werden , um das Verhalten von Konsumenten zu analysieren und vorherzusagen - kann Lehrer und Unternehmen mit wertvollen Informationen darüber versorgen , wie Menschen lernen , um Schulen zu helfen , den Unterricht differenzierter und personalisierter zu gestalten .
+Die Weltbankgruppe und ihre für die Kreditvergabe an den privaten Sektor zuständige Organisation , die Internationale Finanz-Corporation , versuchen , dieses Potenzial zu nutzen , um staatliche Bildungssysteme zu unterstützen .
+Die gerade ins Leben gerufene SABER-Initiative ( Systems Approach for Better Edication Results ) sammelt und teilt Vergleichsdaten über Bildungspolitik und Bildungseinrichtungen aus Ländern der ganzen Welt .
+Im privaten Sektor kann die Fähigkeit , Informationen über die Interaktion zwischen Lehrer und Lernenden sowie die Interaktion zwischen Lernenden und Lernsystemen zu sammeln , von essentieller Bedeutung sein .
+In Kenia zum Beispiel verwendet Bridge International Academies adaptives Lernen in großem Stil .
+Bridge ist ein Kunde der IFC , gegründet von drei amerikanischen Unternehmern , und betreibt 259 Vor- und Grundschulen , die monatlichen Kosten für den Unterricht betragen durchschnittlich 6 Dollar .
+Es ist ein riesiges Lernlabor für Schüler und Lehrer gleichermaßen .
+Bridge testet verschiedene Ansätze für den Unterricht in Standardfähigkeiten und -konzepten , bei denen in vielen Klassen immer gleichzeitig zwei Versionen einer Lektion erteilt werden .
+Die Lektionen werden von Lehrern nach standardisierten , vorformulierten Plänen über Tablets erteilt , die auch aufzeichnen , wie lange die Lehrer für jede Lektion benötigen .
+Die Prüfungsergebnisse werden auf dem Tablet des betreffenden Lehrers aufgezeichnet . In einem Zeitraum von 21 Tagen werden mehr als 250.000 Benotungen festgehalten .
+Aufgrund dieser Daten legt das Bewertungsteam von Bridge fest , welcher Unterricht am effektivsten ist und verteilt die Informationen dann im gesamten restlichen Netzwerk der Akademie .
+Wir wissen , dass die Leistung eines Schülers aus den verschiedensten Gründen nachlassen kann - sengende Sommerhitze in Klassenräumen ohne Klimaanlage , Probleme zuhause oder schlechte Lehrer , um nur einige zu nennen .
+Aber wenn Ergebnisse in großem Volumen erfasst werden können , kann man schnell erkennen , welche Unterschiede wirklich relevant sind .
+Das ist der große Wert von Big Data .
+Ein anderer Fall ist SABIS , ein Bildungsträger für Kinder vom Kindergartenalter bis 12 Jahren in den USA , Europa , Asien , Nahost und Nordafrika .
+SABIS nutzt große Datensets , um hohe Standards einzuhalten und die akademische Leistung von mehr als 63.000 Schülern zu verbessern .
+Die ständige Verfolgung der akademischen Leistungen pro Schuljahr liefert mehr als 14 Millionen Datenpunkte , anhand derer im gesamten Netzwerk des Unternehmens , das aus Schulen in 15 Ländern besteht , der Unterricht gestaltet wird , Lernziele erreicht werden und für Konsistenz gesorgt wird .
+Knewton , eine adaptive Lernplattform , die digitale Verläufe anhand von prädiktiver Analyse personalisiert , ist ein weiteres Unternehmen an der vordersten Front der Datenrevolution .
+Inhalt und Unterricht werden maßgeschneidert , sogar Klassenzimmer ohne die Ressourcen von Privatschulen können individuelles Lernen anbieten .
+Infolgedessen können Lehrer ihre Zeit so effektiv wie möglich nutzen , indem sie nämlich Probleme mit Schülern lösen , anstatt undifferenzierten Unterricht zu geben .
+Diese Vorteile bergen natürlich Risiken .
+Wir stehen noch ganz am Anfang eines Verständnisses dessen , wie das enorme Potenzial von Big Data für den Unterricht genutzt , und wie gleichzeitig deren Privatsphäre geschützt werden kann .
+In einigen Fällen ist die Technologie für die Erfassung von Daten schneller als unsere Fähigkeit zu entscheiden , wie sie erfasst , gespeichert und geteilt werden sollten .
+Egal wie streng Daten gesichert werden , wir brauchen immer noch eine klare Lizenzstruktur für ihre Nutzung .
+In vielen Entwicklungsländern gibt es überhaupt keinen Datenschutz .
+Die Schnittstellen zwischen Daten und Bildung versprechen neue Bildungsprodukte für verbessertes Lernen , mit großem Potenzial , besonders für die Armen .
+Um diese Vorteile verantwortungsbewusst zu nutzen , müssen wir sicherstellen , dass die Datenerfassung weder exzessiv noch unangemessen betrieben wird , und dass sie das Lernen unterstützt .
+Der Privatsektor , Regierungen und Institutionen wie die Weltbankgruppe müssen Regeln formulieren , wie kritische Informationen über die Leistung von Lernenden gesammelt , geteilt und verwendet werden . Eltern und Schüler verdienen nichts Geringeres .

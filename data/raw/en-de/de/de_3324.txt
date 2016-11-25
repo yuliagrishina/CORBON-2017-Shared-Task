@@ -1,0 +1,47 @@
+Mangelnde Investitionen in Ausfallsicherheit
+NEW YORK – Der Hurrikan in der letzten Woche an der amerikanischen Ostküste ( den ich in Lower Manhattan miterlebte ) war eines der zunehmenden Anzahl extremer Wetterereignisse , aus denen wir lernen sollten .
+Klimaexperten behaupten seit langem , dass die Anzahl und das Ausmaß solcher Ereignisse zunehmen . Dagegen sollten wir vorbeugende Maßnahmen treffen – und diese regelmäßig überprüfen .
+Es gibt zwei wichtige , aber sehr unterschiedliche Arten , sich auf Katastrophen vorzubereiten .
+Diejenige , die verständlicherweise am meisten Aufmerksamkeit bekommt , ist die Fähigkeit zu einer schnellen und effektiven Reaktion .
+Eine solche wird zweifellos immer nötig sein und wird von kaum jemandem in Frage gestellt .
+Ohne ausreichende Reaktionsfähigkeit kann die Anzahl an Todesfällen und ruinierten Schicksalen schlimme Ausmaße annehmen – wie der Hurrikan Katrina gezeigt hat , der 2005 Haiti und New Orleans zerstörte .
+Die zweite Komponente besteht in Investitionen , die den Schaden für die Volkswirtschaft von vornherein gering halten .
+Dieser Aspekt der Vorbereitung erhält normalerweise deutlich weniger Aufmerksamkeit .
+Tatsächlich scheint die Erfahrung mit Katrina in den Vereinigten Staaten zu stärkerer Reaktionsfähigkeit geführt zu haben , wie die schnelle und effektive Krisenbewältigung nach dem Hurrikan Sandy gezeigt hat .
+Aber Investitionen zur Schadensbegrenzung werden immer noch vernachlässigt .
+Um dieses Ungleichgewicht zu beheben , muss die Infrastruktur betrachtet werden .
+Natürlich schlagen Katastrophen zufällig und in oft nicht vorhersagbaren Orten zu , daher kann man solche Schäden , will man die Kosten in vernünftiger Höhe halten , nicht vollständig verhindern .
+Aber manche Zerstörungen haben große Multiplikatoreffekte .
+Dies ist insbesondere bei wichtigen Systemen wie dem Stromnetz und den Netzwerken für Information , Kommunikation und Transport der Fall , die für das Funktionieren einer modernen Volkswirtschaft von grundlegender Bedeutung sind .
+Relativ bescheidene Investitionen in die Ausfallsicherheit , Redundanz und Integrität dieser Systeme zahlen sich in höchstem Maße aus , wenn auch nur in unregelmäßigen Abständen .
+Der Schlüssel liegt in der Redundanz .
+Die Erfahrungen aus New York City sind sehr lehrreich .
+Der südliche Teil von Manhattan war fast eine ganze Arbeitswoche lang ohne Strom , da offensichtlich eine große Schaltstation des Stromnetzes neben dem East River nach der Überflutung durch eine heftige Explosion zerstört wurde .
+Es gab keine alternative Leitung , durch die der Strom hätte ausweichen können .
+Die Kosten dieses Stromausfalls sind zwar schwer zu berechnen , dürften aber enorm hoch sein .
+Im Gegensatz zu den Aufwendungen zur Reparatur physischer Güter , die die Wirtschaft ankurbeln , ist dies ein Nettowohlfahrtsverlust .
+Lokale Stromausfälle mögen nicht zu verhindern sein , aber man kann die Stromnetze weniger anfällig machen , indem man Redundanzen einbaut – wodurch vermieden wird , dass im Ernstfall große Teile der Wirtschaft zusammenbrechen .
+Ähnliche Lehren konnte man nach dem Erdbeben und dem Tsunami 2011 in Nordostjapan in Bezug auf die globalen Lieferketten ziehen .
+Diese Lieferketten sind heute widerstandsfähiger , da Alternativen für Engpässe geschaffen wurden , die sonst deutlich größere Systeme lahmlegen könnten .
+Netzwerkexperten sorgen sich zu Recht über die Möglichkeit , durch Angriffe auf die Steuersysteme der Strom- , Kommunikations- und Transportnetze ganze Volkswirtschaften zum Erliegen zu bringen .
+Zugegebenermaßen sind die Auswirkungen von Naturkatastrophen weniger systemisch , aber wenn sie Schlüsselkomponenten von Netzwerken zerstören , die zu wenig Redundanz und Datensicherung aufweisen , führt dies zu ähnlichen Ergebnissen .
+Die Ausfallsicherheit entscheidender Netzwerke und Systeme – insbesondere des Stromnetzes – kommt sogar der Reaktionsfähigkeit zugute .
+Warum neigen wir immer wieder dazu , zu wenig in die grundlegenden Systeme unserer Volkswirtschaften zu investieren ?
+Ein Argument ist , dass Redundanz in normalen Zeiten wie Verschwendung aussieht und höhere Investitionen durch Kosten-Nutzen-Rechnungen ausgeschlossen werden .
+Dies scheint ganz klar eine falsche Annahme zu sein : Viele Expertenschätzungen zeigen , dass sich eingebaute Redundanz lohnt , wenn man nicht unrealistisch niedrige Wahrscheinlichkeiten für Störfälle ansetzt .
+Dies führt uns zu einer zweiten und plausibleren Erklärung , die psychologischer und verhaltenswissenschaftlicher Natur ist .
+Wir haben eine Tendenz , sowohl die Wahrscheinlichkeit als auch die Folgen unvorhersehbarer Ereignisse zu unterschätzen .
+Verschärft wird dieses Muster durch schwache Anreize .
+Die Anreize von Ausführenden wie Vermögensverwaltern oder gewählten Politikern werden durch Souveräne wie Investoren oder Wähler bestimmt .
+Wenn die Souveräne die systemischen Risiken nicht verstehen , können ihre Ausführenden diese Risiken , selbst wenn sie sie verstehen , nicht berücksichtigen , da sie sonst Unterstützung in Form von Wählerstimmen oder zu verwaltenden Vermögenswerten verlieren .
+Eine weitere Begründung ist , dass Unternehmen , die stark von Kontinuität abhängig sind – wie Krankenhäuser , indische Outsourcing-Firmen oder Wertpapierbörsen – in ihre eigenen Sicherungssysteme investieren müssen , und dies auch tun .
+Aber dabei werden viele Probleme nicht in Betracht gezogen , beispielsweise die Mobilität , Sicherheit und Wohnsituation der Angestellten .
+Weitreichende Selbstabsicherung aufgrund mangelnder Investitionen in widerstandsfähige Infrastruktur ist als Option ineffizient und deutlich unterlegen .
+Defizite bei den Infrastrukturinvestitionen ( einschließlich vernachlässigter Wartung ) ist dort weit verbreitet , wo die Konsequenzen unklar und / oder nicht direkt offensichtlich sind .
+In Wirklichkeit können mangelnde Investitionen mit Schuldenfinanzierung verglichen werden : Beide übertragen Kosten auf zukünftige Generationen .
+Aber sogar durch Schulden finanzierte Investitionen wären angesichts des sonst auftretenden Wohlstandsverlustes besser als überhaupt keine .
+Städte und Staaten , die in den globalen Finanz- und Wirtschaftssystemen eine wichtige Rolle spielen möchten , müssen berechenbar , verlässlich und widerstandsfähig sein .
+Dies erfordert eine transparente Gesetzgebung und eine kompetente , konservative und antizyklische makroökonomische Führung .
+Aber auch physische Robustheit und die Fähigkeit , Schocks zu widerstehen , gehört dazu .
+Instabile Knotenpunkte in Netzwerken führen im Fall ihres Zusammenbruchs zu einer Welle enormer Folgeschäden .
+Früher oder später werden sie dann umgangen und durch robustere Alternativen ersetzt .

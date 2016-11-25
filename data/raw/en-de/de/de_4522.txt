@@ -1,0 +1,37 @@
+Die virtuelle chinesische Mauer
+Der große chinesische Essayist Lu Xun wusste aus dem Shanghai der 1930er Jahre Folgendes zu berichten : „ Es gibt heutzutage alle Arten von Wochenschriften .
+Obwohl von bescheidener Reichweite , leuchten sie im Dunkeln wie Dolche , die ihren Kameraden mitteilen , wer die alten starken Festungen angreift . “ Großformatige Skandalblätter spielten in der ersten Hälfte des vorigen Jahrhunderts mit der chinesischen Zensur Katz und Maus und halfen letztlich so , die Korruption und den moralischen Bankrott der nationalistischen KMT-Regierung bloßzustellen und den Sieg der Kommunisten im Jahr 1949 vorzubereiten .
+Das kommt einem möglicherweise deshalb bekannt vor , weil die Kommunistische Partei Chinas ihre Geschichte nie vergessen wird – und fest entschlossen ist , eine Wiederholung dieser Geschichte zu verhindern .
+Aus diesem Grund agierte die chinesische Führung letzten Dezember in typischer Manier , als sie hart gegen Medien durchgriff , die ein bisschen zu energisch ans Werk gingen .
+Der Herausgeber und die Herausgeber-Stellvertreter der Beijing News , eines relativ neuen Kleinformats , das im Ruf steht , Korruption und offiziellen Missbrauch aufzudecken , wurden gefeuert .
+Aus Protest traten 100 Mitarbeiter der Zeitung in den Streik .
+Die meisten Chinesen hätten von diesem Streik gar nichts mitbekommen , wenn da nicht die Blogger gewesen wären .
+Ein Redaktionsassistent der New York Times namens Zhao Jing , der unter dem Pseudonym Michel Anti schrieb , verbreitete die Nachrichten in seinem weithin gelesenen und in chinesischer Sprache verfassten Blog .
+Er enthüllte Details der Vorgänge hinter den Kulissen und rief zu einem öffentlichen Boykott der Zeitung auf . Das rief in Chatrooms und Blogs eine Welle des Mitgefühls für die Journalisten hervor .
+Zhaos Blog war nicht unter direkter Kontrolle des chinesischen Propagandaministeriums , sondern wurde mittels eines chinesischsprachigen und von Microsoft MSN Spaces betriebenen Blog-Hosting-Services veröffentlicht .
+Am 30. Dezember verschwand Zhaos Blog .
+Microsoft hat inzwischen bestätigt , dass der Blog vom MSN Internet-Server gelöscht wurde . Als Begründung gab man an , dass die chinesischen Gesetze zu respektieren wären , wenn man dort Geschäfte betreibt .
+Microsofts Beitrag zur politischen Repression in China steht in einer Reihe mit Yahoos Rolle bei der Verurteilung eines regimekritischen Journalisten und der Entscheidung von Google , Seiten nicht mehr anzuzeigen , welche durch die ( in Anlehnung an die Chinesische Mauer ) so bezeichnete „ Great Chinese Firewall “ blockiert werden .
+Tatsächlich hat China das weltweit wohl ausgefeilteste System der Blockade und Zensur im Internet entwickelt . Damit werden ungünstige Informationen über die chinesische Führung für die meisten Menschen , mit Ausnahme technischer Experten , unzugänglich gemacht .
+Dieses System wird noch durch Überwachung und Zensur verstärkt , die nicht nur von Regierungsbeamten , sondern auch von privaten Dienstleistern durchgeführt wird .
+Manche vergleichen Microsofts Verhalten mit der Kollaboration von IBM mit den Nazis in Deutschland .
+Menschenrechtsaktivisten in den USA fordern Gesetze , die amerikanischen Firmen Geschäftspraktiken verbieten sollen , mit deren Hilfe repressive Regime , demokratische Bewegungen im Keim ersticken können .
+Die Unternehmen allerdings vertreten die Ansicht , dass man so nicht konkurrenzfähig wäre – entweder man finde sich mit der Zensur ab oder man gebe das Geschäft auf .
+Hätte MSN Spaces diese chinesischen Blogs nicht zensuriert , so Microsoft , würde man die „ Great Chinese Firewall “ einfach so programmieren , dass chinesische Internetuser die Dienste von Microsoft nicht mehr in Anspruch nehmen können .
+In Wahrheit sind die meisten dieser Blog-Hosting-Services in China ohnehin blockiert , was vor allem den mehreren hundert einheimischen Diensten einen Wettbewerbsvorteil verschafft .
+Sie alle , ob sie nun Bokee.com , Blogbus.com und Blogcn.com heißen , entsprechen den Vorschriften der chinesischen Zensur .
+Eine spezielle Software verhindert , dass User politisch sensible Wörter verwenden . Provokative Texte , welche die automatischen Kontrollen passieren , werden häufig entfernt .
+Andernfalls wären diese Dienste wohl nicht erlaubt .
+Trotz der Zensur floriert das chinesische Blogwesen und es gibt möglicherweise zwischen 5 und 10 Millionen aktiver Blogs .
+Die Chinesen wurden über die Jahre zu wahren Experten , wenn es darum ging , Gesprächsstoff zu finden und dabei politisch gefährliche Themen auszusparen .
+Die chinesischen Blogger unterscheiden sich da nicht .
+Da tauchen neue Promis der Popkultur im Netz auf und die Menschen gestalten sogar ihre eigenen Radio- und Fernsehshows .
+Natürlich haben die meisten chinesischen Unternehmen , die diese Dienste zur Entwicklung und Veröffentlichung der Seiten zur Verfügung stellen , in ihrer Software , den Managementstrukturen und Geschäftsmodellen Zensur integriert .
+Aber die meisten chinesischen Blogger nehmen das als Teil der Realität in China hin .
+Sie sind nicht bereit , für mehr Meinungsfreiheit zu kämpfen und sogar damit einverstanden , sich gegenseitig zu zensurieren , damit sie das Erreichte auch erhalten können .
+Das bringt uns wieder zurück zum bekanntesten chinesischen Literaten der Moderne , Lu Xun .
+Im Jahr 1921 schrieb er ein sehr bissiges , sozialkritisches Stück namens „ Die wahre Geschichte des Ah Q “ . Darin geht es um einen glücklosen Menschen , der seine Werte immer den jeweiligen Umständen und den vermuteten Erwartungen seiner Mitmenschen anpasst .
+Leider scheinen sich Technologieunternehmen wie Microsoft , Yahoo und Google dem Ah-Q-Geist anzuschließen , wenn es um eine Entscheidung zwischen dem Schutz langfristiger Geschäftsinteressen sowie Menschenrechten für ihre Kunden und der Einhaltung von Gesetzen geht , die von nicht gewählten Machthabern erfunden wurden .
+Diese Firmen haben deutlich gezeigt , dass ihre Prioritäten im Bereich Kapitulation liegen , wenn es um freie Meinungsäußerung geht .
+Langfristig verheißt das nichts Gutes für ihre internationale Reputation , die vom Vertrauen der User in die Offenheit und Unabhängigkeit der Produkte und Leistungen abhängt .
+Vielleicht wird die Zensur eines Tages nirgends mehr geschäftlichen Sinn haben .

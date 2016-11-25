@@ -1,0 +1,43 @@
+Welche Unternehmensbesteuerung eignet sich für Europa ?
+Die Europäische Kommission berät derzeit über ein Modell zur gemeinsamen Unternehmensbesteuerung in der Europäischen Union , das aber so nicht funktionieren kann .
+Vielmehr sollte man eine einfachere und brauchbarere Alternative in Erwägung ziehen , die es bereits gibt .
+Unternehmen werden in der EU derzeit aufgrund äußerst unterschiedlicher nationaler Vorschriften besteuert , die auf dem Trennungsprinzip , also der Aufteilung der in den einzelnen Ländern erwirtschafteten Gewinne beruhen .
+Grenzüberschreitende konzerninterne Transaktionen werden nach Marktpreisen für ähnliche Transaktionen bewertet – dem so genannten Fremdvergleichsprinzip .
+Dieses System ist komplex , teuer in der Verwaltung und kann zu Doppelbesteuerung führen , weil die Mitgliedsstaaten die volle Abschreibung von Verlusten und Steuerverbindlichkeiten im Ausland üblicherweise nicht gestatten .
+Außerdem verleitet das System auch zur Steuerhinterziehung . Dies aufgrund der unterschiedlichen Definitionen des Unternehmensgewinns in den Mitgliedsstaaten und der unzähligen Manipulationsmöglichkeiten beim Fremdvergleichsprinzip ( da es in vielen Fällen keine Referenzwerte für Marktpreise gibt ) , von der Verlagerung der Unternehmensgewinne in Länder mit niedriger Steuerquote ganz zu schweigen .
+Die Kommission schlägt nun vor , dass Unternehmen in der EU , die ihre Geschäftstätigkeit in mehr als einem EU-Land entfalten , auf Grundlage einer gemeinsamen Definition des Unternehmensgewinns – der konsolidierten einheitlichen Körperschaftssteuerbemessungsgrundlage ( Common Consolidated Base Taxation , CCBT ) – besteuert werden sollen .
+Die Berechnung des Unternehmensgewinns würde auf Basis des konsolidierten Gruppengewinns erfolgen und dann aufgrund eines Berechnungsschlüssels für die jeweiligen Gewinnanteile der Geschäftseinheiten auf die verschiedenen Mitgliedsstaaten „ aufgeteilt “ .
+Dieser Berechnungsschlüssel könnte wie in den USA Erlöse , Gehaltslisten und Sachanlagen enthalten oder eine Importe ausschließende Wertschöpfungskomponente , um die im betreffenden Land „ produzierte “ Wertschöpfung zu ermitteln .
+Jeder Mitgliedsstaat könnte frei über den in diesem Land anzuwendenden Steuersatz für den Gewinnanteil des Gruppenunternehmens entscheiden .
+Bei diesem Ansatz würden die zu versteuernden Gewinne aufgrund der konsolidierten Jahresabschlüsse ermittelt , die wiederum auf Basis der Rechnungslegungsvorschriften in den International Accounting Standards ( IAS ) zustande kommen . Seit 2005 besteht für börsennotierte Unternehmen in der EU die gesetzliche Verpflichtung , ihre Jahresabschlüsse nach diesen Richtlinien zu verfassen .
+Diese erlauben die volle Abschreibung der Verluste innerhalb der Unternehmen einer Gruppe und Verrechnungspreise würden auch keine Rolle mehr spielen .
+Aber trotzdem weist der Vorschlag der Kommission fatale Defizite auf .
+Beispielsweise würden die in dem Berechnungsschlüssel enthaltenen Faktoren in der Praxis auf Basis nationaler Steuersätze besteuert , womit wiederum neue Anreize für die Verlagerung von Gewinnen und anderer Faktoren geschaffen würden .
+Die CCBT ist aber noch aus zwei weiteren Gründen ein hoffnungsloser Fall .
+Erstens : Die IAS sind auf den Informationsbedarf von Finanzinvestoren ausgerichtet und enthalten keine genaue Definition des Gewinnes für steuerliche Zwecke .
+Das in der Finanzbuchführung angewandte Prinzip der periodengerechten Gewinnermittlung ist mit dem im Steuersystem verwendeten Realisationsprinzip nicht vereinbar .
+Überdies gibt es in den IAS keine Bestimmungen hinsichtlich der Aufteilung von Gewinnen und Verlusten auf verschiedene Geschäftsjahre . In den einzelnen Mitgliedsstaaten gelten in diesem Bereich aber unterschiedliche Regelungen .
+Zweitens existiert keine gemeinsame Gesetzgebung zur Gruppenkonsolidierung . Tatsächlich gibt es im Handelrecht vieler EU-Staaten nicht einmal Bestimmungen , wie eine Gruppe definiert ist .
+Die Zuordnung eines Unternehmens zu einer Gruppe müsste auf eine gesetzlich kontrollierte Basis gestellt werden . Das könnte die Eigentümerschaft ab einem gewissen Anteil am Eigenkapital – 51 % oder mehr - sein .
+Aber oftmals reicht ein viel geringerer Anteil am Eigenkapital , um sich eine De-facto-Kontrolle zu sichern , womit Gruppen ermutigt werden , ihre Kapitalstruktur zur Minimierung von Steuerverbindlichkeiten anzupassen – also Gruppenunternehmen ein- oder auszugliedern .
+Die CCBT ist also ganz klar ein Rohrkrepierer .
+Das heißt allerdings nicht , dass Unternehmen in der EU nun dazu verurteilt sind , mit 25 verschiedenen Steuersystemen zu leben .
+Die Idee einer gemeinsamen Steuerbasis muss erhalten bleiben , um das System zu vereinfachen und die Möglichkeiten der Gewinnverlagerung einzuschränken .
+Dennoch bedarf es eines radikal anderen Ansatzes : Den Gewinn als Grundlage der Unternehmensbesteuerung sollte man überhaupt vergessen .
+Dieses Konzept hatte einen Sinn , als man die Unternehmensbesteuerung als „ Sicherheitsnetz “ in einem System der progressiven Besteuerung individueller Einkommen sah .
+Aber in den meisten Ländern hat man heute ein duales Einkommenssteuersystem , in dem die Früchte des Kapitals milder besteuert werden als individuelle Einkommen .
+Noch wichtiger ist , dass dieses Konzept des Konzerngewinnes von Natur aus willkürlich ist , da es auf der korrekten Messung des Kapitalverbrauchs in einem gewissen Zeitraum basiert . Diese Bewertung wird aber aufgrund der gestiegenen Bedeutung von immateriellen Vermögenswerten für den Firmenwert immer unzuverlässiger .
+Überdies bremst eine Steuer , deren Erträge mit den Gewinnen der Firmen ansteigt , sicher die Investitionstätigkeit .
+Dieses demotivierende Signal verschwindet , wenn man die Unternehmensbesteuerung von den Gewinnen abkoppelt und als Steuerbasis ein weiter gefasstes Maß unternehmerischer Aktivitäten etabliert .
+Damit würde man für die Unternehmen einen Anreiz schaffen , überdurchschnittliche Leistungen zu erbringen , da überdurchschnittliche Gewinne nicht zu versteuern wären .
+Ein weiterer Grund , den Gewinn als Berechnungsgrundlage zu kippen und eine im Voraus zu bezahlende Pauschalsteuer auf Unternehmensaktivitäten einzuheben , ist die dezentralisierte Natur der EU .
+Während die Besteuerung von Kapitalerträgen auf nationaler Ebene zu einem Rückgang der Investitionen führen könnte , hätte die Unternehmensbesteuerung aufgrund von Standortvorteilen keine derartigen Auswirkungen .
+Länder , die eine erstklassige Infrastruktur , hochqualifizierte Arbeitskräfte und einfache gesetzliche Regelungen anbieten , haben sehr wohl das Recht , von den Unternehmen dafür eine angemessene Steuer einzuheben .
+Insgesamt sollte eine EU-weite Unternehmenssteuer als Vorteilssteuer betrachtet werden , die auf Grundlage einer weit gefassten Basis unternehmerischer Aktivitäten eingehoben wird . Der Steuersatz sollte nicht zu hoch sein , nicht mit aktuellen Gewinnen in Zusammenhang stehen und nicht von anderen Steuern abzuziehen sein .
+Von den verschiedenen derzeit zur Diskussion stehenden Modellen wäre eine Steuer auf Wertschöpfungsbasis - vielleicht als Durchschnittswert über mehrere Jahre – die beste Lösung , weil die Infrastruktur für Verrechnung und Veranlagung bereits vorhanden ist .
+Natürlich sind auch in der Wertschöpfung Gewinne enthalten und in dieser Hinsicht könnte die Verlockung für die Unternehmen , Verrechnungspreise zu manipulieren , wieder auftauchen .
+Aber dieser Anreiz wäre abgeschwächt , weil die Bruttoerträge typischerweise nur einen ziemlich geringen Teil der gesamten Wertschöpfung darstellen .
+Bei diesem Modell bliebe die Veranlagung und Verwaltung der Unternehmenssteuern völlig in der Hand der einzelnen Mitgliedsstaaten und es wäre auch nicht nötig , Gesetze oder Rechnungslegungsvorschriften zu vereinheitlichen .
+Dieses Modell wäre transparent , einfach und leicht zu verwalten .
+Der gigantische Apparat zur Kalkulation von Verrechnungspreisen und zur Einreichung von Anträgen für Steuergutschriften bei ausländischen Finanzbehörden könnte zerschlagen werden .
+Der einzigen Verlierer wären die Legionen europäischer Steueranwälte und Steuerberater .

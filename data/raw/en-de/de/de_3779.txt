@@ -1,0 +1,35 @@
+Zwei Ansichten über das Finanzsystem
+WASHINGTON , DC – Vom 10.-12- Oktober 2014 findet in Washington D.C. die Jahrestagung des Internationalen Währungsfonds statt , und ein zentraler Punkt der Tagesordnung ist der globale Finanzsektor .
+Dies dürfte für eine interessante Konferenz sorgen , denn es werden dabei zwei sich diametral widersprechende Ansichten in Bezug auf das globale Finanzsystem aufeinandertreffen .
+Die erste Ansicht besagt , dass wir seit Ausbruch der globalen Finanzkrise 2008 bereits „ eine Menge getan “ hätten .
+Laut dieser regelmäßig von Vertretern des US-Finanzministeriums und ihren europäischen Amtskollegen propagierten Sichtweise müsste man zwar bei der Umsetzung der Reformen vielleicht noch ein wenig mehr tun , doch seien unsere Banken und sonstigen Finanzunternehmen bereits viel sicherer geworden .
+Die Krise von 2008 könne sich daher nicht so schnell wiederholen .
+Die zweite Sichtweise besagt , dass wir die erforderlichen weit reichenden Veränderungen noch lange nicht abgeschlossen haben .
+Schlimmer noch : Zumindest in Bezug auf einen zentralen Punkt sei die von den Politikern und führenden Journalisten zur Beschreibung des Finanzsystems verwendete Sprache hoch problematisch .
+Die Fragen , um die es geht , sind komplex und weisen eine Menge Nuancen auf , doch was beide Seiten trennt , lässt sich großteils in einem Satz zusammenfassen : Ist es hinnehmbar , zu behaupten , dass die Banken Kapital „ halten “ ?
+Dies ist eine Formulierung , die von führenden Finanzjournalisten mit schöner Regelmäßigkeit verwendet wird ( aber beispielsweise nicht von Bloomberg / BusinessWeek , die diesbezüglich schon lange sehr viel vorsichtiger sind ) . „ Die Banken müssen mehr Kapital halten “ , heißt es immer wieder , um die Bemühungen der Aufsichtsbehörden – und , in den USA , einiger Parlamentarier – zu beschreiben , die Finanzinstitute zu verpflichten , sich relativ gesehen stärker über Eigenkapital und weniger über Schulden zu finanzieren .
+Diese Verwendung des Wortes „ halten “ entspricht zwar völlig gängigem Sprachgebrauch , ist jedoch zugleich zutiefst irreführend .
+In jedem anderen gängigen Kontext ist „ halten “ ein aktives Verb : Man hält ein Baby auf dem Arm .
+Bitte halten Sie dieses Seil .
+Dies ist von Belang , weil sich das „ Halten “ von Kapital zu einer versteckten oder impliziten Metapher entwickelt hat .
+Dabei wird stillschweigend vorausgesetzt , dass die Banken aufgefordert sind , einen Teil ihrer Aktiva zur Seite zu legen – und dies führt naturgemäß zu der Annahme , dass irgendwie weniger Kapital zur Vergabe von Krediten etwa an die Realwirtschaft zur Verfügung steht .
+Diese Sicht begegnet mir häufig , selbst in gebildeten Kreisen wie zum Beispiel auf dem Kapitol .
+Diese Interpretation jedoch stellt ein völliges – und manchmal vorsätzliches – Missverständnis von Bankkapital und verfolgter Politik dar .
+( Anat Admati und Martin Hellwig haben darauf hingewiesen , dass es in diesem Bereich viele falsche Vorstellungen gibt ; das falsche Verständnis von Kapital jedoch ist sicher die grundlegendste davon . )
+Der Begriff Kapital ist in diesem Zusammenhang schlicht eine Verkürzung des Wortes Eigenkapital – und das Eigenkapital gehört in der Bilanz einer Bank ( oder eines sonstigen Unternehmens ) zu den Passiva .
+Es verweist darauf , wie Banken ( oder sonstige Unternehmen ) ihre Geschäftstätigkeit finanzieren , und nicht darauf , wie sie die ihnen zur Verfügung stehenden Gelder verwenden .
+Höhere Kapitalanforderungen bedeuten bei gleich bleibender Bilanzgröße im Wesentlichen eine stärkere Eigenkapitalfinanzierung und damit , sofern man eine vernünftige Definition anlegt , relativ gesehen weniger Schulden .
+Dies ist eine attraktive und vernünftige Politik , weil sich die heutigen globalen Banken bei ihrem Geschäft auf einen relativ geringen Eigenkapitalanteil stützen .
+Die besten vergleichenden Messgrößen für das Bankkapital sind jene , die im vom stellvertretenden Vorsitzenden der Federal Deposit Insurance Corporation Thomas Hoenig erstellten Global Capital Index zu finden sind .
+Hoenig betrachtet , wie viel Eigenkapital die Banken bei ihrer einfachsten und transparentesten Messgröße ( auch als Fremdfinanzierungsgrad oder „ Leverage “ bezeichnet ) aufweisen .
+Sechs Jahre nach der weltgrößten Finanzkrise weisen unsere Megabanken in ihren Bilanzen einen Eigenkapitalanteil von nicht mehr als 5 % aus .
+( Bei einigen Banken sind es sogar wenig mehr als 3 % Eigenkapital . )
+Dies bedeutet , dass 95 % ihres Geschäfts über Schulden finanziert werden – und dass es daher bloß einer kleinen negativen Erschütterung bedarf , um sie in die Insolvenz zu zwingen .
+Es bleibt nach wie vor viel zu tun , um diese Anfälligkeit zu beheben . Zum Beispiel bedarf es offizieller Regeln für die internationale Zusammenarbeit im Umgang mit scheiternden Finanzunternehmen .
+Es muss möglich sein , derartige Unternehmen pleitegehen zu lassen , ohne dass dies eine weltweite Panik auslöst .
+Sie sollten sinnvolle Abwicklungspläne ( sogenannte „ Living Wills “ ) erstellen , um zu zeigen , wie dies möglich ist ; tatsächlich werden derartige Pläne in den USA durch die – nach wie vor nicht umgesetzten – Dodd-Frank-Finanzreformen des Jahres 2010 vorgeschrieben .
+Doch es gibt einen sehr viel einfacheren Schritt , durch den sich eine Menge bewirken ließe : Ein leitender politischer Entscheidungsträger – etwa ein Mitglied des Direktoriums der US Federal Reserve oder der Präsident der Notenbank des Staates New York – sollte eine Rede halten , in der eindeutig erklärt wird , was Bankkapital ist ( und was nicht ) .
+Journalisten , die die terminologischen Leitlinien aus dieser Rede ignorieren , würden ( privat ) von der Fed angerufen .
+Die Fed verwendet beträchtliche Mühen darauf , sicherzustellen , dass die Öffentlichkeit ihre Geldpolitik versteht ; ihre Vertreter sollte ähnliche Mühe darauf verwenden , ihre Regulierungspolitik präzise zu kommunizieren .
+Und Hoenigs Index sollte von einer wichtigen Organisation wie dem IWF aufgegriffen und veröffentlicht werden .
+Wir brauchen nicht nur einen präziseren Sprachgebrauch , sondern auch eine zeitnahe und genaue Messung der Eigenkapitalniveaus der Banken .

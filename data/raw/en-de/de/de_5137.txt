@@ -1,0 +1,47 @@
+Der ultimative Computer
+Der PC auf meinem Schreibtisch ist hundert Mal schneller und hat tausend Mal mehr Speicherkapazität als der Rechner , der zu meiner Studienzeit für die ganze Univerität , an der ich studierte , zur Verfügung stand .
+Man erwartet , daß der Fortschritt bei Computern hinsichtlich der Arbeitsgeschwindigkeit und Speicherkapazität immer so weiter geht , bis Naturgesetze für eine gewisse Schranke sorgen .
+Schließlich können wir Atome nicht verkleinern und die Lichtgeschwindigkeit nicht steigern .
+Nun stellen Sie sich bitte eine Computertechnologie vor , die sich diesen Grenzen nähert !
+Stellen Sie sich des weiteren vor , daß an Stelle eines jeden Sterns aller Galaxien des wahrnehmbaren Universums ein Computer dieses bestmöglichen Typs treten würde .
+Dann ergäbe das eine Menge sehr schneller Computer .
+Wenn man sie nun zu einem Netzwerk zusammenschließen würde , könnten wir sie uns als einen einzigen , gewaltigen Parallelcomputer denken . Nennen Sie ihn nun das " Computeruniversum " !
+Zugegebenermaßen gibt es Aufgaben - Textverarbeitung , zum Beispiel - für die sich ein solcher imaginärer Rechner kaum nützlicher erweisen würde als jeder einzelne Computer dieses Netzwerkes , wenn er unabhängig von den anderen betrieben würde .
+Aber für umfangreiche Aufgaben wie eine ständig sich wiederholende Trial and Error Suche , um zum Beispiel einen Kode zu brechen , würde die Geschwindigkeit und Schlagkraft dieses integrierten " Computeruniversums " alles , was wir uns je zu bauen erträumen konnten , bei weitem übertreffen - oder etwa nicht ?
+Halten Sie diesen Gedanken fest !
+Die Quantenmechanik - diejenige Disziplin der Physik , die sich mit Elementarteilchen und den Eigenschaften der Materie im unendlich Kleinen befasst , - hat uns einige der tiefsten Einsichten in die Natur verschafft . Sie beschreibt einige erschreckend unanschauliche Phänomene .
+Sie setzt zum Beispiel voraus , dass sich Elementarteilchen , statt sich zu einem bestimmten Zeitpunkt an einer bestimmten Stelle aufzuhalten , gleichzeitig auf verschiedenen Flugbahnen bewegen .
+Niemand stellt in Frage , dass Quantenphänomene , wenn man sie technisch nutzbar machen könnte , die Informationsverarbeitung revolutionieren würden . Sie würden Möglichkeiten der Datenverarbeitung erlauben , die keiner bisher vorhandenen Rechner , nicht einmal dem Prinzip nach , je erreichen könnte .
+Zu den Aufgaben , zu denen Quantencomputerprozesse sich ideal eignen würden , gehört " die Suche in Bahnen bestimmter Algorithmen " .
+Einfach ausgedrückt bedeutet solches Suchen nach Algorithmen das , was Computerprogrammierern als letzte Zuflucht bleibt , wenn sie eine mathematische Nadel in einem Heuhaufen suchen : Sie lassen dann den Rechner der Reihe nach jede nur mögliche Antwort durchspielen , bis er die richtige findet .
+Offensichtlich stehen die für eine solche Suche benötigten Hilfsmittel in einem direkten Verhältnis zur Anzahl aller möglichen Antworten : Der gesunde Menschenverstand sagt uns , dass beim Durchprobieren von eintausend Möglichkeiten ebenso viele Operationen mehr erforderlich sind , als beim Austesten nur einer einzigen Möglichkeit .
+Eine Million Möglichkeiten durchzuprobieren benötigt demnach eine Million Mal so viele Operationen wie nur ein Versuch .
+Aber in der Grundlagenphysik gilt unser gesunder Menschenverstand nicht .
+1996 entdeckte der Computerwissenschaftler Lov Grover einen Quantenalgorithmus - eine Methode einen sogenannten Quantenrechner zu programmieren . Darnach ließen sich eine Million Möglichkeiten in nur eintausend Mal der Zeit durchtesten , die man benötigt , um einen einzigen Testversuch durchzuführen , und eine Billion Versuche in nur einer Million Mal der Zeit , die man für einen Versuch braucht - und in diesem Sinne weiter , ohne je an Grenzen zu stoßen .
+Was geschieht in einem Quantenrechner , wenn er eine Suche nach einem bestimmten Algorithmus durchführt ?
+Die unerhörte Wahrheit ist , dass die meisten Physiker diese Frage verblüfft und in Verlegenheit bringt .
+Viele umgehen eine Erklärung der Quantenphänomene mit ein paar wegwerfenden Redensarten , oder - noch schlechter - sie verweigern überhaupt jede Erklärung .
+Zugegeben , Quantenphänomene lassen sich nicht direkt beobachten .
+Aber wir können auf ihre Existenz und auf gewisse Merkmale schließen , indem wir ihre Wirkungen auf Dinge messen , die unmittelbar wahrnehmbar sind . Wir haben ja auch niemals lebendige Dinosaurier beobachtet , aber wir wissen , dass sie existierten - und recht viel darüber , wie sie gelebt haben - und zwar nur aufgrund fossiler Funde .
+Eine wachsende Minderheit an Physikern - ich zähle mich dazu - akzeptieren die Interpretation mit Hilfe , ,vieler Universen " , welche die Quantenmechanik vorgibt .
+Wir folgern daraus , dass das , was wir als ein einzelnes Teilchen beobachten , in Wirklichkeit nur eines von unzählig vielen ähnlichen Wesenheiten in unterschiedlichen Universen ist . Diese beeinflussen einander durch subtile Vorgänge , die man " Quanten-Intervention " nennt .
+Für uns gibt es in der Quantenberechnung keine Geheimnisse , sondern nur Wunder .
+Quanten-Datenverarbeitung ist dieser Ansicht nach dann möglich , wenn ein Quantenrechner eine gewaltige Anzahlen getrennter Berechnungen in unterschiedlichen Universen ausführt und dann die Ergebnisse durch Quantenintervention zusammenbringt .
+Die Gleichungen der Quantentheorie beschreiben dieses Phänomen Schritt für Schritt .
+Aber , weil der Informationsaustausch nur durch Quantenintervention möglich ist , beschränken eben diese Gleichungen wiederum die Arten von Aufgabe drastisch , die mittels Quantenberechnung ausgeführt oder beschleunigt werden können .
+Denn unmittelbare Kommunikation zwischen den Universen ist hierbei zum Beispiel ausgeschlossen .
+In der Tat kennt man zur Zeit nur eine Handvoll möglicher und brauchbarer Quantenalgorithmen .
+Grovers Algorithmus ist einer davon .
+Andere bekannte Quantenalgorithmen dürften mit Leichtigkeit die am weitesten verbreiteten kryptographischen Sicherheitssysteme von heute knacken können .
+Zufälligerweise sind kryptographische Systeme , die sich selbst schon der Quantenberechnung bedienen , in Labors schon gebräuchlich . Sie künden eine Entwicklung der Kommunikation an , die sowohl unanfechtbar sicher ist - sogar gegen Quantenangriffe -und die dann noch gegen künftige Fortschritte in Mathematik oder Technologie gefeit ist .
+Quantenkryptographie lässt sich relativ leicht einführen .
+Leider haben wir keine Rechner , die leistungsfähig genug wären , um darauf beliebige andere brauchbare Quantenalgorithmen laufen zu lassen . Leistungsfähige Quantenrechner zu bauen , ist eine der größeren , wissenschaftlichen und technologischen Herausforderungen der kommenden Jahrzehnte .
+Doch wissen die Experten der theoretischen Physik bereits , wie viele unterschiedliche Arten von Komponenten erforderlich sind , um einen Quantenrechner zu bauen , und wie kompliziert diese Bestandteile jeweils sein müssen .
+Die erstaunliche Antwort ist , dass dafür im Grunde jede Wechselwirkung zwischen zwei Informationsträgern , dazu gehören auch Atome oder Elementarteilchen , infrage kommen kann .
+Wie der Physiker Seth Lloyd einmal bemerkte , wird " fast alles zu einem Computer , wenn man die richtige Art von Licht darauf richtet . "
+Lang Zeit hatte man angenommen , dass eine einzige Art von Maschine , wenn man ihr nur genügend Zeit und Speicherkapazität lässt , das Verhalten eines jeden beliebigen Stücks Materie simulieren könnte .
+Es stellt sich aber heraus , dass vorhandene Computer - auch nicht unser imaginäres " Computeruniversum " - dazu nicht in der Lage wären .
+Aber ein Universalquantenrechner schaffte das .
+In der Quantenphysik gehört diese " rechnerbezogene Universalität " zum Wesen aller Materie - und damit auch zur Verstehbarkeit der Natur .
+Keine andere Disziplin der Physik umfasst ein derart weitreichendes Wechselspiel zwischen Theorie , Experiment , Technologie und Philosophie .
+Kein anderes Feld wissenschaftlicher Forschung hält für uns mehr vielversprechende Verknüpfungsmöglichkeiten zum Verständnis des Universums bereit .

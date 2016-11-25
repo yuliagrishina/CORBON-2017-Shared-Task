@@ -1,0 +1,47 @@
+Wie man gute Banken rettet und schlechte scheitern lässt
+LOS ANGELES – Wie sollte auf das umfassende systemische Versagen des Finanzsystems eines Landes reagiert werden ?
+Niemand will Banken retten , die schlechte Entscheidungen getroffen haben .
+Doch um das Finanzsystem vor dem Zusammenbruch zu retten , muss verhindert werden , dass alle Banken gleichzeitig in Konkurs gehen .
+Wir brauchen eine Möglichkeit , um gute Banken zu retten , schlechte Banken aber scheitern zu lassen .
+Doch wie können wir gute Banken von schlechten unterscheiden ?
+Wenn die Märkte in Panik geraten , wie 1929 und 2008 , ist es unverzichtbar , das Finanzsystem zu stützen .
+Die Alternative wäre eine Depression im Stil der 1930er Jahre .
+Doch bedeutet das nicht , dass wir einzelne Banken retten sollten .
+Die jüngere Wirtschaftsgeschichte ist voll von Beispielen für Finanzkrisen : die Vereinigten Staaten in den späten 80er Jahren ;
+Schweden , Finnland und Norwegen 1992 ;
+Japan 1998 ; der Großteil der Weltwirtschaft 2008 .
+Daraus , wie diese Krisen gehandhabt wurden , lassen sich wichtige Lehren ziehen .
+1992 ließ Schwedens Zentralbank , die Riksbank , private Bankaktieninhaber untergehen , rettete jedoch Kontoinhaber und Kreditgeber , indem sie riskante Vermögenswerte kränkelnder Banken aufkaufte .
+Schweden erholte sich .
+Japan sanierte seine Banken 1998 , ließ die Aktionäre jedoch nicht baden gehen .
+Da insolvente Banken mit staatlichen Rettungsaktionen und Garantien am Leben erhalten wurden , gab Japan seinen Finanzinstituten die falschen Anreize .
+Infolgedessen hat sich Japan nie vollkommen von seiner Rezession erholt .
+Wir lernen also , dass wir manchmal zulassen müssen , dass Aktionäre Geld verlieren , um ein gesundes Finanzsystem zu erhalten .
+Eine wichtige Rolle der Zentralbanken ist es , potenziell insolventen Banken in Zeiten der Panik , wenn alle anderen Kapitalquellen austrocknen , liquide Mittel zukommen zu lassen .
+Die Zentralbank ist der „ Lender of last resort “ – der Kreditgeber der letzten Instanz .
+Doch wenn die Banker wissen , dass sie in schlechten Zeiten gerettet werden , ist dies für sie ein Anreiz , riskante Kredite zu vergeben .
+Diese Kredite ermöglichen den Banken hohe Umsätze , wenn es der Wirtschaft gut geht , sie sind aber durch staatliche Rettungspakete vor Verlusten geschützt , wenn die Wirtschaft schwächelt .
+Im Jahr 2007 erwirtschafteten Lehman Brothers , AIG und die meisten anderen Player auf den Finanzmärkten gewaltige Umsätze , indem sie mit Derivaten handelten , die mit äußerst riskanten Hypotheken besichert waren .
+Als die US-Immobilienpreise fielen , hätten einige dieser Player in Konkurs gehen sollen .
+Doch als die Federal Reserve im September 2008 zuließ , dass Lehman Brothers bankrott gingen , brach weithin Panik aus , was dazu führte , dass die Fed einschritt , um den Zusammenbruch aller anderen großen Player zu verhindern .
+Wie hätte man die Situation anders handhaben können ?
+Wie Simon Johnson in seinem Buch 13 Bankers vorschlägt , sollten wir die Megabanken in kleinere Einheiten unterteilen , die man problemlos in Konkurs gehen lassen kann .
+Doch reicht es nicht aus , viele kleine Banken zu haben .
+Wir müssen auch eine Möglichkeit finden , das System als Ganzes zu stützen .
+Ich schlage eine neue politische Lösung vor , die das Gesamtsystem absichern würde , aber nicht die einzelnen Teile .
+Die Zentralbanken sollten den Wert des Bankensystems eines Landes abstützen , indem sie sich verpflichten , Anteile an einem Indexfonds mit Bankaktien zu einem vorher festgesetzten Preis zu erwerben .
+Die Preisbindung würde wirksam , wenn eine Finanzpanik aufkommt .
+Indem die Zentralbank garantiert , Anteile an einem offenen Investmentfonds zu kaufen , bietet sie privaten Investoren einen Anreiz , Geld in die stärkeren Teile des Bankensystems zu leiten , während sie gleichzeitig zulässt , dass die schwächeren Teile pleite gehen .
+Der Indexfonds würde den Fonds ähneln , in die viele Arbeitnehmer heute als private Altersvorsorge investieren .
+Einzelne Banken würden an Bedeutung gewinnen oder verlieren – je nach ihrem Wert im Verhältnis zum Marktindex aller Banken im Fonds .
+Durch ihr Angebot , Anteile am offenen Investmentfonds zu einem festgesetzten Mindestpreis zu kaufen , böte die Zentralbank eine Möglichkeit , in Krisenzeiten Geld in das Finanzsystem zu pumpen .
+Obwohl dieser Plan den Wert des Finanzsystems insgesamt stützen würde , könnten die Marktkräfte weiterhin die relativen Aktienpreise einzelner Banken bestimmen .
+Hätte diese Struktur 2008 in den USA bestanden , als die Immobilienpreise einbrachen , so hätten Banken mit großen Portfolios voll ertragsschwacher fauler Vermögenswerte angefangen , den Wert des Indexfonds nach unten zu ziehen .
+Doch hätten diese Banken im Gesamtindex auch an Bedeutung verloren .
+Die Verpflichtung der Fed , Anteile am offenen Investmentfonds zu einem festgelegten Preis zu erwerben , hätte die Investoren dazu veranlasst , frisches Kapital in die stärkeren Banken zu stecken , um die Preisstützung der Notenbank auszunutzen .
+Dieses Verfahren zur Sanierung von Banken hat drei Vorteile gegenüber anderen Methoden , die von Ökonomen und Politikern vorgeschlagen wurden .
+Erstens müssen nicht die staatlichen Aufsichtsbehörden entscheiden , wie viel einzelne Vermögenswerte wert sind , da die privaten Märkte die faulen Vermögenswerte bewerten .
+Zweitens fällt für Banken der Anreiz weg , schlechte Entscheidungen zu treffen .
+Indem zugelassen wird , dass schlechte Banken bankrott gehen , wird das sogenannte „ Moral-Hazard-Problem “ gelöst – das Problem der überhöhten Risikobereitschaft aufgrund staatlicher Absicherung .
+Und schließlich gibt die Zentralbank , indem sie anbietet , Anteile an einem offenen Investmentfonds mit Bankaktien zu kaufen , privaten Investoren den Anreiz und das Vertrauen dazu , das Bankensystem zu rekapitalisieren .
+Mit diesem Verfahren könnten wir gute Banken retten und schlechte Banken scheitern lassen , ohne dass es den Steuerzahler auch nur einen Cent kostet .

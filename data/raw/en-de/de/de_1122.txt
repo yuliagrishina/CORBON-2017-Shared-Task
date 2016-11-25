@@ -1,0 +1,40 @@
+Cyberkrieg und -frieden
+CAMBRIDGE , MASS . : Vor zwei Jahren wurden das iranische Nuklearprogramm durch fehlerhaften Computercode infiziert und viele der zur Urananreicherung verwendeten Zentrifugen zerstört .
+Einige Beobachter erklärten diese scheinbare Sabotage zum Vorboten einer neuen Form der Kriegsführung , und US-Verteidigungsminister Leon Panetta warnte die Amerikaner vor der Gefahr eines Pearl-Harbor-artigen Cyberangriffs auf die USA .
+Aber was wissen wir wirklich über Cyberkonflikte ?
+Der Cyberbereich der Computer und verbundenen elektronischen Aktivitäten ist ein komplexes , von Menschen geschaffenes Umfeld , und menschliche Feinde sind zielbewusst und intelligent .
+Berge und Ozeane sind schwer zu versetzen , aber Teile des Cyberspace lassen sich an- und ausschalten , einfach indem man einen Schalter umlegt .
+Es ist viel billiger und schneller , Elektronen um den Globus zu schicken , als große Schiffe über lange Entfernungen zu bewegen .
+Die Kosten der Entwicklung derartiger Schiffe – mehrerer Flugzeugträgerverbände und U-Boot-Flotten – erzeugen enorme Eintrittsbarrieren , die die Vorherrschaft der USA auf den Meeren ermöglichen .
+Doch die Eintrittsbarrieren zum Cyberbereich sind so niedrig , dass nichtstaatliche Akteure und Kleinstaaten dort für wenig Geld eine wichtige Rolle spielen können .
+In meinem Buch The Future of Power argumentiere ich , das die Diffusion der Macht weg von den Regierungen eine der großen politischen Veränderungen dieses Jahrhunderts darstellt .
+Der Cyberspace ist ein perfektes Beispiel dafür .
+Große Länder wie die USA , Russland , Großbritannien , Frankreich und China sind eher als andere Staaten und nichtstaatliche Akteure in der Lage , Meer , Luft und Weltraum zu kontrollieren , aber es ergibt wenig Sinn , von einer Dominanz im Cyberspace zu sprechen .
+Wenn überhaupt , schafft die Abhängigkeit von komplexen Cybersystemen zur Unterstützung militärischer und wirtschaftlicher Aktivitäten neue Verletzlichkeiten , die nichtstaatliche Akteure ausnutzen können .
+Vor vier Jahrzehnten schuf das US-Verteidigungsministerium das Internet ; heute sind die USA den meisten Schilderungen nach das führende Land , was die militärische und gesellschaftliche Nutzung des Netzes angeht .
+Aber ihre größere Abhängigkeit von Computer- und Kommunikationsnetzen machen die USA anfälliger für Angriffe als viele andere Länder , und der Cyberspace ist zu einer wichtigen Quelle der Unsicherheit geworden , weil in der heutigen Phase technologischer Entwicklung dort der Angreifer dem Verteidiger überlegen ist .
+Der Begriff „ Cyberangriff “ deckt eine breite Palette von Handlungen ab , die von einfachen elektronischen Sondierungen bis hin zur Verunstaltung von Websites , Dienstblockaden , Spionage und Zerstörung reichen .
+In ähnlicher Weise wird der Begriff „ Cyberkrieg “ lose verwendet , um eine große Bandbreite von Verhaltensweisen abzudecken , und reflektiert Wörterbuchdefinitionen von Krieg , die vom bewaffneten Konflikt bis hin zu allen feindseligen Konflikten reichen ( z.B. dem „ Krieg zwischen den Geschlechtern “ oder dem „ Krieg gegen die Drogen “ ) .
+Am anderen Extrem verwenden einige Experten eine enge Definition des Cyberkriegs : Er sei ein „ unblutiger Krieg “ zwischen Staaten , der ausschließlich aus elektronischen Konflikten im Cyberspace bestehe .
+Aber dies lässt die wichtigen Verbindungen zwischen den physischen und virtuellen Ebenen des Cyberspace außen vor .
+Wie das Stuxnet-Virus , das das iranische Nuklearprogramm infizierte , zeigt , können Software-Angriffe sehr reale physische Auswirkungen haben .
+Eine nützlichere Definition von Cyberkrieg ist eine feindliche Handlung im Cyberspace , deren Auswirkungen denen einer erheblichen physischen Gewalttat gleichkommen oder diese verstärken .
+In der physischen Welt haben Regierungen ein Quasimonopol auf den großflächigen Einsatz von Gewalt , der Verteidiger verfügt über eine genaue Kenntnis des Terrains , und Angriffe enden aufgrund von Zermürbung oder Erschöpfung .
+Sowohl Ressourcen als auch Mobilität sind teuer .
+In der Cyberwelt dagegen sind die Akteure vielfältig ( und manchmal anonym ) , die physische Entfernung ist nicht von Belang , und einige Formen der Offensive sind billig .
+Weil das Internet auf Benutzerfreundlichkeit statt auf Sicherheit ausgelegt wurde , sind Angreifer derzeit gegenüber Verteidigern im Vorteil .
+Die technologische Entwicklung , einschließlich von Bemühungen zum „ Re-Engineering “ bestimmter Systeme zur Erhöhung der Sicherheit , mag dies irgendwann ändern , aber für den Augenblick bleibt es so .
+Die größere Partei hat beschränkte Möglichkeiten , den Feind zu entwaffnen oder zu vernichten , Gebiete zu besetzen oder effektive Gegenstrategien umzusetzen .
+Der Cyberkrieg ist , auch wenn er derzeit erst in den Kinderschuhen steckt , die dramatischste aller potenziellen Bedrohungen .
+Große Staaten mit hoch entwickelten technischen und menschlichen Ressourcen könnten im Prinzip durch Cyberangriffe auf militärische und zivile Ziele enorme Störungen und physische Zerstörungen anrichten .
+Antworten auf den Cyberkrieg umfassen eine Form zwischenstaatlicher Abschreckung durch Blockaden und Verflechtungen , offensive Kapazitäten und Konzepte zur schnellen Wiederherstellung von Netzwerken und Infrastruktur , falls es mit der Abschreckung nicht klappt .
+Irgendwann könnte es möglich werden , diese Schritte durch bestimmte rudimentäre Normen und Rüstungskontrollmaßnahmen zu verstärken , aber derzeit steht die Welt noch am Anfang dieses Prozesses .
+Betrachtet man den sogenannten „ Hacktivismus “ durch ideologisch motivierte Gruppen in dieser Phase primär als störendes Ärgernis , bleiben vier wichtige Kategorien von Cyberbedrohungen für die nationale Sicherheit mit jeweils unterschiedlichem Zeithorizont : Cyberkrieg und Wirtschaftsspionage sind überwiegend mit Staaten verknüpft , und Cyberverbrechen und Cyberterrorismus mit nichtstaatlichen Akteuren .
+Für die USA gehen die größten Kosten derzeit von Spionage und Verbrechen aus , doch im Verlaufe des nächsten Jahrzehnts oder so könnten Krieg und Terrorismus zu größeren Bedrohungen werden , als sie es heute sind .
+Zudem könnten sich angesichts sich fortentwickelnder Bündnisse und Taktiken diese Kategorien zunehmend überschneiden .
+Admiral Mike McConnell , Director of National Intelligence a.D. der USA , ist der Ansicht , dass „ terroristische Gruppen früher oder später einen hohen Kenntnisstand im Cyberbereich erreichen werden .
+Es ist wie mit der nuklearen Verbreitung , bloß viel einfacher . “
+Die Welt ist gerade erst dabei , erste flüchtige Blicke auf den Cyberkrieg zu erhaschen – z.B. mit den Dienstblockaden , die mit dem konventionellen Krieg in Georgien 2008 einhergingen , oder der jüngsten Sabotage der iranischen Zentrifugen .
+Staaten verfügen dabei über die größten Fähigkeiten , aber katastrophale Anschläge dürften eher von nichtstaatlichen Akteuren ausgehen .
+Ein „ 11. September in Cybermanier “ dürfte wahrscheinlicher sein als der viel beschworene Cyber-Überraschungsangriff in der Tradition von Pearl Harbor .
+Es ist Zeit , dass sich die Staaten dieser Welt zusammensetzen und diskutieren , wie man dieser Gefahr für den Weltfrieden begegnen kann .

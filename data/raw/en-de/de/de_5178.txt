@@ -1,0 +1,58 @@
+Die virtuelle Imagination
+MAILAND : Werden Bücher durch die Macht der Computer und des Internets in grenzenlose „ hypertextuelle Strukturen “ verwandelt , bei denen der Leser zugleich die Funktion des Autors übernimmt ?
+Gegenwärtig existieren zwei Arten von Büchern : einerseits Bücher , die durchgelesen werden , und andererseits Bücher , die man konsultiert .
+Bei durchzulesenden Bücher beginnen man auf Seite 1 , wo der Autor beispielsweise erzählt , dass ein Verbrechen begangen worden ist .
+Man folgt dem Verlauf bis zum Ende und entdeckt schließlich , wer der Schuldige ist .
+Ende des Buchs - Ende der Lese-Erfahrung .
+Dasselbe geschieht selbst dann , wenn man ein Werk der Philosophie – vielleicht von Husserl – liest .
+Der Autor beginnt auf der ersten Seite und folgt dann einer Reihe von Fragen , um Ihnen zu zeigen , wie er zu seinen Schlussfolgerungen kommt .
+Enzyklopädien sind selbstverständlich niemals dazu bestimmt , von Anfang bis Ende durchgelesen zu werden .
+Wenn ich wissen möchte , ob es möglich ist , dass Napoleon einmal Kant getroffen hat , nehme ich die Bände K und N zur Hand und entdecke , dass Napoleon 1769 geboren und 1821 gestorben ist ; Kant wurde 1724 geboren und starb 1804 .
+Es ist also möglich , dass sie sich getroffen haben .
+Um es ganz genau zu erfahren , schlage ich in einer Biografie von Kant nach .
+Eine Biografie von Napoleon , der mit zahlreichen Menschen zusammengetroffen ist , könnte ein Treffen mit Kant unter Umständen unberücksichtigt lassen ; eine Biografie von Kant dagegen nicht .
+Computer fangen an , den Leseprozess zu verändern .
+Mit Hilfe eines Hypertextes kann ich zum Beispiel nach allen Fällen forschen , in denen der Name Napoleons mit dem Namen Kants verknüpft ist .
+Ich kann meine Arbeit in wenigen Sekunden erledigen .
+Durch Hypertexts erweisen sich gedruckte Enzyklopädien als obsolet .
+Doch obwohl Computer eine neue Form der Kenntnis des Lesens und des Schreibens verbreiten , sind sie nicht in der Lage , alle intellektuellen Bedürfnisse zu befriedigen , die sie stimulieren .
+Zwei Erfindungen , deren kommerzielle Verwertung kurz bevorsteht , könnten dazu beitragen , dass Computer beginnen , diese Bedürfnisse zu befriedigen .
+Die erste ist ein Kopiergerät , mit dessen Hilfe man Bibliothekskataloge sowie Bücher von Verlagshäusern durchsuchen kann .
+Sie wählen das Buch aus , das Sie benötigen , drücken eine Taste , und schon druckt und bindet das Gerät Ihre Kopie .
+Dies wird das gesamte Verlagswesen verändern ; es wird möglicherweise Buchhandlungen eliminieren , aber auf keinen Fall die Bücher .
+Bücher werden auf die Wünsche der Käufer zugeschnitten werden , wie das bereits bei alten Manuskripten geschah .
+Die zweite Erfindung ist das E-Book : durch das Einlegen einer Mikrokassette in den Rücken des E-Books oder durch die Herstellung einer Verbindung zum Internet erhalten Sie Ihr Buch .
+Doch dieses Buch unterscheidet sich von herkömmlichen Büchern wie der erste Shakespeare-Foliant aus dem Jahr 1623 von der aktuellsten Taschenbuchausgabe .
+Einige Leute , die von sich behaupten , niemals ein Buch zu lesen , lesen in einem E-Book vielleicht auf einmal Kafka .
+Ob auf Papier oder auf einer elektronischen Seite : für die Leser bleibt Kafka gleich – es sei denn , man berücksichtigt auch die Meinung von Augenärzten .
+Bücher werden schon allein wegen ihres Gebrauchswertes überleben ; der schöpferische Prozess jedoch , in dem sie entstehen , unter Umständen nicht .
+Um zu verstehen , warum dies so ist , müssen wir zwischen Text und System einen Unterschied machen .
+Ein System sind alle Möglichkeiten , die durch eine gegebene natürliche Sprache angezeigt werden .
+Eine begrenzte Menge grammatikalischer Regeln ermöglicht es Ihnen , eine unbegrenzte Anzahl von Sätzen zu produzieren , und jeder sprachwissenschaftliche Gegenstand kann in Begriffen eines anderen sprachwissenschaftlichen Gegenstandes , ein Wort durch eine Definition , ein Ereignis durch ein Beispiel interpretiert werden , und so weiter .
+Ein Text allerdings reduziert die unbegrenzten Möglichkeiten eines Systems , um ein geschlossenes Universum zu formen .
+Nehmen Sie das Märchen von Rotkäppchen .
+Der Text beginnt mit einer vorgegebenen Anzahl von Charakteren und Situationen ( ein kleines Mädchen , eine Mutter , eine Großmutter , ein Wolf , ein Wald ) und kommt durch eine Reihe von Schritten zu einer Lösung .
+Sie können das Märchen als Allegorie lesen und den Ereignissen und Charakteren verschiedene Moralvorstellungen zuschreiben , Sie können Rotkäppchen jedoch nicht in Aschenputtel verwandeln .
+Viele Internetprogramme suggerieren hingegen , dass eine Geschichte mittels aufeinander folgender Beiträge bereichert wird .
+Nehmen Sie nochmals Rotkäppchen als Beispiel .
+Der erste Autor schlägt eine Anfangssituation vor ( das Mädchen geht in den Wald ) und verschiedene Mitarbeiter entwickeln eine Geschichte – das Mädchen trifft nicht mehr den Wolf , sondern statt dessen Pinocchio .
+Beide betreten ein verzaubertes Schloss , sie könnten einem Zauberkrokodil begegnen , und so weiter .
+Der Gedanke der Urheberschaft wird in Zweifel gezogen .
+Dies ist in der Vergangenheit einige Male geschehen , ohne dass die Urheberschaft beeinträchtigt worden wäre .
+Bei der Commedia dell ’ arte war jede Vorstellung anders und wir können kein einziges Werk einem einzelnen Autor zuordnen .
+Ein weiteres Beispiel ist eine Jam Session beim Jazz .
+Weil eine Aufnahme überlebt hat , sind wir versucht zu glauben , dass es eine privilegierte Aufführung von „ Basin Street Blues “ gibt .
+Aber es gab so viele Basin Street Blues , wie es Aufführungen gab .
+Es existiert indes ein Unterschied zwischen unendlichen , unbegrenzten Texten und Texten , die auf unendliche Arten interpretiert werden können , die allerdings trotzdem physisch begrenzt bleiben .
+Nehmen Sie Tolstois „ Krieg und Frieden “ : Sie wünschen sich , dass Natascha Kurjagin verschmäht ; Sie wünschen sich , dass Prinz Andrzej weiterlebt , damit Natascha und er zusammensein können .
+Wandeln Sie „ Krieg und Frieden “ in einen Hypertext um , und schon können Sie die Geschichte neu schreiben : Pierre tötet Napoleon oder Napoleon besiegt General Kutusov .
+Welch eine Freiheit !
+Jeder ist ein Tolstoi !
+In den „ Elenden “ liefert uns Victor Hugo eine herrliche Beschreibung von Waterloo .
+Hugo weiß nicht nur , was geschehen ist , sondern auch , was geschehen hätte können und was nicht geschehen ist .
+Mit einem Hypertext-Programm könnten Sie Waterloo so umschreiben , dass Napoleon gewinnt , doch die tragische Schönheit des von Hugo geschilderten Waterloos ist gerade , dass die Ereignisse unabhängig vom Wunsch des Lesers stattfinden .
+Der Reiz der tragischen Literatur besteht darin , dass wir fühlen , dass die Helden ihrem Schicksal vielleicht hätten entgehen können , aber aus Schwäche oder Stolz oder Blindheit taten sie es nicht .
+Hugo erzählt uns übrigens „ Solch ein Untergang , der die gesamte Geschichte erstaunt hat : Ist dies etwas ohne Ursache ? Nein ...
+Jemand , dem niemand widersprechen kann , hat sich dieses Ereignisses angenommen – Gott ist dort vorbeigekommen . “ Das ist es , was uns jedes große Buch erzählt : dass Gott vorbeigekommen ist .
+Es gibt Bücher , die wir nicht umschreiben können , da ihr Zweck darin liegt , uns Unumgänglichkeiten zu lehren . Und nur wenn diese Bücher so , wie sie sind , respektiert werden , können sie uns eine solche Weisheit spenden .
+Ihre repressive Lehre ist für das Erreichen eines höheren Zustandes intellektueller und moralischer Freiheit unentbehrlich .

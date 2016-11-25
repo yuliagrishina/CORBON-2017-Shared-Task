@@ -1,0 +1,31 @@
+Wie soll man Banker bezahlen ?
+CAMBRIDGE , MASS . : Der Rat der US-Zentralbank hat kürzlich Richtlinien verabschiedet , gemäß welchen die Bankaufsicht als Wächter der Sicherheit und Solidität des Finanzsystems die Vergütungsstrukturen der Führungskräfte der Banken überprüfen soll .
+Andernorts prüfen die Behörden die Verabschiedung ähnlicher Programme .
+Doch was für Strukturen sollten die Aufsichtsbehörden anstreben ?
+Es wird inzwischen weithin anerkannt , dass es wichtig ist , die Banker für langfristige Ergebnisse zu belohnen .
+Belohnt man sie für kurzfristige Ergebnisse – selbst wenn diese später wieder revidiert werden – , schafft dies Anreize , übermäßige Risiken einzugehen .
+Doch bietet die Knüpfung der Vergütung von Führungskräften an langfristige Ergebnisse keine völlig befriedigende Antwort auf die Herausforderungen , vor denen Unternehmen und Aufsichtsbehörden stehen .
+Es bleibt die Frage : langfristige Ergebnisse für wen ?
+Eigenkapitalbasierte Prämien knüpfen die Vergütung der Führungskräfte – im Verbund mit der durch einen hohen Fremdkapitalanteil geprägten Kapitalstruktur der Banken – an eine schuldenfinanzierte Wette auf den Wert der Banktitel .
+Wie Holger Spamann und ich in unserer Untersuchung gezeigt haben , sollten Zahlungen an Führungskräfte an den langfristigen Wert geknüpft sein , den sie nicht nur für die Aktionäre , sondern auch für die anderen Kapitaleinleger der Banken erzielen .
+Beim gegenwärtigen Stand der Dinge können Führungskräfte erwarten , an allen Gewinnen teilzuhaben , die den Stammaktionären zufließen ; gegen die Folgen von durch ihre Entscheidungen bedingten Verluste der Vorzugsaktionäre und Anleiheschuldner , Kapitaleinleger oder der Regierung ( als Bürge der Einlagen ) jedoch sind sie abgeschottet .
+Eine solche Abschottung der Führungskräfte gegenüber Verlusten , die anderen Stakeholdern als den Aktionären entstehen , dürfte zu Investments und der Übernahme von Verbindlichkeiten ermutigen , die Wahrscheinlichkeit und Ausmaß das Kapital der Aktionäre übersteigender Verlusten erhöhen .
+Darüber hinaus schreckt eine derartige Abschottung davor ab , zusätzliches Kapital aufzubringen , und verleitet Führungskräfte dazu , Banken mit einer Kapitalausstattung zu betreiben , die für Anleihegläubiger und Einleger eine unzureichende Abfederung darstellt .
+Je dünner die Kapitalausstattung der Banken , desto schwerwiegender die Verzerrungen – und desto größer die zu erwartenden Kosten , die sich aus der Abschottung der Führungskräfte gegenüber potenziellen Verlusten jener Stakeholder , die keine Aktionäre sind , ergeben .
+Wie könnte man die Vergütungsregeln umgestalten , um diesen Problemen zu begegnen ?
+Soweit die Vergütung von Führungskräften an die Wertentwicklung vorgegebener Wertpapiere geknüpft ist , sollte man sie an einen breiten Korb von Papieren binden , nicht nur an Stammaktien .
+Statt also die Vergütung der Führungskräfte an einen vorgegebenen Prozentsatz des Wertes der Stammaktien der Bank zu binden , sollte man sie an einen vorgegebenen Anteil des Gesamtwertes der Stamm- und Vorzugsaktien der Bank und aller ausstehenden von der Bank ausgegebenen Anleihen knüpfen .
+Da eine derartige Vergütungsstruktur die Führungskräfte einem breiteren Anteil der negativen Auswirkungen von Risikoübernahmen aussetzen würde , würde sie die Anreize für sie , übermäßige Risiken einzugehen , verringern .
+Doch obwohl eine derartige Vergütungsstruktur dazu führen würde , dass Führungskräfte die Interessen der Vorzugsaktionäre und Anleihegläubiger verinnerlichen , und damit die Anreize verbessern würde , wäre sie nicht ausreichend , damit Führungskräfte auch die Interessen der Regierung als Bürge für die Bankeinlagen vollständig verinnerlichen .
+Hierfür könnte man die Zahlungen an Führungskräfte von den Veränderungen im Wert der Credit Default Swaps der Bank abhängig machen , die die Wahrscheinlichkeit , dass die Bank nicht über ausreichend Kapital zur Erfüllung ihrer Zahlungsverpflichtungen verfügt , widerspiegeln .
+Darüber hinaus sollten die Bonusvergütungen neu konzipiert werden .
+In der Vergangenheit basierten Boni häufig auf Bilanzkennzahlen , die in erster Linie für die Stammaktionäre von Interesse waren , wie etwa Eigenkapitalrendite oder Ertrag pro Stammaktie .
+In Zukunft sollten die Banken in Erwägung ziehen , die Bonusvergütung auf breiter angelegte Kennzahlen zu stützen , wie den Ertrag vor Ausschüttungen an Anleihegläubiger .
+Das Anerkenntnis des Nutzens , die Zahlungen an Führungskräfte an die Auswirkungen ihrer Entscheidungen auf die Nichtaktionäre zu knüpfen , macht die wichtige Rolle der Bankenaufsicht in diesem Bereich deutlich .
+Für die Stammaktionäre besteht normalerweise kein Anreiz dazu , die Führungskräfte zu ermutigen , die Verluste , die übernommene Risiken für Vorzugsaktionäre , Anleihegläubiger , Einleger und Steuerzahler zur Folge haben können , zu berücksichtigen .
+Entsprechend kann man sich nicht darauf verlassen , dass bei Governance-Verbesserungen , die dazu führen , dass Direktoren die Interessen der Aktionäre stärker im Blick haben , Zahlungen an Führungskräfte an die Interessen von Aktionären und Nichtaktionären gleichermaßen geknüpft werden .
+Eine Ermutigung durch die Aufsichtsbehörden könnte hier hilfreich , wenn nicht gar zwingend erforderlich sein .
+Führungskräfte dazu zu bekommen , dass sie die erwarteten Verluste , die ihre Entscheidungen anderen Kapitaleinlegern als Aktionären aufbürden könnten , uneingeschränkt verinnerlichen , ist komplex .
+Doch wenn wir uns in diese Richtung bewegten – selbst in nur unvollkommener Weise – , wäre dies ein echter Fortschritt .
+Die Führungskräfte im Finanzsektor dazu zu bewegen , sich auf die Auswirkungen ihrer Entscheidungen auf alle Kapitaleinleger der Bank zu konzentrieren , würde ihre Anreize zur Risikoübernahme wesentlich verbessern .
+Und es würde dazu beitragen , unsere Finanzsysteme sicherer zu machen .

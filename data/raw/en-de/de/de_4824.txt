@@ -1,0 +1,37 @@
+Das Betriebssystem , das Weihnachten gestohlen hat
+Bevor Sie sich zu den Festtagen einen neuen Windows-PC wünschen , denken Sie an das alte Sprichwort : „ Sei vorsichtig , was du dir wünschst . “
+Idealerweise würden wir alle von den so genannten „ Netzwerkeffekten “ profitieren , die sich daraus ergeben , dass die meisten Menschen dieselbe Software verwenden : Alle könnten auf einfache Weise miteinander kommunizieren und sich gegenseitig beibringen , wie man die Software effizient nutzt .
+Da Microsoft jedoch Netzwerkeffekte dazu benutzt , seine Gewinne zu maximieren , anstatt auf den Vorteil der Anwender zu achten , ist dieser Idealzustand leider weit entfernt .
+Nehmen wir Vista , ein weiteres „ tolles “ , neues Betriebssystem , das Microsoft in diesem Jahr zusammen mit Office 2007 auf den Markt gebracht hat .
+Die erste Person in meinem Unternehmen , die Vista verwendete , war unser geschäftsführender Vizepräsident .
+Er war außer sich vor Wut .
+Vista und Office 2007 waren automatisch auf seinem neuen Dell-Computer installiert .
+Dell hat nicht gefragt : „ Hätten Sie lieber die alten Versionen von MS Office und Betriebssystem , die Sie bereits kennen und verwenden können ? “ Also bekam unser Geschäftsführer einen neuen Computer , den er nicht bedienen konnte : Funktionen waren neu angeordnet und die Tastenkombinationen waren anders .
+Man halte sich die Produktivitätskosten von Millionen wie ihm vor Augen , die sich an ein neues System anpassen müssen .
+Darüber hinaus konnten seine Mitarbeiter die Microsoft Word-Dateien , die er ihnen im neuen DOCX-Format schickte , nicht lesen .
+Sie schrieben zurück und baten ihn , die Dateien noch einmal im älteren DOC-Format zu schicken – was u. U. nicht funktionierte , falls er versehentlich einige der neumodischen Formatierungsfeatures verwendet hatte .
+Zwar bietet Microsoft ein Patch an , mit dem die alten Versionen von Office das neue DOCX-Format lesen können , aber Microsoft macht dies nicht bekannt – und warnt Sie auch nicht , bevor Ihre Office 2007-Datei mit älteren Versionen inkompatibel wird .
+Obwohl Microsoft das traditionelle „ .doc “ als Standardformat für MS Word hätte beibehalten können , hätte dies nicht seinen Zweck erfüllt : Wenn genügend Leute für Office 2007 bezahlt haben , werden am Ende die restlichen unter viel Geschrei und Protest mitgeschleift .
+Vier oder fünf Jahre später quält uns Microsoft dann aufs Neue .
+Selbstverständlich gehört Microsoft seine alte Software , und das Unternehmen kann entscheiden , zu welchem Preis es sie verkauft – oder ob es sie überhaupt verkauft .
+Microsoft kann noch raffinierter vorgehen und die Erwartungen steuern , die sich bei großen Netzwerkwirtschaftssystemen – wie es die Softwaremärkte sind – als selbst bewahrheitend erweisen .
+Wenn alle morgen in der Erwartung aufwachten , dass die Welt innerhalb eines Jahres auf Apple umsteigen würde , so würde der Absatz von Windows schlagartig sinken .
+Warum sollte man einen Windows-Rechner kaufen , wenn alle Kollegen Macintoshs haben und einem mit diesen helfen können , nicht aber mit Windows , und wenn alle unabhängigen Software-Entwickler für das neue Mac-Betriebssystem Leopard programmieren ?
+Doch ist das nicht unsere Welt .
+Immer wenn Microsoft ein neues Betriebssystem herausbringt , ist die Frage nicht , ob Sie sich umstellen sollten , sondern wann .
+Das Hinzufügen neuer Features kann den Übergang beschleunigen , aber notwendig ist nur , dass das neue System in manchen Aspekten inkompatibel mit den alten Systemen ist und dass genug Menschen erwarten , dass es zum neuen Standard wird .
+Selbstverständlich ist es teuer , neue Software zu entwickeln .
+Warum also sollte Microsoft sich die Mühe machen ?
+Der Nobelpreisträger Ronald Coase hat diese Frage vor langer Zeit beantwortet .
+Laut der Coase Conjecture ( Coase-Vermutung ) muss ein Monopolist , der dauerhafte Güter verkauft , diese zum Grenzkostenpreis verkaufen .
+Für Microsoft besteht das Problem darin , dass die Grenzkosten für Software gleich null sind .
+Daher kann Microsoft nicht einmal in die Nähe seiner vollen Monopolgewinne gelangen , wenn es keine Upgrades verkauft .
+Denn obwohl Microsoft ein Monopol auf den primären Verkauf seiner Software besitzt , konkurrieren schließlich die Kopien , die 2007 verkauft wurden , mit denen , die 2006 verkauft wurden .
+Indem Microsoft also Inkompatibilitäten schafft , einige subtil und andere offensichtlich , durch die die alte Software überholt ist , kann das Unternehmen seine Betriebssysteme mit hohen Gewinnspannen verkaufen , ohne zu befürchten , dass die Verbraucher warten , bis der Preis fällt .
+Der Preis wird nie fallen , weil Microsoft einfach ein neues System herausbringen wird – wieder mit hohen Gewinnspannen .
+Microsoft hat seit 15 Jahren Probleme mit dem Kartellamt und trotz der jüngsten Übereinkunft des Unternehmens mit der Europäischen Union , seinen Quellcode zu lizenzieren , wird es wahrscheinlich wieder Schwierigkeiten bekommen .
+Wenn das geschieht , hoffe ich , dass das Kartellamt einen Lösungsvorschlag berücksichtigen wird , den Ian Ayres , Hal Varian und ich ersonnen haben .
+Nehmen wir an , Microsoft müsste seine alte Software lizenzfrei zur Verfügung stellen , wenn es eine neue Version herausbringt .
+Damit hätte das Unternehmen einen Anreiz , sicherzustellen , dass neue Versionen mit den alten Versionen kompatibel und bedeutend besser sind – andernfalls ließen sich die neuen Versionen nicht verkaufen , zumindest nicht so einfach .
+Wenn Microsofts neue Software wenigstens gegen seine alte Software konkurrieren müsste , wüssten wir , dass sich etwas in der Welt verbessert .
+In der Zwischenzeit empfehle ich , das Microsoft-Patch auf Ihrem alten Computer zu installieren ( http : / / office.microsoft.com / de-de / products / HA101686761031.aspx ) und einfach bei dem Übel zu bleiben , das Sie schon kennen .

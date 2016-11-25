@@ -1,0 +1,40 @@
+Herrschen in Zukunft die Programmierer ?
+NEU DELHI – Marc Andreessen verdiente sein Vermögen mit der Entwicklung eines Programms , das als Internet-Browser Netscape Navigator bekannt wurde .
+Mittlerweile ist er als Risikokapitalgeber tätig und predigt über die wachsende Bedeutung von Software im Wirtschaftsleben von heute .
+Tatsächlich behauptet er , dass Software die Welt übernehmen und die primäre Quelle der Wertschöpfung bilden werde . Überdies prognostiziert er eine Spaltung der Weltwirtschaft : auf der einen Seite Menschen , die dem Computer sagen , was zu tun ist und auf der anderen diejenigen , die vom Computer gesagt bekommen , was zu tun ist .
+Andreessens Ziel ist , seine Zuhörerschaft zu schockieren – nicht nur aus Effekthascherei , sondern um sie zu bewegen , etwas zu unternehmen .
+Um eine Teilung der Welt in ein paar Alpha-Programmierer und viele Arbeitsbienen zu verhindern , möchte er , dass die potenziellen Arbeitsbienen keine einfachen Studien auf geisteswissenschaftlichen Fakultäten mehr aufnehmen .
+Stattdessen sollten sie sich auf Lehrgänge in den Bereichen Naturwissenschaften , Technologie , Ingenieurwesen und Mathematik ( STEM ) konzentrieren , wo die guten Jobs zu finden sein werden .
+Aber wird damit das von ihm benannte Problem gelöst ?
+Wahrscheinlich nicht .
+Zwei Merkmale der Software-Produktion ermöglichen es nämlich ein paar talentierten Programmierern , den Markt zu erobern und alle damit verbundenen Gewinne einzustreifen .
+Erstens tendiert etwas bessere Software dazu , einen erheblich größeren Marktanteil zu erlangen . Zweitens ist der verfügbare Markt global , weil es so billig ist , eine zusätzliche Kopie anzufertigen und sie an irgendeinen Ort auf der Welt zu verschicken .
+Aus diesem Grund sichern sich diejenigen den globalen Markt , die kreativ und kompetent genug sind , das Programm für diese etwas bessere Suchmaschine zu schreiben .
+In diesem Alles-oder-nichts-Umfeld wird nur eine geringe Zahl der Informatik-Absolventen die Masse an Renditen einfahren .
+Der Abschluss der richtigen Studiengänge ist keine Garantie dafür , einen Teil des Software-Jackpots abzubekommen .
+Unterschiede im Hinblick auf Glück und Talent unter gleichwertig Ausgebildeten sorgen dafür , dass die Qualität der Produkte von Software-Firmen auf einer Gauß ’ schen Normalverteilung liegen , wobei es nur ein paar wenige Googles und Facebooks , aber dafür viel mehr gelangweilte , schlecht bezahlte Computertechniker gibt , die dem verwirrten Durchschnitts-Anwender helfen , mit Schadsoftware umzugehen .
+Anders gesagt : In einer Alles-oder-Nichts-Welt trägt die Anhebung des durchschnittlichen Qualifikationsprofils oder Ausbildungsniveaus nichts dazu bei , eine schiefe Einkommensverteilung zu ändern .
+Es stillt sich also die Frage , ob sich die Ausweitung der Ungleichheit überhaupt vermeiden lässt .
+Die offenkundige Antwort lautet Ja .
+Die Art und Weise wie eine Gesellschaft reagiert , bestimmt allerdings den Unterschied zwischen einer florierenden und einer durch langsames Wachstum und Ressentiments zerrissenen Welt .
+Letztlich urteilt die Gesellschaft über Eigentumsrechte und in dem Maß , da diese unfair erscheinen , hat die Gesellschaft einen Anreiz , sie zu verändern .
+Betrachtet die Gesellschaft das Vermögen eines Software-Milliardärs als unfair erworbenen Reichtum oder als faire Belohnung seiner Tüchtigkeit ?
+Je höher der Grad an allgemeiner Chancengleichheit hinsichtlich des Zugangs zu Bildung , umso eher tendiert die Gesellschaft dazu , unverhältnismäßig hohe Belohnungen zu akzeptieren . & nbsp ; Schließlich haben alle die gleiche Chance , Sieger zu sein .
+Interessanterweise könnte Software selbst die Kosten eines erweiterten Zugangs zu Bildung senken – man denke an die & nbsp ; von Firmen wie Coursera angebotenen offenen Online-Kurse ( MOOC ) .
+Dennoch ist Chancengleichheit im Hinblick auf den Zugang zu Bildung ein womöglich unwahrscheinliches Ideal .
+Das andere Extrem ist eine starke Ungleichheit , die noch verschärft wird , weil Wohlhabende über mehr Zeit verfügen , ihren Kindern bei Hausaufgaben zu helfen und über mehr Geld , um ihnen Nachhilfe zu finanzieren , während die Armen ihre Kinder vor das Fernsehgerät setzen , um ihrem Zweitjob nachzugehen .
+Werden verbitterte Arbeitnehmer , die – etwa bei der Zusammenstellung einer Bestellung in einem Amazon-Auslieferungslager - & nbsp ; den Anweisungen eines Computers folgen müssen , dafür stimmen , jene Programmierer , die sie in diese Situation brachten , zu besteuern bis die Software-Hersteller den Anreiz zur Innovation verlieren , wodurch die Gesellschaft ärmer würde ?
+Oder werden sich die reichen Programmierer samt ihres Know-hows und ihrer Renditen nach Monaco oder in die Schweiz absetzen , während die Gesellschaft in verbarrikadierte und wechselseitig verfeindete Enklaven und Ghettos zerfällt ?
+In der Realität bestehen viele Möglichkeiten dazwischen .
+Eine davon ist , dass sich womöglich kulturelle Normen entwickeln , die Milliardäre ermutigen , ihren Reichtum zu teilen , selbst wenn sie von Besteuerung verschont bleiben .
+So ist beispielsweise & nbsp ; Giving Pledge & nbsp ; ein Bekenntnis einiger der reichsten Menschen der Welt – darunter Warren Buffet und Bill Gates – den Großteil ihrer Vermögen der Philanthropie zu spenden .
+Auch wirtschaftliche Konkurrenz könnte ein Rolle spielen – wenn Innovatoren Milliarden verdienen können , widmen sich mehr der talentiertesten Personen der Innovation , so dass der Sieger sogar in einer Alles-oder-Nichts-Welt den Markt für einen flüchtigen Moment erobert , bevor er von einem anderen Innovator abgelöst wird .
+Die heute zu verdienenden Milliarden könnten morgen zu Millionen geschmolzen sein .
+Und auch der Wert der Dinge ändert sich .
+Obwohl eine Quarzuhr die Zeit genauer misst , als selbst die feinsten handgefertigten mechanischen Schweizer Uhren , fiel der Wert der Quarzuhren drastisch , während der Wert der Schweizer Uhren stratosphärische Höhen erklomm .
+Obwohl man äußerlich praktisch keinen Unterschied erkennt , scheinen es die Menschen zu schätzen , dass ihre Uhr von jemandem liebevoll gefertigt wurde .
+Gut möglich daher , dass die Nachfrage nach Diskussionen über mittelalterliche französische Kirchenmusik im Rahmen kleiner Lehrveranstaltungen an einer Universität ansteigt , obwohl auch die Nachfrage nach MOOC wächst .
+Nicht alle sollten Andreessens Rat befolgen und Abstand von geisteswissenschaftlichen Studien nehmen !
+Das heißt nicht , dass die Grundanliegen nicht gerechtfertigt sind .
+Ein besserer Zugang zu elementaren Bedürfnissen wie qualitätvoller Schulbildung ist notwendig , um den Alles-oder-nichts-Charakter der Märkte erträglicher zu machen . Aber auch die Gesellschaften werden sich womöglich ändern müssen .
+Wenn wir Glück haben , werden die Veränderungen spontan eintreten .

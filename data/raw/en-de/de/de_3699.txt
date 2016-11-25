@@ -1,0 +1,46 @@
+Globale Unterschiede bei der Finanzregulierung
+PARIS – In den frühen Phasen der Finanzkrise war es Mode , zu argumentieren , dass das Regulierungssystem der USA einer grundlegenden strukturellen Überarbeitung bedürfe .
+Meinungsunterschiede zwischen der Securities and Exchange Commission ( SEC ) und der Commodity Futures Trading Commission ( CFTC ) hatten dort eine wirksame Beaufsichtigung der Investmentbanken und des Derivatehandels behindert ( nur die USA sind überhaupt der Ansicht , dass es sinnvoll ist , Wertpapier- und Derivatehandel jeweils einer eigenen Aufsichtsbehörde zu unterstellen ) .
+Tatsächlich hatte die Vielzahl unterschiedlicher Regulierungsstellen den Banken Möglichkeiten eröffnet , auf der Suche nach einem kapitalfreundlicheren Ansatz Systemunterschiede auszunutzen .
+Genauso hatte das Fehlen einer Bundesaufsicht für das Versicherungswesen dazu geführt , dass AIG durch das Office of Thrift Supervision ( OTS ) und das Versicherungsamt des Staates New York reguliert wurde , was sich als absolut unzureichende Lösung erwies .
+Diese Argumente haben kaum zu etwas geführt .
+Zwar hat das Dodd-Frank-Gesetz das OTS tatsächlich von seinem Jammer erlöst , doch verhinderten eifersüchtige Kontrollausschüsse im US-Kongress eine Fusion von SEC und CFTC , und es ist nichts passiert , um die Bankenaufsicht zu rationalisieren .
+Das US-System sieht daher weiter jenem bemerkenswert ähnlich , das bei der Zunahme der fatalen Spannungen Anfang des letzten Jahrzehnts bewusst in die andere Richtung schaute .
+Ein Faktor , der zu diesem institutionellen Stillstand beigetragen hat , war das Fehlen einer überzeugenden Alternative .
+In den rund zehn Jahren vor der Krise von 2007-2008 ging der Trend hin zur Integration der Regulierung .
+Fast 40 Länder führten Einzelregulierer ein , die alle Arten von Aufsichtstätigkeiten unter dem Dach einer einzigen , allmächtigen Behörde vereinten .
+Diese Bewegung nahm ihren Ausgang im Skandinavien der frühen 1990er Jahre , doch die dramatischste Veränderung gab es 1997 , als Großbritannien seine Financial Services Authority ( deren erster Chairman ich war ) einführte .
+Andere Länder verfolgten leicht abweichende Modelle .
+Ein damals beliebter Ansatz wurde als „ Twin Peaks “ bezeichnet ; dabei war eine Regulierungsbehörde für die prudenzielle Regulierung – die Festlegung der Kapitalanforderungen – verantwortlich , während die andere die Einhaltung der Geschäftsregeln beaufsichtigte .
+Allerdings gab es dabei noch weitere Unterschiede .
+Das niederländische Modell siedelte die prudenzielle Aufsicht innerhalb der Zentralbank an , während die australische Variante auf einer eigenständigen Institution beruhte .
+Diese integrierten Strukturen schienen eine Menge Vorteile zu bieten .
+Da waren Skalen- und Verbundeffekte , und den Finanzunternehmen gefiel normalerweise die Vorstellung einer Lösung aus einer Hand ( oder schlimmstenfalls zwei Händen ) .
+Eine weitere Erwartung an eine einzige Regulierungsstelle war zudem , dass diese eine in sich schlüssigere Sicht der Trends im Finanzsektor entwickeln würde .
+Leider kamen diese Vorteile nicht zustande , oder zumindest nicht überall .
+Es lässt sich kaum argumentieren , dass das britische System leistungsstärker war als das amerikanische , daher hat der Ruf der Bewegung hin zu einem einzigen Regulierer Schaden genommen .
+Und die fortdauernden Probleme des niederländischen Bankensystems – im vergangenen Monat wurde erneut eine Bank verstaatlicht – legen nahe , dass man leicht in die Lücke zwischen den beiden Twin Peaks fallen kann .
+Die Wahrheit ist , dass eine Korrelation zwischen der Regulierungsstruktur und dem Erfolg bei der Abwehr oder Bekämpfung der Finanzkrise schwer feststellbar ist .
+Unter den Ländern mit einer einzigen Regulierungsstelle haben Singapur und die Skandinavier erfolgreich das Schlimmste verhindert , während dies auf Großbritannien eindeutig nicht zutrifft .
+Unter den Vertretern des Twin-Peaks-Modells entwickelte sich das niederländische System sehr schlecht , während man die australische Finanzregulierung als Erfolg betrachten kann .
+Spielt es eine Rolle , ob die Zentralbank direkt beteiligt ist ?
+Viele Zentralbanker behaupten , dass Zentralbanken in einzigartiger Weise aufgestellt seien , systemischen Risiken zu begegnen , und dass es unerlässlich sei , Geld- und Finanzpolitik innerhalb derselben Institution anzusiedeln .
+Doch auch für dieses Argument lassen sich nur schwer überzeugende empirische Belege finden .
+Die niederländischen und amerikanischen Zentralbanken , die ihre Bankensysteme direkt beaufsichtigen , waren beim Ermitteln potenziell gefährlicher systemischer Probleme nicht effektiver als außerhalb der Zentralbanken angesiedelte Regulierer anderswo .
+Kanada wird häufig als ein Land genannt , das seine Banken vor Schwierigkeiten bewahrt habe , obwohl diese unangenehm eng an den US-Märkten sitzen .
+Doch ist die Bank von Kanada keine praktisch ausgerichtete institutionelle Aufsicht und war es nie .
+Also hatte der US-Kongress vielleicht Recht mit seiner Schlussfolgerung , dass eine Änderung der Struktur der Regulierungsbehörden weniger wichtig ist als der Inhalt der Regulierung selbst .
+Andernorts freilich sind eine Menge struktureller Änderungen im Gange .
+In Großbritannien führt jede Störung des Finanzsystems zu Rufen nach einer Umgestaltung des Systems .
+Es gab bedeutende Änderungen im Jahre 1986 , und dann erneut 1997 , als die Bank von England als verzögerte Reaktion auf den Zusammenbruch von Barings ihre Zuständigkeit für die Bankenaufsicht verlor .
+Im nächsten Monat bekommt sie sie zurück – und mehr dazu .
+Erstmals wird die Bank von England auch die Versicherungsunternehmen beaufsichtigen .
+Eine ähnliche Änderung wurde in Frankreich eingeführt , wo eine neue prudenzielle Kontrollbehörde ins Leben gerufen wurde .
+Briten und Franzosen sind sich selten einig ; sind sie es doch einmal , ist man geneigt , zu sagen , dass viel dafür spricht , dass sie sich irren .
+Es ist derzeit schwierig , ein kohärentes Muster zu erkennen .
+Mit Sicherheit & # 160 ; hat sich der Trend hin zu einer einzigen , außerhalb der Zentralbank angesiedelten Regulierungsbehörde , die für alles zuständig ist , bis zum Schneckentempo verlangsamt ( obwohl Indonesien derzeit seine Regulierungsstellen konsolidiert ) .
+Es gibt keinen Konsens über die Rolle der Zentralbank : In rund einem Drittel der Länder ist sie der dominante Akteur ; in einem weiteren Drittel ist sie nur für die Banken zuständig , und im letzten Drittel ist sie lediglich eine Systemaufsicht .
+Wir könnten dies als ein kontrolliertes Experiment betrachten , um ein bevorzugtes Modell zu ermitteln .
+Schließlich unterscheiden sich die Finanzsysteme vor allem in den OECD-Ländern nicht allzu sehr voneinander .
+Doch es gibt keine Anzeichen , dass derzeit eine wohlüberlegte Auswertung vorbereitet wird , die den Ländern zumindest helfen könnte , begründetere Entscheidungen zu treffen – selbst wenn dabei nicht herauskäme , dass ein Modell eindeutig überlegen ist . Die G20 sind unter ihrer aktuellen russischen Präsidentschaft derzeit auf der Suche nach einer Rolle .
+Dies wäre sie eine nützliche praktische Aufgabe , die sie übernehmen könnten .

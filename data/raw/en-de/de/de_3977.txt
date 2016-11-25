@@ -1,0 +1,39 @@
+Medizin auf dem Prüfstand
+Die meisten Menschen sind überrascht , wenn sie erfahren , dass es sich bei der rigorosen Anwendung formaler Beweisregeln zur Bewertung medizinischer Forschung und der Entscheidungsfindung hinsichtlich der besten verfügbaren Therapien um ein Phänomen jüngeren Datums handelt .
+Genauso überrascht könnten sie sein , dass die Gesundheitspolitik diesen Ansatz noch nicht verfolgt .
+Die so genannte „ evidenzbasierte Medizin “ beruht auf einer Rangordnung empirischer Nachweise , in der medizinische Studien aufgrund ihrer Qualität klassifiziert werden .
+Physiologische Forschung an Tieren oder die Erforschung der Reaktionen des menschlichen Körpers im Labor nehmen in dieser Rangordnung einen untergeordneten Platz ein .
+Beobachtungsstudien , in denen Ergebnisse von Patienten , die eine bestimmte Behandlung bekommen , mit den Resultaten von nicht behandelten Kontrollprobanden verglichen werden , rangieren zwar weiter oben , können aber trotzdem irreführend sein .
+Wirklich überzeugende Studien zu Medikamenten und operativen Verfahren erhält man normalerweise nur durch randomisierte Studien , im Rahmen derer Patienten nach einem Zufallsverfahren , das dem Werfen einer Münze ähnelt , eine bestimmte Behandlung erhalten oder eben nicht .
+In gut durchgeführten randomisierten Studien sind auch zusätzliche Sicherheitsmaßnahmen gegen systematische Fehler ( Bias ) eingebaut , wie beispielsweise die Anwendung von Placebos , die es dem Untersucher ermöglichen , eine Studie durchzuführen , bei denen weder Patienten noch das medizinische Personal wissen , ob ein Patient tatsächlich aktiv behandelt wird oder nicht .
+Ärzte hätten viele Fehler vermeiden können , wenn man diese Prinzipien in der Vergangenheit angewendet hätte .
+So unterstützten führende medizinische Experten zehn Jahre lang die Verabreichung einer Hormonersatztherapie an Frauen nach der Menopause , um deren Risiko für Herz-Kreislauf-Erkrankungen zu senken .
+Diese auf den Ergebnissen von physiologischen Studien und Beobachtungsstudien beruhenden Empfehlungen stellten sich als hochgradig irreführend heraus .
+Randomisierte Studien zeigten letztlich keinen Nutzen dieser Ersatztherapie und einen deutlichen Anstieg von Brustkrebs und Blutgerinnseln .
+Ebenso verschrieben Kardiologen früher Medikamente , um Fälle von plötzlichem Herztod bei Patienten nach Herzinfarkten zu reduzieren .
+Mit diesen Medikamenten wurden Arrhythmien – Störungen des Herzrhythmus im Zusammenhang mit dem plötzlichem Herztod – bekämpft .
+Die Logik dahinter schien klar : Indem man diese Arrhythmien unterdrückt , senkt man auch die Zahl der Fälle plötzlichen Herztodes .
+Unglücklicherweise fand man in randomisierten Studien heraus , dass die Todesrate unter medikamentös behandelten Patienten aber höher war .
+Die Medikamente wurden nicht mehr verabreicht , aber erst nach vielen unnötigen Todesfällen .
+Das Bewusstsein , dass die Prinzipien der evidenzbasierten Medizin auch als Richtlinien für die Gesundheitspolitik dienen sollten , hat sich langsamer entwickelt .
+Obwohl randomisierte Studien in diesem Bereich nicht machbar sind , ist es sehr wohl möglich , die oberste Regel der evidenzbasierten Medizin zu befolgen : nämlich Maßnahmen auf Grundlage systematischer Zusammenfassungen der qualitativ hochwertigsten verfügbaren Evidenz zu ergreifen .
+Man denke dabei an die Frage , ob Länder ihr Gesundheitswesen öffentlich , also durch Steuern , finanzieren sollen oder auf privater Basis , durch private Krankenversicherungen und Nutzergebühren .
+Die private Krankenversicherung hat sich dabei als höchst unwirtschaftlich erwiesen . Dies aufgrund des hohen administrativen Aufwandes für Aktivitäten wie die Entwicklung von Versicherungspaketen , der Vermarktung dieser Pakete und der Berechnung von Forderungen .
+Bei öffentlicher Finanzierung entfallen diese Aktivitäten , wodurch sich auch die administrativen Kosten erheblich verringern .
+Außerdem beschränken Nutzergebühren den Zugang zu benötigten medizinischen Dienstleistungen für arme und alte Menschen , wohingegen die öffentliche Finanzierung diese Ungleichbehandlung größtenteils ausschließt und zu Behandlungsergebnissen gelangt , die ebenso gut , wenn nicht noch besser sind , als jene der gemischt öffentlich-privaten Modelle .
+Von der öffentlichen Finanzierung profitiert auch die Wirtschaft eines Landes , weil man großen Arbeitgebern die Ausgaben für betriebliche Gesundheitsleistungen für ihre Mitarbeiter erspart .
+Es spricht also vieles dafür , dass die öffentliche Finanzierung der wesentlichen Aspekte im Gesundheitswesen – ärztliche sowie pflegerische Dienstleistungen , Medikamente und medizinische Geräte – zu mehr Gerechtigkeit , Effizienz und Vorteilen für Arbeitgeber führt .
+In der Medizin hat man die Notwendigkeit systematischer Übersichtsarbeiten als Entscheidungsgrundlage für Therapie- oder Medikamentenentscheidungen erkannt , ihre Anwendung in der Gesundheitspolitik setzt allerdings erst jetzt ein .
+In derartigen systematischen Übersichtsarbeiten hat man Evidenz hinsichtlich der Erbringung von Krankenhausdienstleistungen durch große gewinnorientierte und gemeinnützige Anbieter zusammengefasst .
+Die diesen Übersichtsarbeiten zugrunde liegenden Primärstudien kommen hauptsächlich aus den USA , wo gewinnorientierte und nicht gewinnorientierte Unternehmen nebeneinander im gleichen Umfeld arbeiten und wo große administrative Datenbanken eine genaue Bestimmung der Todesraten ermöglichen .
+Während bei diesen Beobachtungsstudien die Gefahr systematischer Fehler besteht – schwerer erkrankte Patienten bedeuten beispielsweise höhere Todesraten – sind in den verfügbaren administrativen Datenbanken Patientendaten wie Alter , Schwere der Erkrankung und Komorbidität , einschließlich Diabetes und Bluthochdruck dokumentiert .
+Diese Informationen ermöglichen statistische Ansätze , die gleiche Rahmenbedingungen schaffen und tragen dazu bei , systematische Fehler im Zusammenhang mit der Patientenauswahl zu vermeiden .
+Diese systematischen Übersichtsarbeiten haben gezeigt , dass gewinnorientiert geführte Krankenhäuser trotz höherer Versicherungsbeiträge höhere Todesraten aufweisen als gemeinnützige .
+Das gleiche Phänomen – niedrigere Todesraten in gemeinnützigen Einrichtungen – trat auch bei ambulanten Dialysestationen auf und es hat sich gezeigt , dass die Pflege in nicht gewinnorientiert organisierten Pflegeheimen qualitativ besser ist .
+Der Grund dafür , dass gemeinnützige Anbieter bessere Pflegequalität und Behandlungsergebnisse bei geringeren Kosten erzielen , liegt auf der Hand .
+Zusätzlich zu höheren Verwaltungskosten und Managergehältern in gewinnorientierten Unternehmen besteht deren größte Belastung im Vergleich zu den nicht gewinnorientierten Anbietern in der Notwendigkeit , Erträge für die Aktionäre zu erwirtschaften .
+Diese zusätzlichen Kosten bedeuten , dass etwa 20 % der Erträge , die gemeinnützige Anbieter in die Patientenversorgung investieren können , für gewinnorientierte Unternehmen nicht verfügbar sind .
+Die Folgen sind Sparmaßnahmen an allen Ecken und Enden , Mängel in der Pflege und schlechtere Prognosen für die Patienten .
+Die Prinzipien der evidenzbasierten Medizin haben die Art und Weise , wie wir klinische Interventionen betrachten , verändert und sie verhindern vielleicht , dass sich Desaster im öffentlichen Gesundheitswesen wie die deplacierte Befürwortung von Hormonersatztherapien und der Einsatz von Medikamenten gegen Herzrhythmusstörungen wiederholen .
+Die Anwendung dieser Prinzipien in der Gesundheitspolitik kann zu vernünftigeren Entscheidungen im Hinblick auf die Ausrichtung unserer Gesundheitssysteme führen .
+Aufgrund der verfügbaren Evidenz spricht jedenfalls einiges für eine öffentliche Finanzierung der Gesundheitsversorgung und nicht gewinnorientierte Anbieter .

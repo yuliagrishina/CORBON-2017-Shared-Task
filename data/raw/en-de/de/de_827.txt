@@ -1,0 +1,31 @@
+Zensur und Verstand
+Die meisten westlichen Journalisten wehren sich , wenn Regierungen ihre Fähigkeit bedrohen , die Informationen zusammenzutragen , die sie brauchen .
+Manche sind ins Gefängnis gegangen , um die Identität von anonymen Quellen und Zuträgern zu schützen oder haben Regierungen verklagt , die ihnen den Zugang zu entscheidenden Dokumenten verwehren .
+Leider kämpfen viele Journalisten offenbar wesentlich bereitwilliger um ihr Recht , Nachrichten zusammenzutragen , als um ihr Recht , die Ergebnisse ihrer Berichterstattung ungehindert zu veröffentlichen und zu senden .
+Anscheinend nehmen westliche Journalisten und Nachrichtenorganisationen Zensur innerhalb von Ländern , in denen die Medien routinemäßig kontrolliert werden , als gegeben hin .
+Es mag notwendig gewesen sein , sich einer solchen Zensur zu fügen , als Druckerpressen , Lieferwagen , Zeitungskioske oder Sendemasten die einzige Möglichkeit waren , gedruckte Veröffentlichungen oder Sendungen an das Nachrichtenpublikum zu übermitteln .
+Doch das Publizieren im Internet bietet eine neue – und potenziell lukrative – Möglichkeit unzensierte Informationen zu verbreiten .
+Eine derartige Freiheit ist nicht automatisch gegeben , denn sogar die inhärente Offenheit des Internets kann weitgehend durch die beharrliche Filterung und Überwachung seitens der Regierung zunichte gemacht werden .
+In der jüngsten Vergangenheit ist durch die nachhaltige Erforschung von Gegenmaßnahmen gegen eine derartige Einmischung von Dritten in die Internetkommunikation allerdings ein neuer Faktor hinzugekommen .
+Der Großteil dieser Forschung wurde nicht in Universitätslaboren oder in den Forschungs- und Entwicklungseinrichtungen von Unternehmen durchgeführt , sondern spontan von Teenangern , die diese nutzen , um miteinander urheberrechtlich geschützte Musik auszutauschen , ohne dafür zu bezahlen .
+Die Medien im Westen haben mit großem Interesse darüber berichtet , anscheinend jedoch ohne zu begreifen , dass diese Peer-to-Peer-Technologien das Potenzial besitzen , die Nachrichten für mehr Menschen in Ländern wie China von der Zensur auszunehmen , wo jegliche Online-Inhalte , die nicht mit der gegenwärtigen Linie der Kommunistischen Partei Chinas übereinstimmen , Gefahr laufen , der “ digitalen Chinesischen Mauer ” der Zensur zum Opfer zu fallen .
+Peer-to-Peer-Technologien erschweren das Filtern , weil sie nahezu jeden Informationskonsumenten in den Übertragungsprozess einbinden .
+So könnten Nachrichtenorganisationen , ohne die Menschen in China zu gefährden , Vereinbarungen mit anderen Unternehmen treffen , um zu gewährleisten , dass unzensierte Berichte von einem unabhängigen Server zum nächsten weitergegeben werden , und China somit dazu herausfordern , das gesamte Internet zu filtern , wenn es Inhalte zu entfernen wünscht .
+Natürlich arbeiten Nachrichtenorganisationen unternehmerisch und es kann sich als schlechte Geschäftsstrategie erweisen , mächtigen Regierungen die Stirn zu bieten .
+Deshalb hat es innerhalb der Medienunternehmen so wenig Widerstand , oder auch nur Protest , gegeben , wenn autoritäre Regierungen Journalisten , Redakteure und Verleger bedrohen .
+Es erklärt auch , warum sich Journalisten in diesen Ländern so häufig fast ein Bein ausreißen , um sich für einzelne Übertretungen zu entschuldigen , anstatt sich zu widersetzen .
+Nachrichtenorganisationen könnten jedoch weitaus mehr Menschen erreichen , wenn sie daran arbeiten würden , die Filterung des Internet zu verhindern , anstatt sich untätig auf diejenigen innerhalb der Firewall zu verlassen herauszufinden , wie sie selbst über blockierte Seiten hinausgelangen können .
+Dies zu tun könnte sogar unternehmerisch betrachtet Sinn machen .
+Der Aufbau eines einfallsreichen digitalen Vertriebssystems , das sich den Zensoren der Regierung entzieht , würde Nachrichtenorganisationen helfen , ihre Märkte zu erschließen und zu vergrößern .
+Wenn die repressive Politik einer Regierung abnimmt oder durch einen Regimewechsel endet , ist es nicht unwahrscheinlich , dass Mediensender , die präsent und von der Regierung genehmigt waren , im Gegensatz zu ihren ausländischen Pendants , die fern blieben und die Wahrheit enthüllten , schlecht abschneiden werden .
+Wenn Nachrichtensender in geografisch entfernt liegenden offenen Gesellschaften den Konsumenten in Ländern wie China entgegenkommen , könnten die Vorteile sowohl für die Chinesen als auch für das finanzielle Resultat enorm sein .
+Zusammen mit den geschäftstüchtigen Teenagern , die Napster entwickelten , haben Wissenschaftler wie Lorrie Faith Cranor an der Carnegie Mellon Universität die Struktur potenzieller neuer Netzwerke mit hochfliegenden Namen wie “ Publius ” ausgearbeitet , durch die unpopuläre Ansichten außerhalb des leichten Zugriffs von Regierungen in Umlauf gebracht werden können .
+Ein Team aus Computerwissenschaftlern in Stanford und anderswo hat ein Projekt namens “ LOCKSS ” entwickelt , das dezentralisierte Musterexemplare von Dokumenten speichert und Entstellungen oder Verfälschungen derselben erkennt , um die Integrität unserer geschriebenen Vergangenheit für immer zu wahren .
+Diejenigen , die sich als Mitglieder der globalen unabhängigen Presse betrachten , sollten sich gemeinsam bemühen , vergleichbare Netzwerke zu konstruieren , über die Nachrichten und Berichterstattung frei fließen und jedem mit einem Internetanschluss zur Verfügung stehen können .
+Der Aufbau eines solchen Netzwerks wäre weitaus billiger als der Bau auch nur einer einzigen neuen Druckerei – und er wäre weitaus effektiver .
+Wir sollten die Titelblätter der Zeitungen eines jeden freien Landes als kostbare Dokumente betrachten , deren Kopien offen auf aller Welt genutzt werden sollten , insbesondere in Ländern mit erheblicher staatlicher Zensur .
+Dank des Internets sind die Risiken bei der Realisierung dieser neuen Vertriebsnetzwerke wirklich nur geschäftliche Risiken – und somit quantifizierbar und überschaubar .
+Sie verblassen im Vergleich zu den Risiken , die Dissidenten in geschlossenen Gesellschaften auf sich nehmen .
+Diese Titelblätter auf eine gefilterte Webseite zu stellen sollte nur ein Anfang sein .
+Es ist an der Zeit , eine Methode zu finden , diese Titelblätter überall in Umlauf zu bringen .
+Es macht politisch Sinn ; es könnte ebenso geschäftlich Sinn machen .

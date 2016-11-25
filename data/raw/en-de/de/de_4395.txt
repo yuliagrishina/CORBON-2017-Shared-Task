@@ -1,0 +1,39 @@
+Das Rätsel um das Artensterben
+Mit einer Weltbevölkerung von über 6 Milliarden Menschen - und einem steigenden individuellen Verbrauch - stehen wir vor enormen Herausforderungen hinsichtlich der nachhaltigen Nutzung unserer natürlichen Ressourcen .
+Es gibt eine klare Messgröße dafür , wie wir diese Aufgabe bewältigen : die Aussterberaten .
+Aus diesem Grund habe ich gemeinsam mit einigen Kollegen die Aussterberate von Vogelarten in der jüngeren Vergangenheit sowie auch die wahrscheinliche zukünftige Aussterberate berechnet .
+Die Aussterberate von Vogelarten gibt die beste Auskunft über die massiven und irreversiblen Auswirkungen menschlicher Aktivitäten auf die Umwelt .
+Jeder der insgesamt 10.000 Vogelarten auf dieser Welt stehen etwa 10 oder möglicherweise sogar 100 unbekannter Tier- , Pflanzen- , oder Pilzarten gegenüber .
+Wie hoch Vögel in der Gunst des Menschen stehen , ist daher ein einzigartiger Indikator dafür , welche Arten wo leben und wie es diesen Arten geht .
+Schätzungen über die Anzahl ausgestorbener Arten gehen oft weit auseinander . Dies aufgrund unterschiedlicher Annahmen über die Gesamtzahl der Arten , die von einer Million wissenschaftlich benannter Spezies bis hin zu unglaubwürdigen 100 Millionen reicht .
+Um derartige Unschärfen zu vermeiden , haben meine Kollegen und ich die Aussterberate definiert - nämlich als Anzahl der ausgestorbenen Arten pro Jahr oder , um die Zahlen realistischer zu gestalten , die Anzahl der ausgestorbenen Arten pro Millionen Arten und Jahr : E / MSY , wobei E für die Anzahl der ausgestorbenen Arten und MSY für pro Million Arten pro Jahr steht .
+Mit Ausnahme der letzten fünf Massenaussterbeereignisse deuten Schätzungen aufgrund fossiler Funde auf eine ungefähre Aussterberate von 1 pro einer Million Arten und Jahr hin ( 1E / MSY ) .
+Bei 10.000 Vogelarten sollte also pro Jahrhundert nur eine Art ausgestorben sein .
+Noch vor den Entdeckungsreisen der Europäer verursachte die Besiedelung des pazifischen Raumes durch die Polynesier wahrscheinlich ein Artensterben von einer bis zwei Arten pro Jahr . Dieser Wert liegt 50 bis 100 Mal höher als die natürliche Aussterberate .
+So waren beispielsweise Papageien , Rallen und Tauben im gesamten Pazifikraum auf ausreichend großen Inseln heimisch .
+Auf archäologisch gut untersuchten Inseln geben Knochenfunde Aufschluss über die Arten , die von den Polynesiern ausgerottet wurden und nun auf den Inseln nicht mehr zu finden sind .
+Wir können sagen , welche Inseln wahrscheinlich groß genug waren , um einzigartige Tierarten zu beherbergen und daraus auf die Zahl der ausgestorbenen Arten schließen .
+Die Gesamtzahl liegt bei fast 1.000 .
+Vergleichsanalysen für Karibikinseln und Inseln im Indischen Ozean vor der Besiedelung durch den Menschen stehen zwar noch aus , aber auch dort kann man von einer ähnlich hohen Aussterberate ausgehen .
+Durch die Erkundungsfahrten der Europäer hat sich dieses rasche Artensterben sehr wahrscheinlich fortgesetzt .
+Die Anzahl der zwischen 1500 und 1800 ausgestorbenen Arten erhöht sich weiter , da Systematiker beispielsweise durch Skelettfunde in Höhlen , wo sich Knochen erhalten haben , auf weitere Arten stoßen .
+Die Forschung in diesem Bereich ist jedoch noch lang nicht abgeschlossen .
+Carl von Linné führte Mitte des 18. Jahrhunderts die moderne wissenschaftliche Benennung der Arten ein , obwohl die Namensgebung nicht vor der Niederlage Napoleon Bonapartes im Jahr 1815 wirklich in Gang kam .
+Während Taxonomen bis 1815 lediglich 2.000 Vogelarten beschrieben , stieg die Zahl der Beschreibungen in den darauffolgenden 50 Jahren auf 5.000 an .
+Aus diesem Grund stammt das meiste , was wir über Vogelarten und deren Aussterbedaten wissen , aus dem 19. Jahrhundert .
+Um hier ein genaues Bild zu bekommen , müssen wir die Gesamtzahl der ausgestorbenen Arten dem Zeitraum anpassen , in dem der Wissenschaft die Vogelarten bekannt waren .
+Eine zweite Anpassung ist deshalb nötig , weil Naturschützer einem Prinzip folgen , wonach eine Art noch nicht als ausgestorben gilt , wenn sie eine Zeitlang nicht mehr in ihrem natürlichen Lebensraum beobachtet wurde .
+Obwohl dadurch die Gesamtzahl der ausgestorbenen Arten zu niedrig angesetzt wird , verhindert dieses Prinzip , dass Schutzmaßnahmen zu früh ausgesetzt werden .
+Wir haben in unsere Studie auch Arten aufgenommen , die wahrscheinlich schon ausgestorben sind .
+Mit diesen beiden Anpassungen ergab sich eine Aussterberate , die etwa 100 Mal höher lag , als die natürliche Aussterberate in den letzten zwei Jahrhunderten .
+Unsere Prognose hinsichtlich der Aussterberate im 21. Jahrhundert liegt mit 1.000 E / MSY um eine Zehnerpotenz höher .
+Nicht nur 12 % aller Vogelarten sind vom Aussterben bedroht , sondern doppelt so viele leben in kleinen geographischen Gebieten ( der Hauptindikator für die Bedrohung ) und auch der Lebensraum der meisten dieser Arten ist ernsthaft in Gefahr .
+In den Regenwäldern beispielsweise lebt die Mehrheit aller Vogelarten - und wahrscheinlich auch die der meisten anderen Arten .
+Wenn der gegenwärtige Trend der Abholzung anhält , prognostizieren wir einen Anstieg der Aussterberate bei Vögeln auf 1.500 E / MSY in den letzten zehn Jahren dieses Jahrhunderts .
+Unsere Berechnungen sind konservativer Natur , da wir das Aussterben aufgrund invasiver Spezies sowie aufgrund der Ausbreitung neuer Fischfangmethoden ( wie die Langleinenfischerei , die viele Seevögel gefährdet ) und der Klimaerwärmung nicht berücksichtigten .
+Diese Faktoren würden unsere Schätzungen noch weiter erhöhen .
+Von den Aussterberaten für Vögel kann auch nur bedingt auf andere Arten geschlossen werden , da Befürchtungen hinsichtlich des Aussterbens einer Vogelart schnell zu entsprechenden Schutzmaßnahmen führen .
+So haben wir gezeigt , dass durch engagierte Naturschutzinitiativen die Aussterberate bei Vögeln in den letzten Jahrzehnten auf etwa 25 E / MSY gesenkt werden konnte – dieser Wert ist immer noch sehr hoch , aber immerhin bedeutend niedriger als die prognostizierten 100 E / MSY für Orte , an denen es keine Schutzmaßnahmen gibt .
+Natürlich profitieren auch andere Arten von den Schutzmaßnahmen für die Vögel , aber es gibt auch Spezies , für die das nicht gilt .
+Außerdem bedrohen menschliche Aktivitäten in noch stärkerem Ausmaß auch andere bekannte Arten - wie Blütenpflanzen und Amphibien .
+Unsere Ergebnisse zeigen , dass Bemühungen im Bereich Naturschutz den unumkehrbaren Verlust der Artenvielfalt reduzieren können . Dennoch stellen die zukünftigen Aussterberaten ein Problem dar , das noch viel schwerer zu lösen sein wird .

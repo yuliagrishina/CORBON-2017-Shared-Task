@@ -1,0 +1,42 @@
+Krebsvorsorge nach Zahlen
+PHILADELPHIA – Es ist schwierig , einer breiten Öffentlichkeit Informationen über medizinisches Risiko zu vermitteln , vor allem , wenn offizielle Empfehlungen im Widerspruch zu emotionalen Narrativen stehen .
+Aus diesem Grund reagierte die Öffentlichkeit auch mit Verwirrung und Wut , als die amerikanische Behörde für Präventivmedizin ( United States Preventive Services Task Force -USPSTF ) im Jahr 2009 ihre Richtlinien für das Brustkrebs-Screening präsentierte , in denen man sich gegen Routine-Screenings bei asymptomatischen Frauen ab 40 aussprach und für Frauen über 50 empfahl , Vorsorgeuntersuchungen nicht jährlich , sondern nur alle zwei Jahre durchzuführen . & nbsp ;
+Der Schlüssel zum Verständnis dieser Reaktion liegt in der nebulösen Zone zwischen Mathematik und Psychologie .
+Das Unbehagen der Menschen gegenüber diesen Empfehlungen war größtenteils auf irrige Intuition zurückzuführen : wenn frühere und häufigere Vorsorgeuntersuchungen die Wahrscheinlichkeit der Entdeckung einer möglicherweise tödlichen Krebserkrankung erhöht , dann sind doch mehr Vorsorgeuntersuchungen immer wünschenswert .
+Wenn man mit häufigeren Vorsorgeuntersuchungen Brustkrebs bei Frauen ab 40 nachweisen kann , wäre es dann nicht möglich , Krebs auch bei Frauen ab 30 zu entdecken ?
+Und wenn dem so ist , warum streben wir keine reductio ad absurdum an und führen monatliche Mammographien ab 15 ein ?
+Die Antwort darauf lautet natürlich , dass ein derart intensives Screening mehr Schaden als Nutzen brächte .
+Das richtige Gleichgewicht zu finden ist allerdings schwierig .
+Leider ist es nicht einfach , die Gefahren von Brustkrebs gegen die kumulativen Auswirkungen der in dutzenden Mammographien aufgenommenen Strahlung , die Invasivität von Biopsien und die kräftezehrenden Folgen der Behandlung langsam wachsender Tumoren abzuwägen , die sich am Ende nicht als tödlich erwiesen hätten .
+Die USPSTF brachte kürzlich eine noch eindringlichere Warnung hinsichtlich eines prostataspezifischen Antigentests zum Nachweis von Prostatakrebs heraus , nachdem man zu dem Schluss gekommen war , dass die durch diesen Test angerichteten Schäden größer waren als sein Nutzen .
+Röntgenuntersuchungen der Brust zum Nachweis von Lungenkrebs und Pap-Abstriche zur Früherkennung von Gebärmutterhalskrebs stießen auf ähnliche , wenngleich etwas weniger nachdrückliche Kritik . & nbsp ;
+Der nächste Schritt in der Neubewertung des Krebs-Screenings erfolgte im letzten Jahr , als Wissenschaftler des Instituts für Gesundheitspolitik der Universität Dartmouth erklärten , dass die Kosten des Brustkrebs-Screenings vielfach bagatellisiert und der Nutzen weit übertrieben dargestellt werde .
+Tatsächlich rettet nicht einmal ein positives Mammogramm unbedingt ein Menschenleben ( in den USA werden jährlich fast 40 Millionen Mammogramme angefertigt ) .
+Die Wissenschaftler aus Dartmouth fanden heraus , dass der Test angesichts der geschätzten 138.000 jährlich in den USA diagnostizierten Brustkrebsfälle , bei 120.000 bis 134.000 betroffenen Frauen nicht relevant war .
+Deren Tumore wuchsen entweder so langsam , dass sie kein Problem darstellten , oder sie wären auch bei späterer klinischer Diagnose erfolgreich zu behandeln gewesen ( oder sie waren derart aggressiv , dass man ohnehin nur mehr wenig machen konnte ) .
+Weitere Bedenken bestehen in diesem Zusammenhang hinsichtlich der Messung der Überlebenszeit ..
+Da die Überlebensdauer der Patienten vom Zeitpunkt der Diagnose an berechnet wird , fängt die Zeitmessung aufgrund empfindlicherer Screenings früher an .
+Die Überlebensdauer kann daher länger erscheinen , obwohl die frühere Diagnose keinen wirklichen Effekt auf die Überlebenszeit hatte .
+Natürlich wird im Einzelfall bestimmt , welche Untersuchungen und Behandlungen die besten sind , aber für zusätzliche Bedenken hinsichtlich häufiger Screenings sorgt das Problem der falsch positiven Resultate . & nbsp ;
+Wenn man nach etwas relativ Seltenem sucht ( ob Krebs oder Terroristen ) ist zu beachten , dass ein positives Resultat oft falsch ist .
+Entweder die „ nachgewiesene “ Pathologie existiert überhaupt nicht oder ist nicht von der Art , dass sie einem das Leben kostet .
+Man bedenke das folgende hypothetische Beispiel .
+Angenommen , ein Screeningtest für eine gewisse Krebsart weist eine Genauigkeit von 95 Prozent auf . Das heißt , wenn jemand an diesem Krebs erkrankt ist , ergibt der Test in 95 Prozent der Fälle ein positives Ergebnis .
+Als nächstes nehmen wir an , dass bei Personen , die nicht an diesem Krebs leiden , der Test nur in 1 Prozent der Fälle positiv ist .
+Und schließlich gehen wir noch davon aus , dass 0,5 Prozent der Menschen – also eine von 200 Personen – tatsächlich an dieser Art des Krebses leiden .
+Wenn Ihnen nun ihr Arzt mitteilt , dass bei Ihnen ein positives Testergebnis ermittelt wurde , heißt das nun , dass sie wahrscheinlich diesen Krebs haben ?
+Überraschenderweise lautet die Antwort nein . & nbsp ;
+Ein wenig Arithmetik zeigt , warum das so ist .
+Nehmen wir an , dass 100.000 Screening-Untersuchungen vorgenommen werden .
+Im Schnitt leiden 500 Menschen an diesem Krebs .
+Da 95 Prozent von ihnen ein positives Testergebnis aufweisen , wird es , im Schnitt , 475 positive Tests geben .
+Bei den 99.500 Menschen , die nicht an Krebs leiden , ergibt sich bei einem Prozent ein positives Testergebnis . Das bedeutet bei 1.470 positiven Tests 995 falsch positive Resultate .
+Mit anderen Worten : Selbst wenn dieser Test bei Ihnen ein positives Resultat erbracht hat , liegt die Wahrscheinlichkeit , dass Sie tatsächlich an Krebs leiden , lediglich bei etwa 32 Prozent . & nbsp ;
+Diese Antwort erscheint absolut nicht eingängig und wird daher leicht abgetan .
+Die meisten Menschen denken bei Wahrscheinlichkeiten meistens an „ 50 : 50 “ oder „ eins zu einer Million “ .
+Aber wie auch immer die Wahrscheinlichkeiten aussehen : Tatsache bleibt , dass es bei Screening-Untersuchungen seltener Erkrankungen generell einen hohen Prozentsatz falsch positiver Ergebnisse gibt .
+Überdies werden Patienten mit einer solchen fehlerhaften Diagnose einer weiteren Behandlung unterzogen , die oftmals schädliche Folgen hat .
+Regelmäßig verschleiert wird dieses Problem durch die „ Verfügbarkeitsheuristik “ & nbsp ; – eine weit verbreitete kognitive Voreingenommenheit aufgrund der Neigung des Menschen , die Wahrscheinlichkeit eines Phänomens danach zu beurteilen , wie schnell ein Beispiel dafür zur Hand ist .
+Die Menschen denken viel eher an einen & nbsp ; Freund , der an Krebs gestorben ist , als an Statistiken über Fremde , die unter den Folgen der Vorsorgeuntersuchungen leiden . & nbsp ;
+Die Quintessenz ist aber , dass die laufende Neubewertung der Krebs-Screenings evidenzbasiert ist .
+In der politischen Gestaltung müssen Entscheidungen auf Fakten und Argumenten gründen und nicht auf Anekdoten und Geschichten , so verlockend diese Narrative auch sein mögen .

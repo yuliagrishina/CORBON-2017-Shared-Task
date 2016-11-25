@@ -1,0 +1,35 @@
+Der Neuaufbau des Gehirns
+Viele Jahre lang wurde angenommen , dass alle unsere Gehirnzellen ( Neuronen ) vor der Geburt entstehen oder , in Ausnahmefällen , bis zu ein oder zwei Jahre nach der Geburt , dann sollte dieser Prozess angeblich beendet sein .
+Von da an , so die Überzeugung der meisten Hirnforscher , konnten neuronale Schaltkreise nur durch eine Veränderung der Synapsen oder Kontakte zwischen existierenden Zellen modifiziert werden .
+Dieser Sichtweise zufolge stellte die Gesamtzahl der Zellen , anatomisch durch ihre Funktion und die Bildung wichtiger Bahnen organisiert , die “ Hardware ” des Gehirns dar .
+Der detaillierte Charakter der Beziehungen der Zellen untereinander , die modifizierbaren Synapsen , stellte die Software dar .
+In den Sechzigerjahren deuteten erste Anzeichen darauf hin , dass Neuronen möglicherweise nach diesem frühen Zeitraum und sogar im Erwachsenenalter hinzukommen .
+Im Verlauf der Achtzigerjahre bestätigten sich diese Hinweise basierend auf Beobachtungen , die während der Untersuchung von Teilen des Singvogelgehirns im Zusammenhang mit der Aneignung und Erzeugung von Gesang erfolgten .
+Die ursprünglichen Beobachtungen wurden skeptisch aufgenommen , doch die Daten des Vogelgesangs erwiesen sich als überzeugend .
+Wie beweist man , dass ein Neuron zu einer bestimmten Zeit entstanden ist ?
+Jede Zelle im Körper enthält DNA , die für die Produktion der Proteine verantwortlich ist , die für das Funktionieren einer Zelle erforderlich sind .
+Obwohl alle Zellen im Körper die gleiche DNA besitzen , kommt in jeder Zellart nur eine Teilmenge der in der DNA verschlüsselten Gene zum Ausdruck , was den Unterschied zwischen , nehmen wir mal an , einer Hautzelle , einer Leberzelle und einer Gehirnzelle erklärt .
+Wenn eine Zelle im Begriff ist sich zu teilen , so etwa beim Wachstum von Gewebe , muss die DNA in der Mutterzelle verdoppelt werden , das heißt neue DNA wird synthetisiert .
+Es ist möglich , die Zelle mit einem der Bausteine der neuen DNA auszustatten und diesen Baustein mit einer kleinen radioaktiven Markierung zu versehen .
+Jedes Mal , wenn wir dann später das Gehirn durchsuchen und eine markierte Zelle finden , wissen wir , dass diese zu dem Zeitpunkt entstanden ist , als wir die DNA damit ausgestattet haben .
+Als wir ausgewachsene Kanarienvögel mit dem markierten DNA-Baustein versahen und dann nach markierten Neuronen suchten , die ein oder zwei Tage zuvor entstanden sein sollten , fanden wir keine .
+Wenn wir aber länger warteten – zum Beispiel eine bis drei Wochen , je nach Gehirnbereich – fanden wir eine ganze Reihe markierter Neuronen .
+So erfuhren wir , dass die neuen Nervenzellen nicht durch die Teilung existierender Neuronen , sondern anderswo im Gehirn entstanden waren und eine Wanderphase durchliefen während der sie nicht als Neuronen erkannt wurden .
+Es dauerte mindestens eine Woche bis die ersten neuen Neuronen ihren Bestimmungsort erreichten und die äußeren Merkmale eines ausgereiften Neurons angenommen hatten .
+Schließlich lernten wir , wie wir die zukünftigen Neuronen während ihrer Wanderung identifizieren konnten .
+Sie waren in dieser Phase viel kleiner und hatten eine gestreckte Form , die es ihnen ermöglichte zwischen anderen Zellen hindurchzuschlüpfen .
+Es war eine große Überraschung herauszufinden , dass die Zellen , die die neuen Neuronen produzierten , zu einem als “ radiale Glia ” bezeichneten Typus gehörten , von dem man angenommen hatte , dass er im Erwachsenalter nicht vorkommt und von dem man nicht wusste , dass er Neuronen produziert .
+Eine der Paradoxien dieses Prozesses besteht darin , dass die Gesamtzahl der Hirnzellen bei ausgewachsenen Vögeln und Säugetieren bemerkenswert konstant bleibt .
+Die neuen Nervenzellen ersetzen ältere der gleichen Art , die absterben – ein Prozess der natürlichen Verjüngung .
+In der Natur gibt es keine Krankenhäuser .
+Der plötzliche Verlust vieler Gehirnzellen infolge eines Schlaganfalls oder einer Verletzung muss sich erheblich auf das Überleben eines Tieres auswirken .
+Es hat den Anschein , dass die Ersetzung von Nervenzellen im erwachsenen Gehirn nicht entstanden ist , um durch Krankheit oder Verletzungen hervorgerufene Verluste auszugleichen , sondern als ein Prozess der stetigen Erneuerung , bei dem jeden Tag einige Zellen ersetzt werden .
+Diese Vorstellung ist so neuartig , dass sie einer weiteren Erläuterung bedarf .
+Im erwachsenen Singvogelgehirn können wir jederzeit viele kleine wandernde Neuronen aufspüren , die bereit sind abgestorbene Zellen zu ersetzen .
+Nur eine von dreien findet einen neuen “ Arbeitsplatz ” , doch die Überproduktion scheint sich zu lohnen , denn wenn eine ersetzbare Nervenzelle stirbt , sorgt die Überproduktion dafür , dass sich in ihrer Nähe bereits eine jüngere Zelle aufhält , die bereit ist ihren Platz einzunehmen .
+Soweit bekannt ist gehört nur ein kleiner Bruchteil aller Gehirnzellen in die Kategorie der ersetzbaren Zellen ; wenn andere Arten von Neuronen sterben , werden sie nicht ersetzt .
+Wir wissen jetzt , dass das Gehirn das Potenzial hat neue Hirnzellen zu bilden , um andere zu ersetzen , die abgestorben sind .
+Dieses Potenzial könnte zur Reparatur beschädigter Schaltkreise genutzt werden .
+Labors auf aller Welt versuchen Möglichkeiten zu entwickeln dieses Wissen in klinischen Situationen anzuwenden .
+Der Kunstgriff wird darin bestehen , das Gehirn zu veranlassen jede möglicherweise benötigte Nervenzelle zu produzieren und an den richtigen Bestimmungsort zu bringen , damit neue Zellen des erforderlichen Typs , unabhängig von der Zellklasse , andere der gleichen Art ersetzen können , die abgestorben sind .
+Dieses Ziel ist fern .

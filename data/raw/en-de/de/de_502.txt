@@ -1,0 +1,33 @@
+Eine Universalbibliothek
+MELBOURNE : Gelehrte träumen seit langem von einer Universalbibliothek , die alles je Geschriebene umfasst .
+Und als 2004 Google bekannt gab , dass es anfangen würde , alle von den wichtigsten Forschungsbibliotheken gehaltenen Bücher einzuscannen , schien die Bibliothek aus der Utopie plötzlich in Reichweite .
+Tatsächlich wäre eine digitale Universalbibliothek sogar noch besser , als ein Denker früherer Zeiten sich das hätte vorstellen können , denn jedes Werk stünde jedem jederzeit zur Verfügung .
+Und die Bibliothek könnte nicht nur Bücher und Artikel enthalten , sondern auch Gemälde , Musik , Filme und jede andere digital erfassbare Form kreativen Ausdrucks .
+Aber Googles Plan hatte einen Haken .
+Die meisten der Werke in diesen Forschungsbibliotheken sind noch immer urheberrechtlich geschützt .
+Google erklärte , dass es das gesamte Buch unabhängig von seinem Urheberrechtsstatus einscannen würde , aber dass Nutzer , die in einem urheberrechtlich geschützten Buch etwas suchen , nur kleine Ausschnitte gezeigt bekommen würden .
+Dies , so argumentierte es , sei „ freie Benutzung “ – und daher nach dem Urheberrecht zulässig , genau so , wie man zu Rezessions- oder Diskussionszwecken einen oder zwei Sätze zitieren dürfe .
+Verlage und Autoren sahen dies anders , und einige verklagten Google wegen Verstoßes gegen das Urheberrecht – und verglichen sich dann letztlich im Austausch gegen einen Anteil von Googles Erlösen .
+Im vergangenen Monat nun lehnte Richter Denny Chin in einem Gericht in Manhattan diesen vorgesehenen Vergleich ab , u.a. , weil er Google ein faktisches Monopol über die digitalen Versionen so genannter „ verwaister Bücher “ gegeben hätte ; das sind Bücher , die noch immer urheberrechtlich geschützt , aber nicht mehr im Druck sind und wo der Urheberrechtsinhaber schwer feststellbar ist .
+Chin befand , dass der US-Kongress und nicht ein Gericht die richtige Stelle sei , zu entscheiden , wem diese verwaisten Bücher anzuvertrauen seien und zu welchen Bedingungen .
+Er hatte sicher Recht , zumindest soweit wir Fragen betrachten , die in die Gerichtsbarkeit der USA fallen .
+Dies sind große und bedeutende Themen , die nicht nur Autoren , Verleger und Google betreffen , sondern jeden mit einem Interesse an der Verbreitung und Verfügbarkeit von Wissen und Kultur .
+Chins Entscheidung mag daher ein vorläufiger Rückschlag auf dem Weg hin zu einer Universalbibliothek sein , doch bietet sie uns Gelegenheit , erneut zu überdenken , wie sich der Traum am besten realisieren lässt .
+Die zentrale Frage ist Folgende : Wie können wir Bücher und Artikel – und nicht nur kleine Ausschnitte , sondern ganze Werke – für jeden verfügbar machen und gleichzeitig die Rechte der Urheber schützen ?
+Um das zu beantworten , müssen wir natürlich entscheiden , was diese Rechte sind .
+Genau wie Erfinder Patente erhalten , damit sie für eine begrenzte Zeit von ihren Innovationen profitieren können , erhielten Autoren ursprünglich Urheberrechte für eine relativ kurze Zeit – in den USA waren es lediglich 14 Jahre ab dem Datum der Erstveröffentlichung des Werkes .
+Für die meisten Autoren wäre dies Zeit genug , um den Großteil des Einkommens , das sie je aus ihren Veröffentlichungen ziehen werden , zu verdienen ; danach wären die Werke dann öffentliches Eigentum .
+Die Konzerne aber verdienen sich eine goldene Nase am Urheberrecht und drängten den Kongress wiederholt , dieses auszuweiten – sodass es in den USA jetzt 70 Jahre über den Tod des Urhebers hinaus gilt .
+( Das Gesetz aus dem Jahre 1998 , das für die letzte Verlängerung verantwortlich war , trägt den Spitznahmen „ Mickey Mouse Protection Act “ , weil es der Walt Disney Company erlaubte , das Urheberrecht an Disneys berühmter Comic-Figur zu behalten . )
+Dass das Urheberrecht eine so lange Geltungszeit hat , hat dazu geführt , dass inzwischen bis zu drei Viertel aller Bibliotheksbücher „ verwaist “ sind .
+Dieser enorme Fundus an Wissen , Kultur und literarischer Leistung ist den meisten Menschen nicht zugänglich .
+Seine Digitalisierung würde ihn für jeden mit einem Internetanschluss verfügbar machen .
+Peter Brantley , technologischer Direktor der California Digital Library , hat es so formuliert : „ Wir haben eine moralische Verpflichtung , an die Regale unserer Büchereien zu gehen , uns das verwaiste Material zu schnappen und es auf einen Scanner zu legen . “
+Ein Alternativvorschlag zu den Plänen von Google kommt von Robert Darnton , Direktor der Bibliothek der Universität Harvard : eine von einer Gruppe von Stiftungen , die mit einer Gruppe von Forschungsbibliotheken zusammenarbeiten , finanzierte öffentliche Digitalbibliothek .
+Darntons Plan bleibt hinter der Idee einer Universalbibliothek zurück , weil er im Druck befindliche Werke und Werke , deren Urheberrecht noch nicht abgelaufen ist , ausnimmt ; Darnton glaubt jedoch , dass der Kongress einer nicht gewerblichen öffentlichen Bibliothek ggf. das Recht einräumen würde , verwaiste Bücher zu digitalisieren .
+Das wäre ein wichtiger Schritt in die richtige Richtung , doch sollten wir den Traum von einer digitalen öffentlichen Universalbibliothek nicht aufgeben .
+Schließlich sind die Bücher , die noch immer im Druck sind , aller Wahrscheinlichkeit nach jene mit den aktuellsten Informationen und zudem das , was die Menschen am meisten lesen wollen .
+Viele europäische Länder , aber auch Australien , Kanada , Israel und Neuseeland haben Gesetze verabschiedet , die ein „ öffentliches Ausleihrecht “ begründen , d.h. der Staat erkennt an , dass es ein öffentliches Gut darstellt , hunderte von Menschen ein einziges Buch lesen zu lassen , aber dass dies zugleich den Buchabsatz reduzieren dürfte .
+Man könnte der öffentlichen Universalbibliothek gestatten , sogar Werke , die noch im Druck sind und deren Urheberrecht noch nicht abgelaufen ist , zu digitalisieren – im Austausch gegen an die Verlage und Autoren gezahlte Gebühren , die auf der Häufigkeit , mit der die digitale Version gelesen wird , beruhen .
+Wenn wir einen Menschen auf den Mond schicken und das menschliche Genom entziffern können , sollten wir doch wohl imstande sein , so etwas wie eine Universalbibliothek zu konzipieren .
+An dem Punkt dann werden wir allerdings vor einer anderen moralischen Verpflichtung stehen , die zu erfüllen sogar noch schwieriger sein wird : die Ausweitung des Internetzugangs über die nicht mal 30 % der Weltbevölkerung hinaus , die heute einen haben .

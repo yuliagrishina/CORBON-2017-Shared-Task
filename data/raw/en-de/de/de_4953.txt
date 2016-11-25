@@ -1,0 +1,36 @@
+Die Wiederkehr der Tuberkulose
+Generationen von Ärzten , Politikern und Mitarbeitern in Gesundheitsbehörden haben für die Ausrottung der Tuberkulose gekämpft .
+Aber nach Jahren des Erfolgs ist die Tuberkulose nun erneut auf dem Vormarsch .
+Ursprünglich wurde die Zunahme der Tb-Fälle in den Industrieländern seit 1992 den HIV-Infektionen zugeschrieben .
+Im Laufe der Zeit allerdings kamen andere Faktoren wie Immigration und eine spezielle Form der antibiotikaresistenten Tb hinzu .
+Die Weltgesundheitsorganisation hat eine Strategie erarbeitet , um der Wiederkehr der Tb entgegenzuwirken . Dazu gehört eine standardisierte Therapie mit geeigneten Medikamenten , sachgemäßer Dosierung und ausreichender Behandlungsdauer .
+Unglücklicherweise stellt die multiresistente Tuberkulose ( MDR-Tb ) , also jede Form der Tuberkulose , die nicht auf die herkömmliche Behandlung mit Isoniazid und Rifampicin anspricht , eine ernste Herausforderung dar : Weil die standardmäßige Behandlung weniger Wirkung zeigt , geht die Übertragung der Krankheit weiter .
+Außerdem wird jede unzureichend behandelte Tb multiresistent gegen Antibiotika , so dass eine gescheiterte Behandlung entweder Ursache oder Folge einer MDR-Tb sein kann .
+Das unterstreicht sowohl die Notwendigkeit rigoroser Maßnahmen in der aktuellen Tb-Behandlung als auch einer komplexeren Strategie zur Krankheitskontrolle , die darauf abzielt , so viele Fälle wie möglich zu heilen , erworbene Resistenzen zu verhindern und die Ausbreitung der Infektionen einzudämmen .
+Die WHO empfiehlt dazu die Anwendung der so genannten DOT-Strategie ( Directly Observed Therapy Strategy ) und legte eine Diagnoseschwelle von mindestens 70 % und eine Therapieschwelle von 85 % fest .
+Um jene Faktoren zu ermitteln , die in Europa zum Scheitern einer Tb-Behandlung führen , haben wir wissenschaftliche Publikationen zu diesem Thema einer systematischen Überprüfung unterzogen .
+Dazu analysierten wir 26 zwischen 1988 und 2001 veröffentlichte wissenschaftliche Arbeiten aus 13 Ländern ( der ehemaligen UdSSR , der tschechischen Republik , Polen und Rumänien in Osteuropa sowie aus Dänemark , Frankreich , Deutschland , Italien , den Niederlanden , Nordirland , Spanien , Schweden und der Schweiz in Westeuropa ) .
+In diesen Studien zeigte sich , dass das Therapieergebnis in durchschnittlich 74,4 % der Fälle als „ erfolgreich “ bezeichnet werden konnte , womit der von der WHO festgelegte Zielwert von 85 % aber unterschritten wurde .
+In 12,3 % der Fälle wurden die Patienten „ erfolglos “ behandelt und 6,8 % der behandelten Patienten starben .
+Die MDR-Tb war dabei das größte Hindernis für eine erfolgreiche Therapie .
+Wir erkannten , dass es in Populationen mit einem Anteil von mindestens 10 % MDR-Tb eine beträchtlich niedrigere Rate erfolgreicher Therapien gab .
+Überraschenderweise konnte in diesen Studien kein Zusammenhang zwischen Tb-Behandlungsergebnissen und Einwanderungsstatus nachgewiesen werden . Dies vielleicht deshalb nicht , weil man sämtliche Einwanderer ungeachtet ihrer jeweiligen Herkunftsländer in die Studien aufnahm .
+Aus diesen Erkenntnissen ergeben sich folgende klinische und gesundheitspolitische Implikationen :
+· Da erfolgreiche Tb-Therapieergebnisse unter der 85 % -Schwelle liegen , ist in den meisten europäischen Ländern eine Verbesserung nationaler Tb-Kontrollprogramme vonnöten .
+· MDR ist das größte Hindernis bei der Kontrolle der Tb in Europa .
+· Eine Untersuchung der Einwanderer unter Berücksichtigung ihrer Herkunftsländer , des Zeitpunktes der Einwanderung und vorheriger Behandlungen kann hilfreich sein , das Risiko einer MDR-Tb im Zusammenhang mit Einwanderern einzuschätzen .
+· Um die Gründe für eine unzureichende Tb-Behandlung in Europa nachzuweisen und zu korrigieren , bedarf es einer einheitlicheren Dokumentation von Besonderheiten in der Behandlung .
+Obwohl einige Besonderheiten in der Tb-Therapie wie der vorzeitige Behandlungsabbruch als Indikator für eine Multiresistenz bekannt sind , müssen auch andere , sich aus dem jeweiligen Gesundheitssystem ergebende Behandlungsaspekte wie eingesetzte Medikamente und Therapiedauer genau unter die Lupe genommen werden , um zu einer Verbesserung der Kontrollprogramme zu führen .
+So wurde beispielsweise in einer der von uns überprüften Studien nachgewiesen , dass keine Standardtherapie in der Initialphase oder der sekundären Phase der Behandlung mit mangelndem Therapieerfolg oder Todesfällen in Zusammenhang stand .
+Darüber hinaus erwiesen sich manche Aspekte des Patientenmanagements als Risikofaktoren im Hinblick auf einen vorzeitigen Therapieabbruch . Dies deutet auf Schwierigkeiten beim Zugang zur öffentlichen Gesundheitsversorgung für Tb-Patienten hin .
+Strukturelle Barrieren sind nicht die einzigen Probleme im Hinblick auf den Zugang zu Behandlungsmöglichkeiten in öffentlichen Gesundheitssystemen .
+Im Ausland geborene Patienten brechen ihre Behandlung möglicherweise aufgrund mangelnden Vertrauens in die Diagnose und Therapie ab oder ignorieren die leichteren Symptome der Krankheit einfach .
+Auch Patienten , denen es nach der Eingangsphase der Behandlung wieder besser geht , könnten die Therapie abbrechen .
+Aber auch andere soziale Faktoren als der Geburtsort sollten untersucht werden , um die Ursachen für primäre Multiresistenz festzustellen .
+In der Schweiz konnte ein Zusammenhang zwischen vorzeitigem Behandlungsabbruch und Asylbewerbern sowie Flüchtlingen aufgezeigt werden .
+Auch in Hamburg zeigte sich eine Beziehung zwischen Behandlungsabbruch und Obdachlosigkeit , intravenösem Drogenkonsum und Alkoholabhängigkeit .
+In Spanien erwies sich Obdachlosigkeit als Risikofaktor für vorzeitigen Behandlungsabbruch , während HIV-Infektion und intravenöser Drogenkonsum als Risikofaktoren für erfolglose Behandlungen identifiziert wurden .
+Ich glaube auch , dass es einen Zusammenhang zwischen erforderlicher Therapie und den politischen Entscheidungen eines Landes gibt .
+Die DOT-Strategie wurde nicht in allen europäischen Ländern umgesetzt , teilweise aufgrund der Uneinigkeit darüber , ob die Behandlung ein Recht oder eine Pflicht ist .
+Mitarbeiter öffentlicher Gesundheitssysteme treten für eine verpflichtende Behandlung von Patienten ein , bei denen das Risiko eines vorzeitigen Behandlungsabbruchs besteht . Andere wiederum meinen , das würde die Grundsätze persönlicher Freiheit verletzen ..
+Wenn wir unsere Bemühungen im Kampf gegen die Tuberkulose nicht verbessern , werden zahlreiche Gesundheitssysteme mit einem weniger abstrakten Problem konfrontiert sein : Mit der Sicherung der ökonomischen Ressourcen und organisatorischen Kapazitäten , um die Behandlung einer steigenden Zahl von Patienten zu gewährleisten , die eine Therapie wollen und brauchen .

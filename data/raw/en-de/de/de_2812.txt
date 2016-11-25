@@ -1,0 +1,51 @@
+Mensch , Maschine und was dazwischen ist
+TÜBINGEN , DEUTSCHLAND ­ – Wir sind heutzutage von so vielen technischen Spielereien umgeben , dass es manchmal schwer fällt zu sagen , wo die Technik aufhört und der Mensch anfängt .
+Von Computern und Scannern bis hin zu Mobilgeräten verbringt eine wachsende Anzahl von Menschen einen Großteil ihres bewussten Lebens damit , durch elektronische Geräte mit der Welt zu interagieren , wobei die Sinne – Sehen , Hören und Fühlen – die einzige Barriere zwischen Gehirn und Maschine darstellen und eine Schnittstelle zwischen Menschen und Geräten bilden .
+Doch wenn man diese Sinne aus der Gleichung herausstreicht , können elektronische Geräte zu unseren Augen , Ohren und sogar Armen und Beinen werden , die die Welt um uns herum aufnehmen und durch Software und Hardware mit ihr interagieren .
+Das ist keine bloße Prophezeiung .
+Gehirn-Maschine-Schnittstellen sind klinisch bereits gut etabliert – z. B. bei der Wiederherstellung des Gehörs durch Cochlea-Implantate ( in der Gehörschnecke ) .
+Und Patienten mit Parkinson im Endstadium können mit Tiefenhirnstimulation ( Deep brain stimulation , DBS ) behandelt werden .
+Aktuelle Experimente zu Neuroprothesen weisen auf das enorme Zukunftspotenzial ähnlicher Erfindungen hin , handele es sich um Netzhaut- oder Hirnstamm-Implantate für Blinde oder Gehirn-Aufzeichnungsgeräte zur Steuerung von Prothesen .
+Nichtinvasive Gehirn-Maschine-Schnittstellen , die auf aufgezeichneten Elektroenzephalogrammen basieren , haben die Kommunikationsfähigkeit gelähmter Patienten wiederhergestellt .
+Tierversuche und einige Studien an Menschen deuten darauf hin , dass die volle Kontrolle über künstliche Gliedmaßen in Echtzeit Gelähmten zudem eine Möglichkeit bieten könnte , zu greifen oder sogar auf hirngesteuerten , künstlichen Beinen zu stehen und zu gehen , wenn auch wahrscheinlich durch invasive Methoden , bei denen Elektroden direkt in das Gehirn implantiert werden .
+Zukünftige Fortschritte in den Neurowissenschaften werden zusammen mit der Miniaturisierung mikroelektronischer Geräte eine breitere Anwendung von Gehirn-Maschine-Schnittstellen ermöglichen .
+Dies könnte als Herausforderung angesehen werden , die unsere Vorstellungen über das Menschsein und unser moralisches Urteilsvermögen in Frage stellt .
+Wenn bestimmte Funktionen für Bedürftige wiederhergestellt werden können , zeichnet sich zudem natürlich die Frage ab , ob es richtig ist , diese Technologien dazu einzusetzen , die Fähigkeiten von gesunden Personen zu verbessern .
+Doch sind die ethischen Probleme , vor die uns diese Technologien stellen , konzeptuell denen ähnlich , die sich durch bestehende Therapien ergeben , z. B. durch Antidepressiva .
+Obwohl die Technologien und Situationen , mit denen uns Gehirn-Maschine-Schnittstellen konfrontieren , neu und unvertraut erscheinen mögen , bringen sie wenige neue ethische Herausforderungen mit sich .
+Bei hirngesteuerten Prothesen decodiert ein im Gerät befindlicher Computer Signale des Gehirns .
+Anhand dieser Signale wird dann vorhergesagt , welche Handlungen ein Benutzer beabsichtigt .
+Bei diesen Vorhersagen treten zwangsläufig manchmal Fehler auf , die zu gefährlichen oder zumindest peinlichen Situationen führen könnten .
+Wer ist für unbeabsichtigte Handlungen verantwortlich ?
+Ist es der Fehler des Computers oder des Benutzers ?
+Werden die Benutzer eine Art Lizenz und Pflichtversicherung benötigen , um eine Prothese benutzen zu dürfen ?
+Glücklicherweise gibt es Präzedenzfälle für den Umgang mit Haftungsfragen , wenn Biologie und Technologie versagen .
+So führte das zunehmende Wissen über die menschliche Genetik beispielsweise zu Versuchen , die Zurechnungsfähigkeit von Kriminellen zu verwerfen , begründet in dem Irrglauben , dass Gene das Handeln vorbestimmen .
+Diese Versuche schlugen fehl , und es erscheint ebenso unwahrscheinlich , dass neurowissenschaftliche Studien unsere Ansichten über den freien Willen und die Verantwortung des Menschen umstoßen werden .
+Zudem steuern Menschen häufig gefährliche und unberechenbare Werkzeuge , z. B. Autos und Waffen .
+Gehirn-Maschine-Schnittstellen stellen einen äußerst komplexen Fall der Werkzeugnutzung dar , aber sie sind immer noch nichts weiter als das .
+Die rechtliche Verantwortung sollte nicht viel schwieriger zu lösen sein .
+Doch was ist , wenn Maschinen das Gehirn verändern ?
+Daten aus früheren Gehirnstimulationsexperimenten von vor einem halben Jahrhundert legen nahe , dass das Aussenden eines Stroms ins Gehirn Persönlichkeitsveränderungen verursachen und das Verhalten verändern kann .
+Und obwohl viele Parkinsonpatienten vom beträchtlichen Nutzen von DBS berichten , hat sich ein erhöhtes Auftreten schwerer Nebenwirkungen gezeigt , z. B. Störungen des Nervensystems und psychiatrische Störungen sowie eine erhöhte Selbstmordrate .
+Fallstudien offenbarten Hypomanien und Persönlichkeitsveränderungen , die den Patienten nicht bewusst waren und die familiären Beziehungen störten , bevor die Stimulationsparameter erneut angepasst wurden .
+Solche Beispiele illustrieren die möglicherweise dramatischen Nebenwirkungen von DBS , doch sind auch subtilere Auswirkungen möglich .
+Selbst ohne Stimulation können reine Aufzeichnungsgeräte , wie hirngesteuerte motorische Prothesen , die Persönlichkeit des Patienten verändern .
+Die Patienten müssen darin trainiert werden , die richtigen Nervensignale zu erzeugen , um die Gliedmaßenprothese zu steuern .
+Dies könnte geringfügige Auswirkungen auf die Stimmung oder die Gedächtnisfunktion haben oder die Kontrolle über die Sprache behindern .
+Trotzdem wird dadurch kein neues ethisches Problem aufgeworfen .
+Nebenwirkungen kommen bei den meisten medizinischen Eingriffen vor , einschließlich der Behandlung mit psychoaktiven Drogen .
+2004 z. B. wies die US-amerikanische Arzneimittelbehörde Food and Drug Administration die Hersteller an , auf bestimmte Antidepressiva Warnungen zu drucken , die über das erhöhte kurzfristig auftretende Selbstmordrisiko bei jugendlichen Anwendern informierten , und forderte eine stärkere Überwachung junger Menschen zu Beginn der medikamentösen Behandlung .
+Ähnliche Vorsichtsmaßnahmen werden für Neuroprothesen erforderlich sein , auch was die Forschung angeht .
+Der klassische Ansatz der biomedizinischen Ethik besteht darin , den Nutzen für den Patienten gegen das Risiko eines Eingriffs abzuwägen und die autonomen Entscheidungen des Patienten zu respektieren .
+Keine der neuen Technologien rechtfertigt eine Änderung dieses Verfahrens .
+Trotzdem hat die Verfügbarkeit derartiger Technologien bereits zu Spannungen geführt .
+Beispielsweise lehnen viele Gehörlose Cochlea-Implantate ab , weil sie die Gehörlosigkeit nicht als Behinderung ansehen , die korrigiert werden muss , sondern als Teil ihres Lebens und ihrer kulturellen Identität .
+Für sie sind Cochlea-Implantate ein Enhancement ( Verbesserung ) , das die normale Funktion übertrifft .
+Um zwischen Enhancement und Behandlung zu unterscheiden , muss man Normalität und Krankheit definieren , was bekanntermaßen schwierig ist .
+So definiert Christopher Boorse , Philosoph an der University of Delaware , Krankheit beispielsweise als statistische Abweichung von der „ arttypischen Funktion “ .
+Aus diesem Blickwinkel erscheinen Cochlea-Implantate ethisch unproblematisch .
+Dennoch beschreibt Anita Silvers , Philosophin an der San Francisco State University sowie Behindertenforscherin und ‑ aktivistin , derartige Behandlungen als „ Tyrannei des Normalen “ , die darauf abzielen , die Gehörlosen an eine Welt anzupassen , die von Hörenden gestaltet wurde , wodurch letztlich die Minderwertigkeit der Gehörlosigkeit impliziert wird .
+Wir sollten derartige Bedenken ernst nehmen , doch sollten sie uns nicht von der weiteren Forschung zu Gehirn-Maschine-Schnittstellen abhalten .
+Gehirntechnologie sollte als eine Option , aber nicht als die einzige Lösung für beispielsweise Lähmung oder Gehörlosigkeit dargestellt werden .
+Bei dieser und anderen medizinischen Anwendungen sind wir gut darauf vorbereitet , uns mit ethischen Fragen zu befassen – parallel zu und in Zusammenarbeit mit der neurowissenschaftlichen Forschung .

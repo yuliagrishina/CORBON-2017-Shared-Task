@@ -1,0 +1,48 @@
+Crowdfunding oder Crowdphishing ?
+NEW HAVEN – Wenn man ein perfektes Beispiel dafür sucht , warum es so schwer ist , Finanzmärkte gut funktionieren zu lassen , muss man sich nur die Probleme und Kontroversen rund um das Crowdfunding in den Vereinigten Staaten anschauen .
+Nach über drei Jahren Beratung hat die US-Börsenaufsichtsbehörde Securities and Exchange Commission ( SEC ) im letzten Monat eine abschließendes Regelwerk verabschiedet , das echtes Crowdfunding ermöglichen wird . Und trotzdem reichen diese Regeln bei weitem nicht aus , um die Voraussetzungen für einen weltweiten Aufschwung des Crowdfunding zu schaffen .
+Echtes Crowdfunding , oder Eigenkapital-Crowdfunding , bezieht sich auf die Aktivitäten bei Online-Plattformen , die Aktien von Startup-Unternehmen direkt an eine große Anzahl kleiner Investoren verkaufen und so das traditionelle Venture Capital oder Investmentbanking umgehen .
+Dieses Konzept entspricht dem der Online-Auktionen .
+Aber Crowdfunding soll niemandem den weltweiten Verkauf seiner Möbel ermöglichen , sondern schnell Geld zur Verfügung stellen – das von Eingeweihten stammt und für Geschäftsmodelle gedacht ist , die von Banken vielleicht nicht verstanden werden .
+Das klingt sicherlich spannend .
+Außerhalb der USA waren die Regulierungsbehörden oft kulanter , und einige Crowdfunding-Plattformen sind bereits in Betrieb .
+So wurden Symbid in den Niederlanden und Crowdcube in Großbritannien bereits 2011 gegründet .
+Aber noch hat Crowdfunding auf den Weltmärkten keine große Bedeutung .
+Und ohne adäquate – und innovative – finanzielle Regulierung wird sich dies auch nicht ändern .
+Für das Verständnis der Probleme , vor denen Beamte bei der Regulierung von Crowdfunding stehen , gibt es eine konzeptuelle Barriere , die damit zu tun hat , dass die vorherrschenden ökonomischen Modelle die manipulativen und unaufrichtigen Aspekte menschlichen Verhaltens nicht in Betracht ziehen .
+Ökonomen beschreiben üblicherweise die rationale und ehrliche Seite der Menschen , ignorieren aber ihre Falschheit .
+Daher unterschätzen sie die Risiken des Crowdsourcing .
+Diese Risiken bestehen nicht so sehr in der Möglichkeit des Betrugs , also großer und strafbarer Lügen , sondern eher in subtileren Formen der Täuschung .
+Diese Täuschung kann auch offen sein , wenn Werber leichtgläubige Amateure von den entscheidenden Schwächen eines Geschäftsplans ablenken , diese nur widerstrebend preisgeben oder nur im Kleingedruckten darlegen .
+Es ist nicht so , dass Menschen völlig unehrlich sind .
+Im Gegenteil , sie sind normalerweise stolz auf ihre Integrität .
+Aber leider setzt diese Integrität hier und da etwas aus – was insgesamt einen großen Einfluss haben kann .
+In meinem neuen Buch gemeinsam mit George Akerlof , Phishing for Phools : The Economics of Manipulation and Deception , argumentieren wir , dass skrupelloses Verhalten in die ökonomische Theorie auf grundlegende Art einfließen muss .
+Das wirtschaftliche Gleichgewicht , in dem wir leben , sollte in erster Linie als Phishing-Gleichgewicht betrachtet werden , in dem sich kurzfristige individuelle Unehrlichkeit innerhalb von Unternehmen unter intensivem Wettbewerbsdruck in einen systemisch bedeutsamen Faktor verwandeln kann .
+Natürlich belohnt der Wettbewerb kluges Verhalten und harte Arbeit .
+Aber er verleitet auch oft dazu , die Grenzen subtiler Täuschung zu testen .
+Da die neuen Crowdfunding-Regeln der SEC ein kompliziertes Problem lösen sollen , sind sie selbst sehr komplex .
+Das Konzept hinter Crowdfunding ist die Verbreitung von Informationen über Millionen von Menschen .
+Die meisten Menschen , darunter sogar die klügsten , können die Gelegenheit des nächsten unternehmerischen Durchbruchs nicht erkennen .
+Die das können , sind rar gesät .
+Der Ökonom Friedrich Hayek hat dies 1945 gut ausgedrückt :
+„ Ohne Frage gibt es eine Menge sehr wichtigen , aber unorganisierten Wissens , das nicht im Sinne der Kenntnis allgemeiner Regeln als wissenschaftlich bezeichnet werden kann : im Sinne der Kenntnis bestimmter Umstände oder Orte .
+Diesbezüglich hat so gut wie jedes Individuum über alle anderen einen Vorteil , da es einzigartige und potenziell nutzbringende Informationen besitzt . Nutzbringend aber nur , wenn die darauf beruhenden Entscheidungen von ihm selbst oder mit seiner aktiven Mithilfe getroffen werden . “
+Das Problem ist , dass das Versprechen echter „ einzigartiger Informationen “ immer gemeinsam mit der Wirklichkeit der Anfälligkeit gegenüber Täuschung auftritt .
+Dies ist der Grund , warum die Kanalisierung zerstreuten Wissens in neue Unternehmensideen einen regulatorischen Rahmen erfordert , von dem die wirklich klugen und ehrlichen Menschen profitieren .
+Leider gehen die neuen Crowdsourcing-Regeln der SEC nicht so weit , wie sie eigentlich sollten .
+Das US-Gesetz von 2012 , das die SEC mit der Erstellung von Regeln für Crowdfunding-Plattformen beauftragt hat , sieht vor , dass Startups regulär nicht mehr als eine Million Dollar im Jahr einsammeln dürfen .
+Um den Umfang möglicher Täuschung zu begrenzen , ist diese Regel praktisch wertlos .
+Tatsächlich war die Einführung dieser Vorgabe ein schwerer Fehler und muss dringend durch eine Gesetzesänderung korrigiert werden .
+Die Grenze von einer Million Dollar ist nicht hoch genug und beschränkt Crowdfunding auf kleine Ideen .
+Einige der SEC-Regeln sind gegen Täuschung hilfreich .
+Insbesondere müssen Crowdfunding-Plattformen Kommunikationskanäle bereitstellen , „ über die Investoren miteinander und mit Repräsentanten des Emittenten über die verfügbaren Angebote kommunizieren können “ .
+Diese Regel ist gut und eine Grundlage für die gesamte Idee des Crowdfunding .
+Aber die SEC könnte mehr tun , als nur ihren Glauben an „ unzensierte und transparente Crowd-Diskussionen “ zu betonen .
+Sie sollte verlangen , dass der Vermittlungsplattform ein Überwachungssystem einführt , das gegen Beeinflussung und falsche Kommentare von Lockvögeln schützt .
+Die SEC und andere Regulierungsbehörden könnten sogar noch weiter gehen .
+Sie könnten die Vermittler dazu bewegen , eine Plattform zu entwickeln , die die Erfahrung und den Ruf der Kommentatoren zusammenfasst .
+Warum sollten Kommentatoren , die „ Empfehlungen “ sammeln oder deren Kommentare über Emittenten in Bezug auf deren nachfolgenden unternehmerischen Erfolg wertvoll sind , nicht bezahlt werden ?
+Damit es erfolgreich sein kann , hängt das Finanzsystem als Ganzes letztlich von Vertrauen ab , das ebenso wie Misstrauen und Angst hoch ansteckend ist .
+Soll Crowdfunding daher sein weltweites Potenzial wirklich ausschöpfen , muss Crowdphishing von Anfang an verhindert werden .
+Die Regulierer müssen die richtigen Regeln aufstellen ( und es wäre hilfreich , wenn sie sich dabei etwas beeilen würden ) .

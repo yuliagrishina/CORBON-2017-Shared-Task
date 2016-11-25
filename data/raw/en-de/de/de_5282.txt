@@ -1,0 +1,38 @@
+In Richtung einer grünen Nanotechnologie
+Das Aufkommen der Nanotechnologie – jenes Technologiezweigs , der Objekte Molekül für Molekül oder tatsächlich Atom für Atom errichten will – hat futuristische Bilder sich selbst vermehrender „ Nanobots “ heraufbeschworen , die Operationen durchführen oder unseren Planeten in eine Masse von „ Grey Goo “ ( grauem Schleim ) verwandeln , während sie alles um sich herum verzehren .
+Diese beiden Szenarien folgen einem bekannten Schema : Technologischer Fortschritt , wie etwa die Entwicklung der Atomkraft , genetisch veränderter Organismen , der Informationstechnologien und der synthetischen organischen Chemie , wird zunächst als Allheilmittel angesehen , dann aber – wenn Folgen , häufig im Bereich der Umwelt , sichtbar werden – als drohender Weltuntergang .
+Selbst bei der Wasseraufbereitung – dem wichtigsten technologischen Fortschritt aller Zeiten für die Verlängerung menschlichen Lebens – erweist sich , dass diese Krebs erregende Nebenprodukte erzeugt .
+Der Zyklus von fundamentaler Entdeckung , technologischer Entwicklung , Erkenntnis unerwünschter Folgen und öffentlicher Ablehnung scheint nicht aufzubrechen .
+Wird es bei der Nanotechnologie anders sein ?
+Neben der frühen Euphorie und dem Medienrummel , wie sie die Einführung neuer Technologien normalerweise begleiten , gab es bei der Nanotechnologie auch Projektionen über die von ihr möglicherweise ausgehenden Umweltrisiken – und zwar lange vor ihrer Kommerzialisierung im großen Stil .
+Dass derartige Fragen zu einem Zeitpunkt gestellt werden , zu dem sich die Nanotechnologie noch in den Kinderschuhen befindet , könnte zu besseren , sichereren Produkten und geringeren langfristigen Haftungspflichten für die Industrie führen .
+Die sich mit großer Schnelligkeit entwickelnde Nanomaterialienindustrie ist der Bereich der Nanotechnologie , der unser Leben mit größter Wahrscheinlichkeit als Erstes beeinflussen dürfte .
+Eine Schätzung der Nanobusiness Alliance aus dem Jahre 2003 identifizierte Nanomaterialien als größte Einzelkategorie bei nanotechnologischen Unternehmensneugründungen .
+In der Umwelttechnologiebranche etwa werden Nanomaterialien neue Wege zur Abfallreduzierung ermöglichen – durch sparsameren Einsatz von Ressourcen , die Behebung industriell verursachter Umweltschäden , die Gewährleistung unserer Trinkwasserversorgung und durch Effizienzsteigerungen bei der Energieproduktion und -verwendung .
+Kommerzielle Anwendungen von gegenwärtig oder in Kürze erhältlichen Nanomaterialien umfassen u.a. die nanotechnologische Herstellung von Titanpartikeln für den Einsatz in Sonnenschutzmitteln und Farben , von Kohlenstoff-Nanoröhren-Verbundwerkstoffen für Reifen , Silikon-Nanopartikeln als Festschmierstoffe und proteinbasierten Nanomaterialien in Seifen , Shampoos und Reinigungsmitteln .
+Die Herstellung , Nutzung und Entsorgung von Nanomaterialien wird unweigerlich zu ihrer Anreicherung in der Luft , im Wasser , im Boden und in Organismen führen .
+Weitere Untersuchungen sind erforderlich , um zu gewährleisten , dass Nanomaterialien – und die sie produzierende Industrie – sich als ökologischer Aktivposten und nicht als Belastung erweisen .
+Leider weiß man noch sehr wenig über die potenziellen ökologischen Auswirkungen der Nanomaterialien .
+Ironischerweise sind die Eigenschaften , die zu Bedenken Anlass geben könnten – wie die Aufnahme von Nanopartikeln durch die Zellen – genau jene , die für den Einsatz in medizinischen Anwendungen angestrebt werden .
+So berichten etwa über einen Zeitraum von zehn Jahren durchgeführte Studien , dass die fußballförmigen Fulleren-Moleküle , die man als „ Buckyballs “ bezeichnet , starke Antioxidanzien sind – vergleichbar in ihrer Stärke mit Vitamin E. Andere Studien berichten davon , dass einige Arten von Buckyballs für Krebszellen giftig sein können .
+Zwei Studien der letzten Zeit kamen zu dem Schluss , dass Buckyballs die Gehirnfunktion von Fischen beeinträchtigen können und auf menschliche Zellkulturen hochgradig toxisch wirken .
+Aber die Ergebnisse dieser Studien sind schwer zu interpretieren – u.a. deshalb , weil die dort verwendeten Nanomaterialien mit einem organischen Lösungsmittel verunreinigt waren , das hinzugefügt wurde , um die Fullerene im Wasser zu mobilisieren .
+Eine Folgestudie zur Toxizität von Fullerenen konnte keine wesentliche Toxizität von Buckyballs feststellen , dafür jedoch eine toxische Reaktion in Zellkulturen auf eine zweite Gruppe von Fullerenen – die so genannten „ einwandigen Nanoröhren “ ( SWNTs ) .
+Zum gegenwärtigen Zeitpunkt bleibt die Frage einer möglichen Toxizität von Fulleren-Nanomaterialien weitgehend unbeantwortet .
+Für die Feststellung , ob eine Substanz „ gefährlich “ ist oder nicht , muss man nicht nur die Toxizität des Materials ermitteln , sondern auch das Maß , in welchem es je mit lebenden Zellen in Berührung gelangen wird .
+Die Toxizität lässt sich bewerten , indem man Buckyballs in einen Fischtank tut , aber wir müssen außerdem herausfinden , ob Buckyballs jemals tatsächlich in einen „ Fischtank “ aus der realen Welt – wie einen See oder Fluss – gelangen würden .
+Wir wissen , dass schwer abbaubare Materialien über lange Zeit hinweg in der Umwelt präsent sein und daher eher mit der lebendigen Welt interagieren können .
+Aber die Prozesse , die zum Abbau von Nanomaterialien führen , einschließlich des Abbaus durch Bakterien , sind praktisch unerforscht .
+Mehr noch : Wir wissen nicht nur kaum etwas über ihre Toxizität und Langlebigkeit , sondern auch die Art und Weise , wie sich Nanomaterialien voraussichtlich in der Umwelt verbreiten werden , ist weitgehend unbekannt .
+Am gefährlichsten wären Nanomaterialien , die sowohl mobil als auch toxisch sind .
+Die Fullerene , die den Schwerpunkt früher Toxizitätsstudien bildeten , gehören zu den am wenigsten mobilen bisher untersuchten Nanomaterialien .
+Erste Arbeiten zur Mobilität von Nanomaterialien in Formationen , die Grundwasserleitern oder Sandfiltern ähnelten , haben gezeigt , dass ein Typ von Nanomaterial sehr mobil sein kann , während ein anderer an Ort und Stelle bleibt .
+Jedes Nanomaterial kann sich also unterschiedlich verhalten .
+Die Bedenken über die möglichen Auswirkungen von Nanomaterialien auf Gesundheit und Umwelt haben möglicherweise die drängende Anforderung überschattet , dass ihre Produktion sauber und umweltfreundlich erfolgen muss .
+Tatsächlich ist bekannt , dass viele für die Herstellung von Nanomaterialien verwendete Zutaten für den Menschen gesundheitsgefährdend sind .
+Eine ermutigende Tendenz ist , dass die zur Herstellung von Nanomaterialien verwendeten Methoden häufig „ grüner “ werden , wenn sie aus dem Labor in die industrielle Produktion überführt werden .
+Vom Problem der Toxizität von Nanomaterialien einmal abgesehen , legen vorläufige Ergebnisse nahe , dass die mit der Herstellung von Nanomaterialien verbundenen Risiken weniger groß als oder vergleichbar groß wie jene sind , die mit vielen gegenwärtigen industriellen Aktivitäten einhergehen .
+Es wäre naiv , zu erwarten , dass die Fortentwicklung der Nanotechnologie keinerlei Risiken für unsere Gesundheit oder die Umwelt birgt .
+Der Versuch , die Entwicklung von nanomaterialinspirierten Technologien aufzuhalten , wäre ebenso so unverantwortlich wie unrealistisch . Eine verantwortungsvolle Entwicklung dieser Technologien aber erfordert Wachsamkeit und soziales Engagement .
+Eine umweltfreundliche Nanotechnologie braucht Zeit , Geld und politisches Kapital .
+Mit Voraussicht und Sorgfalt jedoch kann sich die Nanotechnologie auf eine Weise entwickeln , die unser Wohlergehen und das unseres Planeten fördert .

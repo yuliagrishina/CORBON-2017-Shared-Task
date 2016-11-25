@@ -1,0 +1,37 @@
+Datenschutz nach Snowden
+LONDON – Ein Jahr ist vergangen , seit der ehemalige US-Geheimdienstmitarbeiter Edward Snowden das ungeahnte Ausmaß der Internetüberwachung durch den NSA offenlegte .
+Seine Enthüllungen empörten die Öffentlichkeit , führten zu scharfen Rügen seitens enger US-Verbündeter wie Deutschland und stellten naive Annahmen über die angebliche Freiheit und Sicherheit des Internets und der Telekommunikationsnetzwerke auf den Kopf .
+Im Alleingang hat Snowden nicht nur die Art und Weise verändert , wie wir über unsere Mobiltelefone , Tablets und Laptops denken , sondern auch eine Debatte über den Datenschutz entfacht .
+Seine Enthüllungen haben allerdings nicht zu einschneidenden Reformen geführt .
+Zwar hat US-Präsident Obama , angespornt von einem Bündnis zwischen zivilgesellschaftlichen Organisationen und der Technologieindustrie , einige Maßnahmen ergriffen .
+In einer Rede im Januar und einer dazugehörigen Präsidial-Direktive hat Obama die amerikanischen Agenten angewiesen , anzuerkennen , dass " alle Personen mit Würde und Respekt zu behandeln sind , ungeachtet ihrer Nationalität oder Wohnortes , und dass alle Personen berechtigte Datenschutzinteressen haben , wenn es um den Umgang mit ihren persönlichen Daten geht " .
+Dieses rhetorische Bekenntnis zum Datenschutz ging mit einigen konkreten Fortschritten einher , die in der schattenreichen Welt der Geheimdienste beispiellos sind .
+Als Technologieunternehmen die Regierung verklagten , damit sie Einzelheiten über Datenanfragen freigäbe , hat die Obama-Administration eine Einigung angestrebt und einen Vergleich unterstützt , der eine detailliertere Berichterstattung ermöglicht .
+Diese Einigung gewährt Unternehmen die Möglichkeit , Zahlen über die Datenanforderungen von Nachrichtendiensten im Bereich 250 oder 1.000 zu veröffentlichen , je nach Differenzierungsgrad der jeweiligen Auftragsart .
+Obwohl das ein Schritt in die richtige Richtung ist , geht die Direktive nicht weit genug . Sie hat große Lücken hinsichtlich der Berichterstattung einiger der berüchtigsten NSA-Programme , wie die flächendeckende Aufzeichnung von Telefongesprächen nach Abschnitt 215 des USA Patriot Act .
+Zudem hat Obama gegen die wichtigsten Empfehlungen der unabhängigen Untersuchungskommission , die er selbst ernannt hat , Einwände erhoben .
+Und der " USA Freedom Act " , der die Massenerhebung von amerikanischen Telefongesprächen stoppen sollte , wird von einer Reihe von Änderungen verwässert , die es der Regierung erlauben , weiterhin Metadaten von Millionen Menschen zu sammeln , ohne deren Erlaubnis einzuholen .
+Aus diesen Metadaten geht hervor , mit wem wir wann und wie lange sprechen , es wird also fast so viel über unser Privatleben preisgegeben , als würde der Inhalt selbst übertragen .
+Schlimmer noch , im Vergleich zum Rest der Welt war die Reaktion der USA seit den Enthüllungen Snowdens bisher die stringenteste .
+Natürlich hat Snowden mehr über die Überwachungspraktiken der US-Regierung enthüllt als über die anderer Länder .
+Aber die Dokumente enthielten auch ungeheuerliche Beispiele für die Übergriffe der Government Communications Headquarters , des Nachrichtendienstes des Vereinigten Königreiches für die Gewinnung von Informationen durch das Abfangen elektronischer Signale , sowie Informationen über Datenaustausch im so-genannten " Fünf-Augen-Netzwerk " , an dem die USA , Großbritannien , Kanada , Australien und Neuseeland beteiligt sind .
+Die Vereinbarungen über das Sammeln und den Austausch von Nachrichten dieser Regierungen untereinander bleiben streng gehütete Geheimnisse .
+Im Vereinigten Königreich kann die öffentliche und parlamentarische Debatte über Überwachungspraktiken höchstens minimal genannt werden .
+Und das kanadische Recht verbietet nicht nur , dass Unternehmen über Datenanfragen der Regierung Auskunft geben , sondern Premier Stephen Harper hat sogar einen Rechtsanwalt zum Datenschutzbeauftragten berufen , der seine Karriere damit verbrachte , Geheimdienste zu beraten , was wiederum den Zorn der Aktivisten entfachte .
+Einige Länder haben ihre Überwachungsaktivitäten sogar intensiviert .
+Gleich nach den Enthüllungen von Snowden hat die französische Regierung die Möglichkeit , die Regierungsüberwachung des Internets , übrigens auch für " kommerzielle " Zwecke , dramatisch zu verschärfen , in einen Gesetzesentwurf für die Bewilligung von Militärmitteln verpackt .
+Die Kritik des Europaparlaments der vom Vereinigten Königreich , Schweden , Frankreich und Deutschland ( und möglicherweise bald von den Niederlanden ) praktizierten Massenüberwachung scheint für die nationalen Regierungen nicht viel Bedeutung zu haben .
+In diesem Monat wird der 800 . Jahrestag der Magna Carta begangen , und Snowdens Enthüllungen haben im Zuge dieses Ereignisses eine neue Bewegung ins Leben gerufen , länderspezifische " Grundrechtechartas für das Internet " zu erstellen , in welchen die Prinzipien des Datenschutzes , der Redefreiheit und der verantwortungsvollen Anonymität festgelegt werden .
+In einer aufrüttelnden Rede vor den Vereinten Nationen im vergangenen September hat die brasilianische Präsidentin Dilma Rousseff ihr Land mit dem historischen Marco Civil , Brasiliens zivilgesellschaftliches Rahmenabkommen des Internets , an die Spitze dieser Bewegung gesetzt
+Aber die vorgeschlagene Grundrechtecharta sah vor , dass Internetfirmen ihre Sever in Brasilien unterhalten müssen - angeblich zum Schutz der Information vor den neugierigen Blicken der amerikanischen Geheimdienste - , gleichzeitig sollte aber den brasilianischen Gesetzesvollzugs- und Sicherheitsbehörden der Zugang zu diesen Daten erleichtert werden .
+Glücklicherweise hat der brasilianische Gesetzgeber diese Bestimmungen nicht in den endgültigen Marco Civil übernommen , der im April verabschiedet wurde .
+Andere Regierungen drohen damit , ähnliche Auflagen für den Aufbewahrungsort der Daten zu machen .
+Regeln dieser Art widersprechen nicht nur den grundsätzlichen Prinzipien einer offenen und vernetzten Internetstruktur , sie erzeugen auch neue Datenschutzrisiken .
+Und sie tragen nichts dazu bei , das grundsätzliche Problem zu lösen , nämlich den Regierungen den Zugang zu Personendaten privater Unternehmen zu verwehren .
+Die Art und Weise , wie Unternehmen weltweit auf Snowdens Enthüllungen reagieren , wird grundlegende Auswirkungen auf die Rechte ihrer Nutzer haben .
+Bisher haben einige den richtigen Ansatz gewählt und auf mehr Transparenz gepocht , bei gleichzeitiger Stärkung der Verschlüsselung ihrer Netzwerke , um die Geheimdienste auszuschließen .
+Unternehmen im gesamten Informations- und Kommunikationstechnologiesektor haben begonnen , Transparenzberichte zum Standard der Branche zu erheben .
+Aber es sollten noch mehr Telekommunikationsunternehmen und Hardwarehersteller die Internetunternehmen und Datenschutzrechtsbefürworter unterstützen und so eine breite Reformkoalition bilden .
+Vor einem Jahr hat Snowden der Welt enthüllt , wie ungeheuerlich die Verletzung des Datenschutzes durch die Regierungen ist .
+Jetzt ist es an der Technologiebranche , den zivilrechtlichen Organisationen und der Öffentlichkeit , dringend notwendige Reformen durchzusetzen , damit die Regierungen ehrlich bleiben .
+Nur so kann das Internet der Segen für die Freiheit sein , den es schon so lange verspricht .

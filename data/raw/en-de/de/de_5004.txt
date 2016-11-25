@@ -1,0 +1,36 @@
+Der Weg bis zur Entdeckung der DNA-Doppelhelix
+Vor fünfzig Jahren , am 25. April 1953 , veröffentlichten James Watson und Francis Crick im Wissenschaftsmagazin Nature einen kurzen Artikel .
+Darin wurde die bemerkenswerte Struktur der DNA - des genetischen Materials lebender Organismen - in Form einer Doppelhelix beschrieben .
+Dieses Modell war der Schlüssel zum Verständnis der Zellteilung und der Informationsspeicherung in den Genen zur Proteinsynthese .
+Zwei Monate später erfolgte der zweite wissenschaftliche Durchbruch , als Max Perutz eine Methode zur Strukturaufklärung großer Moleküle wie Myoglobin und Hämoglobin entwickelte .
+Seit damals hilft uns die Röntgenstrukturanalyse von Eiweißmolekülen die Chemie biologischer Reaktionen zu verstehen .
+Sowohl die Struktur der DNA als auch die der Proteine wurden am Cavendish Laboratory der Universität Cambridge entschlüsselt .
+Warum aber wurden diese , die Biologie und Medizin in der 2. Hälfte des 20. Jahrhunderts revolutionierenden Entdeckungen , in einem britischen Physik labor gemacht ?
+Die bahnbrechenden Erfolge des Jahres 1953 beruhten auf der im späten 19. Jahrhundert beginnenden berühmten Tradition der Experimentalphysik in Cambridge .
+Dieses Vermächtnis war die Grundlage des intellektuellen Klimas in dem das Vater-Sohn-Team William und Lawrence Bragg ausgebildet wurden und wo Lawrence Bragg--zunächst als Student und später als Doktorand - 1912 seine Vorstellungen formulierte , die später zur Röntgenstrukturanalyse führten .
+Obwohl bereits Max von Laue , Walter Friedrich und Paul Knipping die Beugung von Röntgenstrahlen in Kristallen entdeckt hatten , war es Lawrence Bragg , der diese Erkenntnis wissenschaftlich zu verwerten wusste .
+Die Reflexion an den , ,Bragg-Ebenen " - einzelne Atomlagen , an denen einfallende Röntgenstrahlen in bestimmten Winkeln gebeugt werden , deren Größe vom Abstand der Atomlagen bestimmt ist - ermöglichte den Braggs die Berechnung der exakten Anordnung von Natrium- und Chloratomen in einem Salzkristall .
+William Bragg schloss sein Mathematikstudium 1884 in Cambridge ab und ging nach Australien , wo er in Adelaide Professor für Physik wurde .
+1909 kehrte er nach Großbritannien zurück . In Leeds übernahm er einen Lehrstuhl und führte seine Arbeit über die Natur von Röntgenstrahlen fort .
+Im Jahr 1923 wurde zum Leiter der Royal Institution in London bestellt . Dorthin folgten ihm einige hervorragende junge Wissenschafter , die sich für seine Arbeit mit Röntgenstrahlen interessierten .
+Unter ihnen befanden sich zwei junge Cambridge-Absolventen , nämlich William Astbury und John Desmond Bernal , die sich beide für das Problem der Proteinstruktur interessierten - Astbury deshalb , weil er von Bragg gebeten wurde , Röntgendiagramme von Wolle und Seide anzufertigen .
+1927 kehrte Bernal als Dozent für Strukturkristallographie nach Cambridge zurück und wurde 1931 zum stellvertretenden Forschungsleiter der Abteilung für Kristallographie ernannt , die damals zum Cavendish Laboratory gehörte .
+Bernals wissenschaftliches Hauptinteresse galt ursprünglich der Atomstruktur von Kristallen , Metallen und Mineralien . Später wandte er sich der Struktur von Hormonen und Sterinen und einigen Aminosäuren , den Bausteinen der Proteine , zu .
+Unterdessen ging Astbury 1928 nach Leeds , wo auch er begann mit Aminosäuren und Proteinen zu arbeiten .
+Er beschrieb seine erfolglosen Versuche gut strukturierte Röntgenbeugemuster von Kristallen des Proteins Pepsin zu erhalten . Schließlich wandte er sich an Bernal mit der Bitte , ob er ihm helfen könnte , Kristalle von anderen Proteinen zu bekommen .
+Zufällig war Glenn Millikan , ein Freund Bernals , gerade in einem Forschungslabor in Uppsala , wo man große Pepsinkristalle zur Verfügung hatte . Er brachte einige dieser Kristalle noch in der Mutterlauge mit nach Cambridge .
+Ebenso wie bei Astbury waren auch die Beugemuster von trockenen Kristallen , die Bernal und Dorothy Crowfoot ( später Hodgkin ) erhielten , von enttäuschender Qualität .
+Aber als Bernal die Kristalle in einem Lichtmikroskop betrachtete , fiel ihm auf , dass eine große Menge Wasser in den Kristallgittern verdampft war und die Gitter daher ihre Regelmäßigkeit verloren hatten .
+Sie wiederholten ihr Experiment mit den Röntgenstrahlen , aber diesmal beließen sie die Kristalle in der Mutterlauge und schlossen sie in einer Glaskapillare ein . Das Ergebnis waren Beugemuster mit zahlreichen Reflexionen der Kristalle .
+Die Ergebnisse dieses entscheidenden Experiments in der Proteinkristallographie wurden 1934 in einem Artikel im Magazin Nature veröffentlicht .
+Nachdem Astbury aus diesem Ergebnis die Anwesenheit von Polypeptidketten abgeleitet hatte , begann er seine wegbereitenden Studien über ihre Konfiguration in Faserproteinen .
+Es gelang ihm auch , die ersten Röntgenbeugemuster von teilweise ausgerichteten DNA-Proben zu erhalten .
+Nach Abschluss seines Chemiestudiums in Wien kam 1935 Max Perutz nach Cambridge , um als Doktorand bei Bernal zu arbeiten .
+Im Jahr darauf stellte man ihm Hämoglobinkristalle von exzellenter Qualität zur Verfügung und Perutz lieferte die bis dato besten Röntgenbeugemuster .
+Die sichtbaren Beugemuster - Intensitäten und Positionen der jeweiligen Reflexionen - liefern allerdings nur die Hälfte jener Daten , die man benötigt , um die Struktur des beugenden Objekts zu bestimmen .
+Mathematisch ausgedrückt könnte man sagen , man bekommt nur die Amplitude , aber nicht die Phasen - d.h. die Stadien einer oszillatorischen Bewegung - ohne die aber die Positionen der Atome nicht bestimmt werden können .
+Bei einfacheren Strukturen mit einer kleinen Anzahl von Atomen konnte die Chemie wertvolle Ansätze zur Bestimmung der Anordnung von Atomen liefern und so wurden Lösungen oftmals durch Ausprobieren gefunden .
+Bei Proteinen allerdings , die Tausende von Atomen enthalten , scheiterte man mit dieser Methode .
+Trotz der enormen Menge an hervorragenden Daten , waren Ergebnisse also in quälend weiter Ferne .
+Dennoch gab man die Hoffnung nicht auf , dass die Proteinstruktur mittels Röntgenbeugemuster irgendwie aufzuklären sein müsste .
+So war es nur natürlich , dass dort wo die Chemie an ihre Grenzen stieß , die Physik - mit ihrem hervorragendsten Labor - einsprang und den Weg nach vorne wies . Ein Weg , den Watson und Crick beschritten und der sie zu dem epochemachenden Durchbruch führte , den wir in diesem Monat feiern .

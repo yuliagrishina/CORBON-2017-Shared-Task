@@ -1,0 +1,44 @@
+Das Prionenpuzzle
+ZÜRICH – Der Rinderwahnsinn in Großbritannien , der die Schlachtung von 3,7 Millionen Kühen zur Folge hatte und die britische Viehindustrie schwer traf , brach auf heimtückische Weise aus .
+1986 bekam eine britische Kuh eine unbekannte Gehirnkrankheit .
+Im Jahr darauf ergaben Tests , dass ihr Gehirn von einer Myriade kleiner Vacuolen zersetzt worden war und eine schwammartige Konsistenz angenommen hatte , was zum wissenschaftlichen Namen der Krankheit führte : bovine spongiforme Enzephalopathie .
+Innerhalb weniger Monate traten im ganzen Land Fälle auf .
+Eine ähnliche Krankheit mit dem Namen Traberkrankheit hatte bereits Schafe infiziert , war aber noch nicht bei Kühen diagnostiziert worden .
+Und eine fast identische und absolut tödliche Krankheit , Kuru , hatte im 20. Jahrhundert unter den Aborigines in Papua-Neuguinea gewütet .
+Sowohl Kuru als auch die Traberkrankheit sind ansteckend .
+Kuru wurde durch kannibalische Rituale verbreitet , die in Papua-Neuguinea New Guinea bis zu den 1950ern weit verbreitet waren .
+Auch in Großbritannien und anderswo wurde gesundes Vieh mit Fleisch und Knochenmehl gefüttert , die von infizierten Tieren stammten .
+Dies führte zu einer Tierseuche , die mehr als 280.000 Kühe befiel .
+Ihren Höhepunkt erreichte der Rinderwahnsinn im Jahr 1992 , als ihm wöchentlich fast 1000 Rinder zum Opfer fielen .
+Angesichts der schnell wachsenden Gesundheitskrise machten die britischen Behörden – ohne viel wissenschaftliches Verständnis der Krankheit und unter dem Druck einer mächtigen Industrielobby – einen fatalen Fehler .
+Da die Traberkrankheit nie sicher mit menschlichen Krankheiten in Verbindung gebracht wurde , nahmen sie an , auch die infizierten Kühe seien harmlos .
+Nicht nur die Kuru-Tragödie wurde dadurch ignoriert , sondern auch die hunderte jungen Menschen , die nach der Einnahme von aus menschlichen Leichen gewonnenen Wachstumshormonen an spongiformer Enzephalopathie gestorben waren .
+Diese Mischung aus Hybris , Unwissenheit und Unterwürfigkeit unter kommerzielle Interessen erreichte 1990 einen Höhepunkt , als die Tochter des Landwirtschaftsministers John Gummer im Fernsehen gezeigt wurde , wie sie einen Hamburger aß , und ihr Vater erklärte , britisches Rindfleisch sei sicher .
+Aber britisches Rindfleisch war weit davon entfernt , sicher zu sein .
+Ende 1995 erkrankten zwei junge Leute an der Creutzfeldt-Jakob-Krankheit – einer sehr seltenen Krankheit , die normalerweise ältere Menschen befällt .
+Die Obduktion ihrer Gehirne ergab das Vorhandensein von Prionen – der infektiösen Erreger , die Traberkrankheit , Kuru und Rinderwahnsinn verursachen .
+Aber es handelte sich nicht um Prionen der klassischen Creutzfeldt-Jakob-Krankheit .
+Seitdem fielen der “ neuen Variante ” der Creutzfeldt-Jakob-Krankheit etwa 300 Menschen zum Opfer .
+Während die Tragödie ihren Lauf nahm , gewannen Wissenschaftler allerdings ein besseres Verständnis der Krankheit .
+Prionen scheinen sich jeglichen konventionellen Annahmen zu widersetzen . Sie überleben Erhitzen unter Hochdruck , Irradiation und sogar vierstündige Verbrennung bei 340 ° C – Methoden , die normalerweise alle bekannten Viren und Bakterien sicher abtöten .
+Darüber hinaus besitzen Prionen keine eigenen Gene .
+Das Genom der Prionen stammt vom infizierten Individuum , wo es zunächst harmlos ist .
+Das infektiöse Prion überfällt dann das Körpersystem und programmiert es so um , dass es bereitwillig Prionen reproduziert .
+Seit dem Ausbruch der Krankheit wurde bekannt , dass viele verbreitete Krankheiten – darunter Alzheimer und Parkinson – ähnliche Eigenschaften haben .
+Es gibt zwar keine sichere Heilung , aber insbesondere bei der bislang sehr schwierigen Früherkennung von Prionen wurden gewisse Fortschritte gemacht .
+Krankheitserreger wie HIV werden typischerweise an der Anwesenheit von Nukleinsäuren ( wie DNA oder RNA ) erkannt , die bei Prionen fehlen .
+Seit kurzem gibt es aber effektive Methoden zur Verstärkung von Prionen , die es ermöglichen , die Krankheitserreger zu erkennen , bevor sie bei ihrem Wirt Schaden anrichten können .
+Außerdem besteht Hoffnung , dass ein wirksamer Impfstoff entwickelt werden könnte .
+Indem der Körper einer harmlosen Version eines Erregers ausgesetzt wird , kann das Immunsystem Antikörper herstellen , die den “ wilden ” Krankheitserreger im Falle einer späteren Infektion neutralisieren .
+Vor zehn Jahren wurde in meinem Labor gezeigt , dass ein Antikörper Infektionen bei Mäusen , die Prionen ausgesetzt wurden , deutlich verzögern – und in manchen Fällen verhindern – konnte .
+Aber dabei tauchten einige Probleme auf .
+Der Körper des Wirts produziert seine eigene Version des Prionenproteins , und es ist schwierig , einen hochwertigen Antikörper herzustellen , der gegen einen Teil des Körpers selbst wirkt .
+Daher müssen Forscher , anstatt zu versuchen , Immunität zu erreichen , vorfabrizierte Antikörper gegen Prionen entwickeln , die Patienten direkt verabreicht werden können .
+Diese Lösung könnte gegen verwandte Krankheiten wie Alzheimer funktionieren , hat aber ihre eigenen Probleme , darunter die Schwierigkeit , solche Antikörper von der Injektionsstelle zum Gehirn zu transportieren .
+Bei Tieren , denen diese Antikörper verabreicht wurden , traten schwere Nebenwirkungen auf , was die Anwendung bei Menschen unmöglich machen könnte .
+Eine weitere Methode zur Bekämpfung von Krankheiten , die von Prionen verursacht werden , könnte darin liegen , die Prionengene des Wirts zu entfernen .
+Der Schweizer Wissenschaftler Charles Weissmann konnte dies vor zwei Jahrzehnten anhand einer Reihe von Experimenten an Mäusen zeigen .
+Mit der kürzlich entwickelten “ Zink-Finger-Nuklease ” -Technologie kann jedes beliebige Gen aus der DNA eines Tieres entfernt werden .
+Tatsächlich wurden bereits prionenfreie Schafe und Kühe gezüchtet .
+Diese Tiere können keine infektiösen Prionen tragen .
+Die Qualität ihres Fleisches muss zwar noch untersucht werden , aber sie könnten eine sichere Quelle biologischer Wirkstoffe – wie therapeutischer Antikörper oder Wachstumshormone – zur Verwendung in der menschlichen Medizin sein .

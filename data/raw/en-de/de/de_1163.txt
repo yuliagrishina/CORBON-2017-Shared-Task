@@ -1,0 +1,44 @@
+Schuld und Wahn
+NEW HAVEN – Ökonomen sprechen gern über Schwellenwerte , die Ärger machen , wenn sie überschritten werden .
+Meistens liegt etwas Wahrheit in dem , was sie sagen , aber die öffentliche Meinung reagiert oft übertrieben auf diese Informationen .
+Nehmen wir zum Beispiel die Verschuldungsquote in Bezug auf das Bruttoinlandsprodukt , über die in Europa und den Vereinigten Staaten gerade viel debattiert wird .
+Im gleichen Atemzug wird dann auch gesagt , dass die Verschuldungsquote von Griechenland 153 Prozent des griechischen Bruttoinlandsprodukts entspräche und dass Griechenland zahlungsunfähig sei .
+Wenn man das mit den Fernsehberichten von Griechen paart , die in den Straßen demonstrieren , wie sieht das aus ?
+Hier in den USA sieht das aus wie ein Bild unserer Zukunft , während die Staatsverschuldung den 100 Prozent des Bruttoinlandsprodukts gefährlich nahe kommt .
+Aber vielleicht ist dieses Bild etwas zu lebendig in unserer Fantasie .
+Denken die Leute wirklich , dass ein Land zahlungsunfähig wird , wenn seine Verschuldung höher ist als sein Bruttoinlandsprodukt ?
+Das wäre ganz einfach Unsinn .
+Denn schließlich wird die Verschuldung in Währungseinheiten gemessen und das Bruttoinlandsprodukt in Währungseinheiten pro Zeiteinheit . Das heißt , wenn man beide ins Verhältnis setzt , erhält man eine Quote in Zeiteinheiten .
+Es ist nicht ungewöhnlich , für diese Einheit ein Jahr zu nehmen .
+Ein Jahr ist die Zeit , in der sich die Erde einmal um die Sonne dreht , was , außer für saisonabhängige Branchen wie der Landwirtschaft wirtschaftlich nicht weiter relevant ist .
+Schließlich haben wir schon im Physikunterreicht in der Schule gelernt , immer besonders auf die Maßeinheiten zu achten .
+Wählt man die falsche Maßeinheit , hat man ein Problem .
+Wenn Ökonomen die Bruttoinlandsprodukt-Quartalszahlen nicht regelmäßig auf das Jahr hochrechnen und mit vier multiplizieren würden , wäre die Verschuldungsquote Griechenlands vier mal höher als jetzt .
+Und wenn sie die Quartalszahlen auf ein Jahrzehnt beziehen würden anstatt auf ein Jahr , sie also mit 40 und nicht mit 4 multiplizieren würden , läge Griechenlands Schuldenquote bei 15 Prozent .
+Will man sich ein Bild darüber machen , ob Griechenland fähig ist , seine Schulden zu bezahlen , dann wäre diese Betrachtungsweise relevanter , weil das Land ja seine Schulden schließlich nicht in einem Jahr bezahlen muss ( es sei denn , die Krise machte es unmöglich , die aktuelle Verschuldung zu refinanzieren ) .
+Ein Teil der Staatsverschuldung Griechenlands wird übrigens den Griechen selbst geschuldet .
+Daher reflektiert die bloße Zahl die Verpflichtungen , die die Griechen untereinander eingegangen sind ( größtenteils in Form von innerfamiliären Krediten ) nur ungenügend .
+Die Verschuldung ( einschließlich informeller Verschuldung ) im Verhältnis zum Bruttoinlandsprodukt würde zu jedem Zeitpunkt der Geschichte 100 Prozent weit übersteigen .
+Wir denken meistens nicht über all diese Dinge nach , wenn wir die Schlagzeilen über die Schuldenquoten sehen .
+Sind wir wirklich so dumm , dass wir uns dadurch verwirren lassen ?
+Aus persönlicher Erfahrung kann ich sagen , ja , das sind wir , denn sogar ich , als Berufsökonom , musste manchmal innehalten und mich selbst davon abhalten , genau denselben Fehler zu machen .
+Ökonomen , die an rationalen Erwartungsmodellen festhalten , werden es niemals zugeben , aber viel von dem , was auf den Märkten geschieht , geschieht aus purer Dummheit – oder zumindest Unaufmerksamkeit , Fehlinformation über Grundlagen und aus einem übertriebenen Fokus auf aktuelles Tagesgeschehen .
+Was tatsächlich in Griechenland passiert , ist der Ablauf eines sozialen Feedback-Mechanismus ‘ .
+Aus irgendeinem Grund haben Investoren plötzlich Angst gehabt , die griechische Verschuldung hatte ein etwas höheres Risiko eines möglichen Ausfalls .
+Die Nachfrage nach griechischen Anleihen sank , dadurch fiel der Preis , das heißt , der Ertrag in Bezug auf die Zinssätze stieg .
+Die höheren Zinssätze machten es für die Griechen schwieriger , ihre Schulden zu refinanzieren , wodurch wiederum eine Finanzkrise ausgelöst wurde , die die Regierung zwang , strenge Sparmaßnahmen einzuführen , was zu sozialen Unruhen und einem Zusammenbruch der Wirtschaft führte , die die Skepsis der Investoren über die Fähigkeit Griechenlands , seine Schulden zu bezahlen , weiter verstärkte .
+Dieses Feedback hat nichts damit zu tun , dass die Verschuldungsquote im Verhältnis zum Bruttoinlandsprodukt irgendeinen Schwellenwert überschritten hat , es sei denn , alle , die an diesem Feedback beteiligt sind , glauben an die Quote .
+Die Quote würde uns helfen , die Risiken von negativem Feedback zu ermitteln , da die Regierung kurzfristige Schulden schneller refinanzieren muss .
+Und wenn die Krise die Zinssätze in die Höhe treibt , müssen sich die Behörden früher oder später starkem Druck hinsichtlich von Sparmaßnahmen stellen .
+Carmen Reinhart und Kenneth Rogoff haben vergangenes Jahr einen Aufsatz mit dem Titel „ Growth in a Time of Debt ” geschrieben , dessen Analyse von 44 Ländern über einen Zeitraum von 200 Jahren weite Beachtung fand . Reinhart und Rogoff fanden heraus , dass Länder , deren Staatsverschuldung über 90 Prozent des Bruttoninlandsproduktes beträgt , eine Verlangsamung des Wachstums erleben und circa einen Prozentpunkt der jährlichen Wachstumsrate verlieren .
+Da 90 Prozent sehr nah bei 100 Prozent liegen , könnte man nun fälschlicherweise annehmen , dass Ländern , die sich in einer solchen Situation befinden , schreckliche Dinge geschähen .
+Aber wenn man sich den Aufsatz aufmerksam durchliest , sieht man , dass die Autoren 90 Prozent der Zahlen fast willkürlich aufgenommen haben .
+Sie haben , ohne dies zu begründen , Verschuldungsquoten von 30 Prozent , 30 bis 60 Prozent , 60 bis 90 Prozent und über 90 Prozent gewählt .
+Und tatsächlich verlangsamt sich das Wachstum in allen dieser Kategorien , nur etwas mehr in der letzten .
+Und dann wäre da noch das Problem der umgekehrten Kausalität .
+Die Verschuldungsquote im Verhältnis zum Bruttoinlandsprodukt steigt bei Ländern , die sich in wirtschaftlichen Schwierigkeiten befinden .
+Wenn das auch ein Grund dafür ist , dass höhere Verschuldungsquoten niedrigerem Wirtschaftswachstum entsprechen , gibt es um so weniger Grund , zu denken , dass Länder eine höhere Quote vermeiden sollten , denn die keynesianische Theorie besagt , dass Sparmaßnahmen die Wirtschaftsleistung eher bremsen anstatt sie zu befeuern .
+Das Grundproblem , das ein Großteil der Welt heute hat , ist , dass Investoren auf hohe Verschuldungsquoten übernervös reagieren , Angst vor einem magischen Schwellenwert haben und zu schnell nach Sparmaßnahmen rufen .
+Sie fordern von den Regierungen , Ausgaben zu kürzen , wenn die Wirtschaft noch immer verletzlich ist .
+Privathaushalte werden von der Angst getrieben , so dass auch sie ihre Ausgaben kürzen . Und Unternehmen nehmen keine Kredite auf , um Kapitalanlagen zu finanzieren .
+Die Lektion ist einfach . Wir sollten uns weniger Sorgen über Verschuldungsquoten und Schwellenwerte machen , sondern mehr über unsere Unfähigkeit , diese Indikatoren als das zu sehen , was sie sind : künstlich und oft irrelevant .

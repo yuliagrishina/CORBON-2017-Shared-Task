@@ -1,0 +1,33 @@
+Heiße Steine
+CANBERRA : Fragen Sie einen Stromversorgungsingenieur nach erneuerbarer Energie , und er wird Ihnen vermutlich erzählen , dass sie keinen „ Grundlaststrom “ liefert .
+Anders gesagt , man kann sich nicht darauf verlassen , mit erneuerbarer Energie täglich rund um die Uhr mit Strom versorgt zu werden : Manchmal fehlt der Wind , der die Windräder oben auf dem Hügel antreibt . Solaranlagen werden des Nachts nicht von der Sonne beschienen , und selbst Strom aus Wasserkraft kann knapp werden , wenn der Regen ausbleibt .
+Das von Natur aus erratische Verhalten der wichtigsten Technologien im Bereich der erneuerbaren Energien stellt die Planer von Stromversorgungssystemen vor ernste Probleme .
+Es setzt der Menge des durch diese Arten von erneuerbarer Energie produzierten Stroms , der weltweit in nützlicher Weise in die Stromnetze eingespeist werden kann , Grenzen .
+Schließlich erwarten die Verbraucher , dass immer Strom zur Verfügung steht .
+Die technische Lösung besteht darin , als eine wichtige Komponente des Stromerzeugungsmix eine große Menge zuverlässigen Grundlaststroms vorzuhalten und diesen durch „ Spitzenstrom “ zu ergänzen , der bei Bedarf ins Netz eingespeichert werden kann .
+Diese Spitzenstromkapazitäten beruhen in einigen Ländern auf Strom aus Wasserkraft , in der Regel jedoch auf der Verbrennung fossiler Brennstoffe wie Gas , Diesel oder Heizöl .
+Auch der Grundlaststrom basiert überwiegend auf fossilen Brennstoffen : Allein etwa 39 % der weltweiten Stromproduktion beruhen auf der Verbrennung von Kohle .
+In einigen Ländern wird die Nuklearenergie als die Antwort angesehen , doch die weltweiten Vorkommen an hochwertigen Nuklearbrennstoffen erscheinen begrenzt , und die langfristigen Kosten für die Lagerung von Atommüll und die Außerdienststellung der Kraftwerke sind hoch .
+Die Herausforderung ist daher , unsere aktuelle Abhängigkeit von fossilen und nuklearen Brennstoffen im Bereich des Grundlaststroms zu verringern .
+Die Antwort könnte direkt unter unseren Füßen liegen .
+Die Erde ist ein außergewöhnlich heißer Planet .
+Ihr 6000 Kilometer unter der Erdoberfläche liegender Kern ist so heiß wie die Oberfläche der Sonne .
+Doch selbst in geringen Tiefen reichen die Temperaturen häufig zur Stromerzeugung aus .
+Diese „ konventionelle “ geothermische Energie wird seit über 100 Jahren für eine zuverlässige Grundlastversorgung genutzt und wird heute in vielen Ländern eingesetzt , u.a. in Italien , Island , Japan , Neuseeland und im Westen der USA .
+Die Technologie ist bewährt , und zuverlässige Stromerzeugungskapazitäten von mehr als 9000 Megawatt sind bereits vorhanden .
+Allerdings erfordert konventionelle geothermische Stromerzeugung eine Quelle großer Mengen an Dampf oder heißem Wasser , und derartige Quellen gibt es in der Regel nur in vulkanischen Regionen , was den Einsatz dieser Technologie in weiten Teilen der Welt ausschließt .
+Deutlich verlockender , was den menschlichen Bedarf an weithin verfügbaren sauberem Grundlaststrom angeht , ist die nicht konventionelle Nutzung der im heißen Gestein nur wenige Kilometer unter der Erdoberfläche vorhandenen nützlichen geothermischen Energie .
+Ohne natürlichen Dampf oder heißes Wasser jedoch , die diese Energie an die Oberfläche bringen können , bedarf es einer technischen Lösung , und während der letzten 35 Jahre wurden weltweit mehr als 600 Millionen Dollar dafür ausgegeben , eine solche auszuarbeiten .
+Das Konzept ist verführerisch einfach : Man bohrt mindestens zwei Bohrlöcher von 5 km Tiefe , lässt kaltes Wasser in eines davon laufen , führt es durch das heiße Gestein und bringt es dann über das zweite zurück an die Oberfläche , wo ihm in einem Kraftwerk die Energie entzogen wird .
+Das so gekühlte Wasser wird dann wieder in den ersten Schacht eingeführt und erneut durch den Untergrund geführt .
+An der Oberfläche wird dem Wasser nur die Hitze entzogen ; alles andere , was nach oben gespült wird , verbleibt im Wasser , sodass Abfall vermieden wird .
+Die langfristige Rolle des geothermischen HDR-Verfahrens freilich wird durch wirtschaftliche Aspekte bestimmt werden , denn das Bohren tiefer Bohrlöcher ist teuer , und die Kosten dafür fallen an , bevor die Kraftwerke die Stromerzeugung aufnehmen können .
+Je weniger tief die Hitzequellen liegen und je geringer die Kapitalkosten sind , desto wettbewerbsfähiger wird ein HRD-Projekt .
+Auch die steigenden Kosten von fossilen und spaltbaren Brennstoffen erhöhen die Überzeugungskraft des HDR-Verfahrens , da die langfristigen wirtschaftlichen Gegebenheiten geothermischen Stroms de facto von den Schwankungen bei den Brennstoffpreisen unabhängig sind .
+Lagerstätten von heißem , trockenem Gestein sind häufig , und große Wärmemengen sind vielerorts zum Greifen nah .
+Doch die wissenschaftlichen und technischen Probleme des HDR-Verfahrens sind schwierig , und erst jetzt sind die ersten Kraftwerke in der Entwicklung .
+Ein kleines Kraftwerk wird derzeit in Landau in Deutschland betrieben , und weitere befinden sich in Frankreich und Australien im Bau .
+Diese ersten Kraftwerke werden die betrieblichen und finanziellen Leistungshistorien entwickeln , die notwendig sind , bevor die geothermische HDR-Energie sich auf das weltweite Energieangebot auswirken kann .
+Die technische Umgestaltung der Stromsysteme der Menschheit wird unabhängig von dem dabei eingesetzten Technologiemix ein teures Unterfangen , und die ausgewählten Systeme müssen zuverlässig und weithin verfügbar sein .
+Der Weg hin zur geothermischen HDR-Energie war lang und teuer , doch wie bei allen neuen Technologien mussten zunächst die grundlegenden Forschungs- und Entwicklungsarbeiten abgeschlossen werden , bevor die kommerzielle Entwicklung folgen konnte .
+Nun , da Kraftwerke gebaut werden , sieht es gut aus für den weit verbreiteten Einsatz geothermischer Energie zur Erzeugung von sauberem , emissionsfreiem Grundlaststrom .

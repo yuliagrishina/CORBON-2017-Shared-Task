@@ -1,0 +1,38 @@
+Die chinesische Internet-Mauer
+Im Gegensatz zur allgemein vertretenen Ansicht , sind die chinesischen Bemühungen zur Kontrolle des Internet und anderer neuer Medien nicht zum Scheitern verurteilt .
+Die chinesische Führung hat zwar größtenteils die Kontrolle über Informationen und Bilder verloren , die momentan in der chinesischen Gesellschaft herumgeistern , ist aber durchaus noch immer in der Lage , die Nutzung der Medien für einen Angriff auf sie zu verhindern .
+Wie ist das möglich ?
+Die Regierung verlangt , dass Webseiten , Fernsehprogramme und andere Medien drei allgemeine Kriterien erfüllen :
+Sie haben die chinesischen Bemühungen zur Aufrechterhaltung des Wirtschaftswachstums und der sozialen Ordnung , die Wiedervereinigung mit Taiwan und die Sicherstellung des internationalen Respekts zu unterstützen , oder zumindest nicht zu verhindern ;
+sie haben das politische Machtmonopol der chinesischen kommunistischen Partei zu unterstützen oder zumindest nicht in Frage zu stellen ; und
+sie haben sich gegen solch , ,negative " soziale Phänomene wie , ,geistige Verschmutzung " ( Pornographie und Drogenmissbrauch , z.B. ) , , , bürgerliche Liberalisierung " ( Demokratisierung nach westlichem Vorbild ) , ,feudal geprägtem Aberglauben " ( Falun Gong und andere geächtete Religionsgemeinschaften ) und , ,Verehrung fremder Dinge " ( vor allem der amerikanischen Popkultur ) zu wenden .
+Das Instrumentarium der Regierung , die Erfüllung dieser Kriterien zu überprüfen , ist weit effektiver , als die meisten Beobachter glauben .
+Erstens ist es der Führung möglich , diejenigen , die gegen diese Bestimmungen verstoßen , hinter Gitter zu bringen .
+So wurde beispielsweise im Jahr 1998 ein Ingenieur aus Shanghai zu einer zweijährigen Haftstrafe verurteilt , weil er 30.000 chinesische E-mail-Adressen an einen Newsletter für Dissidenten in Übersee verkauft hatte .
+Im März 2001 wurden nach einer Razzia im Internet , bei der man nicht systemkonforme Meinungsverbreitung ausforschte , zahlreiche Menschen verhaftet und drangsaliert .
+Zweitens stehen der Regierung technische Mittel zur Verfügung , um den Menschen den Zugang zu unerwünschten Inhalten zu verweigern .
+Seit Juni 1989 sind Übertragungen von Voice of America unterbunden und im Frühling 2001 wurden auch aus Indien und Zentralasien ausgestrahlte Sendungen in tibetischer , uighurischer und kasachischer Sprache verboten .
+Chinesischen Internetsurfern wird der Zugang zu gewissen Webseiten verwehrt und seit vorigen Sommer haben sie auch keinen Zugriff mehr auf die Suchmaschinen Google oder AltaVista .
+Erst kürzlich hat man ein neues System entwickelt , das zwar den Zugang zu früher verbotenen Webseiten wieder erlaubt , es aber mit einer so genannten Packet-Sniffing-Technologie ausgestattet ist , die den Zugang zu verbundenen Seiten verwehrt .
+Drittens bietet man ausländischen Unternehmen für ihre Kooperationsbereitschaft exklusive Zugangsrechte zum gigantischen chinesischen Markt an .
+So wie die Regierung im Jahr 1994 Rupert Murdoch dazu brachte die BBC News aus dem Programm STAR-TV zu nehmen , überredete man auch Yahoo , eine auf spezielle chinesische Bedürfnisse zugeschnittene Suchmaschine zu konzipieren , von der aus Seiten mit nicht akzeptablem Inhalt nicht erreicht werden können .
+Unternehmen wie Cisco wurden beschuldigt , der Regierung Technologien zur Verfügung zu stellen , um die , ,chinesische Internet-Mauer " auch wirklich undurchdringlich zu machen .
+Viertens lenkt die Regierung durch die Unterstützung " gesunder " chinesischer Webseiten und durch glitzernde , aber letztlich inhaltsleere Unterhaltungsprogramme im Fernsehen ab .
+Derartige Spiele - im Verband mit dem Brot des Wirtschaftswachstums - verdrängen subversive Nachrichten aus dem Ausland , vor allem wenn sie mit nationalistischer Propaganda garniert sind , die die Menschen gegen die kleinste noch durchgeschlüpfte Subversion immun machen sollen .
+Bis jetzt ist es der chinesischen Regierung fabelhaft gelungen , den technologische Fortschritten zur Stärkung der Gesellschaft die technologischen Fortschritte zur Stärkung des Staates gegenüberzustellen .
+Chinesische und ausländische Geschäftsleute klagen auch nicht .
+Um vernünftige Investitions- oder Kaufentscheidungen zu treffen , ist es nicht notwendig , Berichte über Falun Gong oder die Menschenrechte zu hören oder lesen .
+Aus all dem Gesagten mag nun der Eindruck entstehen , als wäre China auf dem Weg zu einer Gesellschaft , deren Mitglieder viel Zeit und Geld in oberflächlichen Konsum und Unterhaltung investieren und dabei die psychische Energie abhanden verlieren , sich mit Themen wie Freiheit , Gleichheit , Religion oder Menschenrechte auseinander zu setzen .
+In einer derartigen Gesellschaft setzen sich die Probleme zwar fest , kommen aber nicht unbedingt zum Ausbruch .
+So lange die Mittelschicht die staatliche Repression unterstützt , kann die Ordnung aufrecht erhalten werden .
+Die Hoffnung auf einen demokratischen Wandel in China scheint in einem Konflikt zwischen der aufstrebenden Mittelschicht und dem autoritären Staat zu liegen .
+Journalisten , Intellektuelle und Unternehmer reagieren dem Vernehmen nach nervös auf die staatlichen Bemühungen , ihnen den Zugang zu Suchmaschinen in Übersee zu verwehren . Eines Tages könnten sie allgemeine Redefreiheit fordern .
+Heutzutage allerdings gibt sich der größte Teil der Mittelschicht damit zufrieden , Wirtschaftswachstum als den Preis für Stillhalten zu akzeptieren .
+Und wenn man einmal weniger glücklich darüber ist , kann man sich immer noch mit einer raubkopierten DVD trösten .
+Manche kämpfen dennoch für die globale Freiheit im Internet .
+Eine chinesische Gruppe von Internethackern namens , ,Hacktivismo " ist momentan gerade mit der Entwicklung der so genannten , ,Sechs-Vier " -Technologie beschäftigt ( , ,Sechs-Vier " bezieht sich auf das Datum des Massakers am Tienamen-Platz im Jahre 1989 ) . Diese Technologie würde es chinesischen Internetnutzern erlauben , weltweit ohne Kontrolle durch die Obrigkeit im Internet zu kommunizieren und auch verbotene Webseiten gefahrlos aufzurufen .
+Aber selbst im Bestfall wäre diese Technologie nicht länger als ein paar Monate oder vielleicht Jahre verfügbar und nur wenige Chinesen hätten wahrscheinlich den Wunsch oder die Fähigkeiten sie auch zu nutzen .
+Traurigerweise hat die chinesische Regierung angesichts enormer technologischer Herausforderungen die Kontrolle des Internet mit erstaunlichem Einfallsreichtum betrieben - zumindest bis zu dem Punkt an dem sich die offene Diskussion über sensible Themen noch vermeiden ließ .
+Diese Situation wird sich nicht zwangsläufig ändern .
+Diejenigen , die behaupten China wäre mit seiner Kommunikationspolitik auf dem Holzweg- und dass das Internet letztlich zur Demokratisierung führen wird - sollten ihren Optimismus dämpfen .
+In China dauern historische Entwicklungen oft sehr lange .

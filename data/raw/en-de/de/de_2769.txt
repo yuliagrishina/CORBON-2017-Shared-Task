@@ -1,0 +1,46 @@
+Das Inflationsrätsel
+CAMBRIDGE – Die niedrige Inflationsrate in den Vereinigten Staaten ist ein Rätsel , insbesondere für Ökonomen , die sich mit dem Zusammenhang zwischen Inflation und der monetären Basis beschäftigen .
+Immerhin hat Zu- und Abnahme dieser Geldmenge ( des Geldes in Umlauf gemeinsam mit den von den Geschäftsbanken bei der Zentralbank angelegten Reserven ) in der Vergangenheit zu steigender oder fallender Inflation geführt – oder wurde zumindest von dieser begleitet .
+Und da die monetäre Basis direkt von der Zentralbank gesteuert und nicht durch die Geschäftsbanken beeinflusst wird , glauben viele , sie sei der beste Messwert für den Einfluss der Geldpolitik .
+Die monetäre Basis der USA stieg beispielsweise zwischen 1985 und 1995 um jährlich 9 % , und im Jahrzehnt darauf nur noch um jährlich 6 % .
+Dieses abnehmende monetäre Wachstum ging einher mit einer Verlangsamung der Inflation .
+Der Konsumentenpreisindex ( CPI ) stieg zwischen 1985 und 1995 mit einer Rate von 3,5 % und dann im Jahrzehnt bis 2005 nur noch um 2,5 % .
+Aber dann wurde die Verbindung zwischen der monetären Basis und der Inflationsrate getrennt .
+Von 2005 bis 2015 stieg die monetäre Basis um jährlich 17,8 % , während der CPI pro Jahr lediglich um 1,9 % wuchs .
+Um diese abrupte und radikale Veränderung zu verstehen , müssen wir die Verbindung zwischen der monetären Basis und der Inflation genauer anschauen und die sich verändernde Rolle der Reserven versehen , die die Geschäftsbanken bei der Zentralbank halten .
+Wenn Banken Kredite vergeben , bilden sie Einlagen für die Schuldner , die dann darauf zugreifen , um Käufe zu tätigen .
+Dadurch werden die Einlagen normalerweise von der kreditgebenden Bank an eine andere Bank weitergegeben .
+Banken sind gesetzlich verpflichtet , proportional zu den Sichteinlagen in ihren Büchern bei der Zentralbank Reserven zu bilden .
+Durch eine Erhöhung der Reserven können die Geschäftsbanken also mehr solcher Einlagen bilden .
+Dies bedeutet , dass sie mehr Kredite vergeben und den Kreditnehmern mehr Gelder zum Ausgeben zur Verfügung stellen können .
+Die höheren Ausgaben führen zu höherer Beschäftigung , besserer Kapazitätsauslastung und einem Aufwärtsdruck auf Löhne und Preise .
+Zur Erhöhung der Reserven der Geschäftsbanken hat die Zentralbank in der Vergangenheit Offenmarktoperationen durchgeführt und Staatsanleihen von ihnen gekauft .
+Die Banken haben eine verzinste Staatsanleihe gegen eine unverzinsliche Reserveeinlage bei der Zentralbank eingetauscht .
+Dies war nur sinnvoll , wenn die Bank die Reserven zur Steigerung der Kreditvergabe und der Einlagen verwendet hat .
+Eine Bank , die die zusätzlichen Reserven nicht benötigte , konnte sie selbstverständlich einer anderen Bank leihen und damit Zinsen in Höhe des Interbankensatzes der Zentralbank einstreichen .
+Alle zusätzlichen Reserven wurden letztlich dazu „ verwendet “ , den erhöhten Kreditbedarf der Wirtschaft zu decken .
+Dies alles hat sich 2008 geändert , als die US-Zentralbank nach einer Gesetzesänderung die Möglichkeit bekam , für überschüssige Reserven Zinsen zu zahlen .
+Die Geschäftsbanken konnten Schatzbriefe und längerfristige Staatsanleihen an die Fed verkaufen , dafür Reserven erhalten und mit diesen einen kleinen , aber sehr sicheren Gewinn machen .
+Dadurch konnte die Fed im Jahr 2010 mit ihren umfangreichen monatlichen Käufen langfristiger Anleihen und hypothekengesicherter Wertpapiere beginnen .
+Durch diese quantitative Erleichterung ( QE ) konnte die Fed die langfristigen Zinssätze direkt senken , was zu steigenden Aktienmärkten und einer Erholung der Preise selbstgenutzter Eigenheime führte .
+Dies wiederum hatte höheren Wohlstand der Haushalte , stärkere Ausgaben für Konsum und verstärkte Wohnbautätigkeit zur Folge .
+Und Unternehmen reagierten darauf mit einer Beschleunigung der Investitionstätigkeit .
+Obwohl die Verbindung zwischen der Schaffung von Reserven durch die Fed und der nachfolgenden Steigerung der Ausgaben immer noch besteht , ist sie dramatisch schwächer geworden .
+Die Fed hat ihre Wertpapierbestände von weniger als einer Billion Dollar im Jahr 2007 auf über vier Billionen heute erhöht .
+Aber statt für eine Steigerung der Kreditvergabe und Einlagen der Geschäftsbanken verwendet zu werden , verblieben die so geschaffenen zusätzlichen Reserven bei der Fed – als Nebenprodukt der Bemühungen , über QE die langfristigen Zinsen zu senken und den Wohlstand der Haushalte zu steigern .
+Dies bringt uns zurück zum offensichtlichen Rätsel der niedrigen Inflation .
+Der allgemeine CPI ist momentan tatsächlich etwas niedriger als noch vor einem Jahr , was auf eine negative Inflationsrate hinweist .
+Ein Hauptgrund dafür ist der Verfall der Benzin- und sonstigen Energiepreise .
+Die Energiekomponente des CPI ist in den letzten 12 Monaten um 19 % gefallen .
+Der so genannte „ Kern “ -CPI ohne Berücksichtigung der volatilen Energie- und Lebensmittelpreise ist gestiegen ( wenn auch nur um 1,8 % ) .
+Darüber hinaus sind die Importkosten durch die Abwertung des Dollars im Vergleich zu anderen Währungen gesunken , was die Unternehmen im Inland unter Druck setzt , die Preise zu senken .
+Dies spiegelt sich eindeutig im Unterschied zwischen der jährlichen Inflationsrate der Konsumgüter von -0,2 % und derjenigen für Dienstleistungen von 2,5 % wider ( über die letzten 12 Monate ) .
+Trotzdem wird die Inflation im kommenden Jahr steigen .
+Die Arbeitsmärkte haben sich bei einer allgemeinen Arbeitslosenquote von 5,4 % deutlich gestrafft .
+Unter denjenigen , die weniger als sechs Monate arbeitslos waren , ist sie sogar auf 3,8 % gefallen – dieser Wert ist ein Schlüsselindikator für den Inflationsdruck .
+Und die Arbeitslosenquote unter Hochschulabsolventen beträgt lediglich 2,7 % .
+In Folge dessen steigen die Stundenlöhne schneller : Nach 1,1 % im Jahr 2013 und 2,5 % im Jahr 2014 lag das jährliche Lohnwachstum im ersten Quartal 2015 bereits bei 3,1 % .
+Diese höheren Lohnkosten schlagen momentan aufgrund des gegenläufigen Effekts der Energiepreise und Importkosten noch nicht auf die Gesamtinflationsrate durch .
+Aber im Zuge des Wegfalls dieser temporären Einflüsse im kommenden Jahr wird die allgemeine Preisinflation deutlicher anziehen .
+In der Tat geht die Inflationstendenz nach oben , insbesondere wenn die Fed wie geplant die Kurzfristzinsen bis Ende 2016 weiterhin negativ hält und sie bis Ende 2017 lediglich um einen Prozentpunkt erhöht .
+Steigt die Inflation schneller als erwartet , könnte die Zentralbank gezwungen sein , die Zinsen schneller zu erhöhen , was für die Finanzmärkte und vielleicht auch für die Gesamtwirtschaft negative Folgen haben würde .

@@ -1,0 +1,42 @@
+Hundert Jahre Supraleitfähigkeit
+CHICAGO – Kürzlich wurde der weltweit erste “ Quanten ” -Computer – ein Gerät , das die Magie der Quantenphänomene für Speicher- und Prozessorzwecke nutzt , und dies unglaublich viel schneller als die heutigen Computerchips auf Silikonbasis – von der kanadischen Firma D-Wave Systems an Lockheed-Martin verkauft .
+Als Antwort auf die verbreitete Skepsis , ob es sich wirklich um einen Quantencomputer handelt , haben seine Entwickler Artikel in Fachzeitschriften veröffentlicht , die zeigen , dass die grundlegenden Bestandteile dieses neuartigen Computers tatsächlich supraleitende Quantenbits sind .
+In diesem Frühjahr war der hundertste Jahrestag der Entdeckung der Supraleitfähigkeit – der Fähigkeit von Materialien , elektrischen Strom verlustfrei zu leiten .
+Strom , der sich in supraleitenden Drähten befindet , kann dort jahrelang ohne messbare Verlustleistung fließen .
+Aufgrund dieser Eigenschaft besitzen Supraleiter einmalige Fähigkeiten , die auf vielfältige Weise genutzt werden können .
+Sie können enorme Strommengen leiten , wodurch sie sich ideal für städtische Hochspannungsnetze eignen würden .
+Und als Spulen gewickelt können sie extrem starke Magnetfelder erzeugen .
+Solche supraleitende Magnete werden bereits in vielen technischen Bereichen eingesetzt .
+Die bekanntesten Beispiele dafür sind die Magneten , die die Magnetresonanztomographen in Krankenhäusern antreiben .
+Am exotischsten sind vielleicht die riesigen Magnete zur Beschleunigung von Partikeln im Large Hadron Collider , der den grundlegenden Prinzipien der Materie auf der Spur ist .
+Trotz ihrer vielversprechenden Eigenschaften haben Supraleiter auch Grenzen . Eine davon ist , dass die meisten für ihre Leitfähigkeit sehr tiefe Temperaturen benötigen – nahe dem absoluten Nullpunkt ( -273 ºC ) .
+Solche Temperaturen können nur durch Kühlung mit flüssigem Helium erzeugt werden .
+Daher haben Forscher aus der Schweiz 1986 für Aufregung gesorgt , als sie die Supraleitfähigkeit eines Kupferoxids entdeckten , die bei doppelt so hoher Temperatur wie der bisherige Rekordhalter funktioniert .
+Kurz darauf entdeckten Wissenschaftler in den USA ein ähnliches Material , das Supraleitfähigkeit oberhalb der Temperatur besitzt , bei der sich Luft verflüssigt .
+Wie die Zeitschrift Time im Jahr 1987 schrieb , hat mit der Entdeckung dieser sogenannten ” Cupraten ” die Revolution der Supraleiter begonnen .
+Die Revolution verlief allerdings bald im Sande .
+Die Arbeit mit Cupraten ist extrem schwierig , da sie sehr zerbrechlich sind .
+Dies wird noch durch ihre hohe Anisotropie verstärkt – die Materialien haben eine quasi zweidimensionale Struktur , die aus einem nur schwach verbundenen Stapel leitender Schichten besteht .
+Dadurch sind sie für die Industrie eine echte Herausforderung , obwohl sie nach und nach in Anwendungen verwendet werden . & # 160 ;
+Seit dem ersten Aufkommen der Cuprate wurden einige andere “ Hochtemperatur ” -Supraleiter entdeckt – einer davon ist ein einfaches Kompositum aus Magnesium und Bor , ein anderer eine Eisen-Arsen-Legierung .
+Obwohl keiner von ihnen oberhalb der Verflüssigungstemperatur von Luft leitet , sind sie womöglich besser zu verarbeiten .
+Angesichts der enormen Anzahl möglicher Komposita von Elementen besteht eine gute Chance , dass wir noch bessere Supraleiter entdecken könnten .
+Es wird erwartet , dass Supraleiter die nächsten Jahre in der Technik eine wachsende Rolle spielen .
+Bereits heute werden Cuprate der “ zweiten Generation ” verwendet , um Hochleistungskabel zum Stromtransport und leichtere Generatoren für Windturbinen herzustellen .
+Stärkere supraleitende Magneten führen zur Entwicklung von Tomographen mit besseren Diagnosefähigkeiten .
+Supraleiter werden für Hochgeschwindigkeitszüge in Magnetschwebetechnik sowie als Mikrowellenfilter in Mobilfunksendestationen für verbesserte Signalbandbreite verwendet .
+Die Entdeckung eines neuen Supraleiters mit verbesserten Eigenschaften könnte zu noch größerem technischen Fortschritt führen .
+Dies führt uns zu der damit verbundenen intellektuellen Herausforderung .
+Zwischen der Entdeckung der Supraleitfähigkeit und der Theorie von Bardeen , Cooper und Schrieffer ( BCS ) zur Erklärung des Phänomens im Jahr 1957 lagen 46 Jahre .
+In dieser Zeit versuchten sich viele berühmte Physiker an der Erklärung und scheiterten – darunter Albert Einstein , Werner Heisenberg und Richard Feynman .
+Um eine Lösung zu finden , war die Entwicklung fortgeschrittener theoretischer Techniken erforderlich .
+Es war schwer herauszufinden , welche Bedingungen die Elektronen supraleitend machten .
+Die grundlegende Entdeckung von BCS war , dass sich die Elektronen bei der Supraleitung zu Paaren zusammenschließen .
+Glücklicherweise war die Funktionsweise einer solchen Paarung bekannt .
+Obwohl Elektronen negativ geladen sind und sich deshalb abstoßen , können die positiven Ionen , die sich beim Fluss der Elektronen durch ein Metall bilden , unter bestimmten Bedingungen ( z.B. bei sehr kaltem Metall ) eine Anziehung zwischen zwei Elektronen bewirken .
+Allerdings besteht der Verdacht , dass dies bei den neuen Supraleitern nicht der Fall ist .
+Cuprate entwickeln ihre Supraleitfähigkeit bei viel höheren Temperaturen , aber noch wichtiger ist , dass sie einige seltsame Eigenschaften besitzen : Sie entstehen durch die Einbringung elektrischer Leiter in ein Basismaterial , das magnetisch isolierend wirkt – und dies ist der allerletzte Ort , an dem man nach einem konventionellen Supraleiter suchen würde .
+Und im Unterschied zur BCS-Theorie , in der die Paare isotrop sind – mit identischen Eigenschaften in allen räumlichen Richtungen – sind die Paare in Cupraten stark anisotrop und ähneln einem Kleeblatt .
+Wie kann man Elektronen ohne verbindende Ionen zusammenbringen und so Supraleitfähigkeit bei höherer Temperatur erzeugen ?
+Dazu gibt es zwar viele Ideen , aber um die Mittel zur Lösung solcher Elektronen-Elektronen-Theorien zu entwickeln , benötigen wir neue theoretische Durchbrüche , die möglicherweise sogar schwarze Löcher beinhalten .
+Wie eine solche Theorie letztlich auch aussehen mag , sie wird mit Sicherheit die Physik revolutionieren .

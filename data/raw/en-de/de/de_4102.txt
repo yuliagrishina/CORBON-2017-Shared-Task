@@ -1,0 +1,36 @@
+Warum die Treibhausgasemissionen reduziert werden müssen
+PALO ALTO – Im Herbst letzten Jahres veröffentlichte die britische Regierung einen bedeutsamen Bericht , der unter der Leitung von Sir Nicholas Stern , eines Ökonomen ersten Ranges , erstellt worden war .
+Der Stern-Report über die ökonomische Bewertung des Klimawandels ist im Endeffekt ein Aufruf , Maßnahmen zu ergreifen : Es wird argumentiert , dass die enormen zukünftigen Kosten der Erderwärmung durch einen relativ moderaten finanziellen Aufwand heute vermieden werden können .
+Kritiker des Stern-Reports glauben nicht , dass einschneidende Maßnahmen zur Begrenzung von CO2-Emissionen gerechtfertigt sind , weil hinsichtlich der Kosten des globalen Klimawandels erhebliche Unsicherheiten bestehen , und weil diese Kosten erst in ferner Zukunft zu tragen wären .
+Ich glaube jedoch , dass die grundlegende Schlussfolgerung Sterns sehr wohl gerechtfertigt ist : Es wäre für uns viel besser , die CO2-Emissionen erheblich zu senken als uns dem Risiko der Folgen von Untätigkeit auszusetzen , selbst wenn man im Gegensatz zu Stern , Unsicherheit und Zukunft stark diskontiert .
+Der Klimawandel unterscheidet sich in zweierlei Hinsicht von anderen Umweltproblemen .
+Erstens : Während die meisten Umweltschäden – wie beispielsweise Wasserverschmutzung , saurer Regen oder Schwefeldioxidemissionen – umgehend oder in ziemlich kurzer Zeit nach Beseitigung der Ursache behoben sind , bleiben CO2 und andere Spurengase über Jahrhunderte in der Atmosphäre .
+Die Reduktion der Emissionen heute ist daher für die Menschheit in ferner Zukunft von erheblichem Nutzen .
+Zweitens ist das Ausmaß der Externalität des Klimawandels wirklich global , denn Treibhausgase breiten sich in wenigen Tagen über die ganze Welt aus .
+Infolgedessen sind der Nationalstaat und seine Institutionen , wo Externalitäten typischerweise internalisiert werden , in ihrer Sanierungskapazität eingeschränkt .
+( Obwohl die USA , die ungefähr 25 % der weltweiten CO2-Emissionen verursachen , durch eine Änderung ihrer Politik durchaus etwas bewirken könnten . )
+Der Klimawandel ist daher ein öffentliches Gut par excellence .
+Eine Kosten-Nutzen-Rechnung ist das Instrument erster Wahl , um zu entscheiden , ob eine Politik zur Eindämmung des Klimawandels angezeigt ist .
+Bei dieser Berechnung sind zwei Aspekte von entscheidender Bedeutung .
+Erstens muss von der Annahme ausgegangen werden , dass der Einzelne Risiko vermeiden will .
+Das heißt , ein ungewisses Ergebnis ist weniger wert als der Durchschnitt der Ergebnisse .
+Da die möglichen Resultate der globalen Erwärmung ohne Eindämmungsmaßnahmen höchst ungewiss - mit Sicherheit jedoch schlecht - sind , sollten die ungewissen Verluste so bewertet werden , als handelte es sich um einen einmaligen Verlust , der größer ist als der erwartete Verlust .
+Der zweite entscheidende Aspekt ist , wie man zukünftige Ergebnisse in Relation zu gegenwärtigen bewertet – eine Frage , die unter Philosophen ebenso großes Interesse hervorrief wie unter Ökonomen .
+Mit welcher Diskontrate sollten zukünftige Auswirkungen – vor allem zukünftige Konsumverluste – auf die Gegenwart diskontiert werden ?
+Die Konsumdiskontrate sollte berücksichtigen , dass der Grenzeinheit des Konsums bei wachsendem Konsum möglicherweise ein sozial niedrigerer Wert beigemessen wird .
+Dies entspricht der Vorstellung eines sich verringernden privaten Grenznutzens des privaten Konsums und ist auch relativ unbestritten , obwohl sich die Wissenschaft über das Ausmaß nicht einig ist .
+Größere Uneinigkeit herrscht darüber , wie groß die Diskontierung der Zukunft zu sein hat , weil es sich dabei eben um die Zukunft handelt , auch wenn es zukünftigen Generationen nicht besser geht als uns .
+Während der Stern-Report einer Tradition unter britischen Ökonomen und vieler Philosophen gegen eine reine Zukunftsdiskontierung folgt , nehmen die meisten Ökonomen eine reine Zeitpräferenz als evident an .
+Dennoch ist das Argument für eine Intervention , die darauf abzielt , CO2-Emission innerhalb gewisser Grenzen zu halten ( bei etwa 550 ppm ) stark genug , um außerhalb dieses Disputs zu stehen .
+Man führe sich hierzu ein paar Zahlen aus dem Stern-Report hinsichtlich des zukünftigen Nutzens der Einhaltung einer Obergrenze von 550 ppm vor Augen sowie die Angaben zu den dadurch entstehenden Kosten .
+Der Nutzen besteht in vermiedenen Schäden , und zwar sowohl Marktschäden als auch jene außerhalb des Marktes wie nachteilige Folgen für die Gesundheit und die Umwelt .
+Wird bis zum Jahr 2200 nichts unternommen , belaufen sich die BIP-Verluste auf einen erwarteten Wert von 13,8 % , allerdings mit einem Unsicherheitsgrad , durch den der erwartete Verlust einem sicheren Verlust von 20 % gleichkommt .
+Da die Wachstumsrate vor Einrechnung der Folgen des Klimawandels mit 1,3 % jährlich angenommen wurde , entspräche ein Verlust von 20 % im Jahr 2200 einer Verringerung der jährlichen Wachstumsrate auf 1,2 % .
+Mit anderen Worten : Der Nutzen der Bekämpfung von Treibhausgasemissionen kann als Steigerung der jährlichen Wachstumsrate von 1,2 % auf 1,3 % bis 2200 dargestellt werden .
+Die Stabilisierungskosten werden im Stern-Report auf 3,4 % bis -3,9 % des BIP geschätzt ( da Energiekosten durch Energieeinsparungen gesenkt werden , ist letztere Schätzung nicht so bestürzend wie es im ersten Moment den Anschein hat ) .
+Nehmen wir an , die Kosten zur Vermeidung einer weiteren Anreicherung von CO2 ( und Äquivalenten ) belaufen sich jährlich auf 1 % des BIP und nehmen wir , im Einklang mit empirischen Belegen , weiterhin an , dass sich jener Teil der Diskontrate , der einem sinkenden Konsumgrenznutzen zuordenbar ist , der doppelten Konsumwachstumsrate entspricht .
+Eine einfache Rechnung zeigt , dass für jeden unter 8,5 % liegenden Wert der sozialen Zeitpräferenzrate eindämmende Maßnahmen besser sind , als nichts zu tun – das heißt , der gegenwärtige Wert des Nutzens übersteigt den gegenwärtigen Wert der Kosten .
+Keine Schätzung der reinen Zeitpräferenz – nicht einmal von denjenigen , die eine relativ starke Diskontierung der Zukunft befürworten - ist jemals in die Nähe von 8,5 % gekommen .
+Diese Berechnungen weisen darauf hin , dass die im Stern-Report veröffentlichten Schätzungen der zukünftigen Kosten und des zukünftigen Nutzens selbst bei höherer Diskontierung nahe legen , dass eine Bekämpfung des Klimawandels ökonomisch gesehen sinnvoll ist .
+Diesen Berechnungen liegen die im Bericht angegebenen Zeitprofile für den Nutzen und die jährlichen geschätzten Kosten zugrunde , über die jedoch einiges an Uneinigkeit herrscht .
+Dennoch glaube ich , dass es nur wenig ernstzunehmende Argumente hinsichtlich der Bedeutung einer Politik geben kann , die darauf abzielt , einen weiteren drastischen Anstieg der CO2-Emissionen zu verhindern .

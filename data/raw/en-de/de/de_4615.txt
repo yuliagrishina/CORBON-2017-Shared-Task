@@ -1,0 +1,41 @@
+Hasse den Banker und nicht die Bank
+NEU DELHI – Der öffentliche Diskurs läuft in den seltensten Fällen differenziert ab .
+Die allgemeine Aufmerksamkeitsspanne ist kurz und Feinheiten tragen eher zur Verwirrung bei .
+Besser also eine klare , wenn auch falsche Position vertreten , damit wenigstens die Botschaft durchdringt .
+Je eindringlicher und schriller diese ausfällt , desto größer die Wahrscheinlichkeit , dass sie Aufmerksamkeit erregt , wiederholt wird und das Wesen der Debatte bestimmt .
+Man denke beispielsweise an die Diskussion um die Bankenregulierung .
+Banker werden heutzutage vielfach geschmäht .
+Doch das Bankgeschäft ist auch geheimnisumwoben .
+Daher findet jeder Kritiker , der intellektuell in der Lage ist , den Schleier der Bankgeschäfte zu lüften und Banker als unfähig und bösartig darzustellen , ein dementsprechend geneigtes Publikum .
+Die Botschaft der Kritiker – nämlich die Banken in ihre Schranken zu weisen – findet großen Anklang .
+Natürlich können die Banker Kritiker und Öffentlichkeit ignorieren und ihr Geld für Lobbyarbeit an den richtigen Stellen nutzen , um ihre Privilegien zu erhalten .
+Doch von Zeit zu Zeit reicht es einem Banker , als Schurke hingestellt zu werden .
+Er ( üblicherweise handelt es sich um einen Mann ) warnt die Öffentlichkeit , dass selbst die geringfügigsten Regulierungen für Banken das Ende der Zivilisation bedeuten würden . Die schrille Diskussion nimmt weiter ihren Lauf und die Öffentlichkeit ist so klug als wie zuvor .
+Zur Verdeutlichung ein konkreteres Beispiel : Vor der aktuellen Krise wies eine bedeutende Zahl an Banken ein sehr hohes Maß an Fremdkapital auf , wobei der Verschuldungsgrad in manchen Fällen bei einem Wert von 30 ( und darüber ) lag .
+Vielfach handelte es sich um äußerst kurzfristiges Fremdkapital . Daraus könnte man schließen , dass die Banken mit zu wenig Eigenkapital und einer zu geringen Sicherheitsmarge operierten und dass eine vernünftige Regulierungsmaßnahme in der besseren Kapitalisierung der Banken bestünde .
+An dieser Stelle endet der Konsens allerdings schon wieder .
+Die Kritiker möchten , dass Banken mit viel weniger Fremdkapital auskommen , vor allem hinsichtlich kurzfristiger Kreditaufnahmen . Manche fordern überhaupt rein eigenkapitalfinanzierte Banken , um das System sicher zu gestalten .
+Die Banker kontern , dass sie für jede zusätzliche Aktie , die ausgegeben wird , eine höhere Rendite bezahlen müssten und höheres Eigenkapital daher ihre Kapitalkosten steigen ließe . Dadurch wären sie gezwungen , die Zinsen auf die von ihnen ausgegeben Darlehen zu erhöhen , wodurch sich wiederum die wirtschaftliche Aktivität abschwächte .
+Keine der beiden Seiten liegt mit ihren öffentlichen Argumenten ganz richtig .
+Die Banker scheinen einen elementaren Grundsatz moderner Finanzierung nicht verinnerlicht zu haben : Risiko geht von den Vermögenswerten aus , die eine Bank hält .
+Dem Modigliani-Miller-Theorem zufolge , verändern sich die durchschnittlichen Finanzierungskosten einer Bank nicht aufgrund der Mischung aus Fremd- und Eigenkapital , die die Bank zur Finanzierung ihrer Vermögenswerte einsetzt . Durch den Einsatz „ billigeren “ Fremdkapitals wird Eigenkapital riskanter und kostspieliger , wodurch die Gesamtfinanzierungskosten gleich bleiben .
+Bei höherem Eigenkapital sinkt der Anteil an Fremdkapital und auch das Risiko , wodurch Investoren weniger Rendite verlangen . Wieder bleiben die Gesamtfinanzierungskosten gleich .
+Anders ausgedrückt : Mit Blick auf bestimmte Cashflows aus Vermögenswerten der Bank , ist die Verteilung der Cashflows auf die Investoren für den Wert der Bank nicht relevant . Mehr Fremdkapital verringert also nicht die Finanzierungskosten der Bank .
+Wenn nun das öffentliche Argument der Banker falsch ist ( was sie wissen müssen ) , stellt sich die Frage , warum sie kurzfristigem Fremdkapital den Vorzug vor langfristiger Eigenkapitalfinanzierung geben .
+Die Kritiker meinen , dies geschehe aufgrund der Steuervorteile für Fremdkapital oder weil Banken zu groß sind , um sie scheitern zu lassen .
+Doch diese Argumente halten einer eingehenderen Prüfung nicht stand .
+Wäre Fremdkapital aufgrund seiner steuerlichen Abzugsfähigkeit so attraktiv , sollten Banker zwischen langfristigem und kurzfristigem Fremdkapital keinen Unterschied machen .
+Sie scheinen jedoch Letzteres zu bevorzugen .
+In ähnlicher Weise würden sich Banken , die zu groß sind , um zu scheitern , nicht um das mit Fremdfinanzierung verbundene Pleiterisiko kümmern .
+Aber auch hier ist unklar , warum sie kurzfristiges Fremdkapital bevorzugen sollten .
+Würden Banker nämlich versuchen , davon zu profitieren , stellt sich die Frage , warum sie nicht langfristige Schuldtitel bevorzugen , deren Ausfallrisiko ebenso hoch ist wie der Nutzen aus impliziten staatlichen Garantien .
+Überdies besteht die Frage , warum kleine Banken , die über keine implizite staatliche Unterstützung verfügen , auch einen so hohen Fremdkapitalanteil aufweisen ?
+Die Argumente der Kritiker hinsichtlich der Vorteile des Eigenkapitals sind gleichermaßen unzufriedenstellend .
+Natürlich würde mehr Eigenkapital das Risiko eines Bankzusammenbruchs verringern . Aber ein derartiger Zusammenbruch ist nicht immer schlecht .
+Bei einem Banker , der eine rein eigenkapitalfinanzierte Bank betreibt und keine Rückzahlungen an Anleger leisten muss , besteht eine höhere Wahrscheinlichkeit , ein ungerechtfertigtes Risiko einzugehen . Die Notwendigkeit , Rückzahlungen zu leisten oder Schulden zu refinanzieren , verlangt Disziplin und verleiht dem Banker einen stärkeren Anreiz , das Risiko sorgfältig zu steuern .
+Als beispielsweise die amerikanische Bank Washington Mutual im Jahr 2008 nach einer unkontrollierten Kreditvergabe-Orgie zusammenbrach ( die größte Bankpleite in der amerikanischen Geschichte ) , geschah das nicht infolge einer Entscheidung der Aktionäre , die Bank zu schließen , sondern aufgrund des Vertrauensverlustes der Einleger .
+Wie viel mehr an Werten wäre durch das Management der Washington Mutual vernichtet worden , wenn es sich um eine rein eigenkapitalfinanzierte Bank gehandelt hätte ?
+Insgesamt gilt es einen Mittelweg zu finden .
+Ein zu großer Anteil an kurzfristigem Fremdkapital macht Banken anfälliger für die Pleite , während zu viel Eigenkapital die Möglichkeiten der Banker , Werte zu vernichten , in zu geringem Ausmaß beschränkt .
+Die Wahrheit liegt irgendwo in der Mitte zwischen den Positionen der lautstarken Kritiker und der entrüsteten Banker . Das ist wahrscheinlich auch der Grund , warum die moderat fremdkapitalfinanzierte Bank tausend Jahre lang das Merkmal westlicher Ökonomien war .
+Unsere Abneigung gegen die Banker darf nicht die Zerstörung der Bank ermöglichen .

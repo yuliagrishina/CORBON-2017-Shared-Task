@@ -1,0 +1,54 @@
+Können wir systemische Risiken regulieren ?
+MAILAND : In den letzten zwei Jahren trafen zwei gefährliche Episoden finanzieller Instabilität und plötzlicher Veränderungen der Marktdynamik die Weltwirtschaft .
+Weitere sind wahrscheinlich , denn die Weltwirtschaft ist – nun da sie aus der Krise auftaucht – in mehrerer Hinsicht aus dem Gleichgewicht geraten , insbesondere , was die Staatsverschuldung und die Struktur der globalen Nachfrage angeht .
+Systemische Risiken treiben die meisten Krisen an und stellen aus mehreren Gründen eine Herausforderung dar .
+Erstens sind sie nicht leicht mit Zuversicht ermitteln und sogar noch schwerer zu beweisen .
+Zweitens übersteigt es unsere Fähigkeiten , den genauen Zeitpunkt vorherzusagen , an dem es zum Knacks kommt ( wenn Blasen platzen , Märkte blockieren und Kreditverknappungen eintreten ) , und dies dürfte auch in Zukunft so bleiben .
+Und schließlich sind Krisen hochgradig nicht-lineare Ereignisse , d.h. sie ereignen sich ohne besondere Vorwarnung .
+Periodische Ausbrüche der Instabilität erlegen denen , die am wenigsten dafür können , hohe soziale Kosten auf .
+Sollte sich dieses Muster fortsetzen , könnte dies das Vertrauen in Finanzmärkte und Regulierungsstellen erschüttern , was durchaus zu strenger Regulierung , einer Ausweitung der Rolle des Staates und einer Rückführung der Globalisierung führen könnte .
+Doch das Problem ist sogar noch gravierender .
+In den hoch entwickelten Ländern ist die Finanz- und Wirtschaftskrise dabei , sich in eine staatliche Schuldenkrise zu verwandeln .
+Wenn die Steuereinnahmen abstürzen und die Kosten für Sozialversicherung und Rettungsaktionen steigen , können finanzielle und wirtschaftliche Ungleichgewichte zu gefährlichen fiskalischen Ungleichgewichten führen .
+Der Internationale Währungsfonds legt nahe , dass bis zu 75 % der „ steuerlichen Konjunkturimpulse “ in den hoch entwickelten Ländern nichtdiskretionäre antizyklische Maßnahmen umfassen .
+Unerkannte Ungleichgewichte und systemische Risiken können die Fiskalpolitik als umsichtig erscheinen lassen , auch wenn das gar nicht stimmt .
+Spanien etwa hatte im Vorfeld der Krise kein Haushaltsdefizit .
+Doch seine Einnahmen und Ausgaben waren teilweise durch eine stark schuldenfinanzierte Immobilienblase bestimmt .
+Extreme fiskalische Ungleichgewichte können zudem in eine Wachstumsfalle führen , in der eine Haushaltskonsolidierung so starke negative Auswirkungen auf das Wachstum hat , dass sie selbstzerstörerisch wird .
+Griechenland dürfte ein Paradebeispiel hierfür sein .
+Irgendwann besteht der einzige Ausweg darin , den Wert der Schulden durch eine Restrukturierung oder Inflation zurückzusetzen .
+Wenn also systemische Risiken diese Art von durchgestuften , schrittweisen Ungleichgewichten verursachen können , dann muss der Staat auf der Hut sein , sich aufbauende systemische Risiken in kompetenter Weise erkennen können und in der Lage sein , frühzeitig Korrekturmaßnahmen einzuleiten .
+Wir werden in Kürze ein umfassendes Neuregulierungspaket bekommen , das sich auf Kapitalanforderungen und Verschuldungsgrad , Transparenz , Ratings und andere Informationsquellen , Anreize , Interessenkonflikte und der Begrenzung des Umfangs von Finanzunternehmen , Verbraucherschutz und Auflösungsmechanismen konzentriert .
+Die Hoffnung dabei ist , dass derartige Reformen Wahrscheinlichkeit und Schweregrad systemischer Risiken verringern werden .
+Dies jedoch tut nichts gegen die globalen Ungleichgewichte und anderen Beitragsfaktoren und Anzeichen von Instabilität .
+Wir brauchen zusätzlich , in Ergänzung zur Neuregulierung , eine umfassende systemische Risikoüberwachung .
+Einige prominente Politiker und Analysten argumentieren freilich , dass eine auf die Ermittlung und Eindämmung systemischer Risiken ausgerichtete Aufsicht sinnlos sei .
+Angesichts unvollständiger Modelle für die Risikodynamik und eines komplexen und sich stetig wandelnden globalen Finanzsystems , so ihre Argumentation , sei eine Erkennung derartiger Risiken entweder unmöglich oder so fehleranfällig , dass das Bemühen kontraproduktiv wäre .
+Blasen bei den Anlagewerten seien nur schwer mit Sicherheit zu ermitteln .
+Falls die Skeptiker Recht haben , dann sollten wir akzeptieren , dass wir in Abständen aus dem finanziellen und fiskalischen Gleichgewicht geraten , ohne dies vorher zu wissen .
+Wir sollten also zugleich die Notwendigkeit einer sehr viel konservativeren fiskalpolitischen Positionierung akzeptieren , als sie selbst vor drei Jahren noch für erforderlich gehalten wurde .
+In der Statistik und der Theorie über das Treffen von Entscheidungen unter unsicheren Umständen sind Fehler unvermeidlich . Es gibt dabei zwei Arten von Fehlern .
+Die eine besteht darin , eine wahre Annahme zu verwerfen , die andere , eine falsche Annahme zu akzeptieren .
+Wir wollen diese Fehlerarten RWT ( reject when true ) und AWF ( accept when false ) nennen .
+Der Problemrahmen lässt sich nun wie folgt abstecken : Welcher dieser beiden Fehlertypen ist im Kontext der Erkennung und Bekämpfung systemischer Risiken mit den höheren erwarteten Kosten verbunden ?
+Die Gegner einer Beaufsichtigung systemischer Risiken nehmen an dieser Stelle zwei unterschiedliche Positionen ein .
+Die eine besagt , dass AWF-Fehler nicht auftreten , weil es keine zuverlässigen vorherigen Anzeichen zunehmender potenzieller Instabilität gibt .
+Danach zu suchen sei eine Verschwendung von Ressourcen .
+Instabilität schlage einfach ein wie ein Blitz .
+Dies erscheint falsch .
+Bei der Krise von 2008 etwa vermeldeten einige Analysten Warnsignale , und einige Anleger nahmen diese zur Kenntnis und reagierten darauf .
+Zugegeben , diese Warnungen ergaben keinen hieb- und stichfesten Beweis , und mit Sicherheit sagten sie den Zeitpunkt , wo es zum Knacks kam , nicht vorher .
+Aber die Anzeichen waren da .
+Eine zweite Position akzeptiert , dass es Warnsignale gibt , aber argumentiert , diese seien so unzuverlässig , das darauf zu reagieren mehr schade als nütze .
+Dies impliziert , dass AWF-Fehler höhere erwartete Kosten haben als RWT-Fehler – weil es eine Menge falsch-positiver Ergebnisse gibt und / oder die Arznei schlimmer ist als die Krankheit .
+Man kann akzeptieren , dass AWF-Fehler Kosten haben .
+Aber auch RWT-Fehler sind , wie wir gesehen haben , kostspielig ; daher müssten die negativen Gesamtauswirkungen von falsch-positiven Ergebnissen ( AWF-Fehlern ) groß sein , um überzeugen zu können .
+Ich bin nicht überzeugt .
+Es könnte hier eine tiefer reichende Voreingenommenheit am Werk sein .
+Im Geschäftsleben und bei Anlageentscheidungen trifft man ständig Entscheidungen unter unsicheren Umständen , und Fehler sind Routine .
+Dagegen scheint die übliche Haltung unter den Politikern in den entwickelten Ländern zu sein , dass Vorsichts- oder Vorsorgemaßnahmen ein hohes Maß an Gewissheit erfordern , bedingt durch den tief verwurzelten Glauben , dass die Finanzmärkte stabil und selbstregulierend seien .
+Ist man der Ansicht , dass Marktinstabilität selten ist , ist es vernünftig , sich zu weigern , zu handeln , sofern es keine zwingenden Argumente dafür gibt .
+Doch angesichts unserer Erfahrungen scheint die Ansicht , dass das Finanzsystem nur in Ausnahmefällen instabil oder auf einem nicht aufrecht zu erhaltenden Weg ist , zumindest fragwürdig .
+Vielleicht kommen wir auf der Grundlage neuer Theorien und Erfahrungen letztlich zu dem Schluss , dass politische Reaktionen auf systemische Risiken unmöglich zu konzipieren sind und dass die Kosten von AWF-Fehlern höher sind als von RWT-Fehlern .
+Doch wir sollten das Experiment zumindest durchführen – und einer neuen oder bestehenden Institution mit Zugriff auf Informationen , umfassendem analytischen Talent im Bereich der Finanz- und makroökonomischen Analyse und relativ wenig Interessenkonflikten die Verantwortung dafür übertragen .
+Ihre Analysen sollten öffentlich gemacht werden ; sie könnten die Wahrnehmung systemischer Risiken und das Marktverhalten beeinflussen und damit die Selbstregulierungsfähigkeiten des Systems stärken .

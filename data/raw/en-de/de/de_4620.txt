@@ -1,0 +1,39 @@
+Ein Immunsystem für das Internet
+NEW YORK : Viren , Phishing , Spyware , Spam , Dienstblockaden , Botnetze ... vermutlich haben Sie diese Begriffe schon gehört , und vielleicht sogar – bewusst oder unbewusst – unter den damit bezeichneten Phänomenen gelitten .
+Ich möchte hier einen einfachen Weg beschreiben , um diese Sicherheitsprobleme in Angriff zu nehmen ( nicht : sie zu lösen ) – einen Weg , der keine Einigung aller Regierungen ( oder gar Menschen ) darüber , was tatsächlich ein Verbrechen darstellt , voraussetzt , und schon gar keine globale Polizeitruppe oder nicht durchsetzbaren globalen Verträge .
+Wenn es uns gelingt , die Sicherheit im Allgemeinen zu erhöhen , können sich die Regierungen auf die wahren Kriminellen konzentrieren . Deshalb ist es ein besserer Ansatz , Computersicherheit als Problem der öffentlichen Gesundheit und der Wirtschaft zu betrachten , bei dem sich die Menschen selbst schützen können , aber für die Kosten , die sie anderen aufbürden , zahlen müssen .
+Wir müssen es den Leuten ermöglichen , sich gegen andere zu verteidigen , und verhindern , dass unschuldige , wohlmeinende Menschen sich infizieren und andere schädigen . Und wir müssen es für jene , die böse Absichten verfolgen , unattraktiver und schwieriger machen , andere zu schädigen .
+Das klingt nach einer Menge unterschiedlicher Herausforderungen .
+Doch gibt es für jede davon wirksame Strategien , ohne dass man die Bewegungen aller Online-Nutzer nachvollziehen oder für jede Interaktion eine Kennung verlangen muss .
+Mit der Rückverfolgung von Benutzerkennungen fängt oder stoppt man keine Bösewichter , aber man macht das Internet unbrauchbar .
+Man kann den virtuellen Raum nicht dadurch retten , dass man seine Offenheit zerstört .
+Was die Umsetzung effektiver Sicherheitsmaßnahmen angeht , müssen in erster Linie jene eine Führungsrolle übernehmen , die dafür am besten ausgestattet sind : die Internet Service Provider ( ISPs ) .
+Dies sind technisch kompetente Unternehmen , die ( mehr oder weniger ) in der Lage sind , die Nutzer zu schützen und Missbrauch zu erkennen ; sie haben eine direkte ( wenn auch unpersönliche ) Beziehung zu ihren Nutzern , und sie konkurrieren um deren Kundschaft , d.h. sie leiden – anders als die Regierungen – selbst darunter , wenn sie schlechte Leistungen bringen .
+Die ISPs ( und nicht die Regierungen ) sollten im Rahmen ihres Internetangebots an die Verbraucher regelhaft für grundlegende Sicherheit – Schutz vor Viren , Phishing , Spam usw. – sorgen . Das ist nicht schwierig : Eine Anzahl von Virenschutzunternehmen konkurrieren um diese Dienstleistungen ; jeder ISP könnte z.B. einen auswählen oder seinen Kunden die Wahl zwischen drei Anbietern ermöglichen .
+Der Trick besteht darin , die Verbraucher dazu zu bewegen , diese Tools zu nutzen .
+Hierfür bedarf es einer Kampagne zur Steigerung des öffentlichen Bewusstseins , wie wir sie aus dem Gesundheitswesen kennen . Das Ganze dürfte dann eher auf ein weit verbreitetes Händewachen hinauslaufen als auf ein System von Krankenhäusern zur Akutversorgung .
+Was Spam angeht , könnten die ISPs ( einschließlich der Mail Service Provider ) ihren Kunden eine Höchstgrenze von etwa 100 E-Mails pro Tag auferlegen ; wer mehr versendet , muss dafür zahlen oder zumindest eine Sicherheitsbürgschaft stellen oder einen Verhaltenstest bestehen .
+Zugleich sollten alle ISPs ein Kennungssystem für den E-Mail-Verkehr umsetzen ( es gibt zwei gute Standards : Domain-Schlüssel und SPF ) .
+Dabei geht es nicht darum , jedermanns E-Mail-Verkehr zu überwachen , sondern die Bösen daran zu hindern , die Guten hereinzulegen .
+Die ISPs würden Datenströme anderer ISPs , die dem Sicherheitskollektiv nicht beigetreten sind , drosseln , und deren Kunden würden sich ziemlich bald beklagen . Die betreffenden ISPs wären so entweder gezwungen , dem Kollektiv beizutreten , oder sie würden sich in der Unterwelt wiederfinden – von wo aus es für sie schwierig wäre , Angriffe zu starten , weil niemand ihre Datenströme akzeptieren würde .
+Und weil die ISPs anderen ISPs verantwortlich wären und nicht den Regierungen , könnten Abweichler und Whistleblower ihre Anonymität wahren .
+Was den Schutz vor Phishing und Malware angeht : Es gibt eine Anzahl von Diensten , die „ böse “ Websites ausfindig machen und ihre Nutzer davor warnen .
+Diese können die Sites trotzdem aufrufen , aber zumindest gibt es Verkehrsschilder , die sie warnen , dass sie sich in gefährliche Nachbarschaft begeben .
+Mozilla Firefox und Microsoft Internet Explorer bieten einen ähnlichen Schutz . In allen Fällen können abenteuerlustige Nutzer oder Experten sich über die Bevormundung hinwegsetzen , aber nur , indem sie für die Risiken , die sie dem System auferlegen , etwas zahlen , was auf eine Haftpflichtversicherung hinausläuft .
+Es geht darum , wirtschaftliche Anreize zu schaffen , um die Online-Kriminalität zu reduzieren .
+Echte Kriminelle kann man damit nicht abschrecken , doch würde so ein System verhindern , dass die Übrigen von uns mitgezogen oder zu Opfern werden .
+Bei weniger Opfern lohnt sich Verbrechen weniger .
+Es gibt mehrere Gründe , warum dies bisher nicht passiert ist .
+Der erste ist Trägheit , verbunden mit ( oder verkleidet als ) Idealismus : der irrigen Vorstellung , dass das Internet nicht nur Rede- , sondern auch Zahlungsfreiheit gewährleisten sollte . Es kostet aber etwas , die Infrastruktur zu unterhalten , die für die Sicherheit der Nutzer sorgt .
+Diese Kosten – sowohl für Nutzer wie auch für ISPs – sind denn auch das zweite Hindernis .
+Die Herausforderung besteht darin , die Kosten anzuerkennen ( wie wir es heute etwa bei der Umweltverschmutzung tun ) und sie Leuten zuzuordnen , die dafür bezahlen und zur Zahlung gezwungen werden können .
+Wir akzeptieren schließlich auch die Kosten für Polizei und öffentliche Gesundheit – und zwar nicht nur für Krankenhäuser , sondern auch für sauberes Wasser , sichere Lebensmittel usw.
+Wie also lässt sich dies erreichen ?
+Die ISPs müssten diese Kosten an ihre Kunden weitergeben .
+Sie tun es aber nicht , denn sie konkurrieren überwiegend über den Preis .
+Das heißt , die Kunden müssen die Sicherheit im Rahmen des angebotenen Leistungsumfangs nachfragen , und die ISPs müssen andere ISPs , die dem nicht nachkommen , meiden .
+Um die Dinge zu beschleunigen , sollte jemand gegen ISPs , die Fehlverhalten tolerieren , eine Klage – nicht zu viele ! – einreichen . Diese sollten sich gegen ISPs richten , die vorsätzlich kriminelle Kunden betreuen und sich in einem Umfang weigern , Beschwerden nachzugehen , ab dem Unwissen nicht länger als legitime Entschuldigung gewertet werden kann .
+Zu den Kosten der ISPs gehört jedoch auch die Warnung der Nutzer vor „ bösen “ Websites . Dies erfordert ein verfahrenstechnisch geordnetes System , um die Inhaber kompromittierter Websites zu informieren , damit sie ihre Websites reparieren können bzw. sich bewusst werden , dass diese kompromittiert sind .
+So ein System ist in der Verwaltung relativ teuer , aber billiger als die Kosten , die ohne es entstehen .
+Diese Veränderungen würden kein wie auch immer geartetes digitales Nervensystem mit zentralem Gehirn erschaffen , das alle Probleme lösen könnte .
+Vielmehr würden sie so etwas wie ein Immunsystem konkurrierender Internet Service Provider und sich entwickelnder Sicherheitsdienste hervorbringen – örtlich und allgegenwärtig . Das würde die Gesamtsituation im Bereich der Computersicherheit enorm verbessern : Normale Menschen würden sich sicher fühlen , und Strafverfolger und Sicherheitsexperten könnten sich auf die größten Bedrohungen konzentrieren .

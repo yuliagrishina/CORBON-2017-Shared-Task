@@ -1,0 +1,49 @@
+Der richtige Weg hin zu Elektroautos
+NEW YORK : Die Begeisterung über Elektroautos ist heutzutage groß . Nicht vergessen sollte man dabei freilich , wie viele benzinbetriebene Autos es gibt : etwa 850 Millionen .
+Es würde Jahre dauern , diese Zahl durch den Verkauf neuer Elektrofahrzeuge merklich zu verringern .
+Eine Tatsache , die Jiri Räsänen , einen Beamten aus Helsinki , zunächst deprimierte , ihm und seinen Freunden dann jedoch eine gute Idee eingab : Warum nicht die Autos behalten , aber die Motoren austauschen ?
+Man könnte so eine Menge Probleme lösen , nicht nur in Bezug auf die heute vorhandenen Autos , sondern auch auf die bestehenden Autohersteller .
+Obwohl viele davon in Schwierigkeiten sind , dürfte der Zeitpunkt , ein neues Autounternehmen zu gründen , auch nicht besonders günstig sein .
+Doch während der Markt für Neuwagen drastisch eingebrochen ist , könnte dies ein guter Zeitpunkt sein , um ein Unternehmen zu gründen , das Benzinmotoren durch Elektromotoren ersetzt .
+Die von Räsänen geleitete Initiative der Gruppe heißt eCars - Now !
+Der kleine finnische Betrieb ist weniger ein Unternehmen als vielmehr ein Modell für Unternehmen , die – so die Hoffnung des Teams – weltweit aus dem Boden schießen werden .
+Was Räsänen und Kollegen vorschwebt , ist , in Anlehnung an die Open-Source-Bewegung im Softwarebereich , Idee und Grundkonstruktionen frei verfügbar zu machen und jede Menge Unternehmen weltweit zu ermutigen , sie auf lokaler Ebene umzusetzen .
+Einige Unternehmen werden so Batterien , Elektromotoren oder Umbausätze herstellen ; andere benzinbetriebene Autos mit den neuen Motoren ausstatten – eine hervorragende Beschäftigungschance für arbeitslose Automechaniker .
+eCars- Now ! hofft , zu einem Ökosystem von Werkstätten und Teileherstellern beizutragen , das jenem der Open-Source-Programmierer und No-Name-Computerhardware ähnelt .
+Zwar hören die Gemeinsamkeiten irgendwo auf , weil Batterien und Motoren nicht ganz dasselbe sind wie PCs , aber das Ethos ist so ziemlich dasselbe .
+Räsänen und sein Team begannen damit , die potenzielle Nachfrage nach Elektroautos in Finnland zu ermitteln .
+Räsänen erinnert sich : „ Das hatte in Finnland noch keiner gemacht .
+Wir entschieden , dass wir , wenn wir 500 Menschen dazu bewegen könnten , ihr Interesse an einem derart umgebauten Auto zu zeigen , demonstrieren könnten , dass ein Konversionsprogramm im großen Rahmen Sinn machen würde . “
+eCars – Now ! brauchte bloß elf Tage , bis sich 500 Interessenten gemeldet hatten .
+Natürlich : Dies waren nur Interessenbekundungen ; die Leute überwiesen kein Geld .
+Doch die Website des Unternehmens lockt weiterhin Interessenten an , und inzwischen haben sich dort 1000 Menschen registriert , die angeben , wahrscheinlich oder mit Sicherheit ein derartiges Fahrzeug kaufen zu wollen .
+Die Website bot außerdem Ratschläge an , was für Autos umgerüstet werden könnten .
+Erste Wahl war der Toyota Corolla – was kaum überrascht , denn mit einem Marktanteil von 7 % ist er das meistverkaufte Auto in Finnland .
+Nur 15 Monate später , im Mai diesen Jahres , wurde auf dem Electric Vehicle Symposium , einer Fachmesse in Stavanger , Norwegen , ein Vorführmodell eines umgerüsteten Corollas mit einem Motor von Azure Dynamics aus Detroit vorgestellt .
+Was muss passieren , damit die Idee Erfolg hat ?
+In gewisser Weise hat sie den bereits – einfach , indem sie sich verbreitet . Lokale Bemühungen können gelingen oder scheitern , in Abhängigkeit von den Fähigkeiten der örtlichen Umsetzer .
+In Italien verfolgt der Erfinder Roberto Vezzi das Projekt eines Elektro-Smarts , das auf denselben Überlegungen basiert .
+Er hat sich inzwischen eCars – Now ! angeschlossen , und sein eSmart soll nun mit der für den eCorolla in Finnland entwickelten Open-Source-Bedienoberfläche aufgerüstet werden .
+Weitere Initiativen gibt es laut Räsänen in Dänemark , Lettland , Spanien und der Türkei .
+Die Gruppe ist jetzt auf der Suche nach einem Ersthersteller / -monteur für die Umbausätze ( im Gegensatz zu den darin enthaltenen Motoren ) .
+In der Zwischenzeit werden Tests für den eCorolla und den eSmart durchgeführt .
+Wirtschaftlich betrachtet wäre das Ganze machbar .
+Bei einer Produktion im entsprechenden Rahmen dürfte ein Umbaupaket etwa 20.000 Dollar kosten , einschließlich der Vertriebskosten und einer Gewinnmarge .
+Zwei Kfz-Mechaniker in einer professionellen Werkstatt dürften etwa acht Stunden benötigen , um einen derartigen Bausatz zu installieren ; falls man / frau es selbst macht , dauert es weniger als eine Woche ( oder zwei , falls der Partner / die Partnerin „ mithilft “ ) .
+Das ist deutlich weniger als der Preis für einen Neuwagen – vor allem für ein Elektrofahrzeug .
+Der wahre wirtschaftliche Vorteil sind jedoch die anschließenden Kostenersparnisse .
+Natürlich hängt eine Menge davon ab , dass bequem nutzbare Ladestationen vorhanden sind , doch diese kommen inzwischen auf .
+Das Projekt wäre ein Rückbau der Automobilindustrie – und zwar ein vermutlich effektiverer , als er derzeit durch US-Regierungsvertreter in Detroit betrieben wird .
+In Finnland zumindest braucht man nichts weiter als eine staatliche Abnahmebescheinigung , die etwa 100 Euro ( 135 Dollar ) kostet .
+Wenn alles gut geht , werden eine Menge Hersteller von Elektromotoren und Umbausätzen für Autos entstehen , die die verschiedenen Märkte bestehender Autobesitzer bedienen .
+Bei den Händlern und Werkstätten , die die Akkus montieren , wird es eine neue Gruppe von Kfz-Mechanikern geben , die ( indirekt ) zu einer saubereren Umwelt beitragen und zugleich den Wert der bestehenden Fahrzeuge erhöhen .
+Vorausschauende Regierungen könnten dies unterstützen – nicht , indem sie diese Anstrengungen subventionieren , sondern durch Ankauf der alten Benzinmotoren .
+Dies schafft einen Anreiz für die Umbauunternehmen , während der Wettbewerb um die Kunden ( statt um Subventionen ) die verschiedenen Anbieter zur Effizienz anspornt .
+( Viele europäische Staaten zahlen derzeit „ Abwrackprämien “ für die Verschrottung von Altfahrzeugen . Programme zum Ankauf von Benzinmotoren wären sinnvoller , denn sie wären billiger und würden viele funktionsfähige Karosserien vor der Zerstörung bewahren . )
+Vor ein paar Jahren wäre dieses Projekt vielleicht wie Donquichotterie erschienen ; heute passt es perfekt in die Zeit .
+Es ist bescheiden zu einer Zeit , in der sich die Welt in der Rezession befindet .
+Es ist energiesparend und umweltfreundlich in einer Zeit , in der die Sorge über die globale Erwärmung zunimmt .
+Und es ist dezentral ausgerichtet – in einer Zeit , in der die Welt den Versprechen ihrer Führer mit Skepsis begegnet und die Menschen erkennen , dass sie selbst die Dinge in die Hand nehmen müssen .
+Falls Sie ein Unternehmen für Elektromotoren gründen , sich über die Umrüstung von Benzinfahrzeugen informieren oder schlicht und einfach herausfinden wollen , was Sie mit ihrem eigenen Fahrzeug machen könnten , besuchen Sie www.ecars-now.org .
+Sofern Sie nicht gerade in Finnland leben , gibt es vielleicht noch keine Fertiglösung für Sie , aber genau das ist der Punkt : Sie selbst können eine lokale Version starten .
+Wenn Sie sie bauen , werden andere folgen !

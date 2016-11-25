@@ -1,0 +1,33 @@
+Die Liquiditätszeitbombe
+NEW YORK – Seit der weltweiten Finanzkrise von 2008 sind die Finanzmärkte der Industrieländer von einem Paradox geprägt .
+Durch unkonventionelle geldpolitische Maßnahmen wurde ein massiver Liquiditätsüberhang geschaffen .
+Aber eine Reihe aktueller Schocks lässt darauf schließen , dass die Makroliquidität neuerdings mit einer ernsthaften Marktilliquidität einher geht .
+Die Leitzinsen befinden sich in den meisten Industriestaaten in der Nähe von Null ( und zeitweise noch darunter ) , und die monetäre Basis ( das von den Zentralbanken in Form von Bargeld und liquiden Reserven der Geschäftsbanken geschaffene Geld ) wird immer größer . Verglichen mit der Zeit vor der Krise hat sie sich verdoppelt , verdreifacht und in den Vereinigten Staaten sogar vervierfacht .
+Dadurch blieben die kurz- und langfristigen Zinssätze niedrig ( und in Gegenden wie Europa und Japan sogar negativ ) . Weiterhin folgte daraus eine Verringerung der Volatilität der Anleihenmärkte und die Erhöhung der Preise vieler Anlagegüter ( darunter Aktien , Immobilien und festverzinsliche Anleihen des privaten und öffentlichen Sektors ) .
+Und trotzdem haben die Investoren Grund , sich Sorgen zu machen .
+Dies begann mit dem „ Flash-Crash “ im Mai 2010 , als große US-Aktienindizes innerhalb von 30 Minuten um fast 10 % fielen , bevor sie sich dann schnell wieder erholten .
+Dann kam der „ Rückführungsschock “ im Frühjahr 2013 , als der damalige Fed-Vorsitzende Ben Bernanke das Ende der monatlichen Zentralbankkäufe langfristiger Wertpapiere in Aussicht stellte und die langfristigen US-Zinsen daraufhin um 100 Basispunkte in die Höhe schnellten .
+Und im Oktober 2014 fielen die Erträge der US-Staatsanleihen innerhalb von Minuten um fast 40 Basispunkte , was laut Statistikern nur einmal in drei Milliarden Jahren vorkommen sollte .
+Die jüngste Episode fand dann im vergangenen Monat statt , als innerhalb weniger Tage die Erträge der deutschen Staatsanleihen von fünf Basispunkten auf beinahe achtzig stiegen .
+Durch diese Ereignisse wurden Ängste wach , dass selbst sehr tiefe und liquide Märkte – wie diejenigen für US-Aktien und Staatsanleihen in den USA und Deutschland – nicht liquide genug sein könnten .
+Was also ist für diese Kombination von Makroliquidität und Marktilliquidität verantwortlich ?
+Zunächst einmal werden die Aktienmärkte immer mehr durch Hochfrequenztrader ( HFT ) beeinflusst , die Computeralgorithmen verwenden , um Markttendenzen zu folgen .
+Dies führt natürlich zu Herdenverhalten .
+Tatsächlich konzentriert sich der Handel in den USA heute auf den Beginn und die letzte Stunde des Handelstages , wenn die HFT am aktivsten sind . Für den Rest des Tages sind die Märkte illiquide , es finden nur wenige Transaktionen statt .
+Ein zweiter Grund ist die Tatsache , dass festverzinsliche Wertpapiere – wie Anleihen von Regierungen , Unternehmen und Entwicklungsländern – nicht wie Aktien an den liquideren Börsen gehandelt werden .
+Statt dessen sind sie im Freiverkehr in illiquiden Märkten notiert .
+Drittens sind festverzinsliche Anleihen – die sich dank der verstärkten Vergabe privater und öffentlicher Kredite vor und nach der Finanzkrise enorm vermehrt haben – nicht nur illiquider , sondern werden meist auch in offenen Fonds verwaltet , die Investoren einen sofortigen Ausstieg ermöglichen .
+Stellen wir uns eine Bank vor , die in illiquide Anlagen investiert , aber den Sparern erlaubt , ihr Geld jederzeit abzuziehen : Wenn ein Ansturm auf die Bank stattfindet , muss sie diese illiquiden Anlagen verkaufen , was sehr schnell zu einem starken Preisverfall durch Panikverkäufe führen kann .
+Viertens waren die Banken vor der Krise von 2008 die Primärhändler für festverzinsliche Wertpapiere .
+Sie hielten große Vorräte dieser Instrumente , was die Liquidität förderte und übermäßige Preisvolatilität ausglich .
+Aber aufgrund neuer Regulierungen , die diesen Handel ( über höhere Kapitalkosten ) bestrafen , haben Banken und andere Finanzinstitute ihre Primärhandelsaktivitäten eingeschränkt .
+Also können die Banken in unruhigen Zeiten mit starken Preisausschlägen bei den Anleihen nicht mehr stabilisierend wirken .
+Kurz gesagt , obwohl die die hohe Makroliquidität der Zentralbanken die Erträge der Anleihen und die Volatilität niedrig zu halten vermag , hat sie auch zur Verengung des Handels ( bei durch HFT verstärktem , trendfolgendem Herdenverhalten ) und zu vermehrten Investitionen in illiquide Anleihenfonds geführt . Gleichzeitig führen strengere Regulierungen dazu , dass die Primärhändler ihre Aufgabe nicht mehr erfüllen können .
+Daher können Überraschungen – wenn beispielsweise die Fed früher als erwartet eine Abkehr von der Nullzinspolitik signalisiert , die Ölpreise stark steigen oder das Wachstum der Eurozone in Gang kommt – dazu führen , dass Aktien und insbesondere Anleihen abrupt und dramatisch neu bewertet werden : Alle Teilnehmer der engen Märkte müssen gleichzeitig verkaufen .
+Auch in die andere Richtung findet Herdenverhalten statt , aber da viele Investitionen in illiquiden Fonds stecken und die traditionellen Primärhändler ihre volatilitätssenkende Aufgabe nicht mehr erfüllen können , sind die Verkäufer zu Panikverkäufen gezwungen .
+Diese Kombination von Makroliquidität und Marktilliquidität ist eine Zeitbombe .
+Bis jetzt hat sie lediglich zu volatilen „ Flash-Crashs “ und plötzlichen Veränderungen der Anleihen- und Aktienpreise geführt .
+Je länger aber die Zentralbanken zusätzliche Liquidität schaffen , um die kurzfristige Volatilität zu unterdrücken , desto mehr werden die Preisblasen in den Aktien- , Anleihe- und sonstigen Märkten aufgebläht .
+Je mehr Investoren in überbewertete , immer illiquidere Anlagen – wie Anleihen – investieren , desto größer wird das Risiko eines langfristigen Crashs .
+Dies ist das paradoxe Ergebnis der politischen Antwort auf die Finanzkrise .
+Die Makroliquidität führt zu immer größeren Preisblasen , aber durch die Illiquidität der Märkte werden diese irgendwann zum Platzen gebracht .

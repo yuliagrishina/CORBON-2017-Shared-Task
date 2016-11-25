@@ -1,0 +1,41 @@
+Großmeister und globales Wachstum
+CAMBRIDGE – Die Weltwirtschaft hinkt aus dem letzten Jahrzehnt und tritt 2010 in ein neues ein . Was wird da die nächste große Antriebskraft des globalen Wachstums sein ?
+Ich wette , dass die „ Zehner “ ein Jahrzehnt werden , in dem die künstliche Intelligenz die „ Fluchtgeschwindigkeit erreicht “ und anfängt wirtschaftliche Auswirkungen zu zeigen , die mit dem Aufstieg Indiens und Chinas auf einer Stufe stehen .
+Zugegebenermaßen ist meine Sichtweise stark von den Geschehnissen in der Welt des Schachs gefärbt , einem Spiel , das ich früher auf professionellem Niveau spielte und immer noch aus der Ferne verfolge .
+Obwohl es ein Sonderbereich ist , bietet Computerschach sowohl einen Einblick in die Rechnerevolution als auch ein Barometer dafür , wie sich die Menschen daran anpassen könnten .
+Ein wenig Geschichte könnte hier weiterhelfen .
+1996 und 1997 spielte der Schachweltmeister Garri Kasparow zwei Matches gegen einen IBM-Computer namens „ Deep Blue “ .
+Damals dominierte Kasparow das Schachspiel weltweit , ungefähr so wie Tiger Woods – zumindest bis vor Kurzem – das Golfspiel dominierte .
+Im Duell von 1996 überraschte Deep Blue den Meister , indem er ihn in der ersten Partie schlug .
+Doch passte sich Kasparow schnell an und nutzte die Schwächen des Computers in der langfristigen strategischen Planung aus , wo seine Urteilskraft und Intuition über das mechanische Zählen des Computers zu siegen schienen .
+Leider nahm der überaus selbstsichere Kasparow Deep Blue in der Revanche 1997 nicht ernst genug .
+Deep Blue schockierte den Meister , indem er das Duell 3,5 zu 2,5 gewann .
+Viele Kommentatoren haben Deep Blues Sieg als eines der wichtigsten Ereignisse des zwanzigsten Jahrhunderts bezeichnet .
+Vielleicht hätte Kasparow die Revanche gewinnen können , hätte sie die volle Anzahl von 24 Partien umfasst ( damals die Standardlänge von Weltmeisterschaftsturnieren ) .
+Doch verbesserten sich die Computer in den nächsten Jahren , obwohl die Menschen von ihnen lernten , in einem schnelleren Tempo .
+Mit immer leistungsstärkeren Prozessoren entwickelten die Schachspieler aus Silizium die Fähigkeit , Züge so weit vorauszuberechnen , dass der Unterschied zwischen kurzfristigem taktischem Kalkül und langfristiger strategischer Planung verschwamm .
+Zur gleichen Zeit begannen Computerprogramme , riesige Datenbanken mit Partien zwischen Großmeistern ( der höchste Titel im Schach ) auszuwerten und stellten anhand der Ergebnisse menschlicher Partien Hochrechnungen an , welche Züge die höchsten Erfolgschancen boten .
+Bald wurde klar , dass selbst die besten menschlichen Schachspieler nur geringe Chancen hatten , mehr als ein gelegentliches Remis zu erreichen .
+Heute sind Schachprogramme so gut geworden , dass selbst Großmeister manchmal Probleme haben , die Logik hinter einigen ihrer Züge zu verstehen .
+In Schachmagazinen liest man häufig Kommentare wie diesen von Spitzenspielern : „ Mein Freund aus Silizium sagt , ich hätte meinen König statt der Königin setzen sollen , aber ich meine immer noch , dass ich den besten ‚ menschlichen ’ Zug gespielt habe . “
+Es kommt noch schlimmer .
+Viele im Handel erhältliche Computerprogramme können so eingestellt werden , dass sie die Stile von erstklassigen Großmeistern zu einem nahezu unheimlichen Grad nachahmen .
+In der Tat stehen Schachprogramme jetzt ganz kurz davor , den ultimativen Test für künstliche Intelligenz des verstorbenen britischen Mathematikers Alan Turing zu bestehen : Kann ein Mensch , der mit der Maschine spricht , feststellen , dass es sich nicht um einen anderen Menschen handelt ?
+Ich kann es jedenfalls nicht .
+Nun , da Schachturniere immer mehr von computergestützten Betrugsversuchen durchzogen werden ( die Vorwürfe reichen bis in die obersten Ebenen ) , besteht die hauptsächliche Aufdeckungsmethode ironischerweise im Einsatz eines anderen Computers .
+Nur eine Maschine kann verlässlich feststellen , was ein anderer Computer in einer bestimmten Position tun würde .
+Würde Turing heute noch leben , vielleicht würde er künstliche Intelligenz als die Unfähigkeit eines Computers definieren , festzustellen , ob es sich bei einer anderen Maschine um einen Menschen handelt !
+Hat all dies die Schachspieler arbeitslos werden lassen ?
+Ermutigenderweise lautet die Antwort darauf : „ Noch nicht . “ Tatsächlich ist Schach in gewisser Weise heute ebenso beliebt und erfolgreich wie zu jedem anderen Zeitpunkt in den letzten Jahrzehnten . Schach eignet sich hervorragend zum Spielen im Internet , und die Fans können Turniere von Weltklasse in Echtzeit verfolgen , häufig mit Kommentaren .
+Die Technologie hat dazu beigetragen , Schach vollkommen zu globalisieren : Der Inder Vishy Anand ist nun der erste asiatische Weltmeister , und der hübsche junge Norweger Magnus Carlson hat nahezu Rockstar-Status erreicht .
+Mensch und Maschine haben gelernt zu koexistieren – bislang .
+Selbstverständlich ist dies ein Mikrokosmos der größeren Veränderungen , die wir zu erwarten haben .
+Die furchtbaren automatischen Telefonansagesysteme , unter denen wir derzeit alle leiden , könnten tatsächlich besser werden .
+Stellen Sie sich vor : Eines Tages sind Ihnen vielleicht sogar digitale Telefonisten lieber als menschliche .
+In 50 Jahren könnten Computer alle möglichen Aufgaben übernehmen , vom Taxifahren bis hin zur Ausführung von chirurgischen Routineoperationen .
+Zuvor wird künstliche Intelligenz das Lernen an Hochschulen verändern und unter Umständen eine Universitätsbildung von Weltniveau weithin verfügbar machen , sogar in armen Entwicklungsländern .
+Und natürlich gibt es überall banalere , aber wichtigere Einsatzbereiche für künstliche Intelligenz – von der Steuerung der Elektronik und Beleuchtung in Häusern bis hin zur Installation von „ intelligenten Netzen “ für Wasser und Strom , die zur Überwachung dieser und anderer Systeme beitragen , um Verluste zu reduzieren .
+Kurz gesagt , ich teile nicht die Auffassung vieler anderer , dass nach dem Internet und dem PC eine lange Wartezeit bis zur nächsten unsere Paradigmen verschiebenden Innovation folgt .
+Künstliche Intelligenz wird uns den Auftrieb geben , der die Zehner am Rollen hält .
+Daher gibt es trotz eines holprigen Starts aufgrund der Finanzkrise ( die das globale Wachstum noch in diesem und im nächsten Jahr verlangsamen wird ) keinen Grund , warum dieses Jahrzehnt ein wirtschaftlicher Flop sein müsste .
+Vorausgesetzt , dass es zu keinen weiteren tiefen Finanzkrisen kommt , wird es kein Flop – solange die Politiker dem neuen Paradigma des Handels , der Technologie und künstlichen Intelligenz nicht im Weg stehen .

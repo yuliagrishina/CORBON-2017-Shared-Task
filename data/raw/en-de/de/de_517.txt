@@ -1,0 +1,39 @@
+Automation , Produktivität und Wachstum
+BERLIN – Es scheint offensichtlich , dass , wenn ein Unternehmen in Automation investiert , seine Belegschaft – auch wenn sie möglicherweise nun kleiner ist – produktiver wird .
+Warum also sagt die Statistik etwas anderes ?
+In hochentwickelten Volkswirtschaften , in denen viele Branchen sowohl das Geld als auch den Willen haben , in die Automation zu investieren , ist das Produktivitätswachstum ( gemessen als Wertbeitrag pro Mitarbeiter oder Arbeitsstunden ) seit mindestens 15 Jahren gering .
+Und in den Jahren seit der globalen Finanzkrise von 2008 fiel das Gesamtwirtschaftswachstum in diesen Ländern mit durchschnittlich maximal 4 % bescheiden aus .
+Eine Erklärung hierfür ist , dass sich die hochentwickelten Volkswirtschaften zu stark verschuldet hatten und sich entschulden mussten , was zu systematischen Investitionsdefiziten im öffentlichen Sektor beitrug und auch auf den Konsum und die privaten Investitionen drückte .
+Doch ist die Entschuldung ein vorübergehender Prozess , der das Wachstum nicht dauerhaft beschränkt .
+Langfristig ist das Gesamtwirtschaftswachstum von einer Zunahme der Erwerbsbevölkerung und ihrer Produktivität abhängig .
+Daher fragen sich Politiker und Ökonomen gleichermaßen : Ist die Produktivitätsverlangsamung ein Dauerzustand , der das Wachstum beschränkt , oder ein vorübergehendes Phänomen ?
+Dies lässt sich nicht so einfach beantworten – nicht zuletzt wegen der breiten Palette von Faktoren , die zu diesem Trend beitragen .
+Über das Investitionsdefizit im öffentlichen Sektor hinaus ist da die Geldpolitik , die – egal , welcher Nutzen und welche Kosten damit verbunden sind – den Kapitaleinsatz der Unternehmen auf Aktienrückkäufe umgelenkt hat , während die echte Investitionstätigkeit nach wie vor verhalten bleibt .
+Zugleich haben Informationstechnologie und digitale Netzwerke eine Vielzahl von Tätigkeiten in Büros und Fabriken automatisiert .
+Man könnte erwarten , dass dieser Wandel , bei dem das Schlüsseljahr in den USA das Jahr 2000 war , Arbeitslosigkeit hätte verursachen müssen ( zumindest bis sich die Wirtschaft daran angepasst hätte ) , einhergehend mit einem Anstieg der Produktivität .
+Doch zeigen US-Daten für die Jahre bis zur Krise von 2008 einen Abwärtstrend bei der Produktivität , während die Arbeitslosigkeit bis zum Ausbruch der Krise nicht wesentlich anstieg .
+Eine Erklärung hierfür ist , dass die Beschäftigung in den Jahren vor der Krise durch eine kreditgestützte Nachfrage in die Höhe getrieben wurde .
+Erst als die Kreditblase platzte – und anstelle der allmählichen Anpassung von Fertigkeiten und Humankapital , die in „ normaleren “ Zeiten erfolgt wäre , eine abrupte Korrektur auslöste – hätten Millionen von Arbeitnehmern plötzlich ohne Arbeitsplatz dagestanden .
+Dies impliziert , dass die wirtschaftliche Logik , die Automation mit Produktivitätssteigerungen gleichsetzt , nicht widerlegt , sondern der Nachweis dafür lediglich hinausgezögert wurde .
+Doch geht es beim Produktivitätsrätsel um mehr als nur die Krise von 2008 .
+In den zwei Jahrzehnten vor der Krise schuf der Sektor der US-Volkswirtschaft , der international handelbare Waren und Dienstleistungen produziert – und ein Drittel der Gesamtproduktionsleistung ausmacht – keine zusätzlichen Arbeitsplätze , obwohl er vom Wertbeitrag her schneller wuchs als der Sektor nicht handelbarer Güter und Dienstleistungen .
+Die meisten Arbeitsplätze im Sektor handelbarer Güter und Dienstleistungen gingen in der Fertigungsbranche verloren , insbesondere nach dem Jahr 2000 .
+Auch wenn einige der Verluste aus durch Informationstechnologie und Digitalisierung bedingten Produktivitätszuwächsen herrühren mögen , ereigneten sich viele , als die Unternehmen Abschnitte ihrer Lieferketten in andere Teile der Weltwirtschaft verlagerten , insbesondere nach China .
+Im Gegensatz hierzu war in den USA im Sektor nicht handelbarer Güter und Dienstleistungen – auf den zwei Drittel der Volkswirtschaft entfallen – vor 2008 eine große Beschäftigungszunahme zu verzeichnen .
+Freilich generierten diese Arbeitsplätze – häufig haushaltsnahe Dienstleistungen – zumeist einen geringeren Wertbeitrag als die verschwundenen Jobs in der Fertigungsbranche .
+Dies ist unter anderem darauf zurückzuführen , dass im Sektor handelbarer Güter und Dienstleistungen tendenziell zunehmend Mitarbeiter mit höherem Fertigkeits- und Bildungsniveau beschäftigt wurden .
+In diesem Sinne stieg die Produktivität im Sektor der handelbaren Güter und Dienstleistungen , auch wenn die strukturellen Veränderungen in der Weltwirtschaft sicher genauso wichtig waren wie die Tatsache , dass die Beschäftigten ein und dieselben Aufgaben nun effektiver erledigten .
+Die hochentwickelten Volkswirtschaften hatten allerdings das Pech , dass die Steigerungen beim Wertbeitrag pro Kopf im Sektor der handelbaren Güter und Dienstleistungen nicht ausreichend groß waren , um die Auswirkungen der Umwandlung von Arbeitsplätzen in der Fertigung in Tätigkeiten im Bereich der nicht handelbaren Dienstleistungen auszugleichen ( wobei viele dieser letzteren Jobs nur aufgrund der kreditgestützten Nachfrage in der Jubelzeit vor 2008 bestanden ) .
+Dies erklärt den geringen Gesamtproduktivitätszuwachs .
+Zugleich gilt : Je reicher die Entwicklungsländer werden , desto mehr werden auch sie in Technologie investieren , um die steigenden Arbeitskosten zu bewältigen ( ein Trend , der in China bereits erkennbar ist ) .
+Infolgedessen dürfte die Höchstmarke beim globalen Produktivitäts- und BIP-Wachstum möglicherweise bereits erreicht sein .
+Das Organisationsprinzip der globalen Lieferketten bestand während des größten Teils der Nachkriegszeit darin , die Produktion dorthin zu verlagern , wo die Arbeitskräfte billig sind , weil Arbeit der am wenigsten mobile der verschiedenen Wirtschaftsfaktoren ( Arbeit , Kapital und Wissen ) war und ist .
+Dies wird für Dienstleistungen mit hohem Wertbeitrag , die sich nicht automatisieren lassen , auch so bleiben .
+Doch für kapitalintensive digitale Technologien wird sich das Organisationsprinzip wandeln : Die Produktion wird sich in die Endmärkte verlagern , die sich zunehmend nicht nur in den hochentwickelten Volkswirtschaften , sondern auch in den Schwellenländern mit ihrer wachsenden Mittelschicht befinden werden .
+Martin Baily und James Manyika haben kürzlich darauf hingewiesen , dass wir ein derartiges Szenario bereits einmal erlebt haben .
+In den 1980er Jahren haben Robert Solow und Stephen Roach unabhängig voneinander argumentiert , dass die Investitionen in die IT keine Auswirkungen auf die Produktivität zeigten .
+Als dann das Internet allgemein zugänglich wurde , nahmen die Unternehmen Reorganisationsmaßnahmen an sich selbst und ihren globalen Lieferketten vor , und die Produktivität stieg .
+Die Internetblase Ende der 1990er Jahre stellte eine Fehleinschätzung des Zeitpunkts und nicht der Größenordnung der digitalen Revolution dar .
+In gleicher Weise , so Manyika und Baily , wird es vermutlich einige Jahre dauern , bevor sich das viel diskutierte „ Internet der Dinge “ in den Gesamtproduktivitätsdaten niederschlägt .
+Organisationen , Unternehmen und Menschen müssen sich alle an die technologiebedingten Änderungen der Struktur unserer Volkswirtschaften anpassen .
+Dieser Wandel wird langwierig sein , und er wird einige belohnen und andere zu schwierigen Korrekturen zwingen , und seine Auswirkungen auf die Produktivität werden sich erst in einer ganzen Weile in den Gesamtdaten abzeichnen . Doch diejenigen , die sich zuerst bewegen , dürften vermutlich am stärksten profitieren .

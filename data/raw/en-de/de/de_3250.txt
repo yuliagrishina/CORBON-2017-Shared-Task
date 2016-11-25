@@ -1,0 +1,50 @@
+Perfekte Verlierer
+LONDON – Die Wirtschaftswissenschaft , so scheint es , hat uns wenig über die aktuelle Wirtschaftskrise zu sagen .
+Tatsächlich hat kein Geringerer als Alan Greenspan , der ehemalige Vorsitzende der US-Notenbank Federal Reserve , vor Kurzem eingestanden , dass sein gesamtes „ intellektuelles Gebäude “ durch die jüngsten Ereignisse „ zerstört “ wurde .
+Wenn man im Schutt sucht , kann man jedoch nützliche Bruchstücke finden .
+Eines davon wird als „ asymmetrische Information “ bezeichnet .
+Das bedeutet , dass einige Menschen mehr über manche Dinge wissen als andere Menschen .
+Vielleicht keine besonders verblüffende Erkenntnis .
+Doch man wende sie auf Käufer und Verkäufer an .
+Nehmen wir an , der Verkäufer eines Produkts weiß mehr über dessen Qualität als der Käufer oder umgekehrt .
+Interessante Dinge passieren – so interessant , dass die Erfinder dieser Idee den Nobelpreis für Wirtschaftswissenschaften erhielten .
+1970 veröffentlichte George Akerlof einen berühmten Aufsatz mit dem Titel „ The Market for Lemons “ ( Der Markt für Zitronen ) .
+Sein Hauptbeispiel war der Gebrauchtwagenmarkt .
+Der Käufer weiß nicht , ob das , was angeboten wird , ein gutes Auto oder eine „ Zitrone “ ist .
+Er kann bestenfalls raten , dass der Wagen von durchschnittlicher Qualität ist , für die er nur den durchschnittlichen Preis bezahlen will .
+Da der Eigentümer nicht in der Lage ist , einen guten Preis für einen guten Wagen zu bekommen , bringt er keine guten Wagen auf den Markt .
+Daher nimmt die durchschnittliche Qualität der zum Kauf angebotenen Gebrauchtwagen ab .
+Die Zitronen pressen die Orangen aus .
+In einem weiteren bekannten Beispiel geht es um Versicherungen .
+Dieses Mal ist es der Käufer , der mehr weiß als der Verkäufer , da der Käufer sein Risikoverhalten , seine körperliche Gesundheit usw. kennt .
+Das Versicherungsunternehmen ist mit „ adverser Selektion “ konfrontiert , da es nicht zwischen guten und schlechten Risiken unterscheiden kann .
+Daher legt es einen Durchschnittsbeitrag fest , der für gesunde Beitragszahler zu hoch und für ungesunde zu niedrig ist .
+Das vertreibt die gesunden Beitragszahler und belastet den Versicherer mit einem Portfolio schlechter Risiken – der schnelle Weg in den Konkurs .
+Es gibt verschiedene Möglichkeiten , die verfügbaren Informationen „ auszugleichen “ – zum Beispiel durch Garantien für Gebrauchtwagen und Gesundheitszeugnisse für die Versicherung .
+Doch da diese Dinge Geld kosten , führen asymmetrische Informationen stets zu schlechteren Ergebnissen , als ursprünglich aufgetreten wären .
+Das alles ist für die Finanzmärkte relevant , da die „ Theorie effizienter Märkte “ – das beherrschende Paradigma der Finanzwelt – davon ausgeht , dass jeder über vollständige Informationen verfügt und dass daher alle Preise den realen Wert der angebotenen Waren ausdrücken .
+Doch wird Ihnen jeder Finanzexperte sagen , dass einige mehr wissen als andere und auch mehr verdienen .
+Informationen sind das Wichtigste .
+Doch genau wie auf dem Gebrauchtwagen- und Versicherungsmarkt führen asymmetrische Informationen auf dem Finanzmarkt zu Problemen .
+Ein typisches Problem der „ adversen Selektion “ tritt auf , wenn die Banken nicht zwischen einer guten und einer schlechten Investition unterscheiden können – analog zur Situation auf dem Versicherungsmarkt .
+Der Kreditnehmer weiß , dass das Risiko hoch ist , sagt dem Kreditgeber jedoch , es sei niedrig .
+Der Kreditgeber , der das Risiko nicht einschätzen kann , entscheidet sich für Investitionen , die höhere Erträge versprechen .
+Nach diesem speziellen Modell investieren die Banken zu viel in hochriskante Projekte mit hohen Erträgen , das heißt , durch asymmetrische Information gelangen faule Kredite auf den Kreditmarkt .
+Andere Modelle ziehen das Prinzipal-Agent-Verhalten heran , um das „ Momentum “ ( Herdenverhalten ) auf den Finanzmärkten zu erklären .
+Obwohl diese Modelle vor der aktuellen Krise ausgearbeitet wurden , scheinen sie ziemlich gut auf die derzeitigen Beobachtungen zuzutreffen : Banken liehen an Unternehmer , die nie zurückzahlen konnten , und die Preise für Vermögenswerte änderten sich , obwohl sich die Bedingungen nicht geändert hatten .
+Doch erkennt man nach kurzem Nachdenken , warum diese Modelle die derzeitige allgemeine Krise nicht erklären können .
+Sie beruhen darauf , dass einer den anderen übers Ohr haut : Die besser Informierten gewinnen – zumindest kurzfristig – zu Lasten der schlechter Informierten .
+Eigentlich kommt dies einem Betrug gleich .
+Daher können diese Modelle keine Situation erklären , in der alle , oder fast alle , gleichzeitig verlieren – beziehungsweise gewinnen .
+Die Theoretiker der asymmetrischen Information gehören zu einem abweichenden Zweig der etablierten Wirtschaftswissenschaft .
+Sie sind mit der Mehrheit einer Meinung , dass es irgendwo da draußen die vollständige Information gibt , einschließlich des vollständigen Wissens darüber , wie die verschiedenen Teile der Wirtschaft zusammenpassen .
+Sie weichen nur in dem Glauben voneinander ab , dass nicht jeder darüber verfügt .
+In Akerlofs Beispiel besteht das Problem beim Verkauf eines Gebrauchtwagens zu einem wirtschaftlichen Preis nicht darin , dass niemand weiß , wie hoch die Wahrscheinlichkeit ist , dass er kaputt geht , sondern eher darin , dass der Verkäufer ganz genau weiß , wie hoch die Wahrscheinlichkeit ist , dass er kaputt geht , und der Käufer nicht .
+Und trotzdem ist das wirkliche Problem , dass in der realen Welt niemand vollständig informiert ist .
+Diejenigen , die über bessere Informationen verfügen , versuchen diejenigen zu täuschen , die über schlechtere verfügen ; doch täuschen sie sich selbst , dass sie mehr wissen als sie tatsächlich tun .
+Wenn nur ein Mensch vollständig informiert wäre , könnte nie eine Krise eintreten – irgendjemand würde immer zum richtigen Zeitpunkt die richtigen Entscheidungen treffen . Doch nur Gott ist vollständig informiert , und er spielt nicht an der Börse .
+„ Die hervorstechende Tatsache “ , schrieb John Maynard Keynes in seiner Allgemeinen Theorie der Beschäftigung , des Zinses und des Geldes , „ ist die äußerste Fragwürdigkeit der Wissensgrundlage , auf der unsere Schätzungen des voraussichtlichen Erträgnisses gemacht werden müssen . “ Es gibt „ da draußen “ kein perfektes Wissen über den korrekten Wert von Vermögenswerten , da es keine Möglichkeit gibt vorherzusagen , wie die Zukunft wird .
+Wir haben es nicht mit asymmetrischer Information zu tun , sondern eher mit unterschiedlichen Graden von keiner Information .
+Das Herdenverhalten , so dachte Keynes , rührt nicht von Täuschungsversuchen , sondern von der Tatsache , dass wir angesichts des Unbekannten Zuflucht in der Masse suchen .
+Die Wirtschaftswissenschaft muss , anders ausgedrückt , von der Annahme ausgehen , dass das Wissen unvollständig ist , nicht vollständig .
+Dann könnte sie womöglich besser erklären , warum wir da stehen , wo wir heute stehen .

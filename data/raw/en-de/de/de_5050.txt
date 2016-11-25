@@ -1,0 +1,34 @@
+Die Software des Lebens
+Da wir selbst leben , neigen wir zur Ansicht , das Leben wäre einfach zu begreifen .
+In der herkömmlichen Hierarchie der Naturwissenschaften wird die Mathematik , weil am schwierigsten , als Königsdisziplin betrachtet . Danach folgen Physik , Chemie und schließlich die Biologie .
+Diese Hierarchie ist allerdings falsch und irreführend : Heute wissen wir , dass in der Biologie mehr Mathematik steckt , als wir uns jemals vorstellten .
+Als mit der Entdeckung der DNA Moleküle in die wissenschaftliche Erklärung des Lebens Einzug hielten , erklomm die Biologie einen höheren Rang und gelangte auf die Ebene der Chemie .
+Als man später die für die Genaktivierung verantwortlichen abstrakten Schemata erkannte , schaffte es die Biologie , sich noch weiter der Mathematik anzunähern .
+Das Schlagwort in den Biowissenschaften von heute lautet „ Systembiologie “ .
+Lange Zeit wurden Forscher , die sich mit dem Leben und der Vererbung beschäftigten , in zwei Lager eingeteilt : Auf der einen Seite die Epigenetiker , die vor allem die Umwelteinflüsse auf lebende Organismen hervorhoben und auf der anderen Seite die Präformisten , die sich in erster Linie auf die Ähnlichkeiten zwischen Eltern und deren Nachkommenschaft konzentrierten .
+Die epigenetische Sicht der Dinge war eindeutig falsch , denn irgendetwas Gleichbleibendes musste ja von einer Generation auf die andere übertragen werden .
+Aber die Ansicht der Präformisten , wonach es der ganze Organismus sei , der auf die nächste Generation übertragen wird , stand im Widerspruch zur Unmöglichkeit , Objekte unendlich oft zu teilen .
+Übertragen werden musste also nicht der Organismus in seiner endgültigen Ausformung , sondern dessen Bauplan .
+Man denke an das alte metaphysische Rätsel : Ist ein hölzernes Boot , dessen verfaulende Planken nach und nach ersetzt werden , noch immer das gleiche Boot , wenn alle Planken ausgetauscht sind ?
+Die „ Systembiologie “ ist eine Art der Biologie , die erkennt , dass die Konstruktion des Bootes gleich bleibt – die Konstruktion , welche die Beziehung zwischen den Planken bestimmt .
+Diese Vorstellung ebnete den Weg für das Konzept eines „ genetischen Programms “ , das ähnlich funktioniert wie ein Computerprogramm . Diese Metapher erwies sich nach der Entdeckung der DNA als beinahe offenkundig , denn die DNA konnte als lineare Abfolge von Symbolen interpretiert werden .
+Ebenso wenig wie in einem Computerprogramm , ist aber auch in der DNA der finale Zustand dessen gespeichert ist , wofür sie steht . Vielmehr sind darin in symbolischer aber dennoch konkreter Art ( sie ist ein echter „ Text “ ) die Beziehungen zwischen allen Objekten und Kräften festgeschrieben , die sie spezifiziert und kontrolliert .
+Eine bemerkenswerte Beobachtung unterstützt diese Analogie : Viren verhalten sich wie individuelle Programmteile . Sie benutzen die Zelle als Maschine mittels derer sie sich vervielfältigen und vermehren ( oftmals indem sie die Maschine zerstören ) .
+Als das Programmieren von Computern zur täglichen Routine wurde , erkannte man , dass sich manche Softwareteile ebenso verhalten und nannte sie fortan „ Viren “ .
+Als es möglich wurde , die DNA in vitro zu manipulieren , erschien die Metapher eines „ genetischen Programms “ noch glaubhafter : Die Wissenschafter konnten Experimente durchführen , die dem Umprogrammieren einer Zelle entsprachen , indem sie einfach nur mit Symbolen aus Silikon arbeiteten .
+Die Metapher stammt von dem berühmten Mathematiker und Informatiker Alan Turing , der neben John von Neumann und anderen Theoretikern den Zusammenhang zwischen der Mathematik der ganzen Zahlen und der Logik entdeckte .
+Turing postulierte , dass alle Berechnungen und logischen Operationen von einer einzigen Maschine , der von ihm so benannten Universellen Turing-Maschine , durchgeführt werden könnten , indem sie eine lineare Abfolge von Symbolen liest und modifiziert .
+Dazu bedurfte es nur der physischen Trennung der von der Maschine bearbeiteten Symbole ( auf einem Speicherband ) und der Maschine selbst .
+Auf dem Band waren überdies die Daten gespeichert , die für die Maschine nötig waren , um ihre Funktion auszuführen .
+Somit gab es zwei Arten von Daten : Ein Programm , dass die „ Bedeutung “ der von der Maschine erkannten logischen Sequenzen speicherte und die reinen Daten , die den Kontext für das Programm darstellten , damit es ablaufen konnte .
+Die Gentechnik beruht auf der Manipulation von DNA-Molekülen ( entweder natürlichen oder künstlich hergestellten ) , um fremde Zellen umzuprogrammieren .
+So gibt es heute viele Bakterien , die menschliche Proteine produzieren .
+Das ist allerdings nur ein kleiner Teil des genetischen Programms .
+Die Übertragung von Genen zwischen Organismen ist weit verbreitet .
+Der Kerntransfer , bekannt durch das Klonschaf Dolly , macht die Universelle Turing-Maschine zu einem höchst anschaulichen , wenn nicht sogar alles erklärendem Modell der Zelle .
+Wenn wir diese Metapher wörtlich nehmen , hat das erstaunliche Konsequenzen .
+Es hat sich nämlich gezeigt , dass das Ergebnis mancher Computerprogramme plötzlich vollkommen deterministisch , innovativ und unvorhersehbar ist .
+Die Computer-Metapher impliziert daher , dass es sich bei lebenden Organismen um materielle Systeme handelt , die mit einer unvorhersehbaren Zukunft konfrontiert sind und daher zu unwahrscheinlichen Lösungen kommen , so dass einige ihrer Nachkommen unter unberechenbaren Bedingungen überleben können .
+Leben ist von Natur aus kreativ .
+Dennoch erfährt diese Metapher durch eine einfache Tatsache ihre Grenze : Computer können keine Computer machen .
+Die Herausforderung für die neue Biologie ist herauszufinden , wie das funktionieren würde .

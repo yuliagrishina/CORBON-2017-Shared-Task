@@ -1,0 +1,45 @@
+Kampf der Kulturen in der Biologie
+Im letzten Sommer trafen sich einige Duzend Physiker nahe bei Aspen , Colorado . Sie wollten etwas feiern , was die Zeitschrift Nature als das " wachsende Gefühl " bezeichnete , , , dass die geistigen Grundlagen ihrer Disziplin dafür entscheidend sein werden , die Ernte der Ära nach dem Genom einzufahren " .
+Da sich die Genetik tatsächlich anschickt , alles von der menschlichen Gesundheit bis hin zur Landwirtschaft zu verbessern , drängen sich überall in der Welt Physiker und Mathematiker in die biologischen Wissenschaften .
+Die Biologie wird es sein , wohin im nächsten Jahrhundert die wissenschaftliche Aktivität - und die Forschungsgelder - hinfließen werden .
+Doch ist dies nicht das erste Mal , dass Physiker und Mathematiker in der Biologie nach neuen Arbeitsfeldern Ausschau halten . Aber die Geschichte dieser Bemühungen sah bisher ziemlich trübe aus .
+Biologen und Physiker haben unterschiedliche Ziele und Traditionen und suchen nach recht verschiedenen Antworten , weil sie Fragen ganz anderer Art stellen .
+Ich bekam vor vielen Jahren den ersten Eindruck von der Trennungslinie zwischen den Disziplinen . Damals gab ich einen Kurs über mathematische Methoden in der Biologie .
+Nachdem ich ein biologisches Problem mit 11 Variablen eingeführt hatte , benutzte ich eine einfache Methode - die so genannte dimensionale Analyse - um zu zeigen , dass nur drei der Variablen empirisch untersucht werden mussten ; auf die Beziehungen zu den restlichen Variablen konnte mit Hilfe der Logik geschlossen werden .
+" Aber Sie haben doch keine Versuche gemacht " , beklagten sich die Studenten , " wie können Sie es dann wissen " ?
+Seither habe ich über diese Frage immer wieder nachgedacht .
+Als theoretische Physikerin war ich darin geübt , nur mathematischen und logischen Argumenten zu trauen und experimentelle Beweise für fehlbar zu halten .
+Doch für viele , wenn nicht die meisten Biologen , sind Experimente , so unzuverlässig sie auch sein mögen , noch immer der sicherere Weg zu Wahrheit .
+Wo wäre auch in einer ausschließlich deduktiven Argumentation Platz für die Überraschungen der Natur , für Mechanismen , die nicht das sind , was wir uns in unseren ursprünglichen Annahmen vorgestellt haben ?
+Wissenschaftsphilosophen sind traditioneller Weise die Fragen , was als Wissen , Erklärung und Theorie gelten könnte , so angegangen , als ob sie im allgemeinen beantwortet werden könnten .
+Aber die Verständigungslücke zwischen den experimentierenden und mathematischen Biologen deutet an , dass ihre Antworten von den besonderen Kulturen ihrer Disziplinen abhängig sind .
+Betrachten Sie einmal die interdisziplinären Bemühungen und letztendlich das Scheitern von Nicolas Rashevsky , einem russischen theoretischen Physiker , der nach 1924 in die Vereinigten Staaten ausgewandert war .
+Rashevsky fragte sich , ob ein ähnlicher Mechanismus wie der für das Einsetzen von Instabilitäten in flüssigen Tröpfchen verantwortliche auch die Teilung biologischer Zellen erklären könne .
+Bald darauf begann er " eine systematische mathematische Biologie zu entwickeln , die in ihrer Struktur und ihren Zielen der mathematischen Physik ähnlich wäre " .
+Um 1940 hatte er sein großes Werk Mathematische Biophysik veröffentlicht , unter gleicher Bezeichnung ein Forschungsprogramm an der Universität von Chicago eingerichtet und das Bulletin der Mathematischen Biophysik gegründet .
+Doch um 1954 hatte Rashevsky seine Fördergelder und seinen Forschungsetat wieder verloren . Heute erinnert wenig an seine institutionellen und wissenschaftlichen Anstrengungen .
+Die Hauptkritik an ihm war , versäumt zu haben , sich bei praktizierenden Biologen zu engagieren .
+Doch Rashevsky hatte wenigstens einen frühen Versuch unternommen , Biologen an seiner Arbeit zu interessieren .
+1934 legte er eine " physikalisch-mathematische " Analyse der Kräfte vor , die auf eine idealisierte sphärischen Zelle einwirken . Das Modell , so argumentierte er , reiche aus , die Zellteilung zu erklären .
+Als die Biologen dagegen mit der Behauptung widersprachen , dass nicht alle Zellen sphärisch seien , antwortete Rashevsky , die Theorie müsse zuerst auf die einfachsten Fälle angewandt werden .
+E. B. Wilson , die legendäre Koryphäe der Zellbiologie , behielt das letzte Wort . In einem kurzen Papier zog er aufgrund von Rashevskys Darlegungen den Schluss , die Mathematik könne hilfreich sein , wenn man das Wachstum von Bevölkerungen untersuche , aber nicht das von Individuen .
+Wilsons Kollege , Eric Ponder , war sogar noch schärfer und sagte , nötig seien " mehr Messungen und weniger Theorie " .
+Anfang der 1950er Jahre konnten die Biologen allerdings noch immer nicht erklären , wie ein Organismus seine charakteristische Form von einer Generation zur nächsten weitergibt .
+1952 schlug Alan Turing , der vor allem durch seine Arbeit über Berechnung und Geist bekannt geworden ist , ein mathematisches Modell vor , das aus einer Reihe von Gleichungen bestehen sollte , welche die Reaktion und Diffusion zweier imaginärer Chemikalien beschreiben .
+Sein Modell , von dem er zugab , dass es sich um " eine Vereinfachung und Idealisierung " handele , zielte darauf ab , die " wichtigsten Merkmale " in der Entwicklung eines Embryos hervorzuheben .
+Er hob dabei hervor , dass die Reaktionen , die er beschrieb , keine Ähnlichkeit mit jenen in der Natur hätten .
+Sie spiegelten nur das Verlangen wider , " dass die Erklärung leicht zu verstehen sein solle " .
+Turing erweist sich hier als eine Karikatur des mathematischen Physikers .
+Wie Rashevsky war er dem Glauben des mathematisch-physikalischen Wissenschaftlers verfallen , dass eine Gedankenkonstruktion , die nicht vorgibt , buchstäblich die Wahrheit zu sein , trotzdem " Merkmale von größter Bedeutung " einfangen und daher eine nützliche erklärende Funktion ausüben könne .
+Doch die Experimentalbiologen hat eine andere Fragestellung . Sie fragen nicht , ob Organismen sich so bilden könnten wie es ein Gedankenmodell vorschlägt , sondern ob sie es tatsächlich auch so tun .
+In dieser Hinsicht hat Turings Reaktions-Diffusionsmodell sehr enttäuscht .
+In den letzten 20 Jahren haben Molekularbiologen herausgefunden , dass die fortschreitende Aktivierung einer Hierarchie von Genen , die in Turing ' s Modell keine Rolle spielen , die endgültige Struktur eines Organismus und seine Form bestimmen .
+Allgemeiner ausgedrückt : Die besten Erklärungen dafür , wie biologische Systeme besondere Probleme lösen , stammen von der experimentellen Genetik und nicht von der Mathematik und Logik .
+Trotzdem haben Physiker und Mathematiker Grund zum Feiern .
+Seit 1983 haben die Forschungsgelder für mathematische und rechnergestützte Forschung , die von der Biologischen Abteilung der Nationalen Wissenschaftsstiftung der USA stammen , um etwa das 50-Fache zugenommen .
+Zu ihren Gunsten sei gesagt , viele neue Programme in der mathematischen Biologie ermutigen Forscher aus den mathematischen Wissenschaften , selbst praktizierende Biologen zu werden .
+Inzwischen befähigen " benutzerfreundliche " Rechnerprogramme auch Biologen , ihre eigenen mathematisch / theoretischen Modelle zu schreiben .
+Im Endeffekt könnte eine neue Kultur der Disziplin entstehen , welche die Ziele , Methoden und epistemologischen Grundlagen der Forschung umformen .
+Die Modelle der theoretischen Biologie werden nicht in ein paar einfachen Gleichungen ausgedrückt , sondern in einem Komplex von Algorithmen , statistischen Analysen und Simulationen .
+Und mit Rücksicht auf die allgegenwärtige Möglichkeit von Ausnahmen , werden sie eher nach " allgemeinen Aussagen " suchen als nach " Gesetzen " . Sie lassen somit Raum für die zufälligen Eigentümlichkeiten biologischer Strukturen .
+Biologie ist nicht Physik ; ihre Evolutionsgeschichte zu ignorieren , hieße sich der Unerheblichkeit auszusetzen .

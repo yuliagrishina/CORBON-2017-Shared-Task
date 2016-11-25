@@ -1,0 +1,30 @@
+Chinas Internet-Diktatur
+Elf Jahre nach seiner ersten Anbindung an das World Wide Web ( WWW ) ist Chinas Zugriff auf das Internet noch immer von in den Proxyservern des Landes eingebetteten Firewalls geschützt , die sich als praktischer und undurchdringlicher als die Berliner Mauer erwiesen haben .
+Mehr noch : Die zunehmende Nachfrage nach Breitbandkapazitäten hat zur Umsetzung eines 800 Millionen Dollar teuren Projektes namens „ Jin Dun “ ( Goldener Schild ) geführt , einem automatischen digitalen System zur öffentlichen Überwachung , dass die kommunistische Herrschaft verlängern wird , indem es der chinesischen Bevölkerung das Recht auf Informationen versagt .
+Das dem Goldenen Schild zugrunde liegende Prinzip besagt : „ Wo die Tugend einen Fuß wächst , wächst das Laster um zehn . “ Mithilfe von durch die westlichen Nachrichtendienste entwickelten Systemen hat China ein virtuelles Schwert geschmiedet , das droht , den Weg in die Demokratie zu versperren .
+Internet-Portale dienen in China vor allem dazu , politische Informationen zu überwachen und auszufiltern .
+Ihre technischen Funktionen umfassen das Blockieren ausländischer Websites , das Ausfiltern von Inhalten und Schlüsselbegriffen auf Webseiten , die Überwachung von E-Mail-Verkehr und Internet-Cafés , die Umlenkung von PC-Verbindungen , das Aussenden von Computerviren und die Anbindung von Rechnern an die Überwachungssysteme der Ämter für Öffentliche Sicherheit .
+Statt eine neue Ära der Freiheit einzuläuten , versetzt das Internet die chinesischen Behörden in die Lage , die totalitäre Überwachung des Landes in einer Weise zu perfektionieren , die die Herrscher in George Orwells 1984 wie Waisenknaben aussehen lässt .
+Seit dem 15. April dieses Jahres wurden mittels der wissenschaftlichen und technologischen Neuerungen des Goldenen Schildes jeder Gedanke und jede Handlung der das Internet nutzenden Teile der chinesischen Bevölkerung ausgespäht .
+Was Orwell jedoch nicht voraussah , ist , dass die chinesische Regierung dies mithilfe der westlichen Demokratien erreicht hat .
+China ist heute das einzige Land der Welt , in dessen Gesetze das Konzept eines „ politischen Web-Verbrechers “ Eingang gefunden hat .
+Die Veröffentlichung von Artikeln im Internet kann ein „ Verbrechen “ darstellen , und „ radikale Ansichten “ können die Inhaftierung nach sich ziehen .
+Die wahren Verbrecher – die Mitarbeiter der Geschäftsleitungen von Nortel , Cisco und Sun Microsystems , die diese üblen Systeme der Gedankenüberwachung konstruiert haben – werden weiter als beim Besuch eines chinesischen 5-Sterne-Hotels nie an ein Gefängnis herankommen .
+Zwischen der Inhaftierung Lin Haiyins , der im Jahre 2000 als erster chinesischer Web-Krimineller für seine Untersuchung subversiver Aktionen festgenommen wurde , und der kürzlich erfolgten Verhaftung des Schriftstellers Shi Tao wurden mehr als 100 unabhängige Intellektuelle eingesperrt , weil sie ihre Ansichten offen zum Ausdruck brachten .
+Die Internet-Überwachung liegt auch der ständig steigenden Zahl von Falun-Gong-Anhängern zugrunde , die durch den chinesischen Staat hingerichtet werden – bis zum 18. April insgesamt 1692 .
+Die Internet-Kommunikation im modernen China ist gespickt mit Ködern und Fallen : Anwenderfreundliches Webseiten-Design , problemlos anklickbare Icons und Emoticons , strahlend schöne weibliche Stars in den Online-Werbeanzeigen und beständig aktualisierte internationale Nachrichten regen die Anwender an , sich zu beteiligen und eigenen Ideen zu äußern .
+Sobald jedoch die Fingerspitzen die Tastatur berühren , ist es vorbei mit der „ Küchentischdemokratie “ des Web : Allzu schnell kann man in eine Falle tappen , denn die Internet-Polizei überwacht jedes eingetippte Wort .
+In einem Land , in dem freie Meinungsäußerung seit einem halben Jahrhundert tabu ist , erwies sich das Internet zunächst als Gottesgeschenk : Die Menschen wandten sich ihm begeistert zu und bauten Websites und private Homepages .
+Nun sehen sich diese Menschen den Ämtern für Öffentliche Sicherheit ausgesetzt .
+So wurde etwa die Website Demokratie und Freiheit in drei Jahren 43 Mal entweder zeitweise stillgelegt oder blockiert .
+Ihre unverblümte Berichterstattung zum Tode Zhao Ziyangs , des reformorientierten , für seinen Widerstand gegen die Niederschlagung der Proteste auf dem Platz des Himmlischen Friedens im Juni 1989 eingesperrten Führers der 1980er Jahre , zwang sie schließlich , sich der Macht des Goldenen Schildes zu beugen .
+Die durchschnittliche Online-Lebensdauer eines Proxyservers in China beträgt heute läppische 30 Minuten , und 17.000 Internet-Cafés wurden inzwischen geschlossen .
+Die Online-Filtertechnologie ist imstande , die E-Mails aller rund 80 Millionen „ Netzbürger “ in China zu blockieren oder abzufangen .
+Da Internet-Chatrooms und private E-Mails für viele Chinesen inzwischen von grundlegender Bedeutung sind , gewinnt auch die Ausweitung der Überwachung des Internets an Dynamik .
+Infolgedessen werden freie Denker heute mit sehr viel höherer Wahrscheinlichkeit erwischt , wenn sie missbilligte Ideen äußern , als dies in den 1980er und frühen 1990er Jahren , als Untergrundveröffentlichungen als wichtigster Kanal der freien Meinungsäußerung dienten , je der Fall war .
+Tatsächlich hat sich zwar die Abdeckung Chinas durch das Internet beständig erhöht ; die Fähigkeit der Kommunistischen Partei jedoch , es zu zensieren , ist sogar noch schneller gewachsen – dank westlicher Technologie .
+Seit den Tagen der Revolution hat die Partei von dieser Art von Kontrolle geträumt .
+Die Diktatur wurde in China nicht nur gestärkt , sondern sie ist – zumindest derzeit – auf dem Vormarsch .
+Aber dies wird nicht so bleiben .
+Obwohl das Projekt „ Goldener Schild “ die größte Einzelinvestition der Kommunistischen Partei auf dem Felde der Ideologie ist seit der Machtübernahme in China im Jahre 1949 , dürfte sie zugleich der letzte große Einsatz der Partei vor ihrem Zusammenbruch sein .
+Wie die Berliner Mauer mögen Chinas Internet-Restriktionen technisch solide sein , aber sie verteidigen und erhalten aufrecht , was nicht zu verteidigen oder aufrechtzuerhalten ist .

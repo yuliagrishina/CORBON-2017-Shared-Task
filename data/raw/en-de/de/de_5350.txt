@@ -1,0 +1,45 @@
+Tweets der Freiheit
+NEW YORK : Für seine lautstarke Weigerung , seine Suchergebnisse in China weiter zu zensieren , wird Google weithin gefeiert .
+Noch ist unklar , ob das Unternehmen weiter in China operieren wird . So oder so jedoch werden wir keine größeren Veränderungen bei Chinas Internetstrategie erleben .
+Wahrscheinlicher ist , dass diese ganze „ ausländische Einmischung “ die chinesische Regierung lediglich dazu bringt , sich in ihren Standpunkt zu verbeißen .
+Doch selbst wenn Google China letztlich verlassen sollte , ist das Spiel nicht vorbei .
+Westliche Unternehmen können die Freiheit des Internets von außen fördern , indem sie nützliche Technologien und die Schlüssel , um darauf zuzugreifen , bereitstellen .
+Man kann das als „ Twitter-Diplomatie “ bezeichnen .
+Twitter wird von Chinas „ großer Firewall “ ( GFW ) , die die chinesische Bevölkerung am Zugriff bestimmter Websites hindert , größtenteils blockiert .
+Doch verfügt Twitter über eine beinahe religiöse Gefolgschaft bei den technisch beschlageneren Chinesen , deren Entschlossenheit , den Service zu nutzen , die Anstrengungen der Behörden , den Zugriff darauf zu blockieren , übersteigt .
+Diese „ Netzbürger “ überwinden die Firewall durch Nutzung von Proxyservern oder Virtual Private Networks ( VPNs ) , die es ihnen gestatten , im Web zu surfen , als befänden sie sich außerhalb Chinas .
+Anfang dieses Monats trugen die chinesischen Twitterati dazu bei , dass es die GFW auf die Liste von Twitters zehn führenden „ Trending Topics “ ( d.h. , den meistgetweeteten Begriffen ) zu bekommen – eine beeindruckende Leistung , bedenkt man , dass Twitter angeblich in China unerreichbar sein soll .
+Man kann mittels Twitter Kurznachrichten an große Gruppen schicken .
+Dies erlaubt es den Chinesen , eilige Nachrichten oder selbst unbequeme Fakten schnell zu verbreiten . „ Twitter ermöglicht einen schnelleren Informationsfluss als jede offizielle Agentur “ , erklärt Michael Anti , Journalist in Peking , der seit langem an vorderster Front in der chinesischen Internetbewegung mit dabei ist . „ Dies bedeutet , dass die Menschen Information schneller bekommen als die Regierung .
+Das ist eine echte Krise für die Kommunisten . “
+Twitter hilft zudem , einzelne Bürger zu schützen .
+So behauptet der Blogger Peter Guo , dass Twitter ihn aus dem Gefängnis herausgeholt habe .
+Er sei , so sagt er , verhaftet worden , nachdem er Informationen über ein Verbrechen verbreitete , an dem angeblich örtliche Regierungsvertreter beteiligt waren .
+Nach seiner Verhaftung im vergangenen Juli setzte er über sein Handy eine SOS-Nachricht auf Twitter ab , und sein Fall erregte rasch nationale wie internationale Aufmerksamkeit , die zu seiner Freilassung gut zwei Wochen später beitrug .
+Man stelle sich vor , was wäre , wenn Twitter der gesamten chinesischen Bevölkerung zur Verfügung stünde .
+Das Problem ist , dass vielen Chinesen noch immer jene einfachen Tools fehlen , mit denen sie an der GFW vorbeikommen könnten .
+Als ich Guo fragte , wie die Außenwelt den Zugriff auf Twitter innerhalb Chinas erleichtern könnte , antwortete er , wir könnten helfen , indem wir einen „ preiswerten VPN-Service zur Verfügung stellen “ .
+Ausländische Unternehmen könnten , so fügte er hinzu , außerdem sicherere Browser verbreiten , die „ dem chinesischen Volk [ helfen würden ] , die GFW zu umgehen “ .
+Auch Regierungen können eine Rolle dabei spielen , die chinesischen Netzbürger zu stärken .
+So hat Jonathan Zittrain , Kodirektor des Berkman Center for Internet and Society der Universität Harvard , vorgeschlagen , dass die USA z.B. mit grundlegender Förderung „ wissenschaftlicher und technologischer Innovationen von der Art , die uns das Internet überhaupt erst gebracht hat “ , anfangen könnten .
+Dies könnte u.a. potenzielle „ Gamechanger “ in China umfassen – wie etwa vermaschte Ad-hoc-Netze , die es den Nutzern gestatten , miteinander zu kommunizieren , indem sie ohne einen Internet Service Provider als Mittelsmann von einem Gerät zum nächsten springen .
+Doch ist angesichts der politischen Empfindlichkeiten , was ausländischen Druck auf China angeht , unklar , wie weit die westlichen Regierungen dabei werden gehen können .
+Und an diesem Punkt kommen Unternehmen wie Twitter ins Spiel .
+Auch wenn seine Gründer Twitter nicht unbedingt als Demokratisierungsinstrument entwickelt haben : Genau das ist Twitter heute .
+Im April 2009 nutzten junge Leute in Moldawien Twitter , um Proteste gegen ihre Regierung zu organisieren .
+Zwei Monate später trug Twitter bekanntermaßen dazu bei , dass sich die Iraner während ihrer Wahlproteste versammeln und Informationen austauschen konnten .
+Und nun zeichnet sich ein ähnliches Phänomen in China ab .
+Im November entwickelten sich die Proteste von Bürgern gegen den Bau einer Müllverbrennungsanlage in Guangzhou zu einem weithin per Twitter verbreiteten Ereignis .
+Unter Verweis auf die Rolle , die Twitter bei den Protesten im Iran und in Moldawien gespielt hat , erklärte mir Twitter-Mitgründer Jack Dorsey : „ Dies sind alles Ereignisse und Bewegungen , die durch bewusste Entscheidungen der Menschen zustande kamen , und Twitter war ein Tool , dass ihnen dabei zufällig zur Verfügung stand und ihnen die Sache erleichterte . “
+Möglicherweise wird Twitter jetzt aggressivere Schritte unternehmen , um die Internetfreiheit im Ausland zu fördern .
+So deutete Evan Williams , Mitbegründer und CEO des Unternehmens , ohne freilich genauere Einzelheiten zu nennen kürzlich an , dass Softwareentwickler an einer Technologie arbeiteten , um staatlichen Barrieren auszuweichen .
+Hinter Googles unnachgiebiger Haltung in der Frage der chinesischen Zensur mögen gute Absichten stehen .
+Das Problem ist , dass die Konfrontation inzwischen den Ton einer zwischenstaatlichen Auseinandersetzung angenommen hat .
+China , das anscheinend noch immer unter einem „ Jahrhundert der Demütigung “ durch das Ausland leidet , ist nicht bereit , sich von Amerika herumstoßen zu lassen .
+Und diese Sicht ist nicht auf die chinesische Regierung beschränkt .
+Im Moment beklatschen viele Netzbürger Googles Schritt .
+Doch sollten sie beginnen , Google als Spielfigur der US-Regierung anzusehen , könnte die Stimmung in null Komma nichts kippen .
+Letztendlich wird das chinesische Katz- und Mausspiel im Internet durch Innovationen gewonnen und nicht durch politischen Druck .
+Die Welt sollte fortfahren , den chinesischen Markt – und den anderer Länder , die die Freiheit des Ausdrucks beschränken – mit modernster Technologie zu überfluten .
+Natürlich sind die Zensoren , was die Filterung von Informationen und die Schließung von Websites angeht , häufig nur einen Schritt zurück .
+Doch die chinesischen Netzbürger sind bemerkenswert geschickt im Umgang mit den ihnen zur Verfügung stehenden , begrenzten Instrumenten und verändern so ihr Land auf allmähliche , aber nicht rückgängig zu machende Weise .

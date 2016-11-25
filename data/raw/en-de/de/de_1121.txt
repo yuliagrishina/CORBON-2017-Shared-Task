@@ -1,0 +1,39 @@
+Unsicherheit im Cyberspace
+CAMBRIDGE – Im August 2008 marschierten russische Truppen in Georgien ein .
+Beobachter streiten darüber , wer zuerst geschossen hat , doch gab es eine kaum beachtete Dimension des Konflikts , die große Auswirkungen auf die Zukunft haben wird .
+In den Wochen vor dem Ausbruch des bewaffneten Konflikts griffen Computerhacker die Websites der georgischen Regierung an .
+Der Russland-Georgien-Konflikt stellt die ersten bedeutsamen Internetangriffe dar , die einen bewaffneten Konflikt begleiten .
+Willkommen im einundzwanzigsten Jahrhundert .
+Bedrohungen aus dem Cyberspace und potenzielle Internetkriegsführung verdeutlichen die erhöhte Verletzbarkeit und den Kontrollverlust in modernen Gesellschaften .
+Die Regierungen waren vor allem besorgt über Hackerangriffe auf die IT-Infrastruktur ihrer eigenen Verwaltung , doch gibt es über Regierungscomputer hinaus etliche Angriffspunkte in der Gesellschaft .
+In einem offenen Brief an den US-Präsidenten im September 2007 warnten amerikanische Internetschutz-Experten , „ die kritische Infrastruktur der Vereinigten Staaten , einschließlich Stromversorgung , Finanzwesen , Telekommunikation , Gesundheitsfürsorge , Transport , Wasser , Verteidigung und Internet , ist höchst empfindlich für Internetangriffe .
+Schnelle und entschlossene Maßnahmen zur Eindämmung sind erforderlich , um eine nationale Katastrophe zu verhindern . “ In der trüben Welt des Internets sind Angreifer schwer zu identifizieren .
+In der vernetzten Welt von heute könnte ein unidentifizierter Internetangriff auf eine nichtstaatliche Infrastruktur schwere Schäden hinterlassen .
+Zum Beispiel glauben einige Experten , dass das Stromnetz einer Nation besonders anfällig sein könnte .
+Die Kontrollsysteme , die Stromversorgungsunternehmen einsetzen , werden für anfällig für Angriffe gehalten , die Städte und Regionen tage- oder wochenlang lahmlegen könnten .
+Internetangriffe können ebenfalls in die Finanzmärkte eingreifen und immense wirtschaftliche Verluste verursachen , indem sie kommerzielle Websites schließen .
+Einige Szenarien , darunter zum Beispiel ein „ elektronisches Pearl Harbor “ , klingen schwarzseherisch , doch veranschaulichen sie , wie sich die Macht von zentralen Regierungen auf Einzelne verteilt .
+1941 setzte die starke japanische Marine viele Ressourcen ein , um in einer Entfernung von Tausenden von Meilen Schaden anzurichten .
+Heute kann ein einzelner Hacker mit böswilliger Software – bei geringen Kosten für ihn selbst – an weit entfernten Orten Chaos anrichten .
+Darüber hinaus ermöglicht es die Informationstechnologie Einzelnen , Sabotage in beispielloser Geschwindigkeit und ungekanntem Ausmaß zu verüben .
+Der sogenannte „ Love Bug Virus “ , der 2000 auf den Philippinen in die Welt gesetzt wurde , hat schätzungsweise Schäden in Höhe von mehreren Milliarden Dollar verursacht .
+Auch Terroristen können neue Schwachstellen im Internet ausnutzen , um asymmetrische Kriegsführung zu betreiben .
+Als Amerika sich 1998 über sieben Moskauer Internetadressen beschwerte , die in den Diebstahl von Geheimdokumenten von Pentagon und NASA verwickelt waren , antwortete die Russische Regierung , dass die Telefonnummern , von denen die Angriffe ausgingen , außer Betrieb waren .
+Die USA hatten keine Möglichkeit herauszufinden , ob die russische Regierung beteiligt war .
+In jüngerer Zeit ( 2007 ) wurde Chinas Regierung vorgeworfen , Tausende von Hackingangriffen gegen Computer der deutschen Bundesregierung sowie gegen Computersysteme des Verteidigungsapparats und des privaten Sektors in den USA zu finanzieren .
+Doch war die Quelle des Angriffs schwer nachzuweisen , und das Pentagon musste einige seiner Computersysteme schließen .
+Als Estland 2007 ein Denkmal des Zweiten Weltkriegs , das an die sowjetischen Kriegstoten erinnerte , an eine andere Stelle umsetzte , schlugen Hacker mit einem kostspieligen Denial-of-Service-Angriff zurück , der Estlands Zugang zum Internet lahmlegte .
+Es war unmöglich nachzuweisen , ob die russische Regierung , eine spontane nationalistische Reaktion oder beide zu diesem transnationalen Angriff beigesteuert hatten .
+Im Januar 2008 unterzeichnete Präsident George W. Bush zwei Präsidenten-Direktiven , die die Erstellung eines umfassenden Internetsicherheitsplans forderten , und in seinem Haushalt 2009 verlangte er 6 Milliarden Dollar , um ein System zu entwickeln , das die nationale Internetsicherheit schützt .
+Der designierte Präsident Barack Obama wird seinem Beispiel wahrscheinlich folgen .
+In seinem Wahlkampf forderte Obama harte , neue Standards für die Internetsicherheit und physische Ausfallsicherheit der kritischen Infrastruktur und versprach einen nationalen Internetberater zu ernennen , der ihm direkt untersteht und für die Entwicklung von Maßnahmen und die Koordination der Anstrengungen der Bundesbehörden verantwortlich ist .
+Diese Aufgabe wird nicht einfach sein , da ein großer Teil der betreffenden Infrastruktur sich nicht unter direkter staatlicher Kontrolle befindet .
+Erst vor Kurzem warnte Donald Kerr , der stellvertretende US-Direktor des nationalen Nachrichtendienstes , „ große Informations- und Wertverluste für unsere Regierungsprogramme entstehen normalerweise nicht durch Spione … Tatsächlich ist eine meiner großen Sorgen , dass ein großer Teil der neuen Ressourcen , von denen wir alle abhängig sein werden , nicht mehr in staatlichen Laboren unter staatlichen Verträgen entwickelt wird . “
+Kerr beschrieb das , was er als „ Lieferkettenangriffe “ bezeichnete , bei denen Hacker nicht nur urheberrechtlich geschützte Informationen stehlen , sondern noch weiter gehen und fehlerhafte Daten und Programme in Kommunikationshardware und ‑ Software einschleusen – trojanische Pferde , mit denen ganze Systeme zum Stillstand gebracht werden können .
+Alle Regierungen werden einer neuen Art Bedrohung ausgesetzt sein , der schwer zu begegnen ist .
+Die Regierungen können darauf hoffen , Internetangriffe ebenso abzuschrecken , wie sie nukleare oder andere Angriffe abschrecken .
+Doch ist für die Abschreckung eine glaubhafte Bedrohung als Reaktion auf einen Angreifer erforderlich .
+Und das wird viel schwieriger in einer Welt , in der es den Regierungen schwer fällt herauszufinden , woher Internetangriffe kommen , ob von einem feindlichen Staat oder einer Gruppe Krimineller , die sich als ausländische Regierung ausgibt .
+Obwohl ein internationaler Rechtskodex , der Internetangriffe klarer definiert , zusammen mit Kooperation und Präventivmaßnahmen helfen kann , sind derartige Lösungen , die die „ Waffen “ kontrollieren , wahrscheinlich nicht ausreichend .
+Ebenso wenig sind es Schutzmaßnahmen wie die Einrichtung elektronischer Firewalls und die Erstellung von Redundanzen in empfindlichen Systemen .
+Angesichts der enormen Unsicherheiten müssen die neuen Dimensionen der Sicherheit im Cyberspace hoch oben auf der Agenda einer jeden Regierung stehen .

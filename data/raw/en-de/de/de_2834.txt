@@ -1,0 +1,41 @@
+Der Kampf gegen die Fed
+CAMBRIDGE – Die US-Zentralbank Federal Reserve ( Fed ) liegt mit Kongressmitgliedern im Streit über ein geplantes Gesetz , genannt Federal Reserve Accountability and Transparency Act , das die Fed dazu zwingen würde , bei der Lenkung der Geldpolitik formalen Regeln zu folgen .
+Die Fed fürchtet , durch das Gesetz würde ihre Unabhängigkeit eingeschränkt , aber die Befürworter des Gesetzes argumentieren , es würde zu besser vorhersagbarem Wachstum bei geringer Inflation führen .
+Wer hat Recht ?
+Um den Konflikt zu verstehen , hilft es , die Unabhängigkeit der Fed mit der der Bank of England ( BoE ) oder der Europäischen Zentralbank ( EZB ) zu vergleichen .
+Die britische Zentralbank verfügt über „ Instrumentenunabhängigkeit “ , aber nicht über „ Zielunabhängigkeit “ .
+Der Finanzminister legt ein Inflationsziel fest und überlässt der BoE die Entscheidung , welche Maßnahmen sie dazu trifft .
+Sollte das Ziel um über einen Prozentpunkt nach oben oder nach unten verfehlt werden , muss der Gouverneur der BoE in einem offenen Brief an den Finanzminister die Gründe dafür nennen ( und was die Bank dagegen zu tun gedenkt ) .
+Die EZB dagegen wurde durch den Vertrag von Maastricht beauftragt , „ Preisstabilität “ aufrecht zu erhalten , darf diesen Begriff aber selbst definieren .
+Preisstabilität wird von der EZB als jährliche Inflation von etwas unter 2 % definiert .
+Die Struktur der Europäischen Währungsunion sieht keine Aufsicht der Regierungen über die EZB vor , die daher sowohl über „ Zielunabhängigkeit “ als auch über „ Instrumentenunabhängigkeit “ verfügt , auch wenn bestimmte Maßnahmen durch Restriktionen eingeschränkt sind .
+Die Fed ist „ unabhängig “ , aber nur in einem ganz bestimmten Sinne : gegenüber der Exekutive der Regierung .
+Der US-Präsident kann zwar administrativen Behörden wie dem Handelsministerium oder dem Finanzministerium bestimmte Aufgaben zuweisen ( so lange diese nicht mit den gültigen Gesetzen in Konflikt stehen ) , die Regierung kann aber der Fed nicht vorschreiben , wie sie die Zinssätze , Reserveanforderungen oder andere geldpolitische Aspekte reguliert .
+Nun ist die Fed zwar unabhängig vom Weißen Haus , aber nicht vom Kongress .
+Sie wurde vom Kongress durch ein Gesetz gegründet , das ein „ duales Mandat “ von Preisstabilität und Vollbeschäftigung festlegt .
+Nun liegt es bei der Fed , anwendbare Definitionen dieser Ziele und Maßnahmen zu ihrer Erreichung zu formulieren .
+Das vorgeschlagene Gesetz würde sowohl die „ Zielunabhängigkeit “ als auch die „ Instrumentenunabhängigkeit “ beeinflussen .
+Die Fed definiert Preisstabilität als „ zwei Prozent mittelfristige Inflation des Konsumentenpreisindex “ .
+In den letzten zwölf Monaten lag dieser Wert bei etwa 1,5 % .
+Vollbeschäftigung wurde zwar nicht definiert , aber viele Ökonomen bestimmen sie als das Äquivalent einer Arbeitslosenquote von etwa 5,5 % .
+Der letzte Wert betrug 6,1 % .
+Aufgrund der Angst , die aktuelle Fed-Politik anhaltend niedriger Zinsen könnte zu höherer Inflation führen , würde die Fed durch das Gesetz verpflichtet , bei der Festsetzung ihres kurzfristigen Hauptzinssatzes , der „ Federal Funds Rate “ , einer formalen Vorgabe zu folgen .
+Genauer ausgedrückt , schlägt das Gesetz eine bestimmte Zinssatzregel ( die „ Referenzmaßnahmenregel ) vor , und die Fed hat nur dann die Möglichkeit , eine andere Regel anzuwenden , wenn sie dem Kongress erklärt , warum sie diese Alternative bevorzugt .
+Die Referenzmaßnahmenregel entspricht weitgehend der 1993 erstmals durch John Taylor von der Stanford University vorgeschlagenen Regel , die auf seiner statistischen Schätzung dessen beruht , was die Fed offensichtlich unter Paul Volcker und Alan Greenspan während einer Periode geringer Inflation und niedriger Arbeitslosigkeit getan hat .
+Sie legt die Federal Funds Rate auf 2 % plus die aktuelle Inflationsrate plus die Hälfte der Differenz zwischen der aktuellen und der Zielinflation sowie die Hälfte der Prozentdifferenz zwischen dem aktuellen BIP und dem Vollbeschäftigungs-BIP fest .
+Dies bedeutet , dass bei Vollbeschäftigung und Zielinflation die Federal Funds Rate 2 % plus Inflationsrate betragen muss .
+Sie muss höher sein , wenn die Inflationsrate über dem Zielwert liegt , und niedriger , wenn sich das aktuelle BIP unter dem Vollbeschäftigungswert befindet .
+Angesichts der Unsicherheit über die Höhe des BIP bei Vollbeschäftigung bleibt der Fed bei der Anwendung der Regel immer noch erheblicher Spielraum .
+Sie könnte argumentieren , dass die Lücke zwischen aktuellem BIP und dem Vollbeschäftigungswert größer ist , als die 6,1 % Arbeitslosigkeit vermuten lassen . Grund dafür wäre die große Anzahl von Teilzeitbeschäftigten , die eigentlich lieber vollzeit arbeiten würden , und am scharfen Rückgang der Erwerbsquote .
+Wenn die BIP-Lücke entsprechend einer aktuellen Schätzung des Haushaltsbüros des Kongresses bei 4 % liegt , würde die Taylor-Regel eine optimale Federal Funds Rate von etwa 1,25 % ( 2 + 1,5 – 0,25 – 2 ) vorgeben , verglichen mit dem aktuellen Wert von nur 0,1 % .
+Die Federal Funds Rate könnte zwar in den nächsten 12 oder 18 Monaten auf 1 % steigen , aber bis dahin würde die sich verringernde BIP-Lücke einen noch höheren Taylor-Regel-Zinssatz bedeuten .
+Und die Sache wird dadurch noch komplizierter , dass die enormen Überschussreserven der US-Banken im Zuge der Anleihenkäufe der Fed ( der quantitativen Erleichterung ) dazu geführt haben , dass die Federal Funds Rate nicht mehr der Schlüsselwert ist , der sie einst war .
+Stattdessen wird die Fed sich auf den Zinssatz auf Überschussreserven konzentrieren .
+Das vorgeschlagene Gesetz ist voll mit überzogenen und unmöglichen Anforderungen , und das von den Republikanern kontrollierte Repräsentantenhaus kann es möglicherweise nicht durchsetzen , nicht einmal in veränderter Form .
+Selbst wenn das gelingt , wird es nicht durch den demokratisch kontrollierten Senat kommen .
+Aber falls die Republikaner nach der nächsten Wahl im Senat die Mehrheit stellen , könnte ein Gesetz auf dem Schreibtisch des Präsidenten landen , das eine geldpolitische Regel vorschreibt .
+Er oder sie könnte ein Veto dagegen einlegen , aber ein eventueller republikanischer Präsident nach der Wahl 2016 täte dies wahrscheinlich nicht .
+Die Fed befürchtet zweifellos , dass der Kongress im Fall einer generellen Akzeptanz des Prinzips einer formalen Regel die Anforderungen steigern und eine restriktivere Geldpolitik erzwingen könnte .
+Daher hat sich die neue Fed-Vorsitzende Janet Yellen in einer kürzlichen Anhörung vehement gegen ein solches Gesetz gestellt .
+Eines ist sicher : Der Gesetzentwurf wird die Fed unter Druck setzen , der Inflation mehr Aufmerksamkeit zu schenken und einen dauerhaften Wert über ihrem eigenen Ziel von 2 % zu verhindern .
+Andernfalls könnte ihre operative Unabhängigkeit eingeschränkt und sie dazu gezwungen werden , ihre Maßnahmen stärker auf ihr Inflationsmandat auszurichten .

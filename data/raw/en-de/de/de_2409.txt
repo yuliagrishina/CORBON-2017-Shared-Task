@@ -1,0 +1,36 @@
+Ist Unwissenheit ein Segen ?
+Das Zeitalter des Renaissancemenschen ist lange vorbei .
+Heute glaubt niemand mehr , dass es für eine einzelne Person möglich wäre , das gesamte Wissensspektrum in allen Bereichen der Wissenschaft und Technologie vollständig zu erfassen .
+Alltägliche Computersoftware besteht aus Millionen Codezeilen .
+Die Mechanismen der Immunantwort von nur einer Lymphozytenart füllen tausende Seiten wissenschaftlicher Arbeiten .
+Das elegant unaufdringliche Design eines iPod birgt in seinem Inneren eine Technologie , die nur ein kleiner Prozentsatz seiner Anwender versteht .
+Aber trotz der immensen Lückenhaftigkeit unseres Wissens deuten neue Forschungsergebnisse darauf hin , dass die meisten Menschen glauben , weit mehr zu wissen als dies tatsächlich der Fall ist .
+Wir geben zwar zu , nicht im Detail Bescheid zu wissen , wie ein Helikopter fliegt oder wie eine Druckpresse druckt , aber bei der Selbsteinschätzung unserer Unwissenheit sind wir nicht annähernd bescheiden genug .
+Der einfachste Weg dies aufzuzeigen ist , Versuchspersonen die Vollständigkeit ihres Wissens auf einer siebenstufigen Skala beurteilen zu lassen .
+Bei jeder Frage steht " 7 " für perfektes Verständnis eines bestimmten Mechanismus , während " 1 " angibt , dass man davon fast keine Ahnung , nur eine vage Vorstellung hat .
+Die Versuchspersonen kreuzen nun freimütig und ehrlich , die ihrem vermuteten Kenntnisstand entsprechenden Zahlen bei Aufgabenstellungen an , die von komplexen Maschinen über biologische Systeme bis hin zu natürlichen Phänomenen wie die Gezeiten reichen . Allerdings kreuzen sie meistens höhere Werte an , als es ihrem tatsächlichen Wissen entsprechen würde .
+Wir können die Diskrepanz zwischen dem , was wir glauben zu wissen und dem , was wir wirklich wissen messen , indem wir die Versuchspersonen nach der Selbstbeurteilung einfach bitten , uns möglichst detailgenau zu erklären , wie manche Dinge funktionieren . Anschließend müssen sie ihre Selbstbeurteilung im Lichte ihrer Erklärungsversuche noch einmal durchgehen .
+In ähnlicher Weise können wir auch überprüfende Fragen stellen ( beispielsweise : " Wie kann ein Helikopter vom Schwebeflug in den Vorwärtsflug übergehen ? " )
+Oder wir bieten einfach kurze und prägnante , aber doch erschöpfende Erklärungen an .
+In jedem dieser Fälle räumen die Versuchspersonen kleinlaut ein , dass ihr Verständnis einer Fragestellung doch um sehr viel schlechter war als sie ursprünglich angenommen hatten .
+Die Versuchspersonen sind oftmals überrascht und erschrocken über das Ausmaß ihrer Unwissenheit , aber insgesamt schätzen wir unsere Kenntnisse gar nicht so schlecht ein .
+Vielmehr haben wir ein spezielles Defizit im Hinblick auf unser explanatorisches Wissen .
+Wir können uns gut einschätzen , wenn es um simple Fakten ( wie die Hauptstädte von verschiedenen Ländern ) , um Prozeduren ( wie man einen internationalen Telefonanruf macht ) oder um Geschichten geht ( wie beispielsweise die Handlung bekannter Kinofilme ) .
+Aber wir scheinen unter einer speziellen " Illusion der Erklärtiefe " zu leiden - dem Glauben , ein profunderes kausales Verständnis von Dingen zu haben als das in Wirklichkeit der Fall ist .
+Wir sind in der Lage unser Wissen über andere Dinge entsprechend einzuschätzen , aber nicht , wenn es um unsere Fähigkeit geht , Funktionsweisen zu erklären .
+Diese Illusion kommt durch das Zusammenwirken mehrerer Faktoren zustande .
+Als Leon Rozenblit und ich diese Illusion und ihre speziellen Ausprägungen entdeckten , führten wir eine Reihe von Studien durch , die erklären sollten , warum das explanatorische Wissen so anfällig für falsche Einschätzung ist .
+Sämtliche von uns identifizierte Faktoren sind bei Fakten , Prozeduren und Geschichten nicht so stark ausgeprägt .
+Ein bedeutender Faktor im Hinblick auf die Illusion der Erklärtiefe ist die reichlich hierarchische Struktur der meisten komplexen Systeme . Das heißt , diese Systeme können auf mehreren Analyseebenen verstanden werden .
+Man kann verstehen wie ein Computer " arbeitet " , wenn es um komplizierte Funktionen der Maus geht , um die Festplatte oder den Bildschirm , ohne zu verstehen , warum sich der Cursor bei Bewegungen der Maus bewegt , wie Informationen gespeichert oder gelöscht werden oder wie Pixel am Bildschirm verarbeitet werden .
+Diese hierarchische Struktur komplexer kausaler Systeme verleitet uns irrtümlich anzunehmen , über ein hohes Maß an Verständnis zu verfügen , das dann irrtümlich für Verständnis auf niedrigerem Niveau gehalten wird .
+Ein zweiter Faktor ist der Umstand , dass wir uns in falschen Vorstellungen wiegen , wenn wir die Teile eines Systems sehen .
+Je mehr Teile man sieht , umso eher glaubt man zu wissen , wie diese Teile funktionieren .
+Die Illusion ist daher bei Objekten mit leicht inspizierbaren Teilen größer als bei Dingen mit weniger gut sichtbaren , unzugänglichen oder mikroskopisch kleinen Teilen .
+So glauben wir beispielsweise , dass wir die Abläufe in unserem Gehirn besser verstehen , wenn wir die Bilder farbig erleuchteter Hirnregionen sehen .
+Schließlich reimen wir uns oft etwas über Dinge zusammen , wenn wir sie vor uns haben und gehen dann fälschlicherweise davon aus , uns dem Objekt mit vollständigen Wissen um seine Funktionsweise genähert zu haben , anstatt das Objekt zur Erforschung seines Mechanismus entsprechend zu untersuchen und zu manipulieren .
+Unser übertriebener Glaube an unser Wissen könnte aber in gewisser Weise auch ein Segen sein .
+Die Welt ist natürlich viel zu komplex , um von einer Person vollständig erfasst zu werden .
+Wenn uns in unserem Streben nach Verständnis ein nagendes Gefühl der Unwissenheit immer tiefer in alles eindringen ließe , würden wir uns in den Details eines Wissensgebietes verstricken und andere völlig vernachlässigen .
+Die Illusion der Erklärtiefe könnte uns genau auf der richtigen Verständnisebene einbremsen und zwar auf jener Ebene , die es uns erlaubt , zu wissen , wie man im Bedarfsfall an mehr Information herankommt ohne davon total überschüttet zu werden .
+Es wäre vielleicht besser , die Grenzen unserer explanatorischen Fähigkeiten anzuerkennen , aber diese Grenzen könnten durchaus auch adaptiven Wert besitzen .

@@ -1,0 +1,34 @@
+Der Finanzstabilitätsrat hat versagt
+WASHINGTON , DC – Spätestens seit Herbst 2008 stimmen die Vertreter führender Volkswirtschaften grundsätzlich überein , dass etwas in Bezug auf sogenannte „ systemrelevante “ Finanzunternehmen getan werden muss , die zu groß sind , um sie scheitern zu lassen .
+Große Bemühungen wurden diesem Ziel gewidmet , darunter zahllose internationale Tagungen , Diskussionspapiere und Communiqués .
+In diesem Monat hat der Finanzstabilitätsrat ( FSB ) mit Sitz in Basel mit einigem Tamtam den Abschluss eines wichtigen Abschnitts dieses Projektes bekanntgegeben .
+Doch wurde durch die Ankündigung vor allem klar , wie wenig Fortschritte bisher erzielt wurden .
+Die weltgrößten Banken sind noch immer zu groß , um sie pleitegehen zu lassen , und das dürfte in naher Zukunft düstere Folgen haben .
+Das Problem der Systemrelevanz ist nicht neu . Die Bezeichnung „ too big to fail “ wurde in den USA bereits in den 1980er Jahren erstmals verwendet .
+Sie verweist auf jedes Unternehmen – normalerweise im Finanzsektor – , dessen Scheitern erhebliche negative Ausstrahleffekte auf das übrige Finanzsystem und auf den realwirtschaftlichen ( nicht zum Finanzsektor gehörenden ) Teil der Volkswirtschaft hätte .
+Vor September 2008 gab es gewisse Zweifel , ob man große Finanzunternehmen , bei denen es sich nicht um Banken handelte , als systemrelevant betrachten sollte .
+Bear Stearns wäre zu einem früheren Zeitpunkt im selben Jahr beinahe gescheitert , bis sich die US-Notenbank ( Fed ) einschaltete und den Kauf des Unternehmens durch JPMorgan Chase unterstützte .
+Bear Stearns ’ Aktionäre schnitten dabei nicht gut ab , und ein großer Teil seiner Geschäftsleitung verschwand umgehend von der Bildfläche , aber die Gläubiger waren uneingeschränkt geschützt ( tatsächlich war der Gläubigerschutz ein zentraler Beweggrund für das Einschreiten der Fed ) .
+Als Lehman Brothers im September 2008 schwer unter Druck geriet , herrschte an den Finanzmärkten ( und an der Spitze von Lehman Brothers ) Unsicherheit : Vielleicht würde die Fed noch einmal auf gleiche Weise aushelfen .
+Nach allem , was man hört , zogen das US-Finanzministerium und die Fed tatsächlich eine Unterstützung in Betracht , aber entschieden sich dann anders , weil sie Sorge hatten , ihre gesetzlichen Befugnisse zu überschreiten , und ausreichend zuversichtlich waren , dass es für die breitere Volkswirtschaft keine schlimmen Folgen hätte , wenn man Lehman Brothers scheitern ließ .
+Diese zweite Ansicht erwies sich als spektakuläre Fehleinschätzung .
+Innerhalb von 24 Stunden nach dem Bankrott von Lehman Brothers versuchten die US-Behörden in hektischer Eile , Notverkäufe , einen Run auf Geldmarktfonds , den Zusammenbruch anderer Investmentbanken ( wie etwa Merrill Lynch , Morgan Stanley und Goldman Sachs ) und selbst den Untergang großer , integrierter globaler Banken ( wie etwa Citigroup ) zu verhindern .
+Behörden und Politik auf beiden Seiten des Atlantiks brachten ein nie dagewesenes Instrumentarium zum Einsatz , um das Schlimmste zu verhindern , und äußerten eindeutig , dass eine derartige Situation „ nie wieder “ vorkommen dürfe .
+Sobald die Krise vorbei sei , so versprachen sie , würden sie mit Sorgfalt darauf hinarbeiten , dass das „ nächste Lehman Brothers “ im Rahmen eines staatlich gelenkten Prozesses abgewickelt werden könne , der keine Panik und keinen Zusammenbruch der Kreditmärkte verursachen würde .
+Diese Aufgabe wurde dann auf internationaler Ebene vom FSB übernommen , der nach dem G20-Gipfel in London im April 2009 gegründet wurde .
+Nach vielen Jahren enger Zusammenarbeit mit führenden nationalen Behörden ( u.a. in den USA und Europa ) veröffentlichte der FSB am 9. November das Papier „ Removing Remaining Obstacles to Resolvability “ sowie eine Anzahl damit verbundener technischer Publikationen .
+Unglücklicherweise enthält das Rahmenwerk des FSB drei Fehler , die seine wirksame Anwendung auf große globale Banken verhindern werden .
+Erstens sind globale Banken per definitionem grenzübergreifend tätig , und es besteht zwischen den verschiedenen nationalen Behörden keine Einigkeit , wie man auf eine Krise reagieren sollte .
+Wohl mag die Kommunikation besser sein vor 2008 , doch im Fall der Fälle wird das nicht viel wert sein .
+Die beteiligten Länder haben unterschiedliche rechtliche Regelungen , unterschiedliche Verfahren zum Schutz lokaler Vermögenswerte und unterschiedliche Gerichtssysteme .
+Ein umfassendes internationales Abkommen könnte all dies ansprechen , doch bestehen keine unmittelbaren Aussichten auf ein derartiges Abkommen .
+Zweites sieht der Vorschlag des FSB die Vorgabe einer Verlustabsorptionsfähigkeit für alle Großbanken vor .
+Das ist allerdings nur eine verklausulierte Formulierung dafür , dass diese Banken sich selbst über Eigenkapital und Schuldtitel mit Gläubigerhaftung – die im offiziellen Auflösungsfall in Eigenkapital umwandelbar sind ( oder wegfallen ) – finanzieren sollten .
+In Wahrheit bedeutet es nichts anderes , als dass einige Schuldtitel drastisch an Wert verlieren können , wenn staatliche Stellen den Finger am Abzug betätigen .
+Dies mag in der Theorie elegant aussehen , ist jedoch in der Praxis völlig unausführbar .
+In jeder realen Krise ist die größte Furcht der Behörden , dass der Preissturz bei einem Vermögenswert ( dem Wert des Eigenkapitals der Großbanken ) den Rückgang weiterer Vermögenspreise bewirkt – was zu einer allgemeinen Kreditverknappung führt .
+Die Vorstellung „ verlustabsorbierender Schulden “ ist ein Widerspruch in sich .
+Drittens ist , was für Finanzsysteme wirklich zählt , das Ausmaß der Eigenkapitalfinanzierung – einschließlich der Frage , wie viel Eigenkapital die Banken haben müssen .
+Das gegenwärtige Niveau ist so niedrig – etwa 95 % des Gesamt-Kreditengagements der meisten großen US-Banken ( und ein geringfügig höherer Anteil bei den europäischen Großbanken ) sind schuldenfinanziert – , dass das Eigenkapital der Banken selbst durch moderate negative Erschütterungen aufgezehrt werden kann .
+Die gute Nachricht ist , dass die Fed diesen Aspekt zunehmend zu berücksichtigen scheint – und sich ganz langsam auf eine Erhöhung der Kapitalanforderungen für die größten Banken zubewegt .
+Leider bedeutet das Scheitern des internationalen FSB-Ansatzes , dass die Fed dabei überwiegend auf sich allein gestellt sein wird .

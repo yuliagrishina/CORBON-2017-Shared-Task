@@ -1,0 +1,35 @@
+Personalisierte Medizin : Hoffnung oder Hype ?
+STANFORD – In den letzten Jahrzehnten verlagerte man sich bei der Behandlung verschiedenster Krankheiten von einem Ansatz „ nach Schema F “ hin zu einer stärker auf die Person abgestimmten Strategie .
+Diese Entwicklung ermöglicht es , ein auf die genetische Ausstattung eines Patienten oder die exakte Unterkategorie seiner Krankheit bestmöglich abgestimmtes Medikament auszuwählen .
+Dadurch vermeidet der Arzt die Verschreibung eines Medikaments ( oder einer Dosierung ) , die in einer gewissen Bevölkerungsgruppe zu ernsthaften Nebenwirkungen führen könnte .
+Selbst unter Patienten also , die offenkundig an derselben Krankheit und unter denselben Symptomen leiden , würde die Behandlung jedes einzelnen aufgrund verschiedener prädiktiver oder prognostischer Tests bestimmt werden .
+Letztlich könnten diese Tests beispielsweise sogar bis zur Sequenzierung der DNA in einzelnen Krebszellen des Patienten ausgeweitet werden .
+Während allerdings dieser High-Tech-Ansatz für Patienten ein Segen wäre , könnte er sich auf die Unternehmensbilanzen von Pharmafirmen nachteilig auswirken .
+Die Gründe dafür sind nicht auf den ersten Blick offenkundig .
+Bei der personalisierten medikamentösen Therapie werden so genannte „ Biomarker “ – wie etwa DNA-Sequenzen oder die An- oder Abwesenheit von Medikamentenrezeptoren – als biologische Indikatoren dafür verwendet , die Behandlung der Patienten sowie auch die wahrscheinliche Wirksamkeit einer Intervention zu bestimmen .
+Dieses Konzept ist nicht neu . So ist es beispielsweise seit Jahrzehnten bekannt , dass bei Menschen mit einem genetisch bedingtem Mangel an dem Enzym G6PD durch die Behandlung mit bestimmten Medikamenten eine schwere hämolytische Anämie ausgelöst wird . & # 160 ;
+In ähnlicher Weise bestehen auch zwischen ethnischen Gruppen und einzelnen Menschen große Unterschiede hinsichtlich ihrer Fähigkeit , Medikamente im Blut abzubauen . Dies aufgrund unterschiedlicher Aktivitäten der Enzyme , die für die Metabolisierung und den Abbau der Medikamente verantwortlich sind .
+Das ist von Bedeutung , weil Langsam-Metabolisierer gewisse Medikamente schleppend abbauen und über längere Zeit höhere Konzentrationen des Medikaments im Körper aufweisen als Schnellmetabolisierer .
+Erstere sind daher anfällig für Überdosierungen und letztere für zu geringe Dosierungen des gleichen Medikaments .
+Prognostische Biomarker verändern nun die Krebstherapie in erheblichem Maße .
+Medikamente wie Erbitux und Vectibix entfalten ihre Wirkung nur in Tumoren , die eine normale Version des Gens KRAS aufweisen .
+Im Falle von KRAS-Mutationen sind die Medikamente wirkungslos .
+Derartige Mutationen erklären etwa 30-40 Prozent jener Fälle , in denen die Patienten auf diese Medikamente nicht ansprechen . Mutationen eines anderen Gens namens BRAF könnten für weitere 12 & # 160 ;
+Prozent verantwortlich sein . Die Kenntnis dieser entscheidenden Informationen über die Gene eines Krebspatienten wird für eine drastische Senkung der Zahl jener Patienten sorgen , die unnötig den Nebenwirkungen ( und Kosten ) eines unwirksamen Medikaments ausgesetzt werden .
+Die Verbesserung der Wirksamkeit und die Reduktion der Nebenwirkungen eines Medikaments & # 160 ; wird für Ärzte , Patienten und natürlich auch Versicherungen von großem Vorteil sein , aber warum sollten sich pharmazeutische Unternehmen langfristig der personalisierten Medizin widmen ?
+Positiv für Pharmafirmen ist , dass Biomarker die Durchführung kleinerer und gezielterer klinischer Studien zum Beweis der Wirksamkeit ermöglichen .
+Bei jeder Art von Experiment gilt das Grundprinzip , wonach das Vertrauen in die Studienergebnisse wächst , je größer die Zahl der Studienteilnehmer oder der Versuchswiederholungen ist .
+Mit Ausnahme der Fälle , in denen die Wirkung einer Intervention wirklich tief greifend ist , weisen kleine Studien generell höhere Unsicherheiten bei den Ergebnissen auf .
+Hier verändern Biomarker die Situation .
+Sie können Medikamentenhersteller helfen , klinische Studien zu konzipieren , die einen hohen „ relativen Behandlungsunterschied ” zwischen dem zu untersuchenden Medikament und der Vergleichsbehandlung ( oftmals ein Placebo , aber manchmal auch eine andere Behandlung ) aufweisen . & # 160 ;
+Wenn also Medikamente letztlich auf Grundlage des Einsatzes von Biomarkern zugelassen werden , könnten die in der Packungsbeilage vermerkten Anwendungsgebiete restriktiver ausfallen – sprich : die Anzahl der Patienten , die für dieses Medikament in Frage kommen , könnte kleiner werden .
+So kann ein Medikament , das beispielsweise ganz allgemein für die Behandlung von „ Arthritis “ zugelassen ist – einer Gelenksentzündung , die aufgrund von Dutzenden verschiedenen krankhaften Prozessen auftreten kann – weiträumiger vermarktet werden , als ein Medikament , das nur für die Behandlung von Arthritis in Zusammenhang mit Psoriasis oder Gicht zugelassen ist .
+In der Realität allerdings ist die Situation komplexer .
+Die Bewertungen von Sicherheit und Wirksamkeit verlaufen oft nicht parallel . & # 160 ; Selbst wenn die Wirksamkeit eines Medikaments in kleineren , gezielteren klinischen Studien klar bewiesen wurde , kann es sein , dass die Regulierungsbehörden viel größere Studien zum Beweis der Sicherheit des Medikaments verlangen .
+Die aufgrund von Vorwürfen hinsichtlich unzulänglicher Prüfung von Medikamenten und Impfstoffen zunehmend in die Defensive geratenen & # 160 ; Regulierungsbehörden & # 160 ; haben in ihrer Sicherheitsbesessenheit in den letzten Jahren umfangreiche , enorm kostspielige und zeitaufwändige klinische Studien gefordert , im Zuge derer man sogar sehr seltene Nebenwirkungen überprüft .
+Man bedenke beispielsweise , dass ein Impfstoff gegen das Rotavirus ( ein Virus , das häufige , manchmal tödliche Infektion des kindlichen Verdauungstraktes hervorruft ) vor seiner Zulassung in den USA an über 72.000 Kindern getestet wurde – und an weiteren gut 40.000 Patienten in Post-Marketing-Studien .
+In ähnlicher Weise wurde ein Impfstoff gegen das humane Papillomavirus und Gebärmutterhalskrebs an beinahe 30.000 jungen Frauen getestet .
+Solche Studien sind überaus kostspielig und die Zahl der Studienteilnehmer ist in jeder Hinsicht krass übertrieben .
+Die Auswirkungen der personalisierten Medizin könnten daher kurzfristig für den Patienten durchaus positiv sein , aber ausgedehnte klinische Studien zum Beweis der Sicherheit neuer Medikamente bürden den Herstellern derart hohe Kosten auf , die nie gedeckt werden könnten .
+( Momentan spielen nur etwa 20 Prozent aller von den amerikanischen Regulierungsbehörden zugelassenen Arzneimittel ihre Forschungskosten wieder herein . ) & # 160 ; Langfristig ist diese Situation nicht tragbar .
+Wenn die Gesellschaft maximal von den Vorteilen der personalisierten Medizin profitieren soll – wozu es auch Unternehmen bedarf , die diesen Ansatz verfolgen – werden die Regulierungsbehörden weltweit begründete und vernünftige Strategien anwenden müssen .

@@ -1,0 +1,36 @@
+Krieg und Sicherheit im Netz
+CAMBRIDGE – Für Netzsicherheit haben sich bis jetzt in erster Linie Computerfreaks und zwielichtige Gestalten interessiert .
+Die Erfinder des Internet , Teil einer kleinen , geschlossenen Gemeinschaft , fühlten sich mit einem offenen System , in dem Sicherheit keine entscheidende Rolle spielte , sehr wohl .
+Aber heute wird das Internet von etwa drei Milliarden Menschen genutzt , und genau diese Offenheit ist zu einer ernsthaften Schwäche geworden . Sie gefährdet sogar die enormen wirtschaftlichen Möglichkeiten , die das Netz der Welt eröffnet hat .
+Eine „ Netzattacke “ kann viele Formen annehmen : einfache Sonden , Verunstaltung von Webseiten , Denial-of-Service-Angriffe oder die Zerstörung von Daten .
+Auch wenn sich Netzkrieg oder „ Cyber-Krieg “ am besten als „ jegliche feindliche Aktion im Internet , die massiver physischer Gewalt entspricht oder diese verstärkt “ definieren lässt , bleibt der Begriff doch oft unscharf , weil er Definitionen von „ Krieg “ aufgreift , die von bewaffnetem Konflikt bis hin zu jeglicher gemeinsamer Anstrengung zur Lösung eines Problems reichen ( z.B. „ Krieg gegen die Armut “ ) .
+Netzkrieg oder Netzspionage wird weitgehend mit Staaten in Verbindung gebracht , während Netzkriminalität oder Netzterrorismus meist nichtstaatlichen Akteuren zugeschrieben wird .
+Die höchsten Kosten werden heute durch Spionage und Kriminalität verursacht , aber im nächsten Jahrzehnt könnten Netzkriege oder Netzterrorismus zu größeren Bedrohungen werden , als sie es heute sind .
+Darüber hinaus könnten sich im Zuge der Weiterentwicklung von Bündnissen und Taktiken die Kategorien zunehmend überlappen .
+Terroristen könnten von Kriminellen Malware kaufen , und Regierungen könnten es nützlich finden , sich hinter beiden zu verstecken .
+Manche Menschen behaupten , aufgrund von Identifikations- und Zuordnungsschwierigkeiten funktioniere Abschreckung im Cyberspace nicht .
+Aber dies ist oberflächlich : Auch bei die Abschreckung zwischen Staaten kann man Akteure oft nicht genau identifizieren , aber trotzdem ist sie immer noch in Kraft .
+Auch wenn der Ursprung eines Angriffs erfolgreich unter einer „ falschen Flagge “ versteckt werden kann , befinden sich Regierungen doch derart in symmetrisch abhängigen Beziehungen , dass ein großer Angriff kontraproduktiv wäre .
+China beispielsweise würde unter einem Angriff , der die amerikanische Wirtschaft hart treffen würde , stark leiden , und umgekehrt .
+Auch unbekannte Angreifer könnten durch Maßnahmen zur Netzsicherheit abgeschreckt werden .
+Wenn Firewalls stark sind , Redundanz und Widerstandsfähigkeit eine schnelle Erholung ermöglichen oder die Aussicht auf eine selbstverstärkende Antwort ( ein „ Elektrozaun “ ) möglich ist , wird ein Angriff weniger attraktiv .
+Die korrekte Lokalisierung der letztlichen Quelle einer Netzattacke ist manchmal schwierig , muss aber nicht wasserdicht sein .
+In dem Ausmaß , in dem falsche Flaggen nicht perfekt sind und Gerüchte über die Quelle eines Angriffs zwar nicht legal beweiskräftig sind , aber weithin als vertrauenswürdig angesehen werden , kann auch der Imageschaden für die Soft Power eines Angreifers zur Abschreckung beitragen .
+Und schließlich kann die Abschreckung durch die Bekanntmachung starker Angriffsfähigkeiten und ein gezieltes Offenhalten von Vergeltungsmöglichkeiten gestärkt werden .
+Natürlich sind nichtstaatliche Akteure schwerer abzuschrecken , daher gewinnen in solchen Fällen menschliche Intelligenz und verbesserte Verteidigung in Form von Vorwegnahme an Bedeutung .
+Aber im zwischenstaatlichen Bereich war sogar nukleare Abschreckung komplizierter , als es zuerst schien , und dies trifft auf die Abschreckung im Netz doppelt zu .
+Angesichts seiner globalen Ausprägung erfordert das Internet für seine Funktion ein gewisses Maß an internationaler Zusammenarbeit .
+Es gibt Stimmen , die sich für das Netzäquivalent formaler Vereinbarungen zur Waffenkontrolle einsetzen .
+Aber solche Vereinbarungen wären aufgrund unterschiedlicher kultureller Normen und der Schwierigkeit der Überprüfung schwer verhandel- und einführbar .
+Gleichzeitig ist es wichtig , internationale Anstrengungen zur Entwicklung von Regeln zu unternehmen , durch die Konflikte begrenzt werden können .
+Am vielversprechendsten ist internationale Kooperation heute wahrscheinlich bei Problemen von Staaten mit Drittparteien wie Kriminellen oder Terroristen .
+Russland und China haben sich um den Abschluss einer Vereinbarung für weitgehende internationale Übersicht über das Internet und „ Informationssicherheit “ bemüht , die sich gegen Täuschung und das Einfügen bösartiger , im Kriegsfall aktivierbarer Codes oder Schaltkreise wendet .
+Aber die USA waren der Ansicht , Maßnahmen zur Waffenkontrolle , die Offensivfähigkeiten blockieren , könnten die Verteidigung gegen Angriffe schwächen und wären unmöglich zu verifizieren oder durchzusetzen .
+Ebenso haben sich die USA aufgrund politischer Werte Vereinbarungen entgegen gestellt , die die Zensur des Internets durch autoritäre Regierungen legalisieren könnten – beispielsweise durch die „ Great Firewall of China “ .
+Darüber hinaus werden umfassende Abkommen zur Regulierung von Online-Inhalten durch kulturelle Unterschiede behindert .
+Trotzdem ist es möglich , Verhaltensweisen wie beispielsweise Netzkriminalität zu definieren , die in vielen Rechtsräumen illegal sind .
+Der Versuch , jedes Eindringen zu verhindern , wäre unmöglich , aber man könnte mit Netzkriminalität und Netzterrorismus durch nichtstaatliche Akteure beginnen .
+Hier könnten große Staaten ein Interesse haben , durch Zusammenarbeit bei der Forensik und Kontrolle Schaden zu begrenzen .
+Die internationale Netzdomäne wirft neue Fragen zur Bedeutung nationaler Sicherheit auf .
+Einige der wichtigsten Antworten müssen auf nationaler und internationaler Ebene stattfinden und Hygiene , Redundanz und Widerstandskraft betreffen .
+Allerdings werden die wichtigsten Staaten wahrscheinlich bald erkennen , dass die Unsicherheit durch nichtstaatliche Netzakteure engere Zusammenarbeit zwischen Regierungen erfordert .

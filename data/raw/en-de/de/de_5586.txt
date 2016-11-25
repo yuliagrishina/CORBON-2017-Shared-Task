@@ -1,0 +1,61 @@
+Wann werden wir den Krieg gegen den Krebs gewinnen ?
+Vor dreißig Jahren erklärte der amerikanische Präsident den " Krieg gegen den Krebs " .
+In diesem Jahr verlieren allein in den Vereinigten Staaten jeden Tag 1.500 Männer , Frauen und Kinder ihren persönlichen Kampf gegen den Krebs .
+Wann wird dieser Krieg zu Ende sein ?
+Ich glaube bei etlichen Krebsformen wird dies bald der Fall sein .
+Aufgrund von Erkenntnissen aus der Grundlagenforschung stehen uns neue Methoden der Krebsbekämpfung zur Verfügung .
+Diese neuen Methoden ermöglichen eine raschere Diagnose und eine wirkungsvollere Behandlung .
+Es konnten auch neue Medikamente entwickelt werden , die an den für Krebszellen typischen molekularen Veränderungen ansetzen . Die Entdeckung dieser Veränderungen ermöglicht auch eine Vorhersage , wer aufgrund genetischer oder umweltbedingter Faktoren einem erhöhten Krebsrisiko ausgesetzt sein könnte .
+Diese Fortschritte werden wohl viele Leben retten .
+Krebs befällt viele verschiedene Organe und Gewebe des Körpers .
+Obwohl Erscheinungsbild und Verlauf von Krebserkrankungen sehr mannigfaltig sein können , haben sie doch eine gemeinsame Ursache : einen genetischen Defekt .
+Gene sind biochemische Codierungseinheiten , die Struktur und Funktion unseres Körpers steuern .
+Jede Zelle unseres Körpers verfügt über den gleichen Satz von Genen , den wir je zur Hälfte von unseren Elternteilen erben .
+Was eine Zelle von einer anderen unterscheidet , ist die Kombination jener Gene , die in einer Zelle aktiv sind .
+Gene können durch umweltbedingte Faktoren wie Strahlung oder Chemikalien geschädigt werden .
+Sie können aber auch durch normale Stoffwechselprodukte Schaden nehmen .
+Um die Integrität der Gene zu gewährleisten verfügt unser Körper über ausgeklügelte Reparaturmechanismen , die auch bei Anwesenheit schädigender Einflüsse wirksam sind .
+Dennoch kommt es gelegentlich vor , dass ein Schaden nicht repariert wird .
+Tritt dieser Schaden an Schlüsselgenen auf , die das Zellwachstum kontrollieren , kann Krebs entstehen .
+Die Reparaturmechanismen selbst schützen uns also vor Krebs .
+So entwickeln beispielsweise Menschen mit einem Defekt in einem Reparaturmechanismus eine gewisse Form des Dickdarmkrebses häufiger .
+Das Zellwachstum wird durch das Gleichgewicht zwischen wachstumsfördernden und wachstumshemmenden Faktoren gesteuert .
+Wachstumsfördernde Gene nennt man Onkogene , wachstumshemmende heißen Tumorsuppressorgene .
+Werden Onkogene stimuliert oder Tumorsuppressorgene unterbunden , gerät das Zellwachstum außer Kontrolle .
+Onkogene können durch Mutation ( Veränderung der Genstruktur ) oder Amplifikation ( Erhöhung der Genkopienzahl ) aktiviert werden .
+Tumorsuppressorgene können durch Mutation oder spontanen Verlust bei der Zellteilung funktionsunfähig werden .
+Krebszellen sind genetisch instabil , das heißt , sie enthalten eine abnorme Zahl von Chromosomen , der Trägersubstanz der Gene in der Zelle .
+Diese genetische Instabilität trägt durch ein Ungleichgewicht der Genaktivität zum Verlust der Kontrolle über das Zellwachstum bei .
+Traditionellerweise diagnostizierte man Krebs aufgrund der charakteristischen Form der Krebszellen unter dem Mikroskop .
+In zunehmendem Maße erfolgt die Diagnose jedoch aufgrund des charakteristischen Musters der Genaktivität in Krebszellen ( ihrer " molekularen Signatur " ) .
+Mit neuen Verfahren wie den so genannten " Genchips " kann die Aktivität Tausender Gene gleichzeitig zu ermitteln .
+Durch ihre molekulare Signatur kann die Krebsart präziser bestimmt werden , wodurch wiederum die Behandlung vereinfacht wird .
+So gelang es beispielsweise mit diesen Verfahren einige Lymphomarten ( Blutkrebs ) zu erkennen , die gut auf Chemotherapie ansprechen .
+Ähnliche Verfahren werden zur Identifizierung von Genen eingesetzt , die bei der Tumormetastasierung eine Rolle spielen .
+Etliche Tumorarten beruhen zwar auf den gleichen genetischen Veränderungen , manche weisen jedoch sehr spezifische Veränderungen auf .
+Mittlerweile wurden Dutzende Onkogene und Tumorsuppressorgene identifiziert , die einen Angriffspunkt für neu zu entwickelnde Krebsmedikamente darstellen .
+Ein erstaunliches Beispiel aus jüngster Zeit lieferte ein Medikament , das auf typische molekulare Veränderungen in Zellen bei chronisch myeloischer Leukämie abzielt .
+Dieses Medikament ist eine Alternative zur Knochenmarktransplantation , die bis dahin einzig wirksame Behandlungsmethode .
+Man erkannte , dass Mutationen bestimmter Gene auch für gewisse erbliche Formen des Brust- und Eierstockkrebses verantwortlich sind .
+So ist es möglich , potenzielle gefährdete Frauen ausfindig zu machen , die diese veränderten Gene geerbt haben .
+( Erbliche Formen des Brust- oder Eierstockkrebses stellen nur einen geringen Anteil an der Gesamtzahl der Krebserkrankungen dar . )
+Engmaschige Überwachung und rasche Behandlung oder prophylaktische chirurgische Eingriffe können das Risiko bei diesen erblichen Krebsformen reduzieren .
+Die Fortschritte bei bildgebenden Verfahren ermöglichen eine frühzeitige Erkennung des Tumors , wodurch dieser schon entfernt werden kann , bevor er lebensbedrohende Ausmaße annimmt .
+Mit diesen neuen bildgebenden Verfahren wird auch eine effektivere Kontrolle operativer Eingriffe möglich , so dass Tumore exakter entfernt werden können .
+Auch das bessere Verständnis des Tumorwachstums führt zu neuen Therapieansätzen .
+Tumore benötigen ausreichende Blutversorgung . Daher produzieren sie Wirkstoffe , die das Wachstum von Blutgefäßen anregen ( dieser Prozess wird als Angiogenese bezeichnet ) .
+Neue Medikamente zur Hemmung dieser Tumorangiogenese zeigen in klinischen Versuchen vielversprechende Wirkung .
+Man schätzt , dass 10 - 15 % aller Krebserkrankungen weltweit mit einer Virusinfektion zusammenhängen .
+Die bekanntesten Beispiele sind der mit einer Hepatitisinfektion in Zusammenhang stehende Leberkrebs und der Gebärmutterhalskrebs in Verbindung mit dem humanen Papillomavirus .
+Durch die Impfung gegen Hepatitis B kann die Häufigkeit von Leberkrebs reduziert werden .
+Schnelle und spezifische diagnostische Tests für den Nachweis des menschlichen Papillomavirus ergänzen den traditionellen Pap-Test und helfen so Frauen mit erhöhtem Gebärmutterhalskrebs-Risiko zu ermitteln .
+Eine der faszinierendsten Entdeckungen der modernen Biologie ist , dass der Zelltod bei Zellwachstum und -entwicklung eine bedeutende Rolle spielt .
+So werden beispielsweise viel mehr Nervenzellen als nötig produziert . Bei der Formation der Schaltkreise im Nervensystem gehen dann die überzähligen Zellen zugrunde .
+In den Zellen ist ein " Selbstmordprogramm " gespeichert , das bei irreparabler Zellschädigung gestartet wird .
+Interessanterweise reagieren Krebszellen abnormal auf diese Todessignale .
+In Krebszellen sind einige zum Selbstmordprogramm gehörende Gene verändert .
+Ein vielversprechender , momentan gerade in Erforschung befindlicher Ansatz in der Krebstherapie ist , dieses Selbstmordprogramm in Krebszellen ohne Beeinträchtigung der normalen Zellen zu aktivieren .
+Obwohl für die Zukunft keine gesicherten Aussagen getroffen werden können , scheint es durchaus denkbar , dass innerhalb der nächsten zehn Jahre die Belastungen einer Krebserkrankung durch neue Behandlungsmethoden wesentlich reduziert werden können .
+Bei einigen Krebsarten , wie dem bereits erwähnten Leberkrebs oder bei chronisch myeloischer Leukämie ist dies bereits geschehen .
+Bei anderen Krebsarten sind vorbeugende Maßnahmen bekannt , werden aber nicht immer befolgt , wie im Falle des durch Zigarettenkonsum verursachten Lungenkrebses .
+Es ist unwahrscheinlich , dass die meisten Krebsarten in naher Zukunft ausgerottet sein werden . Vielmehr wird ihre Diagnose präziser und die Behandlung effektiver erfolgen , was wiederum die Anzahl der geheilten Patienten erhöhen wird .

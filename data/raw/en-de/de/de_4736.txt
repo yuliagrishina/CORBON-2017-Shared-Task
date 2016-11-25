@@ -1,0 +1,45 @@
+Das neue Auge unseres Verstandes
+CAMBRIDGE , MASS . : Die moderne Physik und Kosmologie legen nahe , dass grundlegende Wahrheiten darüber , wie die Natur funktioniert und unser Universum entstanden ist , nur für jene erkennbar sind , die Ereignisse sehen können , die kürzer dauern , als das Licht braucht , um an einem Proton vorbeizuziehen , und deren Sehvermögen Distanzen auflösen kann , die kleiner als ein Atomkern sind .
+Zum Glück schließt das uns Menschen nicht aus , denn wir können die Augen , mit denen wir geboren sind , verstärken .
+Zum Beispiel durch den Large Hadron Collider ( LHC ) .
+Indem sie in diesem mit beispielloser Energie Protonen gegeneinander schlagen und dabei die vielen Teilchen überwachen , die aus diesen Zusammenstößen hervorgehen – und die Primärereignisse rekonstruieren , die diese hervorgebracht haben – , werden die Physiker tatsächlich das schnellste , hochauflösendste Mikroskop aller Zeiten konstruiert haben , bei dem jedes Proton eine Momentaufnahme des Inneren eines anderen Protons macht .
+Der LHC ist ein fantastisches technisches Projekt , über dessen zahlreiche Staunen erregende Merkmale weithin berichtet worden ist .
+Ich werde mir all dies ersparen und direkt zum Kern der Sache kommen : Welche Erkenntnisse können wir uns von ihm erhoffen ?
+Definitiv werden wir sehen , wie das Universum beschaffen war , als es eine Tausendstelsekunde alt war , unmittelbar nach dem Urknall .
+Die Primärereignisse des LHC sind tatsächlich Miniaturknalle , winzige Feuerbälle , die die Urknallbedingungen reproduzieren , wenn auch nur in sehr kleinem Umfang .
+Diese Nachschöpfung des Frühuniversums eröffnet uns eine aufregende Möglichkeit .
+Wir wissen , dass das heutige Universum eine Form von Materie enthält , die so genannte Dunkle Materie , die sich von allem anderen unterscheidet , das wir je beobachtet haben .
+Die Dunkle Materie ist tatsächlich nicht dunkel im herkömmlichen Sinne , sondern völlig transparent .
+Sie gibt weder Licht ab noch nimmt sie es auf ( in wesentlichem Umfang ) , was auch der Grund dafür ist , dass die Astronomen sie tausende von Jahren lang nicht bemerkten , und dies , obwohl dunkle Materie einen fünf Mal so großen Teil der Gesamtmasse des Universums ausmacht wie normale Materie .
+Erst Ende des 20. Jahrhunderts offenbarte die sorgfältige Beobachtung der Bewegung normaler , sichtbarer Materie den gravitationellen Einfluss einer Menge anderweitig unsichtbaren Stoffes .
+Da der ursprüngliche Urknall Dunkle Materie hervorbrachte , könnten die Miniaturknalle des LHC ggf. noch mehr davon erschaffen .
+Die Experimentatoren suchen also nach neuen Partikeln mit den richtigen Eigenschaften , um die astronomische Dunkle Materie hervorzubringen : sehr langlebig und nur äußerst schwach mit normaler Materie oder Licht interagierend .
+Es besteht so eine gute Chance , dass wir herausfinden werden , was diese allgegenwärtige , im Überfluss vorhandene , aber schwer fassbare Substanz ist .
+Man stelle sich eine Rasse intelligenter Fische vor , die anfängt , tief über die Welt nachzudenken .
+Für Jahrtausende betrachteten ihre Vorfahren ihr nasses Umfeld als Selbstverständlichkeit ; für sie war es eine „ Leere “ – so leer , wie sie es eben fassen konnten .
+Doch nach der Beschäftigung mit etwas Mechanik und unter Einsatz ihrer Fantasie erkennen diese Physikerfische , dass sie sehr viel einfachere Bewegungsgesetze ableiten können , wenn sie davon ausgehen , dass sie von einem Medium ( Wasser ) umgeben sind , das das Erscheinungsbild der Dinge kompliziert .
+Wir sind derartige Fische .
+Wir haben entdeckt , dass wir eine Reihe sehr viel einfacherer Gleichungen für die physikalischen Grundlagen erhalten können , wenn wir davon ausgehen , dass das , was wir gewöhnlich als leeren Raum betrachten , tatsächlich ein Medium ist .
+Wir haben die Auswirkungen des „ Wassers “ bemerkt , das wir nutzen , um unsere Gleichungen zu vereinfachen – es verlangsamt Teilchen und macht sie schwer – , aber wir wissen nicht , woraus es besteht .
+Der LHC wird uns in die Lage versetzen , die mikroskopische Struktur des universalen Mediums zu erkennen .
+Die einfachste Vorstellung ist , dass es aus einer neuen Art von Teilchen besteht , dem so genannten „ Higgs-Teilchen “ , doch vermute ich , dass es so einfach wohl nicht sein dürfte .
+( Man erhält schönere Gleichungen mit fünf neuen Teilchen , und es könnten sogar noch mehr sein . )
+In den 1860er Jahren stellte James Clerk Maxwell die damals bekannten Gleichungen für Elektrizität und Magnetismus , so die damalige Bezeichnung , zusammen und entdeckte dabei eine Widersprüchlichkeit .
+Er behob diese Widersprüchlichkeit , indem er diesen Gleichungen ein paar neue Bedingungen hinzufügte .
+Diese verbesserten Gleichungen , heute als die Maxwell-Gleichungen bekannt , ergaben eine vereinheitlichte Theorie der Elektrizität und des Magnetismus .
+Die neuen Gleichungen zeigten , dass Licht eine sich bewegende , selbst erneuernde Störung in elektrischen und magnetischen Feldern darstellt , und sie sagten vorher , dass neue Arten von Störungen möglich seien .
+Heute bezeichnen wir derartige Störungen als Radiowellen , Mikrowellen , infrarote und ultraviolette Strahlung , Röntgenstrahlung und Gammastrahlung .
+Wir verwenden sie , um miteinander zu kommunizieren , zu kochen und Krankheiten zu diagnostizieren und zu heilen .
+Die vereinheitlichte Theorie des Elektromagnetismus hat zu profunden Fortschritten in allen Bereichen der physikalischen Naturwissenschaften geführt , von der Atomphysik ( in der Laser und Maser unverzichtbare Hilfsmittel sind ) bis hin zur Kosmologie ( wo die Mikrowellen-Hintergrundstrahlung unser Fenster zum Urknall ist ) .
+Unser aktuelles Verständnis der Physik , soweit es denn reicht , ist aussagestark und präzise , aber weniger ästhetisch und kohärent , als es sein sollte .
+Wir haben eigenständige Gleichungen für vier Kräfte : starke , schwache , elektromagnetische und Gravitationskräfte .
+Dieses Durcheinander erinnert an die fragmentarischen Gleichungen zur Elektrizität und zum Magnetismus vor Maxwell .
+Einige von uns haben erweiterte Gleichungen vorgeschlagen , die diese verschiedenen Kräfte zusammenführen .
+Diese erweiterten Gleichungen , die eine als Supersymmetrie bezeichnete Vorstellung einbinden , sagen zahlreiche neue Effekte vorher .
+Eine Anzahl dieser prognostizierten Effekte wurden bereits beobachtet ( für Experten : winzige Neutrinomassen und Vereinheitlichung von Koppelungen ) .
+Doch wie schon Carl Sagan bemerkte : „ Außergewöhnliche Behauptungen erfordern außergewöhnliche Belege . “ Doch bisher haben wir nur Indizienbeweise .
+Glücklicherweise lassen diese Vorstellungen einer neuen Vereinheitlichung erwarten , dass wir mit dem LHC außergewöhnliche Dinge erkennen werden .
+Falls dem so ist , werden wir eine völlig neue Teilchenwelt entdecken : Jedes gegenwärtig bekannte Teilchen wird einen schwereren Verwandten – seinen Superpartner – mit anderen , aber vorhersagbaren Eigenschaften haben .
+Dies sind meine Hoffnungen und Erwartungen an den LHC .
+Es gibt noch jede Menge andere Spekulationen über das , was uns erwarten könnte ; hierzu gehören zusätzliche räumliche Dimensionen , Strings anstelle von Teilchen und Schwarze Löcher im Miniaturformat .
+Sehr wahrscheinlich wird die Realität die Vorahnungen überholen .

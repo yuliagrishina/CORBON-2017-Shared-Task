@@ -1,0 +1,40 @@
+Wird staatliche Torheit jetzt eine Cyber-Krise zulassen ?
+CAMBRIDGE , MASS . : Nach dem Ausbruch der Finanzkrise 2008 fragten viele Kritiker schockiert , warum Märkte , Regulierungsorgane und Finanzexperten die Krise nicht kommen sahen .
+Heute könnte man sich dieselbe Frage in Bezug auf die Anfälligkeit der Weltwirtschaft gegen Cyber-Angriffe stellen .
+Tatsächlich bestehen auffallende Parallelen zwischen Finanzkrisen und der Bedrohung durch Cyber-Katastrophen .
+Obwohl die größte Bedrohung von Schurkenstaaten mit der Kapazität zur Entwicklung extrem komplexer Computerviren ausgeht , drohen auch von anarchistischen Hackern und Terroristen oder sogar von Computerpannen , die dann durch Naturkatastrophen verstärkt werden , Gefahren .
+Einige Sicherheitsexperten haben bereits ihre große Besorgnis zum Ausdruck gebracht , darunter jüngst der Leiter des britischen Inlandsgeheimdienstes MI5 .
+Im Großen und Ganzen jedoch sind nur wenige führende Köpfe bereit , im Namen einer derart amorphen Bedrohung wesentliche Kompromisse beim Wachstum auf dem Technologiesektor oder im Internet einzugehen .
+Stattdessen ziehen sie es vor , relativ unverfängliche Arbeitsgruppen und -ausschüsse einzurichten .
+Es ist schwierig , die Abhängigkeit der modernen Volkwirtschaften von Großrechnern zu überschätzen .
+Doch man stelle sich vor , was passieren würde , falls eines Tages eine größere Zahl wichtiger Kommunikationssatelliten arbeitsunfähig gemacht oder die Datenbanken wichtiger Finanzsysteme gelöscht würden .
+Experten haben schon vor langer Zeit das Stromnetz als die akuteste Schwachstelle identifiziert , da jede moderne Volkswirtschaft ohne Strom zusammenbrechen würde .
+Viele Skeptiker argumentieren , dass größere Cyber-Katastrophen bei Umsetzung angemessener , preiswerter Vorsorgemaßnahmen hochgradig unwahrscheinlich seien und dass die Kassandras dieser Welt die Worst-Case-Szenarien übertreiben .
+Die Fähigkeit von Cyber-Terroristen und Erpressern , die Weltwirtschaft so wie im Bruce-Willis-Spielfilm Die Hard 4 an den Rand der Katastrophe zu führen , sei reine Fiktion .
+Es ist schwer einzuschätzen , wer Recht hat , und es stehen wichtige Experten auf beiden Seiten der Debatte .
+Doch es scheint eine unangenehm hohe Zahl von Ähnlichkeiten zwischen der politischen Ökonomie der Cyberspace-Regulierung und jener der Finanzregulierung zu geben .
+Zunächst einmal sind sowohl Cyber-Sicherheit als auch Finanzstabilität äußerst komplexe Themen , mit denen die staatlichen Regulierungsbehörden kaum Schritt halten können .
+Die Vergütung der Experten innerhalb der Branche liegt so weit über der im öffentlichen Sektor , dass dort ständig die besten Köpfe abgeworben werden .
+Daher wird mancherorts die Ansicht vertreten , die einzige Lösung bestünde in der Selbstregulierung durch die Softwarebranche .
+Dieses Argument ist in Bezug auf viele moderne Branchen zu vernehmen , von den großen Nahrungsmittelkonzernen über die großen Pharmaunternehmen bis hin zu den großen Finanzunternehmen .
+Zweitens übt die Technologiebranche – wie der Finanzsektor – durch ihre Parteispenden und Lobbyisten enormen politischen Einfluss aus .
+In den USA müssen alle Präsidentschaftskandidaten nach Silicon Valley und in andere Technologiezentren pilgern , um Geld zu sammeln .
+Der übermäßige Einfluss des Finanzsektors aber war eine Grundursache für den GAU des Jahres 2008 , und der Sektor ist nach wie vor zutiefst in das anhaltende Chaos in der Eurozone verwickelt .
+Drittens scheint die Informationstechnologie derzeit angesichts des sich verlangsamenden Wachstums in den hoch entwickelten Volkswirtschaften die moralische Deutungshoheit innezuhaben , ganz so wie bis vor fünf Jahren die Finanzwirtschaft .
+Und unbeholfene Versuche der Regierungen , eine Regulierung durchzusetzen , dürften sich als Schutz gegen eine Katastrophe als unzureichend erweisen , zugleich jedoch das Wachstum mit bemerkenswerter Effektivität abwürgen .
+In beiden Fällen – sowohl der Finanzstabilität als auch der Cyber-Sicherheit – schafft das Ansteckungsrisiko eine Lage , in der sich ein Keil zwischen privaten Anreizen und gesellschaftlichen Risiken ausbilden kann .
+Fortschritte auf dem Technologiesektor erzeugen zugegebenermaßen häufig eine enorme Zunahme des Gesamtwohls , die möglicherweise die aller anderen Sektoren während der letzten Jahrzehnte deutlich übersteigt .
+Doch genau wie bei Kernkraftwerken kann der Fortschritt ohne angemessene Regulierung aus dem Ruder laufen .
+Und schließlich gehen die größten Risiken von Arroganz und Ignoranz aus , zwei menschlichen Eigenschaften , die im Kern der meisten Finanzkrisen liegen .
+Jüngste Enthüllungen über die Superviren „ Stuxnet “ und „ Flame “ sind besonders entmutigend .
+Diese anscheinend von den USA und Israel zur Störung des iranischen Nuklearprogramms entwickelten Viren verkörpern einen Grad an Komplexität , der weit über alles bisher Gesehene hinausgeht .
+Beide sind stark verschlüsselt und schwer zu entdecken , wenn sie erst einmal in einen Rechner gelangt sind .
+Das Flame-Virus hat die Fähigkeit , die Kontrolle über die Peripheriegeräte eines Rechners zu übernehmen , Skype-Gespräche aufzuzeichnen , mit der Kamera des befallenen Rechners Fotos zu machen und Informationen per Bluetooth an ein beliebiges in der Nähe befindliches Gerät zu senden .
+Wenn die fortschrittlichsten Regierungen der Welt Computer-Viren entwickeln , wer will da garantieren , dass dabei nichts schiefgehen wird ?
+Wie können wir sicher sein , dass sie nicht entwischen und eine viel umfassendere Klasse von Systemen infizieren , dass sie nicht für andere Anwendungen angepasst werden oder dass künftige Schurkenstaaten oder Terroristen nicht einen Weg finden werden , sie gegen ihre eigenen Schöpfer einzusetzen ?
+Keine Volkswirtschaft ist anfälliger als die USA , und es ist arrogant , anzunehmen , dass die Überlegenheit der USA im Cyber-Bereich ( gegenüber allen außer möglicherweise China ) ihnen einen undurchdringlichen Schutz vor Angriffen bietet .
+Leider ist es mit der bloßen Erschaffung besserer Anti-Virus-Programme nicht getan .
+Virenschutz und Virusentwicklung liefern sich ein ungleiches Wettrüsten .
+Ein Virus kann aus nur ein paar hundert Zeilen Computercode bestehen ; Anti-Viren-Programme erfordern dagegen hunderttausende von Zeilen , die zum Schutz vor ganze Klassen von Feinden entwickelt werden müssen .
+Man sagt uns , wir sollten uns keine Sorgen über große Cyber-Katastrophen machen , weil es bisher noch keine gegeben habe und die Regierungen wachsam seien .
+Unglücklicherweise ist eine weitere Lehre aus der Finanzkrise , dass die meisten Politiker von Natur aus unfähig sind , schwierige Entscheidungen zu treffen , bis die drohenden Gefahren tatsächlich eintreten . Wir wollen hoffen , dass wir noch eine Weile Glück haben .

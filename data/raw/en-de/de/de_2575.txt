@@ -1,0 +1,35 @@
+Der Schutz des Cyberspace
+CAMBRIDGE – Brasilien war vor kurzem Gastgeberland der NETmundial , der ersten weltweiten Konferenz über Ordnung und Verwaltung des Internets , an der 800 Vertreter von Regierungen , Unternehmen , zivilgesellschaftlichen Organisationen und Techniker teilnahmen .
+Auf Grundlage des Konzepts zur Einbeziehung vieler verschiedener Akteure einigte man sich schließlich auf ein 12 Seiten umfassendes Abschlussdokument .
+Dennoch gab es am Ende der Konferenz keinen Konsens über eine weltweite Ordnung des virtuellen Raums .
+Hinsichtlich der globalen Entscheidungsfindung befürworten zahlreiche Staaten weiterhin traditionelle UNO-Abstimmungsverfahren und verteidigen ihr Recht auf Kontrolle der Internet-Aktivitäten im eigenen Land .
+In gewisser Weise ist das nicht überraschend .
+Obwohl es sich beim Internet um eine komplexe , sich rasch entwickelnde und allumfassende globale Ressource handelt , gibt es sie noch nicht sehr lange . Das World Wide Web wurde zwar 1989 konzipiert , aber erst in den letzten 15 Jahren hat sich die Zahl der Webseiten vervielfacht und die Technologie begann , globale Lieferketten zu verändern .
+Seit 1992 ist die Zahl der Internet-Nutzer von einer Million auf beinahe drei Milliarden explodiert .
+Einfach so wurde das Internet zum Substrat des wirtschaftlichen , sozialen und politischen Lebens .
+In seinen frühen Tagen wurde das Internet oft als ultimativ egalitärer Informationskanal bezeichnet – als Vorbote des Endes staatlicher Kontrolle .
+Doch in der Realität haben Regierungen und juristische Zuständigkeitsbereiche immer eine zentrale Rolle bei der Regulierung des Internets gespielt – oder das zumindest versucht .
+Letztlich allerdings stellt das Internet eine große ordnungspolitische Herausforderung dar . Veranschaulicht wird diese Tatsache an den aktuellen Bestrebungen , die Auswirkungen allgegenwärtiger Mobilität und der Erhebung und Speicherung enormer Datenvolumina zu verstehen .
+Diese ordnungspolitische Herausforderung hat ihren Ursprung in dem Faktum , dass der Cyberspace eine Kombination aus grenzüberschreitendem virtuellem Eigentum und physischer Infrastruktur darstellt , die nationaler Rechtsprechung unterliegt .
+Die Kontrolle über den physischen Teil kann sowohl territoriale als auch extraterritoriale Auswirkungen auf den virtuellen Teil haben .
+Gleichzeitig ist es möglich , aus dem kostengünstigen virtuellen Bereich den physischen Teil anzugreifen , wo Ressourcen knapp und teuer sind .
+In seinen Anfängen war das Internet ein kleines Dorf mit bekannten Nutzern , wo ein Code für die Identitätsüberprüfung überflüssig und die Entwicklung von Normen einfach war .
+Aber dann wuchs es und alles änderte sich .
+Obwohl der Cyberspace die Zugänglichkeit zu Informationen und einer wachsenden Zahl von Menschen erleichterte Kommunikation bot , entwickelte er sich auch zu einem Nährboden für Verbrechen , Hacker-Angriffe und Bedrohungen von Staaten .
+Die Anstrengungen zur Beschränkung der Risiken in diesem unbeständigen Umfeld konzentrierten sich auf die Schaffung privater Netzwerke und so genannter „ walled gardens ” ( geschlossener Plattenformen ) – die virtuellen Pendants zu den Einfriedungen des 17. Jahrhunderts , die geschaffen wurden , um die „ Tragik der Allmende ” dieser Zeit zu lösen .
+Doch diese Entwicklung – wenn in entsprechendem Ausmaß ermöglicht - erhöht die Gefahr der Zersplitterung , die wiederum die wirtschaftlichen Vorteile des Internets beschränken könnte .
+Da Sicherheit traditionell eine Zuständigkeit des Staates ist , glauben manche Beobachter , dass zunehmende Unsicherheit zu einer größeren Rolle des Staates im virtuellen Raum führen wird .
+Die Berichte von Kriegen im Cyberspace sind vielleicht etwas übertrieben , aber Spionage ist im virtuellen Raum an der Tagesordnung und über 30 Staaten sollen angeblich offensive Kapazitäten und Doktrinen hinsichtlich des Einsatzes von Cyberwaffen entwickelt haben .
+Seit man in den Jahren 2009 und 2010 mit dem Stuxnet-Virus das Atomprogramm des Iran außer Gefecht setzte , nehmen die Staaten die Bedrohung durch Cyberwaffen überaus ernst .
+Außerdem möchten Staaten ihre Bevölkerungen auch vor den Inhalten des Internet schützen .
+So hat die chinesische Regierung beispielsweise nicht nur eine „ Chinesische Brandmauer ” aus Software-Filtern errichtet , sie verlangt von Unternehmen auch , dass sie Verantwortung für die Zensur ihrer öffentlichen Inhalte übernehmen .
+Und sollte China angegriffen werden , verfügt man über die Möglichkeit , die Internet-Verbindungen zu reduzieren .
+Doch von den wirtschaftlichen Vorteilen der Vernetzung möchten die chinesische Regierung - und andere , die das Internet zensieren - trotzdem profitieren .
+Dieser Zwiespalt führt zu mangelhaften Kompromissen .
+Die Bemühungen zur Schaffung internationaler ordnungspolitischer Normen für das Internet sind von einem ähnlichen Zwiespalt geprägt . Während es autoritären Ländern wie China und Russland um „ Informationssicherheit “ geht - einschließlich jener Art offensichtlicher Zensur , die in Ländern wie den USA verboten wäre - verfolgen westliche Demokratien „ Cyber-Sicherheit “ .
+Sehr deutlich zeigte sich diese Diskrepanz im Jahr 2012 auf einer von der Internationalen Fernmeldeunion ( ITU ) der UNO veranstalteten Konferenz in Dubai .
+Obwohl das Thema dieser Tagung angeblich die Aktualisierung von Regulierungen im Bereich Telefonie war , ging es im Grunde um die Rolle der ITU bei der Verwaltung des Internets .
+Autoritäre Regime und viele Entwicklungsländer sind der Ansicht , dass ihr Ansatz im Hinblick auf Souveränität , Sicherheit und Entwicklung von den von der ITU angewandten multilateralen Prozessen profitieren würde .
+Doch demokratische Regierungen befürchten , dass diese Prozesse zu umständlich sind und die Flexibilität eines Ansatzes untergraben , der die Einbeziehung zahlreicher Akteure des privaten und gemeinnützigen Sektors sowie der Regierungen vorsieht . Bei der Abstimmung in Dubai unterlagen die „ demokratischen “ Regierungen mit 89 zu 55 Stimmen .
+Aufgrund dieses Ergebnisses kamen Bedenken hinsichtlich einer Krise der Verwaltung des Internets auf - Bedenken , die bei der jüngsten Konferenz in Brasilien zwar gemildert wurden , allerdings nur unwesentlich . Bleiben Sie dran .
+Es sind noch zahlreiche weitere Konferenzen zum Thema Verwaltung des Internets geplant – und es gibt noch viel zu tun .

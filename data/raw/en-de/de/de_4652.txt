@@ -1,0 +1,54 @@
+Die Sprache der Genomik
+DALIAN , CHINA – In der vergangenen Woche verkündete ein Unternehmen namens Complete Genomics , dass 10 neue Kunden sein Angebot der Genom-Entschlüsselung in Anspruch nehmen werden .
+Der Preis wurde nicht genannt , doch das Unternehmen erklärte sein Ziel , diese Leistung innerhalb eines Jahres für $ 5.000 Dollar anzubieten .
+Nicht die Ankündigung selbst war mir aufgefallen , sondern der Name des CEOs : Cliff Reid , der , als ich ihn in den Achtzigerjahren kennen lernte , Geschäftsführer eines Textsuche-Unternehmens namens Verity war .
+Die Verbindung wurde mir beinahe schlagartig klar .
+Gene sind gewissermaßen die Befehlssprache für den Aufbau des Menschen ( oder jedes anderen Lebewesens ) .
+Und Sprache sind Symbole , die interagieren , um Bedeutung entstehen zu lassen .
+Und , ja , es war tatsächlich derselbe Cliff Reid , den ich Ende der Achtzigerjahre kennen gelernt hatte .
+Es ist faszinierend , was Complete Genomics mit den $ 91 Millionen Dollar unternimmt , die es bislang aufgebracht hat .
+Es hat einen Betrieb zur Sequenzierung von Genomen aufgebaut und plant in den kommenden Jahren den Aufbau weiterer Einrichtungen .
+Viele wissenschaftliche und kommerzielle Forschungseinrichtungen wünschen eine solche Anlage , genau wie diverse Länder .
+Mich interessieren die damit zusammenhängenden Implikationen .
+Momentan gleicht ein Genom einem in einer unbekannten Sprache verfassten Roman .
+Er enthält eine enorme Menge an Information , die für uns unverständlich ist .
+Stellen Sie sich vor , Sie bekommen eine Ausgabe von Tolstois Krieg und Frieden auf Russisch und versuchen ( vorausgesetzt Sie sprechen kein Russisch ) zu verstehen , worum es in der Geschichte geht .
+Unmöglich .
+Das beschreibt recht treffend den Stand der Dinge in Bezug auf das Verstehen natürlicher Sprachen , als Reid damals zu Verity stieß .
+Andererseits haben wir begonnen einige Wörter zu verstehen – spezifische genetische Varianten – , die offenbar mit bestimmten Vorkommnissen in der Vergangenheit übereinstimmen .
+Im Fall der Genetik sind diese Vorkommnisse Krankheiten und Beschwerden .
+Und genau wie normalerweise mehrere Individuen zusammenkommen müssen , um ein Vorkommnis auszulösen , sind oft mehrere genetische Variationen nebst Umweltfaktoren die Voraussetzungen für eine Krankheit .
+Gene arbeiten häufig zusammen , manchmal unterstützt durch Faktoren wie die Ernährung oder das Verhalten einer Person , um eine Erkrankung hervorzurufen .
+In der Genomik gibt es zwei zentrale Herausforderungen .
+Eine besteht schlicht darin die Gene zu ermitteln , die , allein oder kombiniert , offenbar eine bestimmte Krankheit auslösen .
+Allein das kann nützlich sein .
+Wenn dann genügend Daten vorhanden sind , können wir herausfinden , dass die gleiche „ Krankheit “ tatsächlich eine Variante verschiedener Störungen ist , von denen einige auf bestimmte bekannte oder andere Behandlungen ansprechen oder von denen einige einfach unheilbar sind .
+Hierfür ist bloße Korrelation ausreichend .
+Personen mit BRCA-bedingtem Brustkrebs profitieren von einer Behandlung mit Herceptin , während diejenigen mit anderen Arten von Brustkrebs nicht darauf ansprechen .
+Wir wissen nicht warum , aber die Korrelation ist klar .
+Die zweite Herausforderung besteht darin zu verstehen , wie die Gene untereinander oder mit anderen Faktoren interagieren , um die Erkrankung hervorzurufen . Dieses Verständnis sollte basierend auf den Details , wie die Erkrankung beginnt und wie sie fortschreitet , die Entwicklung neuer präventiver Maßnahmen oder Behandlungsmethoden ermöglichen .
+Das ist natürlich wesentlich interessanter – und schwieriger .
+Es ist in gewissem Sinne der Unterschied zwischen dem Erkennen übereinstimmender Wörter und dem Verständnis einer Textpassage .
+Es ist also nicht überraschend , dass Reid auf diesem neuen Marktplatz eine Aufgabe gefunden hat .
+Complete Genomics und seine Wettbewerber sind im Begriff riesige Datenmengen zu erzeugen .
+CGIs Vorteil besteht darin , die Genome nicht nur kostengünstig zu entschlüsseln , sondern die Daten in Form von Variationslisten zu verfeinern .
+Anders gesagt drehen sich die Fragen für die Forschung meist nicht um ein gesamtes Genom , sondern um die relevanten Abweichungen des Genoms einer Person von der Norm .
+Es gibt gewöhnliche Unterschiede wie den Unterschied zwischen blauen Augen und braunen Augen oder sogar zwischen Personen , die wahrscheinlich Morbus Crohn in sich tragen oder denjenigen , die wahrscheinlich keine Träger dieser Erkrankung sind .
+Außerdem gibt es Unterschiede , die einfach aus einem „ kaputten “ Gen resultieren , das keine Variante darstellt , sondern schlicht einen Fehler .
+Die meisten davon sind harmlos ; die wirklich schädlichen überleben nicht lange genug , um irgendwo aufzutreten .
+Die Aufgabe der Forscher besteht darin , die Bedeutung all dieser Daten herauszufinden .
+Wir stehen ganz am Anfang dieses Prozesses , der viele Jahre in Anspruch nehmen wird .
+Während einige Forscher nach statistischen Korrelationen suchen , erforschen andere , wie die individuellen Gene interagieren .
+Der Zugang zu Genomsequenzen ist für alle Forscher wichtig .
+Doch ohne die entsprechenden Krankenakten besitzen die Genome nur wenig Bedeutung , genau wie der russische Roman – egal in welcher Sprache – ohne ein entsprechendes Wissen über russische Geschichte nur wenig Bedeutung hat .
+Um diese Krankenakten zu bekommen , ist die Einwilligung der Personen notwendig , deren Genome entschlüsselt werden .
+Damit diese Unterlagen verwertbar sind , ist zudem eine umfangreiche Datenverarbeitung erforderlich .
+Ein Großteil der Information ist schlicht und einfach nicht erfasst .
+Vieles befindet sich zudem immer noch auf Papier oder gescannten Bildern , in Versicherungs- oder Apothekenunterlagen .
+Es gibt eine Standardsprache für die Darstellung von Krankheiten , doch in vielen Fällen könnten die Aufzeichnungen , in denen diese Sprache enthalten ist , genauso gut unter einer Matratze versteckt sein .
+Der aktuelle Trend in vielen Entwicklungsländern in Richtung elektronischer Krankenakten wird die Gesundheitsfürsorge unmittelbar verbessern und außerdem einen wesentlich besseren Informationsfluss zur Unterstützung genetischer und anderer medizinischer Forschungen mit sich bringen .
+Wir verfügen jetzt über die Fähigkeit Genome zu zunehmend günstigeren Kosten zu entschlüsseln und wir sorgen allmählich dafür , die entsprechenden gesundheitlichen Informationen für Computer lesbar zu machen .
+Unternehmen wie Complete Genomics entwickeln Software , die die Information verarbeiten kann .
+Natürlich gibt es noch Unmengen von Daten , die erfasst und verarbeitet werden müssen und es müssen noch umfassende Forschungen und Entdeckungen geschehen .
+Man kann unserem zunehmenden medizinischen Wissen jedoch nur schwerlich nicht optimistisch gegenüberstehen .
+In fünf Jahren von heute wird die Herausforderung darin bestehen , all dieses Wissen durch bessere präventive Maßnahmen , bessere Arzneimittel und eine bessere Betreuung zur praktischen Anwendung zu bringen .

@@ -1,0 +1,37 @@
+Ist Güte natürlich ?
+Es ist schwer vorstellbar , dass jemand Güte für ein Problem halten würde – Charles Darwin tat dies jedoch .
+Die kleinen Arbeitsbienen , die sich selbst opferten , um ihre Bienenstöcke zu schützen – das ultimative Beispiel für Güte im Tierreich – , ließen Darwin nachts keinen Schlaf finden .
+Wenn Darwins Vorstellungen zur Evolution durch natürliche Auslese richtig waren ( und das waren und sind sie selbstverständlich ) , dann sollte diese Art Altruismus in der Natur außerordentlich selten vorkommen .
+Wenn eine erhöhte Fortpflanzung das absolut Wichtigste in der Evolution durch natürliche Auslese ist , dann müssten Altruisten aussterben – und zwar schnell .
+Doch sterben sie nicht aus , und Darwin war darüber so verwundert , dass er vom Altruismus als einem Problem sprach , das sich als fatal für seine gesamte Evolutionstheorie erweisen könnte .
+Dann traf die Lösung dieses tückischen Rätsels Darwin wie ein Blitzschlag .
+Die Arbeitsbienen halfen nicht einfach irgendwelchen Bienen ; sie schützten ihren Bienenstock .
+Und in ihrem Bienenstock lebten besondere Bienen : Blutsverwandte .
+Blutsverwandte sind einander per Definition sehr ähnlich .
+Obwohl also die kleinen Arbeitsbienen ihr Leben aufgegeben hatten , retteten sie dadurch potenziell Hunderte von Blutsverwandten .
+In unserer modernen Ausdrucksweise würden wir sagen , dass die Arbeitsbienen ihren Blutsverwandten halfen , weil Blutsverwandte sich genetisch ähnlich sind .
+Indem man seinen Blutsverwandten hilft , fördert man indirekt die Fortpflanzung von Kopien der eigenen Gene – Kopien , die zufällig innerhalb der eigenen Verwandtschaft zu finden sind .
+Darwin war nicht der einzige Wissenschaftler , den die Frage nach dem Entstehen von Altruismus faszinierte .
+Ebenso interessierte sich sein guter Freund und Kollege Thomas Henry Huxley dafür .
+Huxley geriet sogar in einen recht hitzigen Streit darüber , ob die Blutsverwandtschaft den Altruismus erklären könne oder nicht .
+Huxleys Gegner war Prinz Peter Kropotkin , ehemaliger Page des Zaren von Russland , Naturwissenschaftler und der wahrscheinlich berühmteste Anarchist des 19. Jahrhunderts .
+Huxley behauptete , dass alle Güte auf die Blutsverwandtschaft zurückgeführt werden könne , während Kropotkin argumentierte , dass Güte und Blutsverwandtschaft völlig voneinander getrennt seien – eins habe mit dem anderen nichts zu tun .
+Selbstverständlich hatte keiner von beiden Recht , doch sollte es fast hundert Jahre dauern , bevor ein schüchterner , reservierter und brillanter britischer Biologe namens William D. Hamilton sämtliche Diskussionen um Blutsverwandtschaft und Altruismus beilegen würde , indem er eine einfache , aber elegante mathematische Gleichung aufstellte .
+Anstatt zu fragen , ob die Blutsverwandtschaft den Altruismus vollständig oder gar nicht erkläre , ging Hamilton anders an die Frage heran .
+Er definierte zunächst drei Begriffe : die genetische Verwandtschaft zwischen Individuen ( genannt „ r “ ) , die Kosten für eine altruistische Handlung ( „ c “ ) und den Nutzen , den ein Empfänger hat , wenn jemand nett zu ihm ist ( „ b “ ) .
+Anhand wunderschöner mathematischer Berechnungen fand Hamilton in den frühen 60er Jahren des 20. Jahrhunderts heraus , dass Altruismus und Blutsverwandtschaft nicht durch eine Alles-oder-nichts-Beziehung verbunden sind .
+Stattdessen besagt die als „ Hamiltons Regel “ bekannte Formel , dass sich Altruismus immer dann entwickelt , wenn r mal b größer als c ist .
+Anders ausgedrückt , wenn genügend Blutsverwandte Nutzen aus dem Altruismus ziehen , um die Kosten für den Altruismus aufzuwiegen , dann breitet sich Altruismus aus , ansonsten nicht .
+In der kalten Sprache der natürlichen Auslese ausgedrückt , sind Blutsverwandte in dem Maße Hilfe wert , wie sie genetisch ( bluts- ) verwandt sind , gewichtet anhand der Größe des Nutzens , den sie erhalten haben .
+Tatsächlich belegen tausende von Experimenten mit Tieren und Menschen die Gültigkeit von Hamiltons Regel .
+Diese kleine Gleichung ist die evolutionsbiologische Version von e = mc2 .
+Immer wieder stellen wir fest , dass eine Kosten- / Nutzenanalyse des altruistischen Verhaltens zusammen mit der genetischen Verwandtschaft der Interagierenden uns vorhersagen lässt , ob Altruismus vorhanden ist oder nicht .
+Natürlich erklärt Hamiltons Regel nicht sämtlichen Altruismus .
+Ein weiterer großer Teil guten Verhaltens fällt in die Kategorie der „ Reziprozität “ .
+Manchmal sind Einzelne bereit , jetzt altruistisch gegenüber anderen zu handeln , in der Erwartung , dass ihnen dafür geholfen wird , wenn sie Hilfe benötigen .
+Evolutionsbiologen haben sich für diese Art des Altruismus nahezu ebenso sehr interessiert wie für den auf Verwandtschaft beruhenden Altruismus .
+Erstaunlicherweise war es Bill Hamilton , der die Modelle hinter der Evolution der Reziprozität gemeinsam mit dem Politikwissenschaftler Robert Axelrod und dem Evolutionsbiologen Robert Trivers formalisiert hat .
+Aufbauend auf der Arbeit Trivers ' aus den frühen 70er Jahren , sagten Alexrod und Hamilton 1981 mithilfe mathematischer Berechnungen aus der Spieltheorie voraus , wann sich der so genannte „ reziproke Altruismus “ entwickeln sollte .
+Wieder wurde das Modell in der Folge durch eine Vielzahl empirischer Studien untermauert .
+Reziprozität kann komplex sein , doch wird sie durch die evolutionäre Perspektive leichter verständlich , was ebenso bei Blutsverwandtschaft und Altruismus der Fall ist .
+Wenn Güte ein Problem ist , dann kann die Antwort darauf – oder zumindest ein Teil der Antwort – in der Evolutionsbiologie gefunden werden .

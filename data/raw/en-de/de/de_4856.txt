@@ -1,0 +1,49 @@
+Gegen den Strom der gängigen Meinung
+CAMBRIDGE – Nach Abschluss meines Studiums im Jahr 1974 hatte ich das enorme Glück , eine Postdoktorandenstelle bei Judah Folkman an der Harvard Medical School antreten zu können .
+Dr. Folkman vertrat die Theorie , dass das Fortschreiten eines Tumors gestoppt werden könnte , wenn man diesen von seiner Nährstoffversorgung abschneidet .
+Er behauptete , dass Tumore eine Substanz namens Tumor-Angiogenese-Faktor absondern , die umliegende Blutgefäße anregt , zum Tumor hin zu wachsen , um diesen mit Nährstoffen zu versorgen und Zellabfall abzutransportieren .
+Folkman stellte die Hypothese auf , dass dieser Prozess , die Angiogenese , entscheidend für das Überleben des Tumors sei .
+Diese Theorie stand in krassem Widerspruch zu den damals gängigen Meinungen .
+Wissenschaftler , die Folkmans Beiträge beurteilten , waren der Ansicht , dass sich die neuen Blutgefäße einfach aufgrund einer Entzündung bildeten .
+Doch Folkman beharrte auf seiner Theorie und legte schließlich den Beweis vor , dass es derartige chemische Substanzen gab .
+Heute , vier Jahrzehnte später , sind bereits über 10 Millionen Menschen , die unter neovaskulären Erkrankungen wie Makula-Degeneration oder verschiedenen Krebsformen litten , damit behandelt worden .
+Ich machte ähnliche Erfahrungen , als ich in seinem Labor arbeitete , um die ersten Inhibitoren für das Blutgefäßwachstum zu isolieren ( Substanzen mit hohem Molekulargewicht ) .
+Zu dieser Arbeit gehörte die Entwicklung eines Bioassays , der uns ermöglichen würde , die Hemmung des Blutgefäß-Wachstums im Falle eines Tumors zu beobachten .
+Da Tumore mehrere Monate für ihr Wachstum benötigen , mussten biokompatible Systeme entwickelt werden , die im Körper Proteine und andere Substanzen mit hohem Molekulargewicht langsam und beständig freisetzen können – eine Aufgabe , von deren Unmöglichkeit die Wissenschafter überzeugt waren .
+Doch nach zwei Jahren Forschungsarbeit entdeckte ich , dass man gewisse Arten von Polymeren so modifizieren kann , dass sie in der Lage waren , über einen Zeitraum von 100 Tagen Moleküle fast jeder Größenordnung freizusetzen .
+Jahrelang behaupteten viele der renommiertesten Chemiker und Techniker in diesem Fachbereich , dass unsere Arbeiten falsch sein müssten .
+Diese negativen Rückmeldungen hatten praktische Auswirkungen , indem sie nicht nur meine Bemühungen um Forschungsförderungsgelder , sondern auch meine Suche nach einem Arbeitsplatz auf einer Universität behinderten ( vor allem angesichts des interdisziplinären Charakters meiner Arbeit , die nur schwer zu einem einzigen Universitätsinstitut passte ) .
+Aber ich blieb dran und widmete mich schrittweise den wichtigsten Fragen – wie Biokompatibilität , Herstellung der Polymere , Reproduzierbarkeit der Freisetzung und Bioaktivität .
+Heute blicken wir auf über 20 Millionen Patienten , deren Behandlung auf Grundlage dieser Prinzipien erfolgte .
+Ein weiteres Gebiet , mit dem ich mich zu beschäftigen begann , war die Herstellung neuer Polymermaterialien .
+Da ich in einem Krankenhaus arbeitete , bemerkte ich , dass beinahe alle in der Medizin verwendeten Polymere von gewöhnlichen Gegenständen des täglichen Gebrauchs stammten .
+So werden beispielsweise die in Damenmiedern verwendeten Materialien aufgrund ihrer guten Dauerbiegefestigkeit auch in Kunstherzen eingesetzt .
+Die in Matratzenfüllungen verwendeten Polymere kommen auch in Brustimplantaten zum Einsatz .
+Doch ein derartiger Ansatz führt oft zu Problemen .
+In Kunstherzen bilden sich beispielsweise Blutgerinnsel , wenn das Blut mit der Oberfläche – dem Mieder-Material – in Kontakt kommt . Diese Blutgerinnsel können zu Schlaganfällen und zum Tod führen .
+Daher kam ich zu dem Schluss , dass wir zur Lösung medizinischer Probleme andere Möglichkeiten finden müssten , als die entsprechenden Materialien in Gegenständen des täglichen Lebens zu suchen .
+Ich war der Meinung , dass Forscher einen Ansatz der konstruktiven Gestaltung wählen sollten : Ausgehend von der Frage „ Was wollen wir vom technischen , chemischen und biologischen Standpunkt aus wirklich in einem Biomaterial ? “ sollten die Materialien von Grund auf neu synthetisiert werden .
+Als Beweis der Machbarkeit beschlossen wir , eine neue Klasse biologisch abbaubarer Polymere namens Polyanhydride für die Anwendung in der Medizin herzustellen .
+Der erste Schritt bestand in der Auswahl von Monomeren – den Bausteinen eines Polymers – die im menschlichen Körper sicher angewendet werden könnten .
+Wir stellten diese Polymere anschließend her und entdeckten , dass sie , je nach ihrer Zusammensetzung , über Tage bis Jahre im Körper verbleiben konnten .
+Mit Henry Brem , dem heutigen Vorstand der Neurochirurgie am Johns Hopkins Hospital , kamen wir auf die Idee , diese Polymere einzusetzen , um Medikamente lokal zur Behandlung von Gehirntumoren einzusetzen .
+Aber für dieses Projekt musste ich Geld auftreiben und daher schrieb ich Anträge für Zuschüsse an Regierungsbehörden .
+Diese Anträge wurden von anderen Professoren evaluiert und die Ergebnisse dieser Bewertungen fielen sehr negativ aus .
+Hinsichtlich unseres ersten Antrages aus dem Jahr 1981 meinten die Prüfer , dass es uns niemals gelingen würde , diese Polymere zu synthetisieren .
+Doch einer meiner Doktoranden stellte diese Polymere bereits im Rahmen seiner Doktorarbeit her .
+Wir sandten den Antrag zu einer weiteren Begutachtung ein , nur um erneut mitgeteilt zu bekommen , dass ihm nicht entsprochen werden kann , weil diese Polymere mit jedem damit zu verabreichendem Medikament reagieren würden .
+Mehrere Wissenschaftler in unserem Labor zeigten , dass es keine solche Reaktion gab .
+Wir reichten unseren Antrag erneut ein . Diesmal kam er mit dem Kommentar zurück , dass Polymere fragil seien und zerbrechen würden .
+Diesem Problem nahmen sich zwei andere Forscher an .
+Der überarbeitete Antrag wurde erneut zur Begutachtung vorgelegt . Der Grund für die Ablehnung diesmal war , dass die neuen Polymere nicht sicher an Tieren und Menschen getestet werden können .
+Wieder zeigte ein Studierender , dass diese Polymere durchaus sicher in der Anwendung waren .
+Diese Begutachtungen zogen sich noch über längere Zeit hin , aber im Jahr 1996 genehmigte die amerikanische Lebens- und Arzneimittelbehörde Food and Drug Administration diese Behandlung – die erste neue Behandlung für Gehirntumore in einem Zeitraum von über 20 Jahren .
+Überdies schuf man mit dieser FDA-Genehmigung für lokale Chemotherapie auf Grundlage von Polymeren ein neues Paradigma im Bereich der Verabreichung von Medikamenten und trug dazu bei , den Weg für Medikamente freisetzende Stents und andere lokale Verabreichungssysteme zu ebnen .
+Etwas Ähnliches passierte , als Jay Vacanti , Chirurg am Massachusetts General Hospital , und ich im Jahr 1980 die Idee hatten , dreidimensionale synthetische Polymergitter mit Zellen auszustatten , um so neue Gewebe und Organe zu züchten .
+Wieder wurde die Idee mit großer Skepsis aufgenommen und es war überaus schwierig , über Anträge , die von Kollegen beurteilt wurden , an staatliche Zuschüsse zu kommen .
+Heute ist diese Vorgehensweise zu einem Meilenstein des Tissue Engineering und der regenerativen Medizin geworden , der zur Herstellung künstlicher Haut für Patienten mit Verbrennungen oder Hautgeschwüren führte - und eines Tages hoffentlich die Herstellung vieler anderer Gewebe und Organe ermöglichen wird .
+Ich bin wohl kaum der einzige mit derartigen Erfahrungen .
+Im Lauf der Geschichte mussten Wissenschaftler immer gegen den Strom der gängigen Meinung schwimmen , um ihre Erkenntnisse unter Beweis zu stellen .
+Stanley Prusiners Entdeckung der Prionen , Barry Marshall und Robin Warrens Forschungsergebnisse , wonach Bakterien Magengeschwüre verursachen können und Dan Shechtmans Bestimmung der Struktur von Quasikristallen sind nur einige derartige Beispiele aus jüngerer Zeit ( alle erhielten den Nobelpreis für ihre Forschungsarbeit ) .
+Die daraus zu ziehenden Lehren sind einfach zu verstehen , wenn auch schwer in die Tat umzusetzen : Glaube nicht alles , was du liest ; sei bereit , Dogmen zu hinterfragen und sei dir bewusst , dass du , auch wenn du richtig liegst , auf kurze Sicht karrieretechnisch einen Preis dafür bezahlst .
+Doch der Lohn der wissenschaftlichen Entdeckung ist es wert : die Technologie entwickelt sich weiter und die Welt kann dadurch viel besser werden .

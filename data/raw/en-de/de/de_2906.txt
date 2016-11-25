@@ -1,0 +1,39 @@
+Spieglein , Spieglein auf dem Bildschirm
+NEW YORK – Angenommen eine Gruppe von Arbeitnehmern kommuniziert regelmäßig per E-Mail und plötzlich wird einer von ihnen aus dem Verteiler ausgeschlossen . „ Es könnte sein , dass sie eine Überraschungsparty planen “ , so Elizabeth Charnock , deren Unternehmen Cataphora E-Mail-Verkehr und -Inhalte sowie andere Dokumente analysiert , vorwiegend für Auftraggeber , die mit Rechtsstreitigkeiten und der Aufdeckung von Straftaten befasst sind . „ Wahrscheinlicher ist , dass sie einen Betrug planen und wissen , dass diese eine Person dabei nicht mitmachen wird . “
+„ Nicht jedes abnorme Verhalten muss unbedingt tadelnswert sein “ , so Charnock , „ aber praktisch jedes echte Fehlverhalten ist abnormal .
+Durch die jahrelange Analyse des Abnormalen habe ich einen ausgeprägten Sinn für die unzähligen , ganz normalen kleinen Sünden entwickelt : Der langweilige Kollege , der von den anderen gezielt außen vor gelassen wird , die in letzter Minute auf andere abgewälzte Verantwortung , die Ex , mit der man „ befreundet bleiben “ wollte , bei der man sich aber nie wieder gemeldet hat , die kleinen , aber vielsagenden Dinge , die einem wirklich unter die Haut gehen . “
+Jetzt wenden Elizabeth Charnock und Cataphora die gleiche Analytik auf einen anderen Markt an : Menschen , die ihre eigene E-Mail-Korrespondenz ( und irgendwann auch andere Inhalte ) analysieren wollen , um ihre Interaktionen mit anderen gespiegelt zu bekommen .
+Nennen wir es eine Visualisierung ihres social graph , also ihres sozialen Beziehungsgeflechtes im Web .
+Mithilfe der neuen Software von Cataphora , die den Namen Digital Mirror ( dt. digitaler Spiegel ) trägt , können Sie die auffälligsten Ungleichmäßigkeiten in Ihren eigenen Beziehungen sehen : Wem Sie eher antworten als anderen im Gegensatz zu jenen , bei denen Sie eine Antwort hinausschieben , vertagen oder anderweitig verzögern – und wer das Gleiche mit Ihnen macht .
+Sofern Sie als Empfänger einer Kopie ins CC-Feld einer E-Mail eingetragen wurden , können Sie zudem Muster bei Freunden oder Kollegen erkennen : Welche Themen lösen eine Menge Stress oder Streitigkeiten aus ?
+Welche werden unkommentiert verworfen ?
+Die Software analysiert nicht nur die „ Form “ einer Konversation – wer schreibt an wen , wer antwortet und wann – , sondern auch den Inhalt .
+Welche Schlüsselbegriffe werden verwendet ?
+Und – ausgehend von allem Möglichen , angefangen bei Wörtern wie „ muss “ oder „ sofort “ über Slang oder Obszönitäten bis hin zu einlenkenden Wendungen wie etwa „ wenn es Ihnen nichts ausmacht “ und „ bitte “ und Text der ausschließlich in GROSSBUCHSTABEN verfasst ist – welcher Umgangston wird angeschlagen ?
+Natürlich pflegen einige Kulturen ihren eigen Jargon und Umgangston , deshalb erfasst Digital Mirror sowohl die relative als auch die absolute Häufigkeit der von der Software gemessenen Werte .
+Verhält sich Juan Alice gegenüber übertrieben höflich , ist Marvin gegenüber jedoch kurz angebunden ?
+Antwortet er Teresa umgehend , ignoriert jedoch Anatoly ?
+Die Software stellt neun Visualisierungsmöglichkeiten zur Verfügung , die Verhalten und Trends im Verlauf der Zeit reflektieren , unter anderem Qualitätszeit ( ein Tortendiagramm , in dem dargestellt wird , mit wem Sie online und offline Zeit verbringen ) , Hackordnung ( mit Hühnern bebildert ! ) , Absagen-Übersicht ( Ungleichmäßigkeiten in Beziehungen ) und ein Temperaturanzeiger .
+Das Resultat ist ein verblüffend klarer Einblick , was in einem bestimmten Personenkreis vor sich geht : wer fügt sich wem , wer übernimmt das Kommando , wer wälzt Verantwortung ab .
+Digital Mirror kann – zusammen mit einem von Charnock verfassten Buch mit dem Titel E-Habits ( dt . E-Gewohnheiten ) , das als eine Art erweiterte Dokumentation dient – zur Selbstanalyse oder zur Analyse in „ lokalen Ökosystemen “ miteinander in Beziehung stehender Menschen genutzt werden .
+Das Programm zielt auf den Einzelnen ab , es könnte jedoch vom Systemadministrator eines Unternehmens oder einem Personalmanager eingesetzt werden , um Muster innerhalb des Unternehmens oder einer Gruppe zu identifizieren . Ohne die Angestellten darüber zu informieren , dass ihre E-Mails überwacht werden , wäre dies allerdings in Europa illegal und würde in den Vereinigten Staaten im günstigsten Fall als bad practice gelten .
+Natürlich sorgt Transparenz für Verunsicherung – ob man seine eigenen Falten im Spiegel entdeckt oder sich unangenehme Aspekte im Verhalten anderer einem selbst gegenüber bestätigen .
+Für Unternehmen und Regierungen ist Transparenz eindeutig gut ; sie ist dort größtenteils nicht willkommen , erhöht aber ihre Rechenschaftspflicht gegenüber den Wählern und der Gesellschaft .
+Mit Transparenz und Verantwortung im persönlichen Bereich verhält es sich im Gegensatz dazu schon schwieriger , einerseits aufgrund mangelnder Sichtbarkeit und andererseits , weil wir andere – und uns selbst – nur ungern konfrontieren .
+Wird man sein Verhalten bessern , wenn man erst einmal sein digitales Spiegelbild gesehen hat ?
+( Oder sind Sie etwa schon perfekt ? )
+Persönliche Transparenz mag uns zwar nicht behagen , aber würden Sie sich nicht lieber einer Software stellen , als von Angesicht zu Angesicht mit der Direktheit Ihrer Freunde konfrontiert zu werden ?
+Umgekehrt müssen Sie es einem Kollegen , von dem Sie sich gestört fühlen , nicht direkt ins Gesicht sagen ; Sie können ihm einfach per E-Mail einen Link zu Digital Mirror schicken ( so wie der alte Trick , einem Kollegen ein Deo auf dem Schreibtisch zu hinterlassen – schwierig , aber manchmal notwendig ) .
+Ich vermute sogar , dass die Leute , die Digital Mirror am nötigsten haben , diejenigen sind , die diese Notwendigkeit am wenigsten erkennen .
+Trotzdem kann es denjenigen , die sich ihrer selbst einigermaßen bewusst sind , dabei helfen ihre persönlichen Beziehungen zu verbessern – oder sich zumindest der Kompromisse stärker bewusst zu werden , die sie eingehen , wenn sie einen Freund oder Kollegen einem anderen gegenüber bevorzugen .
+Charnock hierzu : „ Die Leute glauben , dass ihre Präferenzen für verschiedene Individuen in der digitalen Welt weitgehend im Verborgenen bleiben .
+In einem realen Büro kann man sehen , wer mit wem Mittagessen geht oder in der Kaffeeküche tratscht , vor wessen Tür sich eine Schlange bildet und anderes mehr .
+Viele der vergleichbaren Online-Aktivitäten sind nicht nur weniger sichtbar oder quantifizierbar , auch wird man bei Dingen wie Facebook ermuntert jeden „ zu befreunden “ … Jeder ist überdurchschnittlich beliebt , intelligent und gut aussehend .
+Digital Mirror macht das Gegenteil .
+Es ist vergleichbar mit dem Unterschied zwischen einer Bar oder einem Club mit gedämpftem Licht und einem guten Kosmetikspiegel . “
+All das spiegelt einen Trend zu mehr Klarheit in unseren Beziehungen wider .
+Facebook und andere soziale Netzwerke arbeiten verdeckt : Facebook stellt fest , mit welchen Freunden Sie interagieren und wessen Fotos Sie kommentieren , um so Informationen für Ihren NewsFeed oder die Werbung auszuwählen , die Sie zu sehen bekommen .
+Bei Facebook bleiben Ihnen diese Informationen allerdings verborgen .
+Bei Digital Mirror nicht .
+Innerhalb von wenigen Jahren wird diese Art von Transparenz wahrscheinlich alltäglich sein , sowohl bei Facebook als auch bei Werbenetzwerken und beim Behavioral Targeting , bei dem versucht wird anhand Ihres Surfverhaltens Rückschlüsse auf Ihre Kaufinteressen zu ziehen .
+Im Moment zählt Digital Mirror jedoch zu den wenigen Programmen , die Ihnen die Möglichkeit geben , genau das für sich selbst zu tun .

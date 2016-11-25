@@ -1,0 +1,46 @@
+Das Dilemma wissenschaftlichen Betrugs
+Über alle Zweifel erhaben waren die Wissenschaft – und das Verhalten der Wissenschaftler – noch nie .
+Man denke an den koreanischen Forscher Hwang Woo-suk , dessen Behauptung , er habe Stammzellen aus von ihm geklonten menschlichen Embryonen entnommen , auf gefälschten Forschungsergebnissen beruhte .
+Hwang wurde nun kürzlich von der Universität Seoul entlassen , und sechs seiner Mitarbeiter wurden suspendiert oder mussten Gehaltskürzungen hinnehmen .
+Hwang und seine Kollegen sind kein Einzelfall .
+Als Reaktion auf wiederholte , große Aufmerksamkeit erregende und hochgradig schädliche Skandale in den letzten Jahren setzen inzwischen viele Universitäten und in manchen Fällen sogar ganze nationale Forschungsförderungseinrichtungen Prüfungsausschüsse ein , die sich mit Verstößen gegen das befassen , was man heute mit dem Begriff „ Forschungsethik “ bezeichnet .
+Aber sind derartige Ausschüsse erforderlich ?
+Und falls ja , in welchem Geist sollten sie ihre Arbeit durchführen ?
+Ob Künstler oder Naturwissenschaftler : Geistesarbeiter sind zwanghaft damit beschäftigt , Anerkennung auszusprechen und für sich selbst in Anspruch zu nehmen .
+Als Basis für die Einstellung , Beförderung und Entlohnung von Universitätsmitarbeitern wird immer öfter die Häufigkeit herangezogen , mit der ihre Veröffentlichungen in einschlägigen Publikationen zitiert werden .
+Selbst wenn jemandes Arbeit kritisiert wird , muss sie ihm ordnungsgemäß zugeschrieben werden .
+Eine derartige Anerkennung wird häufig einfach deshalb ausgesprochen , weil jemand anerkennenswerte Arbeit geleistet hat .
+Immer öfter allerdings spiegelt die Fixiertheit auf Anerkennung den potenziellen finanziellen Wert der Arbeit wieder .
+Und unabhängig davon , wie man die Anerkennungswürdigkeit intellektueller Arbeit definiert , eines ist klar : Die Anzahl der gemeldeten Betrugsfälle nimmt zu .
+Manchmal besteht der Betrug im Diebstahl geistigen Eigentums : Der Schuldige heimst die Lorbeeren für die Arbeit eines anderen ein .
+Insbesondere in den am stärksten vom Wettbewerb gekennzeichneten Wissenschaftsbereichen jedoch erfolgt Betrug häufig in Form von Fälschungen , d.h. , der Schuldige fabriziert Daten .
+Plagiat ist die Sünde des Hörsaals ; Fälschung die Sünde des Labors .
+Aber weder im einen noch im anderen Fall gibt es bisher standardisierte Methoden , um die Integrität der Forschung zu gewährleisten – oder der Forscher , die sie durchführen .
+Eine nützliche Vereinfachung beim Umgang mit der potenziellen Arbeit von Ethikräten im Bereich der Forschung ist es , zwei Kontrollmodelle zu betrachten : das „ inquisitorische “ und das „ akkusatorische “ .
+Während das inquisitorische Modell voraussetzt , dass Betrug allgemein verbreitet ist , aber häufig unerkannt bleibt , nimmt das akkusatorische Modell eine weniger paranoide Haltung ein und geht davon aus , dass Forscher so lange unschuldig sind , bis man ihnen das Gegenteil nachgewiesen hat .
+Der natürliche Kontext für ein inquisitorisches System sind Bereiche , wo die wissenschaftliche Integrität aufgrund der Verquickung von Forschung und politischen oder finanziellen Interessen regelhaft bedroht ist .
+Häufig – insbesondere im Falle der biomedizinischen Forschung – sind derartige Verquickungen unvermeidlich .
+Hier agieren die Inquisitoren teils als Kostenprüfer , teils als Gedankenpolizei .
+Durch unangekündigte Stichproben in Labors suchen sie zu gewährleisten , dass die verschiedenen Interessengruppen im Bereich der wissenschaftlichen Forschung auf ihre Kosten kommen .
+Die Inquisitoren müssen die Macht haben , Missetätern die Fördermittel zu entziehen , vielleicht sogar , sie zu exkommunizieren , indem sie einem Wissenschaftler die Ausübung seiner Tätigkeit oder die Möglichkeit zur Publikation nehmen .
+Hwang beispielweise verlor seine Forscherlizenz und es wurde ihm für die Dauer von fünf Jahren untersagt , einen anderen öffentlichen Posten zu bekleiden .
+Die Glaubwürdigkeit eines derartigen Systems beruht allerdings auf der Fähigkeit der Inquisitoren , tatsächlich von Partikularinteressen innerhalb wie außerhalb der Forschungsgemeinschaft unabhängige wissenschaftliche Standards zu gewährleisten .
+Andernfalls besteht die Gefahr , dass inquisitorische Ethikprüfungen lediglich als intellektuelle Selbstjustiz betrachtet werden .
+Man denke etwa an den Ausschuss des dänischen Forschungsrates mit dem ominösen Namen „ Ausschuss über wissenschaftliche Unlauterkeit “ , der im Jahre 2002 nach Beschwerden gegen den Politikwissenschaftler Bjørn Lomborg zusammentrat , dessen Buch The Skeptical Environmentalist nach eigener Aussage bewies , dass Ökologen die ihnen vorliegenden Daten zur Unterstützung ihrer jeweiligen politischen Ziele systematisch tendenziös auslegten .
+Der Ausschuss befand Lomborg ursprünglich im Wesentlichen eben jenes Fehlers für schuldig , den dieser den Ökologen vorgeworfen hatte .
+Er weigerte sich jedoch , zu der Frage Stellung zu nehmen , in wieweit Lombergs Verhalten für das fragliche Feld normal oder normabweichend sei .
+Dies ermöglichte es Lomborg , erfolgreich gegen das Urteil des Ausschusses Berufung einzulegen und zu behaupten , dass es – angesichts seiner jüngsten Ernennung zum Direktor eines bedeutenden dänischen Umweltforschungsinstituts – politisch motiviert sei .
+Letztlich wurde der Ausschuss über wissenschaftliche Unlauterkeit selbst neu organisiert .
+Im Nachhinein hätte sich der Ausschluss vermutlich weigern sollen , den Fall anzuhören , da Lomborgs Buch Gegenstand intensiver öffentlicher Prüfung war , und zwar häufig durch Experten , die dazu positiv ( in The Economist ) wie negativ ( in Scientific American ) Stellung nahmen .
+Dies war ein echter Fall , wo ein geistiges Werk vor dem sprichwörtlichen „ Gericht der öffentlichen Meinung “ ein faires Verfahren erhielt und keiner weiteren Überprüfung bedurfte .
+Tatsächlich scheint der Fall Lomborg das akkusatorische Modell ethischer Überprüfung zu stützen , das davon ausgeht , dass die Wissenschaftler ihre eigenen Angelegenheiten durch normale Peer-Review-Verfahren angemessen regeln .
+Hier wird wissenschaftliche Integrität nicht als Pflicht gegenüber den Interessengruppen – Förderern , Unternehmen oder , wie im Falle von Hwang , um nationale Prestige bedachten Politikern – verstanden , sondern als kollektive Verantwortung , die durch Feststellung und Korrektur von Fehlern erfüllt wird , bevor diese größeren Schaden anrichten .
+Das akkusatorische System ist für die relativ seltenen Fälle konzipiert , wo Fehler durch das Netz der Peer Reviews schlüpfen und konkrete gesundheitliche oder ökologische Schäden an hervorrufen oder die Verfälschung späterer , von der Gültigkeit der betrügerischen Arbeit ausgehender Forschungsergebnisse zur Folge haben .
+Um eine Beschuldigung zu erheben , muss der Ankläger nachweisen , dass erstens ein Schaden hervorgerufen wurde und dass dieser zweitens dem Beschuldigten zuzurechnen ist .
+Die einander entgegengesetzten Annahmen des inquisitorischen und des akkusatorischen Systems spiegeln die Ambiguität des Konzeptes vom wissenschaftlichen Betrug wider .
+Viele so genannte Betrugsfälle sind Fälle , in denen Forscher Anerkennung für Arbeiten beanspruchten , die sie nicht wirklich durchgeführt hatten , die aber in die richtige Richtung wiesen und letztendlich von anderen abgeschlossen wurden .
+Streng genommen liegt ihre Schuld eher darin , die Grenzen zwischen dem potenziell Möglichen und dem Tatsächlichen zu verwischen als die zwischen wahr und falsch .
+Tatsächlich begingen – nach heutigen Standards – auch Galileo und Mendel Betrug , da sie wohl ihre Daten schönten , damit diese eingängigen mathematischen Formeln entsprachen .
+Trotzdem bleiben sie wissenschaftliche Visionäre , weil andere derart wirksam auf ihren „ Arbeiten “ aufbauten .
+Freilich wechselte in ihren jeweiligen Fällen kein Geld den Besitzer , und niemandes Leben wurde gefährdet .
+Vielleicht ist dies , unter dem Gesichtspunkt der Forschungsethik , der entscheidende Unterschied .

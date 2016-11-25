@@ -1,0 +1,48 @@
+Die Heilungsmaschine
+VIRGINIA BEACH – Im vergangenen Jahr wurde der Nobelpreis für Medizin für eine Entdeckung verliehen , deren Entstehung 44 Jahre gedauert hatte und an der zwei unterschiedliche Forschungsteams beteiligt waren .
+Dieser Durchbruch verspricht neue Arten von Diagnose und Therapie , aber was wäre , wenn Computer solche Einsichten in Minuten statt in Jahrzehnten entwickeln könnten ?
+Dass kürzlich ein neuer Coronavirus aufgetaucht ist und in Großbritannien und im Nahen Osten neun Menschen getötet hat , erinnert uns daran , dass neue Behandlungen manchmal sehr schnell benötigt werden .
+Mit unterschiedlichen Modellierungsabstraktionen könnte es möglich sein , ein System künstlicher Intelligenz ( artificial intelligence , AI ) zu entwickeln , das zu neuen Heilungsmethoden führt .
+Das System würde überraschende , effektive Therapien vorschlagen , da es Krankheiten auf eine Art verstehen könnte , die für Menschen nur schwer vorstellbar ist .
+Die Idee hört sich an wie Science Fiction : Jeder weiß , dass AI nicht besonders intelligent ist .
+Um eine “ Heilungsmaschine ” dieser Art zu bauen , benötigen wir mindestens eine weitreichende Innovation : eine bessere Methode zur Modellierung gesamter Systeme , die neue konzeptionelle Werkzeugen sowohl für die Biologie als auch für die Computerwissenschaften zur Folge hätte .
+In beiden Bereichen herrschte bislang der konventionelle , reduktionistische Ansatz vor , innerhalb dessen Probleme auf der Ebene ihrer grundlegendsten Komponenten modelliert wurden .
+Dies macht es zwar möglich , “ Expertensysteme ” zu bauen , die in engen Zusammenhängen denken oder Suchmaschinen zum Finden diskreter Fakten erschaffen können , aber damit sind wir einer AI , die so denkt wie wir – auf mehreren Ebenen von Zusammenhängen , einschließlich solcher zeitlicher Natur – kaum näher gekommen .
+AI kann keine Informationen über scheinbar unterschiedliche Prozesse wie chemische , physiologische und psychologische Ereignisse integrieren oder neuartige Ergebnisse prognostizieren .
+Wir dagegen können so etwas beim Abendessen tun .
+Der Schlüssel liegt in der Neuheit .
+Um eine Heilungsmaschine zu bauen , müssen wir Computern beibringen , Konzepte so zusammenzufügen , dass unerwartete Synthesen entstehen können .
+In der Biologie gab es einen ähnlichen , reduktionistischen Ansatz , der am besten durch das Human Genome Project verkörpert wird , das das molekulare “ Rezept ” des gesamten Körpers katalogisiert , um zu verstehen , wie die grundlegendsten Einheiten miteinander in Beziehung stehen .
+Aber die erwartete Revolution der Therapien blieb bisher aus .
+Weltweit betragen die Investitionen für biomedizinische Forschungen etwa 110 Milliarden Dollar pro Jahr .
+Allein HIV zieht viele Milliarden jährlich an .
+Aber trotz 25 Jahren intensiver Investitionen in strukturelle Biologie sind wir immer noch nicht in der Lage , von unserem Verständnis von Molekülen zu einem Verständnis ganzer Systeme zu gelangen .
+Ein Modell der Dynamik zwischen multiplen Prozessen – chemischer , physiologischer und psychologischer Art – würde zu neuen Einsichten in die Funktionsweise von Krankheiten führen .
+Betrachten wir beispielsweise den Geruchssinn .
+Die Nasenhöhle ist insofern einmalig , als dass sie der einzige Ort ist , an dem Gehirnzellen ( Neuronen ) direkt der Umgebung ausgesetzt sind .
+Wenn wir den Geruchssinn lokal modellieren , können wir verfolgen , wie nasale Neuronen mit Geruchspartikeln interagieren und durch ein Netzwerk anderer Neuronen Signale ans Gehirn senden .
+Zur Beschreibung dieser Vorgänge verfügen wir in der strukturellen Biologie über gute Abstraktionen .
+Aber diese Neuronen sind außerdem Teil eines adaptiven , regenerativen Systems .
+Sinnesneuronen sterben einen programmierten Tod ; wir haben buchstäblich jeden Monat einen neuen Geruchssinn .
+Um diesen zu modellieren , müssen wir mehr als nur lokale Signalgebung berücksichtigen .
+Neuronen agieren als kooperative Gruppe : An der betreffenden Stelle erscheinen mehr , als für einen simplen Ersatz nötig wären .
+Um andere zu ersetzen , treten die überzähligen Neuronen mit den Zellen der Umgebung und solchen tief im Gehirn in einen Dialog , worauf sie sich selbst opfern .
+Um diesen freiwilligen Tod zu erklären , müssten wir über das Vokabular einer neuen Systemebene verfügen .
+Und dies ist noch nicht alles .
+Wenn die Neuronen ersetzt werden , verändern sie sich .
+Sind wir frisch verliebt ( oder erfahren ein Trauma ) und assoziieren damit einen Geruch , können wir eine erhöhte Sensibilität für diesen Geruch entwickeln .
+Unser physiokognitiver Apparat entwickelt sich .
+Dieser Prozess interessiert Forscher enorm , da er einer von nur zwei Zusammenhängen ist , in denen neuronale Regeneration stattfindet .
+Würden wir ihn verstehen , könnte er zu Behandlungsmethoden für viele schwere Krankheiten führen , sowohl neurologischer ( wie Parkinson oder Alzheimer ) als auch degenerativer Art ( einschließlich derer , die wie Krebs mit dem Alterungsprozess verbunden sind ) .
+Ein Weg zum Verständnis dessen , wie diese Kohärenz auf einer höheren Ebene entsteht , liegt darin , diese in einer zugänglicheren Form zu erforschen .
+Tatsächlich gibt es eine natürlich vorkommende Informationsstruktur , innerhalb derer die benötigten Verhaltensmuster leichter zu beobachten und zu erklären sind .
+Diese Struktur kann in Erzählungen gefunden werden .
+Erzählungen sind bemerkenswert in ihrer Art , uns das Verständnis und das sinnstiftende Erfassen neuer Konzepte zu ermöglichen , auch wenn sie vielfältige Zusammenhänge und unerwartete Assoziationen beinhalten .
+Wir halten die sich daraus ergebenden erzählerischen Effekte für selbstverständlich : überraschende Endungen , spannende Situationen und den Drang , die Erzählung bis zum Ende zu lesen oder anzuschauen .
+Könnten Modelle in der Biologie oder AI diese Dynamiken umfassen , würden sie aufzeigen , wie aus einer sich entwickelnden Kohärenz unerwartete Elemente entstehen .
+In der Tat könnte die Einbringung dieses Prinzips in beide Felder neue Diagnosemöglichkeiten und neue Formen individualisierter Behandlung ermöglichen , innerhalb derer jede Person eine maßgeschneiderte Therapie erhält .
+Eine Infektion wie die durch den Coronavirus wird momentan durch einen Impfstoff bekämpft , der diesen blockiert .
+Aber könnte es einen Weg geben , Körper so zu “ tunen ” , dass sie sämtliche Infektionen abwehren können ?
+Beispielsweise gibt es einige Fälle natürlicher Immunität gegen HIV , aber wir wissen nicht , warum .
+Die Herausforderung in der biomedizinischen und computerwissenschaftlichen Forschung liegt darin , die Dynamik zwischen unterschiedlichen Prozessen auf der Ebene ganzer Systeme zu modellieren .
+Sobald wir dies können , wird die Entwicklung von AI-Instrumenten wahrscheinlicher , die zu unerwarteten Durchbrüche beim Verständnis dessen führen können , wie der Körper Krankheiten unterstützt oder abwehrt .

@@ -1,0 +1,38 @@
+Die Illusion der finanziellen Singularität
+NEW HAVEN – In ihrem neuen Buch The Incredible Shrinking Alpha beschreiben Larry E. Swedroe und Andrew L. Berkin ein Investitionsumfeld , in dem zunehmend technisch-wissenschaftlich versierte Analysten agieren , die auf Big Data , leistungsfähige Computer und akademische Forschung setzen .
+Angesichts dieses Wettbewerbs „ werden die Hürden , Alpha zu erzielen [ also Renditen über einer risikobereinigten Benchmark – und daher Maß für den Erfolg bei der Auswahl einzelner Anlagen ] immer höher . ”
+Diese Schlussfolgerung wirft eine Frage auf : Wird sich Alpha letztlich für jede vorstellbare Anlagestrategie in Richtung null bewegen ?
+Oder grundlegender gefragt : Rückt der Tag näher , an dem die Finanzmärkte dank vieler kluger Köpfe und noch klügerer Computer ein Maß an Vollkommenheit erreichen , an dem wir uns gemütlich zurücklehnen , entspannen und davon ausgehen können , dass sämtliche Vermögenswerte korrekt bepreist sind ?
+Diesen imaginären Zustand könnte man als finanzielle Singularität bezeichnen – in Anlehnung an die hypothetische technologische Singularität , jenen Zeitpunkt also , an dem Computer an die Stelle menschlicher Intelligenz treten .
+Finanzielle Singularität impliziert , dass sämtliche Investitionsentscheidungen am besten einem Computerprogramm überlassen werden , da Experten mit ihren Algorithmen die Triebkräfte hinter Marktergebnissen ergründet und daraus ein fehlerfreies System entwickelt haben .
+Viele glauben , dass wir diesen Zustand fast schon erreicht haben .
+Selbst Anlegerlegenden wie Warren Buffet , so wird argumentiert , schaffen es nicht wirklich , den Markt zu schlagen .
+In einer kürzlich veröffentlichten wissenschaftlichen Arbeit unter dem Titel „ Buffett ’ s Alpha , ” kommen Andrea Frazzini und David Kabiller von AQR Capital Management sowie Lasse Pedersen von der Copenhagen Business School zu dem Ergebnis , dass Buffett kein signifikant positives Alpha erreicht , wenn man bestimmte weniger bekannte Risikofaktoren berücksichtigt , die schwer auf seinem Portfolio lasten .
+Die Schlussfolgerung lautet , dass man Buffets Genie mit einem Computerprogramm vervielfältigen könnte , das diesen Faktoren Rechnung trägt .
+Wenn das stimmte , würden Anleger ihre Bemühungen , Fehlbewertungen am Markt zu erkennen scharenweise aufgeben , weil es diese Fehlbewertungen einfach nicht mehr gäbe . Die Marktteilnehmer könnten rational davon ausgehen , dass alle Aktienkurse den wahren erwarteten Barwert zukünftiger Zahlungsströme mit entsprechender Abzinsung widergeben und dass diese Cashflows Fundamentaldaten abbilden , die alle in gleicher Weise verstehen . Die Entscheidungen der Anleger würden nur aufgrund der Unterschiede ihrer persönlichen Situation voneinander abweichen .
+Ein Fahrzeugtechniker würde beispielsweise keine Automobilwerte kaufen – und diese Positionen möglicherweise sogar shorten - um sich gegen das Risiko für sein oder ihr spezielles Humankapital abzusichern .
+Einem Big Data verarbeitendem Computer zufolge wäre dies tatsächlich die optimale Entscheidung .
+Hinsichtlich dieser vollkommenen Märkte besteht ein bereits seit langem bekanntes Problem : Niemand würde unter Aufwand herausfinden wollen , was die Preis-Oszillationen für die Zukunft bedeuten würden .
+Vor 35 Jahren beschrieben Sanford Grossman und Joseph Stiglitz in ihrer mittlerweile zum Klassiker gewordenen wissenschaftlichen Arbeit von der “ Unmöglichkeit informationseffizienter Märkte , ” dieses Problem als Paradox : Vollkommen effiziente Märkte erfordern Bemühungen des Smart Money , die Märkte effizient zu gestalten ; sind die Märkte allerdings schon vollkommen , würde das Smart Money diese Bemühungen einstellen .
+Dieses Grossman-Stiglitz-Paradox scheint im Fall der finanziellen Singularität weniger zwingend , wenn wir davon ausgehen , dass sämtliche Investitionsentscheidungen von Computern getroffen werden .
+Obwohl Alpha möglicherweise einen verschwindend geringen Wert aufwiese , wäre der Gewinn ausreichend , um die Computer am Laufen zu halten .
+Doch das wahre Problem mit dieser Vision der finanziellen Singularität ist nicht das Grossman-Stiglitz-Rätsel , sondern die Tatsache , dass sich reale Märkte nirgends auch nur in der Nähe dieser Singularität befinden .
+Computer-Fans begeistern sich für Dinge wie die von Bitcoin verwendete Blockkette ( zu der sich unter dem dramatisch als Exponential Finance betitelten Abschnitt auf einer Bildungswebseite namens Singularity University eine Abhandlung findet ) .
+Doch die Finanzwelt der Futuristen weist nicht die geringste Ähnlichkeit mit der realen Finanzwelt von heute auf .
+Schließlich impliziert finanzielle Singularität , dass sämtliche Preise auf Dingen wie optimal prognostizierten zukünftigen Unternehmensgewinnen und der Korrelation dieser Gewinne mit erwarteten technologischen Innovationen und langfristigen demographischen Veränderungen beruhen .
+Doch im Bereich des Smart Money finden derart schwer fassbare Begriffe kaum Verwendung .
+In diesem Zusammenhang fällt es schwer , nicht an den jüngsten Kurssturz der Aktienbörsen in China zu denken .
+In den Nachrichtenbeiträgen sah man unzählige emotionale Händler , die auf Grundlage ihrer Gefühle und ihres Aberglaubens agierten .
+Das entspricht der Realität weit mehr als alles Gerede einer bevorstehenden finanziellen Singularität .
+Wie ich in meinem Buch Irrationaler Überschwang betone , scheinen Geschichten die Triebkräfte auf den Märkten zu sein .
+Es gibt die Geschichten großer neuer Zeitalter und drohender Depressionen .
+Es kursieren ganz elementare Geschichten über Technologie und schwindende Ressourcen sowie über Politik und bizarre Verschwörungen .
+Kein Mensch weiß , ob diese Geschichten der Wahrheit entsprechen , aber sie entwickeln ein Eigenleben .
+Manchmal verbreiteten sie sich wie ein Lauffeuer .
+Spricht man im Vertrauen mit scheinbar vernünftigen Menschen , stellt sich heraus , dass sie verrückte Theorien vertreten .
+Diese Menschen beeinflussen die Märkte , weil alle anderen Anleger darauf Bedacht nehmen müssen ; und die Verrücktheit dieser Personen wird uns noch einige Zeit erhalten bleiben .
+Vielleicht ist es möglich , Buffets Anlagestrategie heute in einen Algorithmus zu fassen .
+Das schmälert allerdings nicht unbedingt sein Genie .
+Der wahre Grund für seinen Erfolg liegt möglicherweise darin , dass er versteht , wann er eine Methode aufgeben und sich einer neuen Strategie bedienen muss .
+Die Vorstellung einer finanziellen Singularität mag ihren Reiz haben ; aber sie ist nicht weniger illusorisch als die rationale Utopie , die Generationen von Zentralplanern beseelte .
+Das menschliche Urteilsvermögen – ob gut oder schlecht – wird die Grundlage der Anlageentscheidungen und Finanzmarktergebnisse für den Rest unseres Lebens und darüber hinaus bleiben .

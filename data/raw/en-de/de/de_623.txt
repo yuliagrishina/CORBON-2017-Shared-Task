@@ -1,0 +1,39 @@
+Die demokratische Revolution in der Biomedizin
+SEATTLE – Sehr bald wird es wirtschaftlich machbar sein , in der medizinischen Praxis standardmäßig menschliche Genome zu sequenzieren und enorme Mengen an unterschiedlichen Gesundheitsdaten zu sammeln .
+Schon jetzt gibt es bemerkenswerte Beispiele , wie diese genetischen Daten unser Denken im Hinblick auf Krankheit und Diagnose verändern .
+Man erinnere sich an die 1996 im kalifornischen San Diego geborenen Zwillinge der Familie Beery .
+Die beiden litten an chronischem Erbrechen , Krampfanfällen sowie Muskelschwäche und standen gemeinsam mit ihren Eltern am Anfang einer Odyssee aus medizinischen Untersuchungen und Tests .
+Die erste Diagnose lautete zerebrale Kinderlähmung .
+Später wurde Dystonie , eine seltene neurologische Erkrankung , festgestellt .
+Doch mit der Behandlung auf Grundlage der Diagnosen konnten die Symptome der Kinder nicht gelindert werden .
+Enttäuscht ließen die Eltern die Genome der Zwillinge sequenzieren .
+Die Ergebnisse zeigten , dass die vorherigen Diagnosen der Zwillinge unvollständig waren .
+Ihre zuvor festgestellte Dystonie wurde durch eine genetische Mutation ausgelöst , die den Neurotransmitter Serotonin beeinträchtigt .
+Die Ärzte der Zwillinge fanden heraus , dass die Dystonie mit einem leicht verfügbaren Serotonin-Ersatz gut behandelt werden konnte .
+Warum haben nun Erfolgsgeschichten wie die der Beery-Zwillinge in Kombination mit der Macht des Internets und der zunehmend erschwinglichen Erhebung molekularer Daten nicht zum Aufbau eines Wissensnetzwerkes von Krankheiten geführt ?
+Warum wenden sich Wissenschaftler und Ärzte nicht in Scharen der datenintensiven Wissenschaft zu , um bessere „ Landkarten der Krankheiten “ zu erstellen ?
+Eine mögliche Antwort lautet , dass immer noch technische Barrieren bestehen , die dem Aufbau und der Anwendung derartiger Netzwerke im Weg stehen .
+Mit unserer Fähigkeit , eine immer weiter anschwellende Flut molekularer Daten zu generieren – wir bewegen uns in Richtung Zettabyte ( eine Eins gefolgt von 21 Nullen ) – kommt auch die Herausforderung hinsichtlich der Speicherung und Entschlüsselung dieser Information .
+Aber Wissenschaftler und Software-Techniker stehen regelmäßig vor solchen gewaltigen Herausforderungen und mit der DNA als Bezugssprache der modernen biomedizinischen Forschung werden die technischen Barrieren auf dem Weg zu einer Landkarte der Krankheiten bald verschwinden .
+Die wahren Stolpersteine sind kulturelle Barrieren .
+Die Fähigkeit des Menschen , sich seiner Umgebung anzupassen , ist hoch entwickelt : wir neigen dazu , eine Kultur – ob klug konzipiert oder nicht – anzunehmen und verlieren ihre Schwachstellen aus den Augen .
+Wenn wir allerdings Alternativen erkennen , werden Unzulänglichkeiten ( und womöglich auch der ganze Wahnsinn dahinger ) sofort offenkundig . Dies kann zu kulturellen Veränderungen , kollektivem Handeln und einem Wandel führen .
+Der Fall der Berliner Mauer im November 1989 und – in jüngerer Vergangenheit – der Arabische Frühling sind eindeutige Beispiele einer derartigen Dynamik .
+In ähnlicher Weise zeigt uns das Beispiel der Beery-Zwillinge auch , dass eine Alternative zu symptombasierter Medizin realisierbar ist : mit dem Aufkommen der Genomik-Technologie kann nicht nur Bekanntes geändert werden , sondern auch - noch wichtiger – die Art , wie wir über uns selbst denken .
+Aber um die zukünftigen Netzwerke der Krankheiten aufzubauen , müssen wir die gegenwärtige lineare Annäherung an die Wissenschaft und die Arbeitsweise der Wissenschaftler überwinden .
+Wir alle mögen gute Geschichten , die sich geradlinig entwickeln , aber die Geschichte der Krankheiten spielt in einem Informationsnetzwerk mit zahlreichen Knotenpunkten ab , ähnlich einem Radarbild , das ein Fluglotse auf einem großen Flughafen vor sich hat . Die hinter „ Schloss und Riegel “ gehaltenen linearen Abbildungen der biomedizinischen Forscher sind unvollständig und sollten durch Landkarten der Krankheiten ergänzt werden , die wir nun auf Basis molekularer Daten erstellen können .
+Überdies müssen wir Infrastruktur aufbauen und Beziehungen kultivieren , die zur gemeinsamen Nutzung dieser Landkarten mit Grundlagenforschern , praktizierenden Ärzten , Medikamentenentwicklern und der Öffentlichkeit im Allgemeinen nötig sind .
+Das könnte sich als noch schwieriger erweisen , denn die gegenwärtig abgeschotteten medizinischen Informationssysteme und deren selbstgesteuerte Anreizstruktur blockieren eine derartige gemeinsame Nutzung .
+Patente , Handelsmarken und der Wettbewerb um Ressourcen ( Menschen , Geld , Auszeichnungen ) verschließen den Zugang zu Information und verhindern Analyse sowie gemeinsame Nutzung molekularer Daten .
+Die Anerkennung in der biomedizinischen Forschung erhalten „ Solisten ” , während die Arbeit , die nur in multifunktionellen Gruppen erledigt werden kann , nicht entsprechend honoriert wird .
+Trotz dieser beträchtlichen Fortschrittshindernisse , besteht Grund zur Annahme , dass ein kultureller Wandel im Gange ist : Forscher aus geographisch weit voneinander entfernten Labors bilden unkonventionelle „ Vereinigungen ” , um ihre Datensätze zusammenzuführen , damit gemeinsam zu arbeiten und die Ergebnisse für weitere Untersuchungen durch andere Wissenschaftler zu veröffentlichen . Auf so genanntem „ Crowdsourcing “ basierende kompetitive Projekte wie DREAM Challenges und FoldIt zeigen , dass man auch außerhalb von Universitäten und pharmazeutischen Unternehmen zu wichtigen wissenschaftlichen Ergebnissen gelangen kann .
+Und öffentlich-private Partnerschaften zwischen Medikamentenentwicklern , Grundlagenforschern und Patientengruppen , die Information schon in der prä-kompetitiven Phase ( also ohne oder mit begrenzten Patentanmeldungen ) gemeinsam nutzen , sind eine zunehmend populäre Möglichkeit , wissenschaftliche Erkenntnisse in potenziell bedeutenden klinischen Nutzen umzuwandeln .
+Allerdings werden ein paar erfolgreiche Vereinigungen , kompetitive Projekte und Partnerschaften nicht reichen , um die biomedizinische Forschung umzugestalten .
+Es könnte eines disruptiven Wandels bedürfen und in dieser Hinsicht kann jeder von uns grundlegend etwas bewirken .
+Es haben sich bereits Patientengruppen organisiert ; die Mitglieder können online über ihre Symptome berichten und sich zur Teilnahme an klinischen Studien einschreiben .
+Wir können bereits Informationen über unsere eigene genetische Ausstattung erhalten und sie entweder für informierte medizinische Entscheidungen verwenden , bestehenden Patientengruppen beitreten oder eigene Gruppen ins Leben rufen .
+Wir können unsere genetischen Proben datengesteuerten Studien zur Verfügung stellen , um mehr über die Wahrscheinlichkeit , auf spezielle Therapien anzusprechen , zu erfahren .
+Wir können zukünftig sogar selbstfinanzierte Studien organisieren oder nur bei Studien mitmachen , die uns das Recht einräumen , zu bestimmen , wie und wo unsere Daten verwendet werden dürfen .
+Mit anderen Worten : Patienten können und sollen aufhören , passive „ Kranke “ zu sein und sich stattdessen aktiv engagieren , um Druck auf Kliniker , Forscher und Medikamentenentwickler auszuüben , sich den neuen Gegebenheiten anzupassen .
+Die demokratisierte Medizin stellt die Krönung der biomedizinischen Informationsrevolution dar .
+Es gibt nur wenige würdigere Ziele als eine Zukunft , in denen Bürger-Patienten aktiv am Management ihrer eigenen Gesundheit beteiligt sind .

@@ -1,0 +1,43 @@
+Das Zeitalter der Finanzautomatisierung
+PRINCETON – In Wirtschaftskrisen geht es in den öffentlichen Debatten immer um Wachstumsstatistiken , als handele es sich um eine Art Fieberthermometer .
+Aber die Messungen sind unzuverlässig und verändern sich ständig , so dass Statistiker darüber nachdenken , die sehr unterschiedlichen Produkte einer Volkswirtschaft anders zu messen .
+Besonders geben jüngst überarbeitete Daten Anlass , Umfang und Rolle von Finanzdienstleistungen neu zu überdenken .
+Ende Juli hat das Amt für Wirtschaftsanalyse der Vereinigten Staaten , das Bureau of Economic Analysis , revidierte Daten in Bezug auf das amerikanische Bruttoinlandsprodukt seit 1929 veröffentlicht .
+Die wichtigste Erkenntnis war , dass das Bruttoinlandsprodukt schlechter zu berechnen ist , als bisher angenommen .
+Die Wirtschaft ist in guten Phasen schneller gewachsen und in Abschwungzeiten schneller geschrumpft .
+Die jährliche Wachstumsrate lag zwischen 1997 und 2008 eher bei 2,8 Prozent als bei 2,7 Prozent .
+2008 ist der Wert nicht auf 1,1 Prozent , sondern auf 0,4 Prozent gesunken .
+Der Einbruch des Bruttoinlandsproduktes im ersten Quartal 2009 war auch erheblich stärker als seinerzeit errechnet .
+Die Logik hinter diesen Veränderungen ist interessanter als die daraus resultierenden relativ geringen Korrekturen der Wachstumsrate .
+Eines der Hauptmotive für die Neubewertung war es , eine ehrlichere Bilanzierung zu ermöglichen .
+Besonders die Ausgaben für Finanzdienstleistungen werden buchhalterisch nun anders behandelt und transparenter dargestellt .
+Ausgaben für medizinische Leistungen zum Beispiel sind in der neuen Bewertungsmethode niedriger , weil die Kosten , die Versicherungen anstelle von medizinischen Dienstleistungen zurechenbar sind , jetzt als Ausgaben für „ Finanzdienstleistungen und Versicherungen “ ausgewiesen sind .
+Die neue Bewertungsmethode lässt deutlicher werden als zuvor , wie dramatisch der Umfang von Finanzdienstleistungen im vergangenen Jahrzehnt angestiegen ist .
+Ausgaben für Finanzdienstleistungen haben sich zwischen 1998 und 2007 verdoppelt und machen nun 8,2 Prozent des Privatkonsums aus . Diese Zahl beinhaltet auch das Einkommen , das von Verbrauchern an die berühmt-berüchtigten Boni von Bankern und Wertpapierhändler geflossen ist .
+Der Finanzsektor wird als Reaktion auf die Krise vielleicht nicht aufhören , nach innovativen Lösungen zu suchen , Rationalisierungsmaßnahmen und Kostenabbau bei der Bereitstellung von Finanzdienstleistungen sind aber wahrscheinlich .
+Es gibt eindeutige historische Präzedenzfälle für die Zähmung überschäumender und zu innovativer Sektoren .
+Im neunzehnten Jahrhundert erzeugte eine Eisenbahnbau-Orgie doppelte Strecken , bevor zyklische Abschwünge den Markt um viele Unternehmen bereinigten und die Streckennetze einfacher und billiger machten .
+Anfang des zwanzigsten Jahrhunderts entstanden viele Autoproduktionen .
+Nur eine Handvoll der effizientesten Hersteller überlebten den Kollaps nach dem anfänglichen Boom .
+Viele Länder , einschließlich der USA , haben Bankensysteme , die noch immer zu komplex sind .
+Es ist jetzt auch klar , dass die Finanzprodukte selbst zu komplex waren und dass die meisten , wenn nicht alle Verbraucher nicht wussten , was sie kauften .
+Traditionell waren Banken black boxes , in denen die Operationen vor den Kunden verborgen wurden .
+Die Bank wusste mehr darüber , wo ihr Geld war , als Einleger und Kreditoren .
+Investmentbanken berieten Unternehmen bei Fusionen und Übernahmen , haben aber auch Wertpapiere ausgegeben und ihren eigenen Eigenkapitalhandel betrieben .
+Diese Aktivitäten waren zwar durch so genannte „ chinesische Mauern “ voneinander getrennt , aber in der Praxis gingen die Marktteilnehmer von einer gewissen Durchlässigkeit aus und erwarteten höhere Renditen von größeren Banken mit vielfältigen internationalen Operationen .
+Und so ging jeder Geschäftspartner dieser Transaktionen davon aus , dass ihm die Einsichten der Bank aus ihren anderen Geschäftszweigen zugute kommen würden , wobei es sich bei diesen Einsichten eigentlich um ständige Interessenskonflikte handelte .
+Die Genialität der Verbriefung , der großen Finanzinnovation der 90er Jahre , lag darin , dass sie es den Anlegern – theoretisch – erlaubte , nicht transparente black box -Banken zu umgehen .
+Wertpapiere haben traditionelle Bankenkredite ersetzt .
+Aber die Banken haben die Innovation benutzt , um transparente Wertpapiere in sehr undurchsichtige Anlageinstrumente zu übertragen .
+Der black box -Charakter der Banken blieb erhalten und wurde zu einer immer größeren Schwäche .
+Schließlich sind black boxes am gefährlichsten , wenn sie einen bösartigen oder betrügerischen Menschen enthalten .
+Möglicherweise wird das Finanzwesen langfristig weniger anfällig für Probleme asymmetrischer Information , die ein hohes Maß an Vertrauen auf Seiten der Einleger und Investoren verlangen , um das Risiko von Panik und Krise zu minimieren .
+Aber die Finanzwelt wird uns nur dann nicht mehr beherrschen , wenn es keine Notwendigkeit mehr gibt , dass Insider existieren . Dafür brauchen wir Transparenz und die Verbreitung von Finanzwissen .
+In Zukunft könnten Interessenskonflikte von mathematischen Formeln abgewogen werden , die Transaktionen genehmigen oder untersagen .
+So wie automatisierte Zahlungsmechanismen den Parketthandel verdrängt haben , können viele Bankenfunktionen einfach zu der Interaktion zwischen Softwaresystemen werden .
+Wie in früheren Übergangszeiten , als Innovation zu Kostenersparnis führte , werden auch Personen , die im Finanzwesen arbeiten , versuchen , überzeugende Argumente hervorzubringen , warum ihr Geschäft auf den menschlichen Kontakt angewiesen ist .
+So hat man auch Mähdrescher verteufelt , weil sie angeblich die Qualität des Korns beeinträchtigen , denn schließlich werde es nicht mehr durch das menschliche Auge kontrolliert .
+Gleichermaßen bestehen moderne Automobilfabriken größtenteils aus Robotern und ihre Produkte sind sicherer als jemals zuvor .
+Ein persönlicher Banker ist ein Statussymbol , mehr nicht , aber keinesfalls eine Notwendigkeit .
+Das „ Montagsauto “ , Produkt des frühen und fehlerhaften Produktionsdurchlaufes eines neuen Modells , gehört der Vergangenheit an .
+Sein Pendant in der Finanzwelt wird bald dasselbe Schicksal erleiden .

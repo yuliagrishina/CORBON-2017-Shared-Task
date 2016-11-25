@@ -1,0 +1,32 @@
+Eine Verständniskrise
+NEW HAVEN : Nur wenige Ökonomen haben die gegenwärtige Wirtschaftskrise vorhergesagt , und über ihre letztlichen Ursachen herrscht weitgehende Uneinigkeit .
+Und es kann daher auch nicht überraschen , dass die Ökonomen auch nicht gut besonders aufgestellt sind , um vorherzusagen , wie schnell die Krise enden wird .
+Natürlich kennen wir alle die unmittelbaren Ursachen einer Wirtschaftskrise : Die Leute geben kein Geld aus , weil ihre Einkommen gesunken oder ihre Arbeitsplätze in Gefahr sind oder beides .
+Aber man kann noch einen Schritt weiter zurück gehen : Das Einkommen der Menschen ist niedriger und ihre Arbeitsplätze sind gefährdet , weil sie kurz vorher kein Geld ausgegeben haben – und immer so weiter rückwärts in der Zeit , in einer sich wiederholenden Rückkoppelungsschleife .
+Das Ganze ist ein Teufelskreis , aber wo und warum hat er angefangen ?
+Warum hat er sich verschärft ?
+Und wodurch lässt er sich revidieren ?
+Die Ökonomen haben auf diese Fragen bisher keine klaren Antworten geben können .
+In der Großen Depression , die auf den Zusammenbruch der Aktienmärkte 1929 folgte , war der ökonomische Erkenntniszustand genau so mangelhaft .
+Auch diese hatten die Ökonomen nicht vorhergesagt .
+In den 1920er Jahren warnten einige vor einer Überteuerung des Aktienmarktes , doch eine jahrzehntelange Depression , die die gesamte Volkswirtschaft in Mitleidenschaft ziehen würde , prognostizierten sie nicht .
+Gegen Ende der Großen Depression , im August 1938 , berichtete ein Artikel von Ralph M. Blagden im
+Die genannten Ursachen waren „ weit verteilt auf Regierung , Arbeitnehmer , Industrie , internationale Politik und Strategien “ .
+Sie umfassten eine fehlgeleitete stattliche Einmischung in die Märkte , hohe Einkommen- und Kapitalertragssteuern , eine fehlerhafte Geldpolitik , Druck hin zu hohen Löhnen , Monopole , überhöhte Lagerbestände , die durch den Plan zur Neuorganisation des Supreme Court verursachte Unsicherheit , die Wiederbewaffnung in Europa und die Furcht vor einem Krieg , die Ermutigung zu Arbeitskämpfen durch die Regierung , eine durch eine schrumpfende Bevölkerung bedingte Kapitalschwemme , das Dahinscheiden der amerikanischen „ Frontier “ sowie die lasche Kreditvergabe vor der Depression .
+Obwohl sich die Wirtschaftstheorie inzwischen erheblich verbessert hat , erhalten wir , wenn wir die Menschen zu den Ursachen der gegenwärtigen Krise befragen , mehr oder weniger dieselben Antworten , und mit Sicherheit auch noch ein paar neue : nie da gewesene Spekulationsblasen auf dem Immobilienmarkt , eine globale Kapitalschwemme , internationale Ungleichgewichte beim Handel , exotische Finanzkontrakte , minderklassige Hypotheken , unregulierte außerbörsliche Märkte , Fehler der Ratingagenturen , kompromittierte Immobilienbewertungen und Nachlässigkeit in Bezug auf Kontrahentenrisiken .
+Es ist dabei eher wahrscheinlich , dass viele oder die meisten dieser Menschen überwiegend oder zumindest teilweise Recht haben , denn die Wirtschaftskrise wurde durch das Zusammenspiel vieler Faktoren verursacht – das zufällige Zusammentreffen einer Menge ungünstiger Dinge , die das Finanzsystem über seine Belastungsgrenze hinaus unter Druck setzten .
+An diesem Punkt rückten die Schwierigkeiten dann allgemein in den Blickpunkt , zerstörten das öffentliche Vertrauen und setzen eine negative Rückkoppelungsschleife in Gang .
+Schließlich wenden wir unsere Aufmerksamkeit von Natur aus besonders schlimmen Ereignissen zu . Und eben weil besonders schlimme Ereignisse statistische Ausreißer darstellen , haben sie vermutlich vielfältige Ursachen .
+Man betrachte die Frage der Vorhersage von Ereignissen wie dem Erdbeben in Haiti im Januar 2010 , bei dem über 200.000 Menschen ums Leben kamen .
+Es erregte unsere Aufmerksamkeit , weil es so ungeheuer viele Leben forderte und so ungeheure Sachschäden anrichtete .
+Doch wollte man versuchen , über die Vorhersage von Erdbeben hinaus zu einer Vorhersage ihrer Schäden zu gelangen , so käme man mit Sicherheit eine lange Liste von Einflussfaktoren zu Stande – darunter auch politische , finanzielle und versicherungstechnische Faktoren – , die der Liste jener Faktoren ähnelt , die die Weltwirtschaftskrise verursachten .
+Tatsächlich ist die Liste der Krisenursachen endlos , denn in einem komplexen Wirtschaftssystem mit zahlreichen unterschiedlichen Rückkoppelungen können die Auslöser eines Teufelskreises so scheinbar trivial sein wie der sprichwörtliche Schmetterling am Amazon , der durch das Schlagen seiner Flügel eine Ereigniskette in Gang setzt , die irgendwann in einem weit entfernten Hurrikan kulminiert .
+Die Chaostheorie in der Mathematik erklärt diese Abhängigkeit von entfernten und scheinbar trivialen Ausgangsbedingungen und erläutert , warum selbst die Extrapolation scheinbar präziser Planetenbewegungen unmöglich wird , wenn man sie weit genug in die Zukunft fortschreibt .
+Auch die Meteorologen können keine weit in die Zukunft reichenden Prognosen erstellen , doch verfügen sie zumindest über präzise mathematische Modelle .
+Dabei werden Rechner mit enormen Kapazitäten parallel geschaltet , um nummerische Lösungen für aus der fluid- und thermodynamischen Theorie entwickelte Differenzialgleichungen zu finden .
+Die Wissenschaftler scheinen den Mechanismus zu kennen , der das Wetter hervorbringt , auch wenn es per se schwierig ist , dabei weit in die Zukunft reichende Extrapolationen vorzunehmen .
+Das Problem der Makroökonomie ist , dass sich die Arten von Ursachen , die in Bezug auf die aktuelle Krise genannt werden , schwer systematisieren lassen .
+Die mathematischen Modelle , über die die Makroökonomen verfügen , mögen den Wettermodellen in gewisser Hinsicht ähneln , doch ist ihre strukturelle Integrität nicht durch eine solide , Gesetzmäßigkeiten aufstellende Theorie gewährleistet .
+Die wichtigste Neuerscheinung über die Ursprünge der Wirtschaftskrise , This Time Is Different von Carmen Reinhart und Kenneth Rogoff , ist im Wesentlichen eine Zusammenfassung der aus so gut wie allen geschichtlich dokumentierten Finanzkrisen überall auf der Welt gezogenen Lehren .
+Damit bleibt uns nur der Versuch , die Verlaufsmuster vergangener , unähnlicher Krisen zu nutzen , um daraus eine wahrscheinliche Prognose für die aktuelle Krise zu erstellen .
+Und infolgedessen wissen wir einfach nicht , ob die kommende Konjunkturerholung solide oder enttäuschend verlaufen wird .

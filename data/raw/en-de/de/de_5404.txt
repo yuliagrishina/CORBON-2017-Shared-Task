@@ -1,0 +1,35 @@
+Das Verständnis der Frankensteinschen Tradition
+PALO ALTO – „ Es lebt , es bewegt sich , es lebt … ES LEBT ! “ So lauteten die Worte Dr. Victor Frankensteins als seine „ Schöpfung “ vollendet war .
+Forscher sind schon seit langem von dem Versuch fasziniert Leben zu schaffen , mussten sich aber im Wesentlichen damit begnügen durch Mutation oder andere gentechnische Methoden Variationen von Lebewesen zu entwickeln .
+Im Mai haben Forscher am J. Craig Venter Institut , unter Leitung von Venter persönlich , mithilfe von chemischen Bausteinen ein von Grund auf neues Genom eines Bakteriums künstlich hergestellt und es in die Zelle einer anderen Bakterienart eingeschleust .
+Die neue genetische Information hat ihre Wirtszelle zu einem „ Neustart “ veranlasst : Sie begann zu funktionieren , teilte sich und nahm die Eigenschaften des „ Gebers “ an .
+Mit anderen Worten ist eine Art künstliches Lebewesen geschaffen worden .
+Die Reaktionen in der Wissenschaftsgemeinde reichten von „ unbedeutende Neuigkeit “ bis „ drohende Apokalypse “ .
+Erstere ist angemessener : Venters Schöpfung ist evolutionär , nicht revolutionär .
+Die „ synthetische Biologie “ , wie dieses Feld genannt wird , zielt darauf ab Mikrobiologie und Zellbiologie einem ingenieurwissenschaftlichen Ansatz anzunähern , sodass standardisierte Bestandteile miteinander kombiniert und zusammengefügt werden können – so wie serienmäßig produzierte Fahrgestelle , Motoren , Getriebe etc. so kombiniert werden können , dass ein frisiertes Auto dabei herauskommt .
+Mit dem Erreichen dieses Ziels könnten sich Wissenschaftlern nie dagewesene Innovationsmöglichkeiten eröffnen und sie könnten eher dazu in der Lage sein , maßgeschneiderte Mikroorganismen und Pflanzen herzustellen , die Arzneimittel produzieren , giftige Abfälle reinigen und Stickstoff aus der Luft binden ( oder „ fixieren “ ) , was Kunstdünger überflüssig machen würde .
+Während der vergangenen fünfzig Jahre haben Gentechniker mithilfe von zunehmend leistungsfähigen und präzisen Instrumenten und Mitteln Durchbrüche erzielt , die in vielen verschiedenen Gebieten neue Möglichkeiten eröffnen .
+Der Erfolg in Venters Labor basiert auf ähnlichen Arbeiten , die vor Jahrzehnten begonnen haben .
+Im Jahr 1967 demonstrierte eine Forschungsgruppe der Stanford Medical School und der Technischen Hochschule Kaliforniens ( Caltech ) die Übertragbarkeit des Genoms eines Bakteriophagen namens ΦΧ174 , dessen DNA mithilfe eines Enzyms synthetisiert wurde , wobei die intakte virale DNA als Vorlage , oder Bauplan , benutzt wurde .
+Diese Meisterleistung wurde als „ Leben im Reagenzglas “ bejubelt .
+Im Jahr 2002 stellte eine Forschungsgruppe an der State University of New York in Stony Brook ausschließlich aus einfachen , kommerziell erhältlichen chemischen Bausteinen ein funktionsfähiges , infektiöses Poliovirus her . Als einzige Vorlage für den Nachbau des Genoms diente die bekannte RNA-Sequenz ( die das Virusgenom enthält und der DNA chemisch sehr ähnlich ist ) .
+Ähnlich wie bei den 1967 durchgeführten Experimenten wurde die infektiöse RNA enzymatisch synthetisiert .
+Sie konnte die Synthese von Virusproteinen steuern , ohne dass eine natürliche Vorlage vorhanden war .
+Erneut hatten Wissenschaftler faktisch Leben im Reagenzglas geschaffen .
+Die Gruppe um Craig Venter hat im Rahmen ihrer unlängst veröffentlichten Forschung so ziemlich das Gleiche getan , nur dass sie anstatt von Enzymen chemische Synthese nutzte , um die DNA zu produzieren .
+Ein Teil des Medienrummels um die Veröffentlichung des darauf folgenden Artikels in der Fachzeitschrift Nature war jedoch übertrieben .
+Neben der wissenschaftlichen Veröffentlichung von Venter publizierte Nature acht Kommentare über die Bedeutung dieser Arbeit .
+Die „ echten “ Wissenschaftler waren sich bewusst , dass diese Arbeit erst über die Zeit von Bedeutung sein würde und stellten infrage , ob Venters Gruppe eine wirklich „ synthetische Zelle “ hergestellt hat , während die Sozialwissenschaftler dazu tendierten die Tragweite der Arbeit zu übertreiben .
+Mark Bedau , Philosophieprofessor am Reed College , schrieb , dass die „ neuen Fähigkeiten [ der Technologie ] neue Verantwortung schaffen .
+Niemand kann sicher sein , welche Konsequenzen die Herstellung neuer Lebensformen mit sich bringt , und wir müssen mit dem Unerwarteten und Unbeabsichtigten rechnen .
+Deshalb sind grundlegende Neuerungen beim vorsorgenden Denken und in der Risikoanalyse erforderlich . “
+Mithilfe alter und neuer Verfahren stellen Gentechniker mit zunehmender Raffinesse jedoch schon seit Jahrzehnten Organismen mit neuen oder verbesserten Eigenschaften her .
+Es gibt bereits Vorschriften und Standards guter wissenschaftlicher Praxis , die sich wirksam auf Organismen beziehen , die krankheitserregend oder eine Bedrohung für die natürliche Umwelt sein können .
+( Wenn überhaupt , sind diese Standards übertrieben beschwerlich . )
+Andererseits hat der schweizerische Professor für Bioingenieurwissenschaften Martin Fussenegger richtig beobachtet , dass der Erfolg Venters „ ein technischer , aber kein konzeptueller Fortschritt ist “ .
+Andere Wissenschaftler wiesen darauf hin , dass der Organismus nur „ halb-synthetisch “ sei , weil die synthetische DNA ( die lediglich etwa 1 % des Trockengewichts einer Zelle ausmacht ) in ein normales , nicht-synthetisches Bakterium eingeschleust wurde .
+Es ist wichtig die Geschichte der synthetischen Biologie zu kennen , weil das Verständnis des korrekten Paradigma entscheidende Folgen für die Art und Weise hat , wie Regierungen diese reglementieren , was wiederum die potenzielle Anwendung und Verbreitung der Technologie beeinflusst .
+Vor fünfunddreißig Jahren haben die Nationalen Gesundheitsinstitute der USAamp # 160 ; amp # 160 ; ( National Institutes of Health , NIH ) übermäßig risikoaverse Richtlinien für Forschung eingeführt , bei der rekombinante DNA oder „ gentechnische “ Verfahren eingesetzt werden .
+Diese Richtlinien , die auf einer Reihe von Annahmen basierten , die sich als eigentümlich und weitgehend falsch herausgestellt haben , vermittelten die überzeugende Botschaft , dass Wissenschaftler und die amerikanische Bundesregierung spekulative , übertriebene Risikoszenarien ernst nehmen – eine Botschaft , die der Entwicklung der Technologie seither weltweit zugesetzt hat .
+Synthetische Biologie stellt leistungsfähige neue Instrumente für Forschung und Entwicklung in unzähligen Gebieten in Aussicht .
+Ihr Potenzial kann nur erfüllt werden , wenn die Aufsicht durch die Behörden auf Wissenschaft , vernünftiger Risikoanalyse und einem Verständnis der Fehler der Vergangenheit beruht .

@@ -1,0 +1,37 @@
+Roboter am Gehirn
+CALGARY – Die Einführung der Elektrokaustik durch Harvey Cushing und William Bovie im Jahr 1926 ( in der mithilfe von hochfrequentem Strom Blutgefäße versiegelt oder Schnitte gemacht werden ) hat die Neurochirurgie verwandelt .
+Angesichts der Präzision , die zur Operation an einem empfindlichen Organ wie dem Gehirn erforderlich ist , trieb die Verbindung mechanischer Technologien mit chirurgischer Kunst die Entwicklung in diesem Feld voran .
+Fortschritte in der Neurochirurgie streben immer Minimalisierung an .
+Wie in jedem anderen Bereich der Chirurgie gilt : Je weniger die Prozedur in den Körper eingreift , desto weniger wahrscheinlicher ist es , dass sie die Lebensqualität des Patienten beeinträchtigt , und desto eher kann der Patient seine normalen Aktivitäten wieder aufnehmen .
+Bei empfindlichen neurologischen Eingriffen gilt dieser Grundsatz in besonderem Maße .
+Aufgaben wie die Verschiebung kleiner Blutgefäße mit nur ein bis zwei Millimetern Durchmesser oder die Entfernung eines Gehirntumors ohne Beschädigung des umliegenden Gewebes erfordern Technologien , die wie das Operationsmikroskop oder multimodale Abbildungswerkzeuge die Fähigkeiten der Chirurgen ergänzen und erweitern .
+Ein weiterer Schritt wäre es , einem vom Menschen kontrollierten Roboter Zugang zum Gehirn zu geben .
+Roboter können wiederholte Aufgaben präziser und genauer durchführen als Menschen , ohne dabei zu ermüden .
+Und sie können regelmäßig aktualisiert werden , um neue Funktionen zu erfüllen .
+Was Robotern fehlt , ist die Ausführungskapazität des menschlichen Gehirns .
+Angesichts dessen , dass die Verarbeitung der – und die angemessene Reaktion auf die – ungeheure Menge von Variablen , die während der Operation auftreten können , eine enorme Computerleistung erfordert , versuchen chirurgische Roboter , menschliche Erfahrung und Entscheidungsfindungsfähigkeiten mit mechanischer Präzision zu verbinden .
+Ein Beispiel für solch eine Verbindung ist der neuroArm , den mein Forschungsteam an der Universität von Calgary gemeinsam mit Ingenieuren von MacDonald , Dettwiler und Partnern entwickelt hat .
+Der neuroArm besitzt tatsächlich zwei Arme , die verschiedene Operationswerkzeuge halten können , während sie durch einen Chirurgen über einen externen Arbeitsplatzrechner bedient werden .
+Der Rechner stellt eine große Menge Daten bereit – darunter Magnetresonanzbilder ( MRI ) , ein dreidimensionales Abbild des Operationsbereichs , akustische Informationen und quantifizierbare haptische ( oder taktile ) Rückmeldungen aus der Interaktion zwischen den Werkzeugen und dem Gewebe . Dies ermöglicht dem Chirurgen die Erfahrung der Operation über den Gesichts- , Gehör- und Berührungssinn .
+Da das menschliche Gehirn Entscheidungen aufgrund von Sinneseindrücken und -erfahrungen trifft , sind für den Chirurgen solche Daten wichtig , um während der Operation die besten Maßnahmen ergreifen zu können .
+Technologien wie MRI können zur Planung der Operation , zur Resektionskontrolle und zur Qualitätssicherung hilfreich sein .
+Magnetresonanzkompatible Roboter stellen Echtzeitbilder bereit . Sie liefern Informationen über anatomische Strukturen und Veränderungen im Gehirn im Vergleich zur chirurgischen Pathologie und minimieren so das Risiko .
+Da der Roboter die MRIs empfängt und haptische Rückmeldung vermittelt , können vor der Operation elektronische Wege oder operative Korridore sowie Tabubereiche festgelegt werden .
+Der Einsatz der Werkzeuge kann dann nur innerhalb des voreingestellten Korridors stattfinden , was die unbeabsichtigte Verletzung des Gehirns verhindert .
+Darüber hinaus haben robotergestützte Operationen das Potenzial , über den Bereich der ununterstützten menschlichen Fähigkeiten hinauszugehen .
+Bewegungsskalierung – durch die der Roboterarm die genauen Bewegungen der Hand des Chirurgen nachahmt , aber auf einem viel kleineren Raum – ermöglicht es Chirurgen , Gewebe zu manipulieren , das für die Erkennung mit dem bloßen Auge zu klein ist .
+Mit der Entwicklung kleinerer mikrochirurgischer Werkzeuge und Hochleistungskameras und -monitoren könnten Operationen auf zellularer Ebene möglich werden .
+Ein weiterer Bereich mit wichtigen Auswirkungen auf die Neurochirurgie ist die virtuelle Realität .
+Aufbauend auf Simulationstechniken können Chirurgen damit in einer digitalen Umgebung Vorgänge einüben , darunter auch solche mit Operationsrobotern .
+Die Fähigkeit , komplexe Fälle planen und seltene Vorgänge vor der Ausführung am Patienten üben zu können , wird zweifellos zu gesteigerter chirurgischer Leistung und verbesserten medizinischen Ergebnissen führen .
+Virtuelle Realität kann auch die chirurgische Ausbildung verbessern , indem sie Studenten einen größeren Erfahrungsbereich und bessere Quantifizierbarkeit ihrer Leistung bietet .
+Manuell operierende Chirurgen wissen nur durch ihr Gefühl , wieviel Kraft sie ausüben müssen . Ein chirurgischer Simulator dagegen kann diese Kraft messen und anzeigen , ob ein Student zu viel oder zu wenig Druck ausübt .
+Darüber hinaus können Ausbilder kontrollierte Szenarien programmieren , um festzustellen , wie Schüler mit herausfordernden Bedingungen umgehen .
+Durch die Möglichkeit , Operationen ohne Risiko oder zusätzliche Kosten zurücksetzen und neu beginnen zu können , wird die neurochirurgische Ausbildung deutlich verbessert .
+Denn letztlich ist es die Praxis , die zur Perfektion führt .
+Sicherlich ist die virtuelle Realität eine relativ junge Technologie .
+Angesichts der Tatsache , dass realistische neurochirurgische Simulationen mit ihren großen Mengen von Variablen und möglichen Ergebnissen besonders schwer zu entwickeln sind , wird sie in diesem Bereich noch nicht umfassend angewendet .
+Aber die Technik der Operationssimulation macht parallel zur Computerentwicklung rapide Fortschritte .
+Im Zuge dessen , dass diese Simulationen realistischer werden , erhöht sich auch ihr Wert für die Ausbildung .
+Die Verschmelzung menschlicher Operationserfahrung mit Maschinen und Computertechnik treibt den Fortschritt in der Neurochirurgie voran . Operationen mithilfe von Robotern sind dabei ein wichtiges Beispiel für den Nutzen der Schnittstelle zwischen Mensch und Maschine .
+Fügen wir dieser Gleichung noch etwas virtuelle Realität hinzu , und die Zukunft der Neurochirurgie nimmt Form an – eine Zukunft , in der diese Disziplin neue Ebenen von Qualität erreicht .

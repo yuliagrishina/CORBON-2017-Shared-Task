@@ -1,0 +1,45 @@
+Internationale Normen im Cyberspace
+CAMBRIDGE – Im letzten Monat richteten die Niederlande die Global Conference on Cyberspace 2015 aus , an der fast 2000 Regierungsmitglieder , Wissenschaftler , Wirtschaftsvertreter und andere teilnahmen .
+Ich selbst hatte dabei den Vorsitz einer Kommission zu Frieden und Sicherheit im Cyberbereich inne , zu der auch ein Vizepräsident von Microsoft und zwei Außenminister gehörten .
+Diese Konferenz von Interessenvertretern aus einer Vielzahl von Bereichen war lediglich die letzte in einer Reihe von Bemühungen , Verkehrsregeln zur Vermeidung von Cyberkonflikten festzulegen .
+Dass man das Internet nutzen kann , um anderen Schaden zuzufügen , ist inzwischen eindeutig belegt .
+Viele Beobachter glauben , dass die Regierungen der USA und Israels hinter einem Angriff steckten , bei dem Zentrifugen in einer iranischen Atomanlage zerstört wurden .
+Es gibt Behauptungen , dass durch einen Angriff der iranischen Regierung tausende von Computern der Ölfördergesellschaft Saudi Aramco zerstört wurden .
+Russland wird für die DoS-Angriffe auf Estland und Georgien verantwortlich gemacht .
+Und erst im vergangenen Dezember machte US-Präsident Barack Obama die nordkoreanische Regierung für einen Angriff auf Sony Pictures verantwortlich .
+Bis vor kurzem war die Cybersicherheit überwiegend eine einer kleinen Gemeinschaft von Computerexperten vorbehaltene Sphäre .
+Als 1970 das Internet geschaffen wurde , bildeten dessen Mitglieder ein virtuelles Dorf ; alle kannten einander , und gemeinsam entwarfen sie ein offenes System , ohne dabei groß auf die Sicherheit zu achten .
+Anfang der 1990er Jahre entstand daraus das World Wide Web , und aus dessen damals wenigen Millionen Nutzern sind heute drei Milliarden geworden .
+In kaum mehr als einer Generation hat sich das Internet zum Nährboden der Weltwirtschaft und der weltweiten Regierungsführung entwickelt .
+Im kommenden Jahrzehnt werden nicht nur mehrere Milliarden menschlicher Nutzer zusätzlich dazukommen , sondern auch dutzende Milliarden Geräte – von Thermostaten bis hin zu industriellen Steuerungssystemen ( das „ Internet der Dinge “ ) .
+All diese sich abzeichnenden Interdependenzen implizieren Schwächen , die von Regierungen und nichtstaatlichen Akteuren ausgenützt werden können .
+Zugleich fangen wir gerade erst an , die Auswirkungen , die dies für die nationale Sicherheit hat , richtig zu verstehen .
+Strategische Studien des Cyberbereichs ähneln jenen zur Nuklearstrategie in den 1950er Jahren : Die Analysten sind sich noch immer nicht im Klaren über die Bedeutung von Angriff , Verteidigung , Abschreckung , Eskalation , Normen und Rüstungskontrolle .
+Der Begriff „ Cyberkrieg “ wird sehr locker auf eine breite Palette von Verhaltensweisen angewandt , die von einfachen Sondierungsmaßnahmen , der Verunstaltung von Websites und DoS-Angriffen bis zu Spionage und Zerstörung reichen .
+Insofern spiegelt er Wörterbuchdefinitionen des Begriffes „ Krieg “ wider , die jedes organisierte Bemühen umfassen , „ etwas zu stoppen oder zu besiegen , das als gefährlich oder schlecht betrachtet wird “ ( z. B. den „ Krieg gegen Drogen “ ) .
+Eine nützlichere Definition von Cyberkrieg ist : jede feindliche Maßnahme im Cyberspace , die physische Gewalt größeren Umfangs verstärkt oder ihr von ihrer Wirkung her gleichkommt .
+Zu bestimmen , ob eine Aktivität dieses Kriterium erfüllt , ist eine Entscheidung , die nur die politische Führung eines Landes treffen kann .
+Es gibt vier wesentliche Kategorien von Cyberbedrohungen für die nationale Sicherheit – jede mit anderem Zeithorizont und ( prinzipiell ) anderen Lösungen : Cyberkrieg und Wirtschaftsspionage stehen überwiegend mit Staaten in Verbindung , und Cyberverbrechen und Cyberterrorismus werden überwiegend mit nichtstaatlichen Akteuren in Verbindung gebracht .
+Die höchsten Kosten rühren gegenwärtig aus Spionage und Verbrechen her , doch könnten sich die beiden anderen im Verlauf des nächsten Jahrzehnts zu größeren Bedrohungen auswachsen , als sie es heute sind .
+Zudem könnten sich die einzelnen Kategorien mit Fortentwicklung von Bündnissen und Taktiken zunehmend überschneiden .
+Während des Kalten Krieges gegrenzte der ideologische Konkurrenzkampf die US-sowjetische Zusammenarbeit , doch führte das Bewusstsein der nuklearen Zerstörungskraft auf beiden Seiten zur Entwicklung eines primitiven Verhaltenskodex zur Vermeidung einer militärischen Konfrontation .
+Zu diesen grundlegenden Vorsichtsregeln gehörte es , von direkten Kämpfen und vom nuklearen Ersteinsatz abzusehen ; zudem gehörte dazu die Kommunikation in Krisensituationen etwa im Rahmen der Vereinbarungen über den „ heißen Draht “ zwischen Moskau und Washington , über Maßnahmen bei Atomunfällen und über Vorfälle auf offener See .
+Der erste offizielle Rüstungskontrollvertrag war das Moskauer Atomteststoppabkommen von 1963 , das in erster Linie als Umweltabkommen betrachtet werden kann .
+Das zweite wichtige Abkommen war der Atomwaffensperrvertrag von 1968 , der darauf abzielte , die Verbreitung von Atomwaffen zu begrenzen .
+Die USA und die Sowjetunion betrachteten beide Vereinbarungen als Positivsummenspiele , weil sie die Natur oder Dritte einbezogen .
+In ähnlicher Weise sind die vielversprechendsten Bereiche einer frühen internationalen Zusammenarbeit zur Cybersicherheit von Dritten ( wie Kriminellen oder Terroristen ) ausgehende Probleme .
+Russland und China streben einen Vertrag über eine breit gefasste Aufsicht der Vereinten Nationen über das Internet an .
+Obwohl ihre Vision der „ Informationssicherheit “ die Zensur durch autoritäre Regierungen legitimieren könnte und daher für demokratische Regierungen inakzeptabel ist , lassen sich möglicherweise Verhaltensweisen ermitteln und ansprechen , die überall ungesetzlich sind .
+Eine Beschränkung sämtlicher Eingriffe wäre unmöglich , doch könnte man beim Cyberverbrechen und beim Cyberterrorismus ansetzen .
+Die wichtigen Länder hätten ein Interesse an Schadensbegrenzung durch Vereinbarung einer Zusammenarbeit in Fragen der Forensik und Kontrolle .
+Natürlich hinken historische Analogien immer .
+Die Cybertechnologie unterscheidet sich offensichtlich sehr stark von der Nukleartechnologie – insbesondere , weil nichtstaatliche Akteure sie sehr viel leichter ausnützen können .
+Trotzdem gibt bereits einige offizielle wie inoffizielle Institutionen , die die grundlegende Funktionsweise des Internets regeln .
+Die USA planen klugerweise , die nichtstaatliche Internet Corporation for Assigned Names and Numbers ( ICANN ) zu stärken , indem sie ihr die Aufsicht über das „ Adressbuch “ des Internets übertragen .
+Daneben gibt es das Übereinkommen über Computerkriminalität des Europarates von 2001 , gemäß dem Interpol und Europol die Kooperation zwischen den nationalen Polizeikräften erleichtern .
+Und eine UN-Gruppe aus Regierungsexperten analysiert bereits seit längerem , wie das Völkerrecht mit der Cybersicherheit in Verbindung steht .
+Es dürfte länger dauern , Übereinkommen zu strittigen Fragen wie Cyberangriffen für Zwecke wie Spionage und Gefechtsfeldvorbereitung abzuschließen .
+Trotzdem braucht die Tatsache , dass es derzeit unmöglich ist , sich ein umfassendes Abkommen zur Cybersicherheit vorzustellen , einen Fortschritt in einigen Fragen zum gegenwärtigen Zeitpunkt nicht zu verhindern .
+Internationale Normen entwickeln sich in der Regel langsam .
+Im Falle der Nukleartechnologie dauerte es zwei Jahrzehnte .
+Die wichtigste Botschaft der jüngsten Konferenz in den Niederlanden war , dass die enorme Anfälligkeit im Cyberbereich diesen Punkt nun näher kommen lässt .

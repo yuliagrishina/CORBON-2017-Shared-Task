@@ -1,0 +1,38 @@
+Ein Umdenken beim Inflation Targeting
+ZÜRICH – In den vergangenen zwanzig Jahren sind die grossen Zentralbanken zunehmend dazu übergegangen , ein Inflationsziel zu verfolgen .
+Inflation Targeting hat sich zur vorherrschenden geldpolitischen Strategie entwickelt , die zwar nicht explizit von der US-amerikanischen Federal Reserve , der Europäischen Zentralbank und der Schweizerischen Nationalbank übernommen wurde , aber implizit auch deren Strategien zugrunde liegt .
+Allerdings hat die globale Wirtschaftskrise von 2008 , von der sich die Welt noch immer nicht völlig erholt hat , dazu geführt , dass Zweifel an diesem Ansatz aufkamen .
+Die Bank für Internationalen Zahlungsausgleich argumentiert seit langem , dass ein reines Inflation Targeting nicht mit Finanzstabilität in Einklang zu bringen ist .
+Es berücksichtigt den Finanzzyklus nicht , was zu einer übermässig expansiven und asymmetrischen Geldpolitik führt .
+Fragwürdig ist zudem ein Hauptargument für das Inflation Targeting – dass es zu einem Rückgang der Inflation seit den frühen 1990er Jahren beigetragen habe .
+Der Rückgang der Teuerungsraten begann dank der entschlossenen Massnahmen des damaligen Vorsitzenden der US-Federal-Reserve Paul Volcker bereits in den frühen 1980er Jahren – weit vor der Erfindung der Inflationsziele .
+Und seit den 1990er Jahren war der Hauptgrund für die Abnahme des weltweiten Inflationsdrucks wahrscheinlich eher die Globalisierung – insbesondere die Integration Chinas in die Weltwirtschaft .
+Der jüngste Anhaltspunkt dafür , dass man den Rückgang der Inflationsraten seit den 1990er Jahren nicht dem Inflation Targeting zuschreiben kann , ist der erfolglose Versuch einer zunehmenden Anzahl von Zentralbanken , ihre jeweilige Volkswirtschaft wieder zu reflationieren : wenn Zentralbanken die Inflation derzeit nicht ankurbeln können , dann waren sie vermutlich auch nicht die treibende Kraft hinter dem früheren Rückgang der Inflation .
+Das ursprüngliche Ziel der Zentralbanken war nicht die Stabilität der Verbraucherpreise . Die entsprechenden Indizes wurden bei Gründung vieler Zentralbanken noch gar nicht erhoben .
+Zentralbanken wurden eingeführt , um die Staatsfinanzierung zu sichern .
+Später wurde ihre Aufgabe um die Rolle als Kreditgeber der letzten Instanz erweitert .
+Erst während der exzessiven Inflation der 1970er Jahre verschob sich der Fokus der Zentralbanken auf die Bedeutung eines stabilen Geldwertes .
+Aber wie misst man den Wert des Geldes ?
+Ein Ansatz beruht darauf , die Kaufkraft , also die Preise , zu messen , und der naheliegende Indikator dafür ist der Verbraucherpreisindex . Allerdings sind die Verbraucherpreise kein perfekter Indikator für den Wert des Geldes .
+Es existiert kein Preisindex , der exakt den Wert des Geldes reflektiert . Grund dafür ist die mangelnde Stabilität der Beziehung zwischen der Geldmenge , die letztlich den Geldwert bestimmt , und den Preisen .
+Zunächst einmal ist die Zeitverzögerung zwischen Veränderungen der Geldmenge und den Preisbewegungen lang , schwankend und unvorhersehbar .
+Daher garantiert die Stabilisierung der Verbraucherpreise auch auf eine Frist von zwei bis drei Jahren langfristig noch keinen stabilen Geldwert .
+Darüber hinaus führen verschiedene Messmethoden der Verbraucherpreise zu unterschiedlichen Ergebnissen , die insbesondere von der Messung der Wohnkosten und der Anwendung hedonischer Methoden abhängen .
+Kurz gesagt , die Geldpolitik stützt sich beim Inflation Targeting auf eine unpräzise , kleine und schrumpfende Teilmenge der Preise , die mit grosser und schwankender Verzögerung auf Veränderungen der Geldmenge reagiert .
+Leider haben sich die Bemühungen der Geldpolitiker verselbständigt , das Ziel eines stabilen Geldwertes zu operationalisieren . So postulieren etwa die heutigen ökonomischen Lehrbücher , ein Hauptziel der Zentralbanken sei nicht der stabile Geldwert , sondern die Stabilisierung der Verbraucherpreise .
+Zudem wird Inflation von Ökonomen heutzutage als Anstieg der Verbraucherpreise definiert , während Inflation im Grunde ein sinkender Geldwert infolge einer exzessiver Erhöhung der Geldmenge ist .
+Es kommt dazu , dass die Zentralbanken heute routinemässig die Verantwortung für alle Preise mit Ausnahme der Verbraucherpreise weit von sich weisen und damit übersehen , dass sich der Geldwert in allen Preisen spiegelt , also auch in denjenigen für Rohstoffe , Immobilien , Aktien , Anleihen und , vielleicht am wichtigsten , in den Wechselkursen .
+Kurz gesagt , die Preisstabilisierung durch Inflationsziele ist zwar ein lobenswertes Ziel , aber wegen des engen – und auch noch relativ kurzfristigen – Fokus auf die Verbraucherpreise problematisch .
+Verdeutlicht wurde dies durch die steigenden Immobilienpreise in vielen Ländern vor der Krise von 2008 , den rapiden Fall der Aktien- und Rohstoffpreise direkt nach der Pleite von Lehman Brothers , die seitherige Rückkehr zur Vermögenspreisinflation und die aktuellen starken Währungsschwankungen .
+All dies ist mit einem stabilen Geldwert nicht zu vereinbaren .
+Der ausschliessliche Fokus der Zentralbanken auf die Verbraucherpreise könnte sogar kontraproduktiv sein .
+Eine solche Geldpolitik kann die effiziente Kapitalallokation unterminieren , Fehlinvestitionen fördern und damit die wirtschaftlichen Strukturen verzerren , wachstumsfördernde kreative Umwälzung blockieren , die Risikobereitschaft steigern und den Keim für zukünftige Instabilitäten des Geldwertes legen .
+Innerhalb einer komplexen und sich ständig entwickelnden Wirtschaft trägt das mechanistische System der Inflationssteuerung somit nicht zur Stabilisierung des Geldwertes bei .
+Nur ein gleichermassen komplexer und hochgradig anpassungsfähiger geldpolitischer Ansatz ist dazu in der Lage – ein Ansatz , der das Risikomanagement in den Mittelpunkt stellt und gleichzeitig weniger auf starre mathematische Formeln abstellt , sondern auch Platz lässt für das Urteilsvermögen der geldpolitischen Entscheidungsträger .
+Ein solcher Ansatz wäre weniger vorhersehbar , würde die heute von vielen Notenbanken praktizierte Erwartungssteuerung ( Forward Guidance ) ausschliessen und so übermässige Risikobereitschaft verhindern .
+Wie ein stabilitätsorientiertes System aussehen könnte , lehrt uns die Geschichte .
+Im letzten Viertel des zwanzigsten Jahrhunderts verwendeten viele Zentralbanken Zwischenziele , darunter auch monetäre Aggregate . Daneben könnten auch Kredite , Zinssätze , Wechselkurse , Preise für Kapitalanlagen sowie Risikoprämien als mögliche Zwischenziele dienen .
+In der derzeitigen unorthodoxen Geldpolitik spielen all diese Grössen eine zunehmende Rolle , sicherlich auch als Reflex des Versagens der orthodoxen Inflationssteuerung , ihre selbstgesetzten Ziele zu erreichen .
+Kurzfristig stabile Verbraucherpreise sind kein Garant für wirtschaftliche , finanzielle oder monetäre Stabilität .
+Es wird Zeit , dass die Zentralbanken diese Tatsache akzeptieren und zu einem umfassenden und langfristigen geldpolitischen Ansatz zurückkehren – auch wenn dies bedeutet , dass die Entwicklung der Verbraucherpreise kurzfristig von dem abweicht , was heutzutage als „ Preisstabilität “ bezeichnet wird .
+Temporäre Schwankungen eines engen und unpräzise gemessenen Verbraucherpreisindex sind ein geringer Preis für die Sicherung der langfristigen Stabilität des Geldes .

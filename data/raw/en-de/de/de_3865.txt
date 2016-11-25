@@ -1,0 +1,39 @@
+Sind Aktien überbewertet ?
+MAILAND – Seit der Weltwirtschaftskrise haben deutliche Unterschiede bei der wirtschaftlichen Entwicklung zu beträchtlicher Volatilität an den Aktienmärkten beigetragen .
+Inzwischen stoßen die Aktienkurse auf ein nach traditionellen Maßstäben relativ hohes Bewertungsniveau vor – und die Anleger fangen an , nervös zu werden .
+Die Frage ist , ob die Aktienbewertungen im Vergleich zum künftigen Ertragspotenzial übertrieben sind .
+Die Antwort hängt von zwei zentralen Variablen ab : dem Abzinsungsfaktor und dem künftigen Ertragswachstum .
+Ein niedriger Abzinsungsfaktor bzw. ein höheres erwartetes Ertragswachstum würden höhere Aktienbewertungen rechtfertigen .
+Das Kursgewinnverhältnis ( KGV ) des S & amp ; P-Index für die vergangenen zwölf Monate liegt bei knapp 20 , gegenüber einem langfristigen Mittel von 15,53 und einem Medianwert von 14,57 . Das KGV des Shiller-Index – der auf dem durchschnittlichen realen ( inflationsbereinigten ) Ertrag der letzten zehn Jahre beruht – liegt bei 27,08 , mit einem Mittel von 16,59 und einem Medianwert von 15,96 . Und im Februar erreichten die KGV-Erwartungen für die kommenden zwölf Monate , die auf den Ertragsprognosen von Managern aufbauen , mit 17,1 ihren höchsten Stand in elf Jahren .
+Der Fünf- bzw. Zehnjahresdurchschnitt liegt hier bei etwa 14 , und der Fünfzehnjahresdurchschnitt bei 16.
+Die jüngste Entwicklung an den Aktienmärkten wird häufig auf die unkonventionelle Geldpolitik zurückgeführt , die viele Notenbanken in letzter Zeit verfolgt haben .
+Mit dieser Politik wurde die Rendite von Staatsanleihen bewusst gesenkt , was die Anleger zwang , sich auf Märkten für hochriskante Vermögensanlagen wie etwa Aktien , Anleihen mit geringerer Bonität und ausländische Wertpapiere um höhere Renditen zu bemühen .
+Laut der Standardsicht neigen die Aktienkurse dazu , sich dem Barwert der geschätzten zukünftigen Erträge ( einschließlich des Wachstums dieser Erträge ) anzunähern , diskontiert um den sogenannten „ risikofreien Zinssatz “ , erhöht um einen Risikoaufschlag für Aktien .
+Genauer gesagt , entspricht die prognostizierte Gewinnrendite – das heißt der Kehrwert des KGV – dem risikofreiem Zinssatz zuzüglich des Risikoaufschlags der Aktien abzüglich der Wachstumsrate der Erträge .
+( Natürlich machen die Märkte auf dem Weg dorthin Umwege , die etwa durch irrationalen Überschwang , einen vorübergehenden Rückgang des Einflusses wertorientierter Investoren oder schlecht getimte antizyklische Geschäfte bedingt sein können . )
+Die Geldpolitik könnte die Aktienkurse nun auf zweierlei Weise in die Höhe getrieben haben : entweder durch Absenkung des Abzinsungsfaktors durch Komprimierung des Risikoaufschlags auf Aktien , oder schlicht durch Senkung der risikofreien Zinssätze für einen ausreichend langen Zeitraum , um den Barwert der Aktien anzuheben .
+In beiden Fällen dürften die Aktien früher oder später eine Abschwächung ihrer Kursentwicklung , sodass die Erträge aufholen können , oder sogar eine Abwärtskorrektur erleben .
+Doch obwohl plausibel , ist die Erklärung unter Rückgriff auf die Geldpolitik nicht hieb- und stichfest .
+Auch andere Faktoren könnten die aktuellen Trends an den Aktienmärkten erklären oder zumindest dazu beitragen .
+Ein zentraler Faktor ist das Ertragswachstum .
+Langfristig ist es eine begründete Annahme , dass das Umsatzwachstum mehr oder weniger mit dem Wirtschaftswachstum übereinstimmen dürfte – und gegenwärtig ist an dieser Front kaum eine Besserung zu verzeichnen .
+Allerdings können die Erträge für einen längeren Zeitraum ( wenn auch nicht unbegrenzt ) schneller wachsen als die Umsatzerlöse , wenn die Unternehmen ihre Kosten senken oder die Investitionen zurückfahren – ein Trend , der im Laufe der Zeit den Abschreibungsaufwand verringern würde .
+Eine Senkung der Körperschaftssteuer könnte theoretisch dieselbe Wirkung haben .
+Darüber hinaus könnten sich die Gleichgewichtsbedingungen der Volkswirtschaft so ändern , dass ein größerer Anteil des Volkseinkommens auf die Gesamterträge entfällt .
+Es gibt Hinweise , dass dies derzeit in den hochentwickelten Volkswirtschaften passiert , weil die Verbreitung arbeitssparender digitaler Technologien und die Globalisierung der Lieferketten auf das Einkommenswachstum drücken .
+Andererseits könnten einige Trends einen gegenteiligen Effekt auf die Erwartungen für das Ertragswachstum haben .
+Mehr als 40 % der Erträge der S & amp ; P-500-Unternehmen stammen aus Märkten außerhalb der USA , von denen einige – wie Europa und Japan – derzeit kaum Wachstum aufweisen , während in anderen – wie China – ein Abschwung zu verzeichnen ist .
+Die Aufwertung des Dollars verschärft die Lage für die US-Märkte , denn sie schafft Gegenwind für Exporteure und führt zu einem Rückgang der in Dollar ausgewiesenen Auslandserträge der Unternehmen .
+Und eine Verlangsamung bei der Produktivitätszunahme könnte zusammen mit einer übermäßigen Fremdkapitalisierung und der anhaltend unzureichenden Investitionstätigkeit im öffentlichen Sektor das Wachstumspotenzial mittelfristig untergraben .
+Obwohl Erwartungen an ein stärkeres Ertragswachstum durchaus zu erhöhten KGV-Ständen beitragen könnten , ist die derzeitige Situation gelinde gesagt kompliziert .
+Sicher ist , dass Erwartungen auf ein hohes Ertragswachstum einen nachhaltigeren positiven Effekt auf das KGV-Niveau haben würden als die Niedrighaltung des Risikoaufschlags für Aktien .
+Der andere wichtige Faktor , der das KGV beeinflusst , ist der risikolose Zinssatz .
+Mit zunehmender Normalisierung der Geldpolitik – ein Prozess , der in den USA bereits eingesetzt hat – dürfte der risikolose Zinssatz auf ein Niveau steigen , der mit einer stabilen Preissteigerungsrate von 2 % im Einklang steht , was wiederum mit einem bestimmten Niveau der Arbeitslosigkeit einhergeht .
+Wie hoch genau diese Quote ist , bleibt unklar – und ist äußerst schwer festzustellen angesichts der Tatsache , dass sie durch praktisch jeden Aspekt der sich entfaltenden Wachstumsmuster beeinflusst wird .
+Trotzdem fallen eine Reihe von Merkmalen der aktuellen Wachstumsmuster ins Auge : überschüssige Produktivkapazitäten , eine anhaltend hohe Fremdkapitalisierung , ein schwindender Arbeitsanteil bei der Produktion von Waren und Dienstleistungen und eine zunehmend ungleiche Einkommensverteilung zwischen Arbeit und Kapital einerseits und zwischen verschiedenen Segmenten des Arbeitseinkommens mit ihren unterschiedlichen Sparquoten andererseits .
+Zusammen könnten diese Muster zu einem längeren Zeitraum führen , in dem die Gesamtnachfrage das Wachstum begrenzt .
+Da das Wachstum auf der Angebotsseite nicht eingeschränkt wird , gäbe es kaum Inflationsdruck , und der neutrale Zinssatz , der mit einer nicht inflationären Vollbeschäftigung einhergeht , könnte schlicht niedriger sein , als er es für einen langen Zeitraum war .
+Was bedeutet dies für uns ?
+Aus meiner Sicht ist es in diesem Umfeld schwierig , starke Argumente für ein nachhaltig hohes Ertragswachstum zu finden . Daher lassen sich die gegenwärtigen Aktienbewertungen über das Wachstum allein nicht rechtfertigen .
+Das Argument des niedrigen Abzinsungsfaktors freilich ist überzeugender und steht im Einklang mit den wirtschaftlichen Rahmenbedingungen und den Mandaten der Notenbanken .
+Allerdings ist in einem derart komplexen Umfeld zu erwarten , dass die Anleger zu deutlich unterschiedlichen Schlussfolgerungen kommen , was die gegenwärtige Marktvolatilität weiter aufrechterhalten und möglicherweise sogar weiter steigern dürfte .

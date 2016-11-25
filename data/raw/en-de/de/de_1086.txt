@@ -1,0 +1,42 @@
+Die Zählung irakischer Kriegsopfer
+In Kriegszeiten ist es fast immer schwierig , genaue Zahlen über zivile Kriegsopfer zu bekommen .
+Abgesehen von ein paar Ausnahmen haben sich Demographen und Epidemiologen nicht mit der Erarbeitung exakter und glaubwürdiger Schätzungen der Mortalität und Morbidität in der Zivilbevölkerung beschäftigt .
+Manchmal ist ein Mangel an beruflicher Freiheit dafür verantwortlich , dass gerade diejenigen , die mit den Daten am besten vertraut sind , ihr Wissen nicht für eine Sache einsetzen , deren Zweck politisch gefährlich sein könnte – wie beispielsweise Experten , deren Existenz von einer in den Konflikt verwickelten Regierung abhängig ist .
+Es gibt aber auch noch andere Probleme .
+Die Trennung zwischen den unmittelbaren Auswirkungen eines Konflikts und anderen Interventionen ( wie beispielsweise Wirtschaftssanktionen ) ist manchmal unmöglich .
+Auch qualitativ hochwertige Bevölkerungsdaten sind nicht immer verfügbar . Dies aufgrund ihres „ sensiblen Charakters ” oder weil man sie einfach nie erfasst hat ( wie dies in manchen Entwicklungsländern der Fall ist ) oder weil derartige Daten durch später einsetzende Flüchtlingsströme obsolet wurden .
+Aus diesem Grund ist der Unsicherheitsfaktor solcher Schätzungen oft viel zu hoch , wodurch sich auch ihr praktischer Wert als gering erweist .
+Man denke beispielsweise an die verschiedenen Versuche , die Opferzahlen des Krieges im Irak zu untersuchen .
+Beim Projekt „ Iraq Body Count ” werden nur Opfer gezählt , die durch Gewaltakte im gegenwärtigen Krieg umgekommen sind . Die Zählung erfolgt auf Grundlage von Medienberichten .
+Wenn es keine Doppelzählungen gab und die Angaben in den Berichten korrekt waren , dann entspricht das Ergebnis dieser Zählung einer Mindestopferzahl , denn Medienberichte sind nicht immer allumfassend .
+Mit einer anderen Methode wird die durch den Krieg verursachte Gesamtänderung der Sterberate geschätzt ( inkludiert werden Todesfälle aufgrund der direkten und indirekten Auswirkungen des Krieges ) , indem man sie mit den Sterberaten der Vorkriegszeit vergleicht .
+Dazu werden Daten benötigt , aufgrund derer man den Anstieg der Sterberate berechnen kann . Erhoben werden diese Daten üblicherweise durch Befragungen in zufällig ausgewählten Haushalten .
+Dabei wird der Haushaltsvorstand gebeten , Angaben über die Anzahl der vor dem Krieg im Haushalt lebenden Personen und deren demographische Daten zu machen , darüber , ob Personen , die vor dem Krieg im Haushalt lebten , zwischen Vorkriegszeit und dem Zeitpunkt der Befragung gestorben sind und wann genau sie zu Tode kamen .
+Werden diese Haushaltsbefragungen ordnungsgemäß durchgeführt , kann die Zahl der kriegsbedingten zusätzlichen Todesfälle innerhalb einer gewissen statistischen Unsicherheit beziffert werden .
+Werden die Haushaltsbefragungen allerdings in Kriegszeiten durchgeführt , nehmen die Risiken überhand .
+Zur Gefahr für den Befrager selbst , während eines Konflikts , diese Daten zu erheben , kommen noch die Risiken einer Selektionsverzerrung durch die Auswahl der befragten Haushalte , der Mangel an glaubwürdigen Bevölkerungsdaten , für die geänderte Sterblichkeitsraten gelten sowie falsche oder missverständliche Angaben der Befragten .
+Diese Methode wurde zweimal von einem vornehmlich mit Forschern der Johns Hopkins University besetzten Team angewandt , das seine Ergebnisse im Medizin-Fachjournal The Lancet publizierte .
+Die Zahlen der Wissenschaftler wurden einerseits gewürdigt , ernteten andererseits aber auch Kritik , weil die Forscher ihre eigenen Zahlen falsch interpretierten .
+So schrieben sie beispielsweise in einer Zusammenfassung der im Jahr 2004 durchgeführten Studie : „ Aufgrund konservativer Schätzungen , glauben wir , dass es seit der Invasion des Irak im Jahr 2003 100.000 oder mehr zusätzliche Todesfälle gegeben hat . “ Die erste Studie ergab allerdings eine sehr ungenaue Schätzungen der Todesfälle , was die Autoren jedoch verschwiegen .
+Richtigerweise hätten sie schreiben müssen : „ Wir können mit 95 % iger Sicherheit sagen , dass es innerhalb dieses Zeitraums zwischen 8.000 und 194.000 zusätzliche irakische Todesopfer gegeben hat . “
+Im Jahr 2006 wiederholte das Forscherteam die Studie im Wesentlichen .
+Diesmal wurde allerdings eine größere Anzahl von Haushalten in die Studie einbezogen . Wieder ließen die Forscher Befragungen durchführen , die einer typischen Befragung zufällig ausgewählter Haushalte glich .
+Am Ende des Artikels im Lancet werden von den Autoren richtigerweise jene Dinge angesprochen , die dazu geführt haben könnten , dass die ausgewählten Haushalte tatsächlich nicht dem Kriterium der „ Zufälligkeit “ entsprachen .
+Auch bei diesem zweiten Anlauf haperte es bei der Interpretation .
+Um den Anstieg der Mortalität zu erklären , bedienten sich die Autoren der „ rohen Sterberate “ ( CDR ) , welche die Anzahl der Todesfälle je 1.000 Einwohner angibt .
+Demographen bedienen sich allerdings selten der CDR , sondern nutzen eher alters- und geschlechtsspezifische Sterberaten , die gemeinhin unter dem Begriff „ Lebenserwartung “ zusammengefasst werden .
+Gleichwohl berichtete das Wissenschafterteam , dass die CDR von 5,5 im Jahr 2002 auf 13,3 im Zeitraum nach der Invasion ( März 2003 bis März 2006 ) angestiegen sei .
+Um die Zahlen aus der Zeit vor der Invasion ins rechte Licht zu rücken , betrachte man die Zahlen der UNO-Bevölkerungsabteilung , denen allgemein hohe Qualität bescheinigt wird .
+Die UNO schätzt die CDR im Irak vor der Invasion auf 10 und nicht auf 5 , wie in den beiden Studien angegeben .
+Im internationalen Vergleich gibt die UNO für den Iran zwischen 2002 und 2005 eine CDR von 5,3 pro tausend Einwohner an .
+Vor dem Krieg , so sind sich meisten Beobachter einig , war die Situation im Irak um einiges schlimmer als im Iran .
+Die in den beiden Lancet -Studien veröffentlichten CDR-Werte der Vorkriegszeit scheinen also zu niedrig zu sein .
+Sie sind vielleicht nicht falsch , aber die Autoren sollten eine glaubwürdige Erklärung abgeben , warum ihre CDR-Werte der Vorkriegszeit nur ungefähr halb so hoch sind wie die der UNO-Bevölkerungsabteilung .
+Wenn die Sterblichkeitsrate vor dem Krieg zu niedrig angesetzt war und / oder die Bevölkerungszahlen zu hoch geschätzt waren – weil man beispielsweise Flüchtlingsströme aus dem Irak nicht berücksichtigte – wären auch die daraus resultierenden Schätzungen der „ zusätzlichen Todesfälle “ überhöht .
+Auf grundlegenderer Ebene stellt sich die Frage , welchem Zweck diese Zahlen dienen .
+Natürlich spielen Zahlen eine Rolle bei der Evaluierung von Kosten und Nutzen eines Krieges ( so es überhaupt einen Nutzen gibt ) .
+Leisten diese Zahlen in Wirklichkeit aber irgendeinen Beitrag zur Debatte ?
+Gehen daraus wirklich mehr Informationen hervor als aus den Zahlen des Iraq Body Count ?
+Verfügen wir über den dazugehörigen Kontext , der nötig ist , um die Zahlen richtig zu interpretieren ?
+Der Krieg im Irak ist extrem blutig .
+Das ist alles , was uns die Statistik im Moment mit Sicherheit sagen kann .

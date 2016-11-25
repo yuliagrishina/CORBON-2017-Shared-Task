@@ -1,0 +1,45 @@
+Dem Jungbrunnen auf der Spur
+Seitdem der Mensch über ein Bewusstsein verfügt , beschäftigt er sich mit seiner eigenen Sterblichkeit und träumt davon , diese zu überwinden .
+Bis vor kurzem war sogar die Vorstellung unsere Lebenszeit zu kontrollieren noch eine reine Utopie , die nicht mit dem aktuellen Forschungsstand in Einklang zu bringen war .
+Jüngste Forschungsergebnisse deuten allerdings darauf hin , dass man die molekulare Basis des Alterungsprozesses bald im Detail durchschaut haben könnte .
+Die praktische Anwendung dieser Erkenntnisse könnte auf dem Fuß folgen .
+Der wissenschaftliche Durchbruch gelang allerdings nicht durch Versuche am Menschen oder an Ratten und Mäusen , sondern durch die Forschungsarbeit mit einfachen Organismen wie Hefebakterien und Rundwürmern .
+Daraus ergaben sich bedeutende , allgemein gültige Aufschlüsse , die eine umfassende Neubewertung des Alterungsprozesses erfordern .
+In der herkömmlichen Evolutionstheorie wird die Alterung als Prozess gesehen , der nach der Reproduktionsphase eintritt und durch allgemeines Nachlassen der Zellfunktion gekennzeichnet ist .
+Die darwinistische Selektionstheorie geht schließlich davon aus , dass der allgemeine Verfall eines Individuums , das seine Gene schon an die nächste Generation weitergegeben hat , unaufhaltsam wäre .
+Nach dieser Theorie stagnieren viele Prozesse auf zellulärer und organischer Ebene gleichzeitig . Das Altern hätte also mannigfaltige Ursachen .
+Das würde bedeuten , dass man den Alterungsprozess verlangsamen könnte , wenn man die Fehlfunktionen einer großen Anzahl von Genen nach der Reproduktionsphase beseitigte .
+Die kürzlich aus der Forschungsarbeit mit Hefe und Rundwürmern gewonnenen Erkenntnisse legen allerdings eine andere Sichtweise nahe .
+Es stellte sich heraus , dass selbst Mutationen in einem einzigen Gen zu einer beträchtlichen Verlängerung der Lebensspanne und einer damit verbundenen Verlangsamung des Alterungsprozesses führen können .
+Wie ist das aber möglich , wenn die Alterung doch mannigfaltige Ursachen hat , wie in der Evolutionstheorie behauptet ?
+Die Antwort liegt in den Molekülen jener Gene , in denen Mutationen zu längerer Lebenserwartung führen .
+So bestimmt beispielsweise ein Gen namens SIR2 die Lebensspanne von Hefezellen und Rundwürmern .
+Wenn durch Genmanipulation eine Kopie dieses Gens in das Erbmaterial beider Organismen eingebracht wird , verlängert sich ihr Leben .
+Umgekehrt verkürzt sich die Lebensspanne , wenn man SIR 2 aus dem Erbmaterial entfernt .
+Sowohl bei Hefe als auch bei Würmern scheint SIR2 auf die Verfügbarkeit von Nahrung zu reagieren und den Alterungsprozess in Mangelzeiten durch die Ausbildung von speziellen Existenzformen - Sporen bei Hefe und Dauerlarven bei Würmern - zu verlangsamen . Diese beiden Lebensformen können außergewöhnlich lange ohne Nahrung existieren .
+Wenn sich die Bedingungen verbessern , erwachen diese schlummernden Lebensformen zu neuem Leben und beginnen sich zu reproduzieren .
+Diese Überlebensfunktion von SIR2 - Verhinderung der Alterung und Reproduktion in Hungerzeiten - ist anpassungsfähig und daher überall in der Natur zu finden .
+Die klassische Evolutionstheorie der Alterung muss daher modifiziert werden .
+In Zeiten des Überflusses wird der Alterungsprozess nach der Reproduktionsphase vorangetrieben . Wie von Evolutionsbiologen behauptet , stellen viele Gene ihre Funktion ein und es kommt zu einem generellen Verfall des Organismus .
+In Zeiten des Mangels jedoch schaltet sich ein Überlebensprogramm ein , dass den Alterungsprozess verlangsamt .
+Noch faszinierender ist , dass ein einzelnes Gen diesen Überlebensmechanismus in unzähligen Lebensformen aktivieren kann .
+Fördert SIR2 nun auch das Überleben bei Säugetieren ?
+Interessanterweise bestimmt das SIR2-Gen in Kulturen von Mäuse- oder Humanzellen die Reaktion der Zelle auf eine Beschädigung der DNA .
+Sind die Zellen einem schädigenden Einfluss ausgesetzt , können sie darauf mit Selbstmord reagieren .
+Bei Säugetieren stimmt SIR2 diesen Prozess ab . Ein höherer SIR2-Wert vermindert die Selbstmordrate der Zellen .
+Ebenso wie bei Hefe und Rundwürmern fördert SIR2 also auch bei Säugetieren das Überleben - in diesem Fall das der Kulturzellen .
+Heißt das nun , dass der Alterungsprozess bei Säugetieren zumindest teilweise auf einen schrittweisen Zellverlust und ein daraus resultierendes Organversagen zurückzuführen ist ?
+Möglich , aber wir dürfen nicht vergessen , dass der Selbstmord der Zellen eine Möglichkeit ist , genetisch beschädigte Zellen loszuwerden , bevor aus ihnen ein Tumor entsteht .
+Daher könnte eine erhöhte SIR2-Aktivität bei Säugetieren zu Krebs führen , da geschädigte Zellen zu lange am Leben erhalten werden .
+Das allerdings scheint aus zwei Gründen unwahrscheinlich .
+Erstens , weil es aus evolutionstheoretischer Sicht wenig Sinn macht , dass Gene , die von Natur aus das Überleben fördern sollen , Krebs verursachen .
+Zweitens zeigen jüngste Experimente an genveränderten Mäusen , dass der Zellselbstmord verlangsamt werden kann , ohne dass dabei Krebs entsteht .
+Es muss also einen Mechanismus geben , der den Zellselbstmord ohne Krebsentstehung verringert und die Lebenszeit verlängert .
+Die praktischen Auswirkungen dieser Erkenntnise wären zweifellos revolutionär .
+Wenn einzelne Gene die Lebenserwartung von Säugetieren bestimmen , könnte man Medikamente entwickeln , die sich an die Proteine dieser Gene heften und ihre Aktivität beeinflussen .
+Es könnte also bald Medikamente geben , die den Alterungsprozess verlangsamen .
+Würden diese Medikamente aber unsere Jugend und Vitalität erhalten oder nur unseren Aufenthalt im Altersheim verlängern ?
+Um eine Antwort auf diese Frage zu erhalten , sei auf die Auswirkungen einer reduzierten Kalorienzufuhr verwiesen . Dadurch wurde die Lebenserwartung vieler Organismen , von Hefebakterien bis zu Säugetieren verlängert .
+Bei Hefe wurde dieser Prozess auf molekularer Basis erforscht und es stellte sich heraus , dass die durch Kalorienreduktion ausgelöste Langlebigkeit durch SIR2 vermittelt wird .
+Bei Säugetieren haben wir die molekulare Basis der Langlebigkeit noch nicht entdeckt .
+Was wir allerdings wissen ist , dass Tiere , die nicht mit einem Überangebot an Nahrung leben , ihr ganzes verlängertes Leben hindurch kräftig und gesund sind .

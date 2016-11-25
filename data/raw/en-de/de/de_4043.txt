@@ -1,0 +1,41 @@
+Das Bankenrätsel
+BARCELONA : Zentralbanker und Regulierer neigen zu der Sorge , dass zu viel Wettbewerb im Finanzsektor Instabilität und das Risiko eines Systemversagens erhöht .
+Kartellbehörden andererseits neigen einem „ Je mehr Wettbewerb , desto besser “ zu .
+Beide können nicht Recht haben .
+Es gibt einen Widerspruch zwischen Wettbewerb und Stabilität .
+Tatsächlich kann mehr Wettbewerbsdruck die Fragilität der Bankbilanzen erhöhen und die Anleger panikanfälliger machen .
+Er kann zudem den Charter Value ( d.h. den abdiskontierten Gegenwartswert der künftigen Gewinne ) der Institute untergraben .
+Eine Bank mit knappen Margen und begrenzter Haftung hat nicht viel zu verlieren und wird daher eher geneigt sein , zu zocken – eine Tendenz , die durch Einlageversicherungen und eine Politik der Rettung systemrelevanter Banken noch verschärft wird .
+Das Ergebnis sind zusätzliche Anreize , Risiken einzugehen .
+Tatsächlich sind die Belege für Fehlanreize zur Risikoübernahme für Banken , die kurz vor dem Scheitern stehen , in liberalisierten Systemen überwältigend .
+Dies ist der Grund , warum nach Beginn der Liberalisierung der Finanzsysteme in der entwickelten Welt in den 1970er Jahren Zahl und Schwere der Krisen zunahmen , beginnend in den USA .
+Diese neue Verletzlichkeit steht im starken Widerspruch zu der Stabilität in der überregulierten Phase nach dem Zweiten Weltkrieg .
+Die Krisen in den USA in den 1980er Jahren ( verursacht durch die als „ Thrifts “ bekannten Sparkassen ) und in Japan und Skandinavien in den 1990er Jahren zeigten , dass Finanzliberalisierung ohne ordnungsgemäße Regulierung zu Instabilität führt .
+In einer idealen Welt ließe sich der Widerspruch zwischen Wettbewerb und Stabilität durch ausgeklügelte risikobasierte Versicherungsmechanismen , glaubwürdige Liquidierungs- und Auflösungsverfahren , bedingte Pflichtwandelanleihen und Kapitalanforderungen , die für systemische Institute Aufschläge vorsehen , wegregulieren .
+Das Problem ist , dass sich Marktversagen durch Regulierung kaum völlig ausschließen lassen dürfte : Der Widerspruch zwischen Wettbewerb und Stabilität lässt sich verringern , aber nicht auflösen .
+So hat etwa die unabhängige britische Kommission für das Bankwesen ( ICB ) vorgeschlagen , Privatkundengeschäft und Investmentbanking in separat kapitalisierten Sparten einer Banken-Holding voneinander abzugrenzen .
+Dieser Kompromiss zielt darauf ab , den Anreiz , mit einer öffentlichen Versicherung zu zocken , zu minimieren und gleichzeitig gewisse Skaleneffekte für das Bankengeschäft zu erlauben .
+Doch der Teufel steckt im Detail , und selbst im optimistischsten Szenario bleibt ein Widerspruch zwischen Wettbewerb und Stabilität .
+Ein Mangel der angesprochenen Maßnahme ist , dass die Krise sowohl Universal- als auch spezialisierte Banken getroffen hat .
+Zudem wird die Festlegung der Grenze zwischen Privatkundengeschäft und Investmentbanking eine wichtige Grauzone bestehen lassen und Fehlanreize hervorrufen .
+Und das regulatorische Grenzproblem besteht fort : Riskante Aktivitäten können sich in Bereiche verlagern , wo die Regulierung lasch ist , und die Probleme mit dem Schatten-Bankensystem , die wir während der Krise erlebt haben , reproduzieren .
+Infolgedessen müssen dann vielleicht Investmentbanken gerettet werden , wenn von ihnen ein systemisches Risiko ausgeht .
+Das massive Versagen der Regulierer , das durch die 2008 einsetzende Finanzkrise aufgedeckt wurde , unterstreicht die Notwendigkeit , sich auf Reformen zu konzentrieren , die den Banken die richtigen Anreize setzen .
+Doch die Vergangenheit legt nahe , dass wir uns der Beschränkungen der Regulierung bewusst sein sollten .
+Die britische ICB hat zu Recht darauf verwiesen , dass angesichts des gegenwärtigen schwachen Regulierungsrahmens Raum für die Verbesserung von Wettbewerb und Stabilität besteht , aber dass es unklug wäre , die Macht des Marktes im Bankwesen völlig ausschalten zu wollen .
+Das Design einer optimalen Regulierung muss die Wettbewerbsintensität in den verschiedenen Banksegmenten berücksichtigen .
+So sollten etwa Aufschläge bei den Kapitalanforderungen das Maß an Reibung und Rivalität im Bankensektor berücksichtigen : In stärker wettbewerbsgeprägten Zusammenhängen sollten die Anforderungen schärfer sein .
+Es folgt daraus , dass prudentionelle Regulierung und Wettbewerbspolitik im Bankwesen koordiniert werden sollten .
+Dies gilt umso mehr in Krisensituationen , in denen ein Protokoll der Zusammenarbeit umgesetzt werden sollte , um Hilfe bei der Liquiditätsbeschaffung von der Rekapitalisierung abzugrenzen und die Bedingungen für Restrukturierungen festzulegen , um Wettbewerbsverzerrungen zu vermeiden .
+Was für Implikationen hat dies für die Marktstruktur ?
+Die Konzentration in wohldefinierten Einlage- und Kreditmärkten ist mit dem Wettbewerbsdruck verknüpft .
+In stärker konzentrierten Märkten neigen die Banken dazu , ihren Kunden schlechtere Bedingungen zu bieten .
+Die Krise hat sowohl konzentrierte Bankensysteme ( z.B. Großbritannien und die Niederlande ) als auch nicht konzentrierte Systeme ( z.B. die USA und Deutschland ) getroffen .
+In beiden Fällen hat sie zu Konsolidierungen geführt : Geblieben sind weniger Akteure mit größerer Marktmacht und systemrelevantem Status .
+Man denke an die Übernahme der in Schwierigkeiten geratenen HBOS ( Halifax / Bank of Scotland ) in Großbritannien oder an die nachkrisliche Konsolidierung in den USA .
+All dies wäre weniger problematisch , wenn die gewachsene Marktmacht der fusionierten Institutionen eine vorübergehende Belohnung für umsichtiges Verhalten in der Vergangenheit wäre .
+In diesem Fall würden die Vorteile mit dem Markteintritt neuer Wettbewerber an Bedeutung verlieren .
+Aber wenn sich die Marktmacht der Banken aufgrund von Eintrittsbarrieren erhöht , leiden Verbraucher und Investoren .
+Nötig ist eine aktive Wettbewerbspolitik .
+Doch das Ausmaß , in dem die Behörden in der Lage sein werden , auf mehr Wettbewerb im Bankgeschäft zu drängen , wird entscheidend vom regulatorischen Rahmen abhängen .
+Wir müssen diesen Rahmen reparieren und stärken , ohne dabei zu vergessen , dass ein simples Mandat zur Maximierung des Wettbewerbsdrucks genauso wenig möglich oder wünschenswert ist wie eines , dass darauf abzielt , die Instabilität völlig zu beseitigen .

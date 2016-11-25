@@ -1,0 +1,46 @@
+Die Spinne im Netz der Finanzmarktregulierung
+LONDON – Einer der Gründe , warum das globale System der Finanzmarktregulierung schwer zu durchschauen ist , ist seine außerordentliche Komplexität .
+Um es meinen Studenten an der Hochschule Sciences Po in Paris zu erklären , habe ich eine Art Verdrahtungsplan erstellt , der die Verbindungen zwischen den verschieden Behörden zeigt , die für unterschiedliche Komponenten der Aufsicht verantwortlich sind .
+Verglichen mit meinem Plan wirkt eine Leiterplatte geradezu übersichtlich .
+Viele Leute haben schon mal vom Baseler Ausschuss für Bankenaufsicht gehört , der festlegt wie viel Eigenkapital Banken mindestens vorhalten müssen .
+Vielleicht ist ihnen auch schon mal die Bank für Internationalen Zahlungsausgleich untergekommen , die Zentralbank der Zentralbanken , bei der der Baseler Ausschuss für Bankenaufsicht angesiedelt ist .
+Und in einigen Kreisen ist die Internationale Vereinigung der Wertpapieraufsichtsbehörden ( IOSCO ) bekannt , die Börsen- und Wertpapierzulassungsstandards festlegt .
+Doch spätestens , wenn die Sprache auf die Internationale Vereinigung der Versicherungsaufsichtsbehörden ( International Association of Insurance Supervisors − IAIS ) kommt , erntet man Stirnrunzeln .
+Es gibt noch viele andere Gruppierungen .
+Das International Accounting Standards Board ( IASB ) legt internationale Rechnungslegungsstandards fest , wenngleich die Amerikaner , die zwar Mitglied in diesem Gremium sind , diese Standards faktisch nicht verwenden – die jetzt verwirrenderweise International Financial Reporting Standards genannt werden .
+Das IASB hat jedoch andere Ausschüsse hervorgebracht , die Prüfungen ( Audits ) beaufsichtigen .
+Es gibt sogar – was Anklänge an Hermann Hesses letzten Roman Das Glasperlenspiel enthält – ein internationales Gremium , das die Gremien prüft , die die Prüfer prüfen .
+Financial Action Task Force ( FATF ) klingt dynamisch , wie eine schnelle Eingreiftruppe , die man in ein Land in Schwierigkeiten entsenden könnte .
+Tatsächlich ist diese Arbeitsgruppe der Teil der OECD , der die Umsetzung von Standards zur Geldwäschebekämpfung überwacht .
+Warum sie bei der OECD angesiedelt ist , obwohl ihr Auftrag global ist , bleibt ein Geheimnis , das kaum jemand erklären kann .
+Diese komplizierte Struktur ( die noch viele andere Komponenten hat ) wurde Stück für Stück in den 1980er- und 1990er-Jahren zusammengesetzt .
+Bis zur Asienkrise war sie ein Netz ohne eine Spinne in seiner Mitte .
+Nachdem der ehemalige Präsident der Deutschen Bundesbank , Hans Tietmeyer , von den Finanzministern der G7 gebeten wurde , die Wirksamkeit des bestehenden Systems zu überprüfen , schlug dieser eine neue Spinne vor : Das Forum für Finanzmarktstabilität ( FSF ) würde das Finanzsystem insgesamt untersuchen und versuchen , Schwachstellen aufzuzeigen , die später Probleme verursachen könnten .
+Ich war fünf Jahre Mitglied des FSF .
+Ich gestehe , dass ich Angst vor Spinnen habe , aber sogar für einen Arachnophobiker wie mich , bestand kaum Grund zur Furcht .
+Das FSF war keine beängstigende Kreatur , und die einzelnen Aufsichtsbehörden auf nationaler und internationaler Ebene waren weitgehend sich selbst überlassen , mit allen unglückseligen Konsequenzen , mit denen wir inzwischen Bekanntschaft geschlossen haben .
+Vor 2007 hat es kaum politisches Interesse an strengeren globalen Standards gegeben , und einzelne Länder haben sich dagegen gewehrt , dass sich ein internationales Gremium in ihr Hoheitsrecht einmischen könnte , ein unsolides Bankensystem zu beaufsichtigen .
+Als es dann zur nächsten Krise kam , wurde das FSF für mangelhaft befunden , und 2009 beschlossen die Regierungen der G-20 , dass ein schwergewichtigeres Modell gebraucht wird – das Financial Stability Board ( FSB ) .
+Das FSB tritt seit nunmehr fünf Jahren zusammen und erarbeitet derzeit neue Vorschläge zum Umgang mit systemrelevanten ( „ too big to fail “ ) Banken , die beim bevorstehenden G-20-Gipfel in Brisbane serviert werden ( neben Surf and Turf , Pavlova und anderen australischen Delikatessen ) .
+Es gibt ( noch ) keine internationale Gruppe , die die Wirksamkeit des FSB prüft .
+Wenn es eine gäbe , was hätte sie über die bisherigen Leistungen des FSB zu sagen , erst unter dem Vorsitz von Mario Draghi und anschließend Mark Carney , die diese Aufgabe in ihrer Freizeit erledigen , während sie wichtige Zentralbanken leiten ?
+Auf der Aktivseite der Bilanz würden die Prüfer bestimmt notieren , dass das Financial Stability Board viel sinnvolle Arbeit geleistet hat .
+In seinen regelmäßigen Berichten an die G-20 werden die vielfältigen Regulierungsmaßnahmen auf klare und verständliche Weise gebündelt .
+Eine bessere Informationsquelle gibt es nicht .
+Sie würden auch festhalten , dass Druck durch das FSB die Arbeit von Aufsichtsbehörden einzelner Branchen beschleunigt hat .
+Es hat über zehn Jahre gedauert , die neue Basler Eigenkapitalvereinbarung ( Basel II ) zu beschließen ;
+Basel III wurde in gut 24 Monaten ausgearbeitet ( auch wenn die Umsetzung relativ lange dauert ) .
+Auch die Resultate der IOSCO und der IAIS haben sich durch die Verpflichtung verbessert , über das FSB Fortschrittsberichte vorzulegen .
+In seinen so genannten Beurteilungen von „ Schwachstellen “ hat das FSB außerdem einige wertvolle Warnungen ausgesprochen .
+Es hat auf aufkommende Spannungen im System hingewiesen , ohne in die Falle zu geraten , zehn der nächsten drei Krisen zu prognostizieren .
+Und seine Peer-Review-Mechanismen spornen die einzelnen Länder an , ihre Regulierungsbehörden zu stärken .
+Gleichwohl würde in einer aufrichtigen Beurteilung eingeräumt , dass die Spinne bisher kaum Fliegen gefangen hat .
+Um es mit einer anderen Metapher aus der Tierwelt auszudrücken , ist das FSB ein Wachhund ohne Zähne .
+Weder kann es anderen Aufsichtsbehörden Anweisungen erteilen , was sie tun ( oder nicht tun ) sollen , noch Mitgliedsländer zwingen , neue Vorschriften einzuhalten .
+Tatsächlich basiert die gesamte Architektur der globalen Finanzmarktregulierung auf „ Bemühungen nach besten Kräften “ .
+Gemäß der 2012 überarbeiteten Charta des FSB unterliegen die Unterzeichnenden keinerlei rechtlichen Verpflichtungen .
+Anders als etwa die Welthandelsorganisation , wird das FSB nicht durch einen internationalen Vertrag untermauert , was bedeutet , dass Länder nicht sanktioniert werden können , wenn sie die Standards nicht umsetzen , denen sie vermeintlich verpflichtet sind .
+Ein faires Urteil wäre demnach , dass das FSB nicht mehr und nicht weniger getan hat , als es seine politischen Herren und Meister bereit waren zuzulassen .
+Es gibt keinen politischen Willen , ein Gremium zu schaffen , das die Umsetzung internationaler Standards wirklich überwachen und Länder daran hindern kann , sich gegenseitig beim Abbau staatlicher Regulierungen übertreffen zu wollen – und Banken daran hindern kann , Aufsichtsarbitrage zu betreiben .
+Es scheint , dass wir die nächste Krise abwarten müssen , bis diese Entschlossenheit entsteht .
+Bis dahin ist das FSB , mit all seinen Schwächen , das Beste , was wir haben .

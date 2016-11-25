@@ -1,0 +1,33 @@
+Die große Lockerung
+BRÜSSEL : Seit Ausbruch der Finanzkrise von 2008 sind inzwischen mehr als drei Jahre vergangen . Wer tut mehr , um eine Konjunkturerholung herbeizuführen : Europa oder die USA ?
+Die US Federal Reserve hat zwei Runden der sogenannten „ quantitativen Lockerung “ abgeschlossen , und die Europäische Zentralbank hat zwei Schüsse aus ihrer großen Kanone – der sogenannten langfristigen Refinanzierungsoperation ( LTRO ) – abgefeuert und den Banken der Eurozone für drei Jahre preiswerte Kredite im Volumen von mehr als einer Billion Euros zur Verfügung gestellt .
+Eine ganze Weile wurde argumentiert , die Fed habe mehr getan , um die Konjunktur anzukurbeln , weil sie ( unter Verwendung des Jahres 2007 als Vergleichsgröße ) ihre Bilanz proportional stärker ausgeweitet habe als die EZB .
+Aber inzwischen hat die EZB aufgeholt .
+Ihre Bilanz beläuft sich auf rund 2,8 Billionen Euro , fast 30 % vom BIP der Eurozone , verglichen mit der Bilanz der Fed von rund 20 % vom BIP der USA .
+Doch es gibt einen qualitativen Unterschied zwischen den beiden , der wichtiger ist als das Bilanzvolumen : Die Fed kauft nahezu ausschließlich risikolose Vermögenswerte an ( wie US-Staatsanleihen ) , während die EZB ( viel kleinere Mengen ) riskanter Vermögenswerte aufgekauft hat , deren Markt am austrocknen war .
+Zudem verleiht die Fed nur sehr wenig an Banken , während die EZB im enormen Umfang Kredite an schwache Banken verliehen hat ( die auf dem Markt keinen Kredit mehr bekamen ) .
+Kurz gefasst : Quantitative Lockerung ist nicht dasselbe wie Kreditlockerung .
+Die der quantitativen Lockerung zugrundeliegende Theorie besagt , dass die Zentralbank die langfristigen Zinsen senken kann , indem sie mit den Einlagen , die sie von den Banken erhält , große Mengen an längerfristigen Staatsanleihen aufkauft .
+Im Gegensatz dazu ist die Kreditlockerung der EZB von einer praktischen Sorge motiviert : Die Banken in einigen Teilen der Eurozone – nämlich den Krisenländern an ihrer Peripherie – sind inzwischen praktisch vom Interbankenmarkt abgeschnitten .
+Eine einfache Methode , den Unterschied zwischen den Ansätzen der beiden weltgrößten Zentralbanken zu bewerten , ist , die Risiken zu betrachten , die beide eingehen .
+Wenn die Fed US-Staatsanleihen aufkauft , geht sie damit keinerlei Kreditrisiko ein , aber sie übernimmt ein Zinsrisiko .
+Die Fed handelt dabei wie eine typische Bank , die eine sogenannte „ Fristentransformation “ vornimmt : Sie verwendet kurzfristige Einlagen , um den Erwerb langfristiger Wertpapiere zu finanzieren .
+Da die kurzfristigen Einlagezinsen bei nahezu null liegen und die langfristigen Zinsen bei rund 2 % , verdient die Fed auf diese Weise ein hübsches Sümmchen : rund 2 % pro Jahr auf ihre im Rahmen der quantitativen Lockerung getätigten Anleihekäufe im Gesamtumfang von etwa 1,5 Billionen Dollar , also rund 30 Milliarden Dollar jährlich .
+Eine Handelsbank , die ähnliche Geschäfte tätigte , müsste dabei das Risiko berücksichtigen , dass ihre Kapitalbeschaffungskosten über die Rendite von 2 % steigen könnten , die sie mit ihren Vermögenswerten verdient .
+Die Fed dagegen kann ihre Kapitalbeschaffungskosten selbst festlegen , denn sie bestimmt die kurzfristigen Zinsen .
+Doch die Tatsache , dass sie sich selber Verluste zufügen würde , indem sie die Zinsen erhöht , dürfte ihren Handlungsspielraum einengen .
+Ihre jüngste Ankündigung , dass sie die Zinsen noch auf längere Zeit niedrig halten wird , könnte also noch andere Gründe haben als die Sorge über eine schleppende Konjunkturerholung .
+Die EZB dagegen übernimmt mit ihrer LTRO keine Laufzeitrisiken , weil sie ausdrücklich erklärt hat , dass sie den Banken die durchschnittlichen Zinsen berechnen wird , die im Laufe der nächsten drei Jahre anfallen .
+Sie übernimmt jedoch ein Kreditrisiko , weil sie Geld an Banken verleiht , die anderswo keinen Kredit mehr bekommen .
+Die große Ausweitung der EZB-Bilanz hat zu Besorgnis darüber geführt , dass die LTRO die Inflation anheizen könnte .
+Aber dies ist nicht der Fall : Die EZB hat ihre Nettokreditvergabe an das Bankensystem der Eurozone nicht erhöht , denn die Einlagen , die sie von den Banken erhält ( etwa eine Billion Euro ) , sind beinahe so hoch wie die Summe , die sie an Krediten vergibt ( 1,15 Billion Euro ) .
+Es besteht also keine Inflationsgefahr , weil die EZB nicht im größeren Umfang für das Bankensystem insgesamt neue Kaufkraft schafft .
+Die Banken , die ihr Geld bei der EZB parken ( und dafür lediglich 0,25 % Zinsen erhalten ) sind eindeutig nicht dieselben , die dreijährige Kredite zu 1 % Zinsen aufnehmen .
+Die Einlagen kommen überwiegend von den nordeuropäischen ( vor allem deutschen und niederländischen ) Banken , und die LTRO-Kredite gehen überwiegend an Banken in Südeuropa ( vor allem Italien und Spanien ) .
+Anders ausgedrückt : Die EZB ist zum zentralen Kontrahenten eines Bankensystems geworden , dass de facto entsprechend den nationalen Grenzen segmentiert ist .
+Das wahre Problem der EZB ist , dass sie gegen die Kreditrisiken , die sie übernimmt , nicht ordentlich abgesichert ist .
+Die Differenz von 0,75 % zwischen Einlage- und Kreditzinsen ( die der Bank eine Rendite von 7,5 Milliarden Euros pro Jahr einbringt ) taugt nicht viel zur Abfederung der Verluste , die in Griechenland ( wo die EZB mit 130 Milliarden Euro engagiert ist ) zu erwarten sind .
+Die EZB musste handeln , als das Finanzsystem der Eurozone Ende letzten Jahres am Rande des Zusammenbruchs stand .
+Doch ihr Handlungsspielraum ist sogar noch beschränkter als der der Fed .
+Auf ihrer Bilanz lasten jetzt enorme Kreditrisiken , die sie selbst kaum steuern kann .
+Sie kann nur hoffen , dass die Politik in Südeuropa Anpassungsmaßnahmen durchsetzt , die den LTRO-Empfängerbanken ein Überleben ermöglichen .

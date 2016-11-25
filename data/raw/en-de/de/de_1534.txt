@@ -1,0 +1,51 @@
+Europas Finanzalchemie
+CHICAGO : Es wird allgemein anerkannt , dass ein zentraler Faktor , der der Finanzkrise von 2007-2008 zugrunde lag , die Verbreitung besicherter Schuldverschreibungen , so genannter CDOs , war – jener berüchtigten Anlagen , die Schuldverschreibungen mit schlechtem Rating in solche mit hoher Bonität verwandelten .
+An der Wall Street haben diese strukturierten Produkte an Popularität eingebüßt ; zugleich jedoch haben sie auf der anderen Seite des Atlantiks an Beliebtheit gewonnen .
+Schließlich ist die von der Eurozone im vergangenen Mai ins Leben gerufene European Financial Stability Facility ( EFSF ) die größte je erstellte CDO .
+Und wie die CDOs wurde auch die EFSF als Methode zur Risikoverringerung vermarktet .
+Das Ergebnis könnte leider ähnlich sein : dass das gesamte Bankensystem ins Trudeln kommt .
+CDOs sind eine Form der Finanzalchemie , bei der eine Zweckgesellschaft das Finanzäquivalent von Blei ( hypothekenbesicherte Wertpapiere niedriger Bonität ) aufkauft und sich überwiegend mit dem Finanzäquivalent von Gold ( hoch geschätzten AAA-Anleihen ) finanziert .
+Diese Verwandlung beruht auf drei Prinzipien ; eines davon ist vernünftig , zwei sind fragwürdig .
+Das vernünftige Prinzip ist ein Sicherheitsüberschuss .
+Wenn für eine Anleihe im Wert von 100 Dollar eine Sicherheit von 120 Dollar gestellt wird , ist die Anleihe unbestreitbar sicherer .
+Wie viel sicherer , hängt allerdings vom Ertrag des Anleihepools ab , aus dem sich die CDO zusammensetzt .
+Fragwürdig ist erstens , dass , falls die Erträge aus diesen Anleihen hochgradig korreliert sind , sodass alle zur selben Zeit ausfallen , auch die Überdeckung keine große Hilfe ist .
+Sind sie dagegen unkorreliert , ist es extrem unwahrscheinlich , dass sie alle zur selben Zeit ausfallen , wodurch die Überdeckung zur Gewährleistung eines sicheren Ertrags ausreicht .
+Leider gibt es kein präzises mathematisches Modell , um die Korreliertheit derartiger Wertpapiere zu bestimmen . Dies erfolgt immer über tatsachengestützte Vermutungen , die zumeist ( manchmal völlig ) auf früherem Verhalten beruhen .
+Die explosionsartige Vermehrung der CDOs in den USA stützte sich z.B. auf die fragwürdige Annahme , dass die Häuserpreise niemals landesweit fallen .
+Das zweite fragwürdige Prinzip ist , dass sich die Emissionäre von CDOs bei der Bewertung dieser Instrumente auf die Rating-Agenturen verließen .
+Historisch hatten sich diese Agenturen , was die Vorhersage des Ausfallrisikos von Unternehmen anging , als zuverlässig erwiesen .
+Jedoch beruhte ihre Glaubwürdigkeit zu einem großen Teil auf einem fragilen Gleichgewicht der Kräfte .
+Da jeder Emissionär nur einen kleinen Bruchteil ihrer Einnahmen darstellte , waren die Rating-Agenturen nicht bereit , ihren Ruf zugunsten eines einzelnen Emissionärs aufs Spiel zu setzen .
+Der CDO-Markt freilich war ein konzentrierter Markt , der zu einem großen Teil von sechs oder sieben Emissionären kontrolliert wurde und irgendwann bis zu 50 % der Gesamterträge aus dem Rating-Geschäft repräsentierte .
+Ganz plötzlich hatten die Emissionäre deutlich mehr Einfluss als die Rating-Agenturen , die sich dann , wie jeder gute Verkäufer , bereit erklärten , ein paar kleine Kompromisse einzugehen , um ihre wichtigen Kunden nicht zu verärgern .
+Infolgedessen verteilte der CDO-Markt die Risiken weniger , sondern er verlagerte und versteckte sie .
+Als der US-Häusermarkt einzubrechen begann , gingen die größten Emissionshäuser ( wie etwa Countrywide ) nicht sofort pleite , weil sie den überwiegenden Teil ihrer Kredite an den CDO-Markt verkauft hatten .
+Letztlich jedoch brachte die durch diese CDOs verursachte Unsicherheit fast das gesamte US-Bankensystem zu Einsturz .
+Europa folgt einem ähnlichen Weg .
+Die EFSF – ins Leben gerufen , um von „ Illiquidität “ bedrohte Länder zu unterstützen – ist genau wie eine CDO konzipiert .
+Die EFSF kauft die Anleihen von Ländern , die Schwierigkeiten haben , sich am Markt zu finanzieren ( z.B. Irland ) , auf und begibt dann Anleihen mit AAA-Rating .
+Wie ist diese Alchemie möglich ?
+Sie beruht einmal mehr auf Überdeckung , einer Annahme über die gemeinsame Verteilung möglicher Ergebnisse und dem unweigerlichen Gütesiegel der drei großen Rating-Agenturen .
+Im Falle der EFSF hat die Überdeckung die Form von Bürgschaften durch andere Euroländer .
+Von den wichtigen Ländern haben allerdings nur Frankreich und Deutschland ein AAA-Rating .
+Wie kann eine Anleihe , die großteils von Ländern wie Italien und Spanien garantiert wird ( heißen Anwärtern für eine Finanzkrise ) , irischen Anleihen AAA-Status verschaffen ?
+Standard and Poor ’ s etwa begründet dies so : „ Das EFSF-Rating spiegelt unsere Sicht wider , dass die Bürgschaften von mit ‚ AAA ‘ bewerteten Staaten und frei verfügbaren Liquiditätsreserven , die in ‚ AAA ‘ -Wertpapiere investiert sind , zusammen alle Verbindlichkeiten der EFSF abdecken . “
+Doch der Wert der Bürgschaften ist situationsabhängig .
+Solange nur ein einziges Land , nämlich Irland , gerettet werden muss , ist das Ganze unproblematisch .
+Aber falls die EFSF für Spanien garantieren muss : Wäre Deutschland dann wirklich bereit , einzuschreiten und das Geld seiner Steuerzahler einzusetzen , um für die Verluste der spanischen Banken geradezustehen ?
+Und wie stark könnten die französischen und deutschen Banken kompromittiert werden – und welche weiteren finanziellen Belastungen kommen möglicherweise auf Frankreich und Deutschland zu ?
+Auch hier kann uns keine mathematische Formel helfen ; wir müssen die Belastbarkeit unserer Annahmen testen .
+Darum sind die Meinungen der Rating-Agenturen so wertvoll sind .
+Leider muss man sich fragen , in welchem Umfang diese Ratings durch die politische Macht der Euroländer verzerrt werden .
+Die Rating-Agenturen sind seit Ausbruch der Krise unter Beschuss , und auf beiden Seiten des Atlantiks werden wichtige Regulierungsmaßnahmen , die ihr Geschäft ernsthaft beeinträchtigen könnten , diskutiert .
+Wie frei sind die Rating-Agenturen angesichts dieser Lage wohl dabei , ihre Meinung über eben jene Institutionen zu äußern , deren Regulierung sie unterstehen werden ?
+Wir werden die Preissetzung der Credit Default Swaps für EFSF-Schuldtitel , die im Januar emittiert werden , abwarten müssen , um zu sehen , ob die Märkte den Ratings trauen .
+Unabhängig von diesem Test allerdings scheint Deutschland die Quadratur des Kreises bewältigt zu haben : Es hat den in Schwierigkeiten befindlichen Ländern geholfen , ohne ( für den Moment ) Geld ausspucken zu müssen .
+Wie bei den CDOs könnte jedoch auch dies ein Pyrrhussieg sein .
+Die EFSF hat kurzfristige Gewinne im Tausch gegen viel höhere Verluste im Falle einer Verschlechterung der Lage erkauft : Eine Finanzkrise in Spanien könnte das gesamte Gebäude zum Einsturz bringen .
+Nach der Subprime-Krise behaupteten die Politiker , dass der Markt kurzsichtig und irrational sei und machten reihenweise neue Regulierungsvorschläge .
+Obwohl ein Teil ihrer Kritik berechtigt gewesen sein mag , stellt sich die Frage , was den Politikern die moralische Autorität gibt , diese Kritik zu äußern ?
+Schließlich kann ihre Ausrichtung – die EFSF beweist es – noch kurzsichtiger und irrationaler sein als die der Märkte ; sie wiederholen dieselben Fehler , weil sie anscheinend nicht daraus gelernt haben .
+Das Urteil der Märkte dürfte kompromisslos ausfallen .
+Wie schon Oscar Wilde sagte : „ Täuscht du mich einmal : Schäm dich . Tust du ’ s zweimal , muss ich mich schämen . “

@@ -1,0 +1,36 @@
+Heilung von erblich bedingtem Brustkrebs
+Von zehn Frauen ist in den Industrieländern jeweils eine von Brustkrebs betroffen , und in vielen dieser Länder nimmt die Verbreitung der Krankheit zu .
+Ganz gleich jedoch , was der Grund oder die Gründe für diese Zunahme sind : Wir wissen auch , dass zwischen 5 % und 10 % aller Fälle von Brustkrebs durch einen vererbten , die Gene BRCA1 oder BRCA2 betreffenden Defekt bedingt sind .
+Frauen , die Trägerinnen eines mutierten BRCA1- oder BRCA2-Gens sind , erkranken mit etwa 80 % iger Wahrscheinlichkeit an Brustkrebs .
+Eine Mutation in diesen Genen führt außerdem zu einer erhöhten Wahrscheinlichkeit , an Eierstockkrebs zu erkranken .
+Als die Gene BRCA1 und BRCA2 vor mehr als einem Jahrzehnt entdeckt wurden , waren die Hoffnungen auf neue , zielgerichtete Therapien groß .
+Enttäuschenderweise jedoch wurden bisher keine neuen Behandlungsformen entwickelt .
+Infolgedessen sehen sich viele Frauen mit einer großen Zahl an mutierten BRCA1- bzw. BRCA2-Genen vor die tragische Entscheidung gestellt , ob sie sich Brüste oder Eierstöcke operativ entfernen lassen sollen , um dem Krebs zuvorzukommen .
+Kürzlich jedoch konnte meine Forschungsgruppe , gemeinsam mit Forschern aus London , den Trägerinnen von mutierten BRCA1- bzw. BRCA2-Genen eine echte Hoffnung bieten : Beide Forschungsteams beschrieben , wie durch Einsatz eines chemischen Inhibitors Brustkrebs hervorrufende Tumorzellen mit einem BRCA1- bzw. BRCA2-Gendefekt abgetötet werden können .
+Diese neue Behandlungsmethode richtet sich nur gegen die Tumorzellen ; die Wahrscheinlichkeit , dass andere , gesunde Zellen innerhalb des Körpers dabei in Mitleidenschaft gezogen werden , ist gering .
+Diese Entdeckung könnte sich auch nutzen lassen , um zu verhindern , dass sich erblich bedingte Brustkrebszellen zu Tumoren auswachsen .
+Die im Rahmen dieser Behandlung eingesetzten chemischen Inhibitoren zielen auf das Enzym Polymerase ( PARP1 ) , das normalerweise an der Reparatur von Brüchen einzelner DNA-Stränge – einer häufigen Form spontaner DNA-Läsionen – beteiligt ist .
+Durch chemische Hemmung des PARP1-Proteins sinkt die Häufigkeit dieser Einzelstrangreparaturen .
+Nicht reparierte Einzelstrangbrüche sind für die Zellen nicht besonders schädlich .
+Wenn sich die DNA jedoch repliziert , rufen diese Brüche beim Kopiervorgang Störungen und Schäden an der DNA hervor .
+Die beim Kopieren der DNA auftretende Beschädigung wird durch Rekombination unter Beteiligung der BRCA1- und BRCA2-Proteine repariert .
+Zellen mit mutierten BRCA1- bzw. BRCA2-Genen jedoch sind nicht zur Rekombination befähigt und deshalb sehr viel empfindlicher gegenüber einer erhöhten Anzahl von nicht reparierten Einzelstrangbrüchen .
+Die normalen Zellen von Frauen , die Trägerinnen der BRCA1- bzw. BRCA2-Mutation sind , sind noch immer zur Rekombination in der Lage , da sie nach wie vor über ein funktionierendes Allel – die alternative Form – dieses Gens verfügen .
+Nur Zellen , die das verbleibende funktionierende Allel des BRCA1- bzw. BRCA2-Gens verlieren , entwickeln sich zu Tumoren .
+Deshalb weisen nur die Tumorzellen einen nicht funktionierenden Rekombinationspfad auf und sind zur Reparatur von Einzelstrangbrüchen vor Replikation der DNA vollständig auf das PARP angewiesen .
+Bei unseren Untersuchungen haben wir diese Abhängigkeit ausgenutzt , um mit PARP-Inhibitoren zielgerichtet gegen Krebszellen mit schadhaften BRCA1- oder BRCA2-Genen vorzugehen .
+Diese Behandlung dürfte kaum Nebenwirkungen verursachen ; von Mäusen wird die langwierige Behandlung mit PARP-Inhibitoren gut toleriert .
+Wir haben gezeigt , dass PARP-Inhibitoren Brustkrebszellen mit schadhaftem BRCA2-Gen wirksam absterben lassen und dass die von ihnen verursachten Tumoren sich nach Behandlung mit einem PARP-Inhibitor vollständig zurückbilden und verschwinden können .
+Der nächste Schritt besteht darin , zu untersuchen , wie wirksam diese Behandlung beim Menschen ist .
+Wir sind nun dabei , klinische Tests einzuleiten , um festzustellen , wie wirksam diese PARP-Inhibitoren bei der Behandlung von metastasierenden Brusttumoren sind .
+Vorsicht ist allerdings angebracht .
+Tumoren mit BRCA1- und BRCA2-Schäden zeichnen sich durch ein hohes Maß an genetischer Instabilität aus .
+Es ist denkbar , dass hochgradig metastasierende Brusttumoren zusätzliche genetische Veränderungen erfahren haben , die sie gegen die Behandlung mit PARP-Inhibitoren resistent machen .
+Wir halten es daher für wahrscheinlich , dass PARP-Inhibitoren bei der prophylaktischen Behandlung von Frauen , die Trägerinnen eines diese Form von erblichem Brustkrebs hervorrufenden Gens sind , nützlicher sein könnten .
+Der Grund hierfür ist einfach : Auch Zellen , die das funktionierende BRCA1- bzw. BRCA2-Allel erst kürzlich verloren haben und sich später zu Tumoren entwickeln würden , würden so an der Rekombination gehindert .
+Dies bedeutet : Krebszellen im Frühstadium dürften sensibel auf PARP-Inhibitoren reagieren .
+Anders als voll ausgebildete Tumoren jedoch dürften sie kaum genetische Veränderungen aufweisen und daher vermutlich auch keine Resistenz gegen PARP-Inhibitoren erworben haben .
+Die Behandlung von Frauen mit BRCA1- bzw. BRCA2-Mutationen mit PARP-Inhibitoren mit dem Ziel , die Krebszellen abzutöten , bevor sie sich in Tumoren verwandeln , ist ein neues , zu Hoffnungen Anlass bietendes Konzept bei der Krebsprävention .
+Die Nützlichkeit dieser Behandlung setzt jedoch voraus , dass PARP1-Inhibitoren für Menschen vollständig unschädlich sind .
+Es wird außerdem längere Zeit dauern , um eine Zulassung von PARP-Inhibitoren für prophylaktische Zwecke zu erhalten , denn die Wirksamkeit der Behandlung lässt sich nicht kurzfristig nachweisen .
+Der Einsatz von PARP-Inhibitoren für die Behandlung ausgebildeter Tumoren innerhalb von ein paar Jahren ist denkbar . Bevor eine prophylaktische Behandlung von erblich bedingtem Brustkrebs allgemein verfügbar ist , werden wir wohl mindestens ein Jahrzehnt warten müssen .

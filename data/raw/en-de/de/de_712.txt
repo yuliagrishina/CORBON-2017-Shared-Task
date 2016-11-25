@@ -1,0 +1,40 @@
+Neuauflage des Browserkriegs
+PRINCETON : Zehn Jahre nach seiner Gründung droht Google , den „ Browserkrieg ” der 1990er Jahre – als Microsofts Internet Explorer seinen Rivalen , den Netscape Navigator , erledigte – neu zu entfachen .
+Diesmal freilich ist es Googles Chrome , der verspricht , das der Softwarebranche insgesamt zugrunde liegende Wirtschaftsmodell umzuwerfen – und zwar nicht nur aufgrund seiner technischen Innovation , deutlich verschiedene Arten von Software mit einem Internetbrowser zu verknüpfen .
+Vielmehr macht es hiermit zugleich ein Programm wie Windows , das bisher den Zugriff auf alle Arten von Software regelte , unnötig .
+Googles neue Technologie ist beeindruckend und wird sich – wenn die anfänglichen Sicherheitsprobleme erst einmal gelöst sind – ohne Zweifel für viele Verbraucher als praktisch erweisen .
+Die grundlegende Neuerung aber liegt woanders : Chrome ist ein Durchbruch , weil er einen völlig neuen Ansatz in Bezug auf ein durch den rechtlichen und aufsichtsrechtlichen Rahmen der Wettbewerbspolitik bedingtes Dilemma in den beiden wichtigsten Rechtsräumen weltweit – den USA und der EU – bietet .
+Zwischen 1995 und 1997 verdrängte der Internet Explorer den Navigator fast völlig , obwohl ursprünglich der Navigator den meisten Anwendern das World Wide Web zugänglich gemacht hatte und seine Dominanz unangreifbar schien .
+Wesentlicher Vorteil des Internet Explorer war weniger die Technik , sondern , dass Microsofts Programm Windows die Betriebssoftware der überwältigenden Mehrheit aller Personalcomputer war .
+Daher konnte ein Browser – und tatsächlich auch andere Mediensoftware – im Rahmen eines kompletten Softwarepakets in die Windows-Grundstruktur eingebunden werden .
+Die Möglichkeit zur Bündelung von Betriebssystem und Software erleichterte dem Normalverbraucher das Leben erheblich .
+Er bekam beim Kauf eines Rechners schlicht alles , was er haben wollte ( und vermutlich noch viel mehr ) .
+Zugleich jedoch wurde damit die freie Entscheidung , unterschiedliche Software zu wählen und zu kombinieren , eingeschränkt .
+Microsofts Kritiker haben sich endlos hierüber beschwert und angeführt , dass die Einbindung des Browsers in das Betriebssystem per se überlegene Softwarelösungen aus dem Markt dränge .
+So bevorzugten etwa viele Anwender die Textverarbeitung WordPerfect gegenüber Microsoft Word ; weil es aber Teil einer einfach zu nutzenden gebündelten Lösung war , wurde Word häufiger verwendet , und dieser Vorteil führte dazu , dass seine Rivalen vom Markt verschwanden .
+Microsofts Vorteil , und sein Geschäftsmodell , gehen auf einen anderen , lang andauernden Rechtsstreit zurück .
+Computersoftware war ursprünglich keine Ware , die man kaufen konnte , sondern eine Dienstleistung .
+IBM erwarb sich eine enorme Dominanz , weil es ein sorgfältig auf den einzelnen Kunden zugeschnittenes , individuelles Paket verleaste .
+Es verkaufte nichts , weder Rechner noch Software .
+IBMs Leasingmodell schien die gesamte , während der Zeit des New Deal entwickelte Rechtsphilosophie der US-Wettbewerbspolitik in Frage zu stellen .
+Präsident Franklin Roosevelt hatte damals ursprünglich das Ziel verfolgt , die amerikanischen Unternehmen durch Preisfestsetzungen zu kontrollieren . Doch als der US Supreme Court diesen Ansatz verwarf , begann seine Administration , die Wettbewerbspolitik zu nutzen , um die Stellung marktbeherrschender Unternehmen in Frage zu stellen .
+In Branchen freilich , in denen technische Neuerungen scheinbar über Nacht Monopole schaffen können , steht die Wettbewerbspolitik vor großen Schwierigkeiten .
+Entsprechend der Philosophie , marktbeherrschende Stellungen in Frage zu stellen , leitete das US-Justizministerium 1969 eine umfassende Untersuchung gegen IBM ein , das damals mit seinem System S / 360 den EDV-Sektor für Unternehmen revolutionierte .
+Der Fall zog sich bis 1982 hin und wurde dann mangels rechtlicher Grundlage verworfen .
+Doch solange das Kartellverfahren als Drohung im Raum stand , blieb IBM nervös und begann daher , sich von seinem Geschäftsmodell zurückzuziehen .
+Microsofts gegenwärtige Marktstellung ist eine direkte Folge dieses alten , gegen IBM eingeleiteten Kartellverfahrens .
+Als IBM seinen Personalcomputer herausbrachte , hätte es diesen problemlos mit seiner eigenen Betriebssoftware bündeln und so seine marktbeherrschende Stellung wahren können .
+Aus Angst aber , dass die US-Behörden es des Versuchs bezichtigen würden , einen neuen Markt zu kontrollieren , überlies IBM das Disk Operating System ( DOS ) für die neuen PCs einem winzigen neuen Unternehmen , das niemand als Bedrohung ansah : Microsoft .
+Natürlich geriet Microsoft , als es IBMs vormals marktbeherrschende Stellung übernahm , selbst in rechtliche Schwierigkeiten , und es führte lang andauernde Prozesse auf beiden Seiten des Atlantiks .
+Die EU , die sich beim Wettbewerbsrecht zunehmend am US-Modell orientiert , leitete 1993 ein Verfahren gegen Microsoft ein .
+Die USA taten dies erst nach dem Sieg von Microsoft im Browserkrieg ; hier begann das Verfahren 1998 .
+Zunächst entwickelten sich beide Verfahren klar gegen Microsoft : Ein US-Urteil aus dem Jahre 2000 hätte eine Aufspaltung des Unternehmens erfordert , wurde jedoch im Berufungsverfahren aufgehoben .
+Googles Stellung ist so interessant und Google selbst so mächtig , weil diese Rechtsphilosophie , die jede marktbeherrschende Stellung in Frage stellt – selbst in einer Branche , die naturgemäß Monopole hervorzubringen scheint – , weiter fortbesteht .
+Das Verleasen von Software und Hardware , wie es IBM ursprünglich betrieb , ist problematisch .
+Dasselbe aber gilt für den Verkauf von Leistungen auf einmaliger Basis nach Art von Microsoft .
+Andererseits kann , auf den ersten Blick , nichts falsch daran sein , Leistungen oder Produkte kostenlos anzubieten und dann einfach die sich hieraus ergebenden Werbemöglichkeiten zu nutzen .
+Googles Modell ist ein hübsches Beispiel für das , was man als „ postmoderne Wirtschaft “ bezeichnen könnte .
+Das Erstaunliche an technischen Innovationen ist , dass es für Neuerer schwer war – und bleibt – , von radikalen technologischen Durchbrüchen zu profitieren .
+So blieb etwa den Baumwollherstellern aus der Zeit der Industriellen Revolution in England das große Geld versagt , obwohl ihre Produkte das private Leben und die Körperhygiene revolutionierten und sogar zu einer Verlängerung der Lebenserwartung führten .
+In unserer eigenen Zeit ist die Luftfahrt sehr viel billiger geworden , aber die Fluglinien verlieren Geld ; das Telefonieren ist nicht mehr unbezahlbar , aber die Telekommunikationsgesellschaften haben mit überhöhten Geboten für Mobiltelefonlizenzen ein Vermögen verloren .
+Google nun hat die Logik einer verlustbringenden Technologie auf die Spitze getrieben , indem es gar nichts für seine Produkte berechnet .

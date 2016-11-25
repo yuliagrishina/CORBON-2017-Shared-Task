@@ -1,0 +1,30 @@
+Strom für die Ärmsten der Welt
+BREMEN – Schätzungen zufolge haben 1,2 Milliarden Menschen weltweit , davon 550 Millionen in Afrika und 400 Millionen in Indien , keinen Zugang zu Elektrizität .
+Da diese Menschen überwiegend in ländlichen Gebieten mit geringer Bevölkerungsdichte und geringen Einkommen leben , ist der Anschluss der Haushalte und Unternehmen ans Stromnetz unwirtschaftlich .
+Die lokale Stromerzeugung mit einem Dieselaggregat ist aufgrund hoher Treibstoffkosten und der erheblichen Anschaffungskosten ebenfalls nicht praktikabel .
+Die zuverlässige Versorgung mit bezahlbarem Strom ist eine Voraussetzung für wirtschaftliche Entwicklung .
+Die Folgen für Menschen , die ohne Strom auskommen müssen , können verheerend sein : Unter Umständen bleibt ihnen eine angemessene medizinische Versorgung verwehrt oder sie haben keine Möglichkeit , frische Lebensmittel zu lagern .
+Es gibt jedoch eine Lösung , die auf der lokalen Nutzung erneuerbarer Energie beruht , eine minimale Erstinvestition erfordert und mit der Zeit ausgeweitet kann .
+Dieser so genannte „ Bootstrapping “ -Ansatz , also ein Prozess , bei dem mit einfachen Entwicklungswerkzeugen eigenständig umfassendere Systeme aufgebaut werden können , basiert auf der Nutzung der Photovoltaik – einer simplen , universellen und skalierbaren Technologie , die zudem wartungsfreundlich ist .
+In der ersten Phase dieses Prozesses würden Verbraucher typischerweise etwa LED-Lampen nutzen , die aus einer erneuerbarer Energiequelle gespeist werden , und einen etwaigen Überschuss verkaufen , bis sie genug Geld gespart haben , um Brennstoff für Lampen zu kaufen ( für den Afrikaner etwa 20 Milliarden Dollar jährlich ausgeben ) .
+Die zusätzlichen Einnahmen könnten anfänglich aus dem Verkauf kleiner Mengen überschüssiger Elektrizität an lokale Bauern herrühren , die damit ihre Mobiltelefone aufladen ( und so herausfinden können , wo sie den besten Preis für ihre Erzeugnisse erzielen ) oder die für den Betrieb kleiner elektrischer Pumpen zur Bewässerung von Anbauflächen genutzt wird .
+Dies ist eine neue Chance .
+Bis vor drei oder vier Jahren war Photovoltaik ( PV ) unerschwinglich .
+Doch Fortschritte in der Branche und Überproduktion haben die Preise um bis zu 75 % sinken lassen .
+Das günstigste System , mit dem zwei Watt Leistung erzeugt werden können , wird schon für 10-20 Dollar angeboten und kann , abhängig von der Anzahl und Größe der Photovoltaikmodule und der Kapazität des Akkus , auf fast beliebig erweitert werden .
+Und einfach ist es auch .
+Eine für den Kleinbetrieb ausgelegte Solaranlage setzt sich aus nur drei Komponenten zusammen : den PV-Modulen , einem Akku und einem Laderegler .
+Ein solches System kann Gleichstrom im Niederspannungsbereich von fünf Volt für Mobiltelefone erzeugen und 12 Volt für LED-Lampen , Pumpen für die Nutzung im Außenbereich und elektrische Geräte wie Computer und Fernseher .
+Wenn Einphasen- oder Dreiphasenwechselstrom mit 230V gebraucht wird ( etwa um größere Maschinen zu betreiben ) , muss ein Wechselrichter benutzt werden .
+Das ist nur für Systeme sinnvoll , deren Spitzenleistung bei über einem Kilowatt liegt und die über ausreichend Akkukapazität verfügen .
+Lokale Systeme in einem Gebäude könnten an lokale DC-Niederspannungs- oder Wechselstromnetze mit einer Spannung von 230V angeschlossen werden , um die Versorgungssicherheit zu verbessern .
+Eine große Herausforderung beim Bootstrapping-Ansatz ist die Entwicklung günstiger und langlebiger Akkus .
+Wenn der Akku nach drei bis fünf Jahren den Geist aufgibt , funktionieren viele Solaranlagen auf Wohngebäuden nicht mehr , und das Vertrauen der Besitzer in die Anlage , die davon ausgegangen sind , dass ihre Stromversorgung ein Leben lang gesichert ist , wird erschüttert .
+Es ist jedoch kein komplizierter Prozess zu zeigen , wie sich die Lebensdauer eines Akkus auf bis zu zehn Jahre verlängern lässt .
+Um das Optimum aus einem Akku herauszuholen , reicht es unter Umständen schon , dass der Besitzer ihn mindestens alle zwei Wochen voll auflädt und nie auf weniger als 50 % der Speicherkapazität entlädt .
+Darüber hinaus prüft unser eigenes Forschungsteam Möglichkeiten , wie alte Solar- oder Autobatterien für die Wiederverwendung in Solarstromanlagen aufgefrischt werden können , ohne dass dafür ein chemisches Verfahren oder ein Zerlegen notwendig ist .
+Sobald derartige Technologien perfektioniert worden sind , können wir unsere Aufmerksamkeit der Entwicklung eines Bootstrapping-Modells widmen .
+Wir glauben , dass vorhandene Verteiler- , Vertriebs- und Wartungsnetzwerke für andere Waren und Dienstleistungen so angepasst werden können , dass auch der Einsatz von Solarstromanlagen und die entsprechende Kundenbetreuung darüber erfolgen können .
+So könnten etwa Fahrradmechaniker , die in Afrika und im ländlichen Indien reichlich vorhanden sind , oder die Inhaber kleiner Geschäfte und Kioskbesitzer in der Errichtung und Wartung dieser Systeme geschult werden .
+Die Kombination aus Stromerzeugung für Haushalte mit geringen Investitionskosten und der Möglichkeit Überschüsse zu verkaufen , die Leistung zu erweitern und bereits vorhandene Vertriebs- und Wartungsnetzwerke zu nutzen schließt eine wichtige Lücke im Energiemarkt .
+Es ist eine einfache Idee , die es Millionen von Menschen in armen , ländlichen Regionen weltweit ermöglichen würde , ihre Aktivitäten in breitere Kreise der Wirtschaft zu integrieren , Kapital zu bilden und ihr Leben zu verbessern .

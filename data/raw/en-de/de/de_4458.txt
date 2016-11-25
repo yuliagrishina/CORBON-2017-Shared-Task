@@ -1,0 +1,42 @@
+Der Fusionsmythos
+Frankreich ist man derzeit eilig um den Bau des Internationalen Thermonuklearen Experimentellen Reaktors ( ITER ) bemüht . Dieser soll zeigen , dass für den Betrieb von Nuklearreaktoren die Kernfusion genutzt werden kann .
+ITER wird oft als langfristige Lösung für das Problem der globalen Erwärmung präsentiert , weil die Kernfusion eine unerschöpfliche und saubere Energiequelle sei .
+Aber ITER wird nichts dergleichen tun .
+Bei der Kernspaltung , auf welcher heute die Erzeugung von Nuklearstrom beruht , werden Schwerelemente wie Uran in kleinere Elemente aufgespalten , während bei der Kernfusion kleine Elemente wie beispielsweise Wasserstoff verschmolzen werden und schwerere Elemente ( Helium ) bilden .
+Sowohl Kernspaltung wie Kernfusion erzeugen große Mengen Energie .
+Einige führende Politiker erklären uns , die Kernfusion sei das , was auch in der Sonne ablaufe , und dank ITER würden wir diese Kraft nutzbar machen können .
+Häufig fügen Sie hinzu , dass die Kernfusion – weil dabei der im Meerwasser enthaltene Wasserstoff verbrannt werde – eine unerschöpfliche Energiequelle sei .
+Leider wissen unsere politischen Führer wenig von den wissenschaftlichen Fragen , um die es hier geht .
+Dass die Kernfusion Energie freisetzt , ist seit der Erfindung der Wasserstoffbombe bekannt .
+Aber sie unter Kontrolle zu halten , ist für die Forschungsinstitute noch immer ein grundlegendes Problem , keine unwesentliche technische Schwierigkeit , die sich problemlos bewältigen ließe .
+Eine kleine Sonne in einer Schachtel einzusperren , ist eine extrem schwierige Aufgabe , und zwar im Wesentlichen aus drei Gründen .
+Erstens besteht der nukleare Brennstoff nicht aus Meerwasser , sondern aus einer Mischung der beiden Schwerisotope des Wasserstoffs , Deuterium und Tritium . Letzteres ist ein radioaktives Element , das in kleinen Mengen für Wasserstoffbomben produziert wurde .
+Die Entwicklung von Fusionsreaktoren setzt voraus , dass man Tritium im industriellen Maßstab produziert – mit Methoden , die es erst noch zu erfinden gilt .
+Zweitens setzt die Fusion von Deuterium und Tritium bei etwa 100 Millionen Grad ein .
+Um eine derartige Temperatur zu erreichen , muss man ein aus einer großen Flamme aus Deuterium- und Tritiumkernen bestehendes Plasma mit einem Magneten beschleunigen .
+Dies muss in einer großen Kammer geschehen , in der ein ultrahohes Vakuum herrscht .
+ITER ist nicht darauf ausgelegt , Strom zu erzeugen , sondern um die Stabilität der Flamme innerhalb des Magneten zu untersuchen .
+Da die Fusionsreaktionen Alphateilchen produzieren , die das Plasma verunreinigen , muss man bei 100 Millionen Grad einen „ Divertor “ in das Flammeninnere einführen , um das Plasma zu reinigen .
+Das hat bisher noch nie jemand geschafft , aber ITER könnte etwa im Jahre 2030 soweit sein – vorausgesetzt , man löst zuerst das vorherige Problem .
+Drittens werden bei der Kernfusion zusätzlich Neutronen freigesetzt , die innerhalb des Wandmaterials zur Explosion neigende Blasen aus Heliumgas produzieren .
+Die Befürworter von ITER erklären , dass die Blasen entweichen können , wenn man die Wände porös gestaltet .
+Aber eine Sache kann nicht gleichzeitig dicht und porös sein , und ITER ist nicht darauf ausgelegt , diesen Widerspruch zu untersuchen .
+In der Zukunft soll zwischen Plasma und Wände eine „ Abdeckung “ eingefügt werden , die zwei Ziele verfolgt : die Außenwände zu schützen und durch Kernreaktionen , die in einer Lithium enthaltenen Flüssigkeit ablaufen , Tritium zu produzieren .
+Dies könnte funktionieren , aber die erste Wand der Abdeckung müsste dabei nicht nur gleichzeitig dicht und porös sein , sondern auch ausreichend durchlässig für die Neutronen , die die dahinter liegenden Lithiumatome treffen müssen .
+Das Werkstoffproblem ist für sich allein gesehen bereits ein vollständiges Forschungsfeld .
+Um es zu untersuchen , wurde beschlossen , in Japan die Internationale Anlage zur Bestrahlung von Fusionswerkstoffen ( IFMIF ) zu errichten .
+Einige Wissenschaftler haben argumentiert , dass die Bestrahlung mit Neutronen in der IFMIF nicht mit der eines Fusionsreaktors identisch sei , aber dafür betragen die Kosten für die IFMIF mit einer Milliarde Euro nur ein Zehntel der Kosten von ITER .
+Warum also können wir nicht die Ergebnisse der IFMIF abwarten , bevor wir ITER bauen ?
+Es ist alles eine Frage des Budgets .
+Falls sich mit ITER das Energieproblem unseres Planeten tatsächlich lösen ließe , wären 10 Milliarden Euro eine unbedeutende Investition – weniger als der Nettogewinn der Ölgesellschaft TOTAL ( der 2006 bei 13 Milliarden Euro lag ) und genau so viel wie zehn Tage Kriegsführung im Irak .
+Aber es wird viele Jahrzehnte dauern , bis die Kernfusion vielleicht einmal in Nuklearkraftwerken zum Einsatz kommen kann .
+Selbst falls ITER Erfolg haben sollte und man die Tritium- und die Werkstoffprobleme löst , müsste alles in Realgröße getestet werden , und erst dann könnte der erste Prototyp eines industriellen Reaktors errichtet werden .
+Eine drastische Reduzierung der CO2-Emissionen ist eine drängende Priorität , aber es ist unwahrscheinlich , dass die Kernfusion vor Beginn des 22. Jahrhunderts ausreichend Energie produziert , um dieses Ziel zu erreichen .
+Tatsächlich ist ITER ein großes Instrument zur Grundlagenforschung ; deshalb muss man seine Jahreskosten von 500 Millionen Euro mit denen ähnlicher wissenschaftlicher Initiativen wie der Europäischen Organisation für Kernforschung ( CERN ) vergleichen , die eine Milliarde Schweizer Franken pro Jahr kostet .
+Meiner Meinung nach ist die Suche nach der Grundstruktur von Teilchen wesentlich wichtiger als die Untersuchung der Plasmastabilität .
+Der französische Beitrag zu ITER ist größer als die Summe sämtlicher für Forschungsprojekte in all unseren Physiklabors zur Verfügung stehenden Fördermittel zusammen .
+Es besteht daher die Gefahr , dass ITER anderen lebenswichtigen Forschungsprojekten die Fördermittel entzieht .
+Wir haben so etwas schon einmal erlebt : mit der Internationalen Raumfahrtstation , für welche 100 Milliarden Dollar verschwendet wurden , ohne dass sie wissenschaftliche Ergebnisse geliefert hätte .
+ITER wird unser Energieproblem nicht lösen .
+Obwohl ITER für den Bereich der Plasmaphysik von gewissem Interesse ist , sollten die teilnehmenden Länder klar erklären , dass seine Finanzierung ihre übrigen Forschungsanstrengungen nicht beeinflussen wird .
+Zugleich sollte die internationale Gemeinschaft Forschungsmaßnahmen im Bereich der Energieeinsparung und der Energiespeicherung unterstützen und die Entwicklung von Nuklearreaktoren der vierten Generation vorantreiben , die die Kernspaltung nutzen und sowohl sauber als auch langlebig sein werden .

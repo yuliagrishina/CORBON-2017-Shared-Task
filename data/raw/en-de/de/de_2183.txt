@@ -1,0 +1,41 @@
+Die Jagd nach dem Higgs-Teilchen
+CAMBRIDGE , MASS . : Vor 50 Jahren sah sich die Teilchenphysik mit einer unerwarteten Herausforderung konfrontiert : Ihre besten mathematischen Modelle konnten zwar einige der Naturkräfte erklären , die die Struktur und das Verhalten von Materie auf einer grundlegenden Ebene erklären – z.B. den Elektromagnetismus und die schwache nukleare Kraft , die für den radioaktiven Zerfall verantwortlich ist .
+Aber die Modelle funktionierten nur , sofern die Teilchen im Inneren der Atome keine Masse hatten .
+Aber wie könnten sich riesige Zusammenballungen dieser Teilchen – Proteine , Menschen , Planeten – verhalten , wie sie es eben tun , wenn ihre Bestandteile nichts wögen ?
+Einige Physiker umgingen das Problem auf clevere Weise .
+Sie postulierten die Existenz eines Teilchens , das noch nie nachgewiesen worden war ; es wurde letztlich zu Ehren des britischen Physikers Peter Higgs als Higgs-Teilchen bezeichnet .
+Ein halbes Jahrhundert lang suchten die Physiker nach diesem nicht zu fassenden Teilchen .
+Nun , nach Arbeiten im CERN-Labor , dem weitläufigen Forschungszentrum für Teilchenphysik in der Nähe von Genf , sieht es aus , als ginge die Suche ihrem Ende entgegen .
+Auf den ersten Blick scheint die Idee , die dem Higgs-Teilchen zugrunde liegt , weit hergeholt .
+Higgs und seine Kollegen gingen davon aus , dass jedes Elementarteilchen tatsächlich keine Masse hat , ganz wie die mathematischen Modelle dies verlangen , und dass daher alle Teilchen normalerweise mit Lichtgeschwindigkeit herumschwirren müssten .
+Was aber wäre , wenn alles um uns herum – jedes einzige Teilchen im Universum – in ein enormes Meer aus Higgs-Teilchen eingetaucht wäre ?
+Die meisten Arten von Teilchen würden dann , wenn sie sich von Punkt A nach Punkt B bewegen , beständig jedes Mal gegen Higgs-Teilchen stoßen , was ihre Bewegung verlangsamen würde .
+Wenn wir sie beobachten , scheinen sie bummelnd daherzukommen wie Urlauber beim Einkauf in einem überfüllten Laden .
+Und aufgrund dieser langsamen Bewegungen gehen wir davon aus , dass sie eine Masse haben .
+Eine 50 Jahre lange Suche nach einem hypothetischen Teilchen , das an ein bizarres Märchen erinnert , mag nach einer ziemlichen Donquichotterie aussehen , aber das Higgs-Teilchen steht im Mittelpunkt des „ Standardmodells “ der Teilchenphysik .
+Jede experimentelle Überprüfung des Modells hat bisher den theoretischen Erwartungen entsprochen .
+In einigen frappierenden Fällen erstreckte sich die Übereinstimmung zwischen Vorhersage und Messung auf zwölf Dezimalstellen , was das Standardmodell zur präzisesten naturwissenschaftlichen Theorie der menschlichen Geschichte macht .
+Das Modell erklärt erfolgreich drei von vier der grundlegenden Naturkräfte ; nur die Schwerkraft bleibt außen vor .
+Higgs-Teilchen könnten in früheren Momenten der kosmischen Geschichte eine sogar noch entscheidendere Rolle gespielt haben .
+Meine eigenen Forschungsarbeiten , wie auch die von anderen Physikern überall auf der Welt , konzentrieren sich auf die möglichen Auswirkungen der Higgs-Teilchen Sekundenbruchteile nach dem Urknall – Auswirkungen , die Beschaffenheit und Schicksal des Universums erklären könnten .
+Trotz alledem haben wir noch immer keinen direkten Beweis , dass es Higgs-Teilchen tatsächlich gibt .
+Laut dem Standardmodell prallen Higgs-Teilchen voneinander ab ; also müssten sie auch eine Masse haben .
+Jüngste Forschungen deuten an , dass Higgs-Teilchen ( falls es sie gibt ) zu den massereichsten Teilchen im subatomischen Bereich gehören und mehr als 120-mal so massereich wie das vertraute Proton sein müssten .
+Um ein derartiges Teilchen im Labor zu produzieren , muss man Protonen bis fast auf Lichtgeschwindigkeit beschleunigen und zur Kollision bringen , wie das der Large Hadron Collider im CERN-Labor pro Sekunde billionenfach tut .
+Diese energiereichen Kollisionen bringen allen möglichen Abfall hervor , den die Physiker sorgfältig mit riesigen Detektoren überprüfen und mit hochkomplexen Computeralgorithmen sieben .
+Die Physiker haben es auf ihrer Jagd nach dem Higgs-Teilchen mit zwei wichtigen Hürden zu tun .
+Erstens müssen sie innerhalb des Abfalls Muster identifizieren , die aus der Produktion und dem rapiden Zerfall eines Higgs-Teilchens herrühren könnten .
+Das gesuchte Signal ist prinzipiell bekannt angesichts all dessen , was wir über das Standardmodell wissen .
+Dasselbe gilt für den Hintergrundlärm all des anderen Mülls , der hervor geschleudert wird , wenn zwei Protonen mit enormer Energie zur zusammenstoßen .
+Aber die Physiker sind auf der Suche nach ein paar Higgs-artigen Nadeln in einem unfassbar großen Heuhaufen , und sie müssen ihre Daten nach Anomalien innerhalb des Abfalls durchkämmen , die nicht durch bekannte Prozesse erklärt werden können .
+Die zweite Schwierigkeit betrifft die Statistik .
+Die Regeln der Quantentheorie , auf denen das Standardmodell beruht , wurzeln im Wesentlichen auf der Wahrscheinlichkeitsrechnung .
+Es wird immer statistische Ausreißer in den Daten geben , genau wie man , wenn man eine Münze wirft , eine unerwartete Abfolge von siebenmal Kopf in Folge haben kann .
+Um mit Zuversicht sagen zu können , dass es sich bei der Münze um eine normale Münze ohne verborgene Eigenschaften handelt , muss man eine ausreichend große Zahl an Münzwürfen erfassen und überprüfen , ob die Daten über eine lange Zeit hinweg die gleiche Anzahl an Kopf- und an Zahlwürfen belegen .
+Wenn die Daten nach tausenden von Münzwürfen immer noch eine Tendenz zu mehr Kopfwürfen belegen , kann man dann mit einer gewissen Berechtigung annehmen , dass die Münze ungewöhnliche Eigenschaften hat .
+Dasselbe gilt für all die Beiprodukte der Protonenzusammenstöße .
+Bevor die Physiker behaupten können , dass die von ihnen bemerkten Anomalien wirklich von Higgs-Teilchen herrühren , müssen sie genügend Daten sammeln , um statistische Ausreißer auszuschließen .
+In CERN haben jüngst zwei voneinander unabhängige Physikergruppen erklärt , dass ihre Daten mit der Entdeckung eines Higgs-Teilchens im Einklang stünden , obwohl nach wie vor eine Chance von einem Zweitausendstel bestehe , dass das Signal aus alltäglichen Prozessen herrühre , die nichts mit einem Higgs-Teilchen zu tun haben .
+Also werden diese Gruppen weiter Protonen zur Kollision bringen und Daten sammeln , und letztere nach Anzeichen auf ein Higgs-Teilchen durchsieben .
+Auch wenn wir zurzeit noch keinen handfesten Beweis für Higgs-Teilchen haben , sind die jüngsten Nachrichten ein deutlicher Hinweis dafür , dass die 50 Jahre währende Jagd auf eines der grundlegendsten Materieteilchen sich ihrem erfolgreichen Abschluss nähert .
+Das nächste Mal , dass die Arbeitsgruppen im CERN-Labor eine Pressekonferenz anberaumen , könnten sie tatsächlich wichtige Neuigkeiten zu verkünden haben .

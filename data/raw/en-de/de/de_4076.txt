@@ -1,0 +1,38 @@
+Das Bonusrisiko
+CHICAGO – In seiner Juli-Sitzung verabschiedete das Europäische Parlament einige der weltweit strengsten Regelungen für Bonuszahlungen an Bankmanager .
+Ziel ist es , die Risikobereitschaft von Finanzinstituten zu dämpfen .
+Die neuen Regelungen sehen vor , dass maximal 30 % der Bonuszahlungen an Banker bar bezahlt werden . Zwischen 40 % und 60 % müssen mindestens drei Jahre lang zurückgestellt werden und mindestens 50 % müssen als „ bedingtes Kapital “ investiert werden , einer neuen Schuldenform , die als Kapital bereitsteht , wenn ein Finanzinstitut in Schwierigkeiten gerät .
+Der innovativste Aspekt dieser Neuregelungen ist , dass die Einschränkungen nicht nur für die Hauptgeschäftsführer der Banken gelten , sondern für alle Topmanager ( wobei die Definition von Topmanager allerdings den nationalen Parlamenten überlassen wird ) .
+Was dieses gewaltige Eingreifen in private Leistungsverträge angeblich rechtfertigt , sind die Auswirkungen auf das Gesamtsystem , die diese Bonuszahlungen haben können .
+Die hohe Bezahlung im Bankensektor , so wird argumentiert , belohne den Erfolg , bestrafe jedoch nicht das Versagen .
+Die Manager können einfach von einem Unternehmen zum anderen wechseln , wenn es schlecht läuft , und so jede Bestrafung umgehen .
+Das System belohnt Manager dafür , Risiken einzugehen , auch wenn die Risiken zu hoch sind .
+Diese Verzerrung wird als eine der Hauptursachen für die Finanzkrise von 2008 angesehen .
+Problematisch an dieser Argumentation ist , dass es keine Belege gibt , die den ersten entscheidenden Zusammenhang in dieser Logik untermauern würden .
+Viele Forscher haben versucht , eine Verbindung zwischen den Vergütungsverfahren für Bankmanager und ihrer Risikobereitschaft herzustellen , sind dabei jedoch auf keine gestoßen .
+Es konnte lediglich festgestellt werden , dass höher bezahlte Angestellte größere Risiken eingingen , allerdings ist unklar , ob dies eine Ursache oder eine Wirkung ist .
+Angestellte in Banken mit hohem Fremdfinanzierungsanteil sollten besser bezahlt werden , da sie ein höheres Risiko tragen .
+Allerdings sind diese Forschungsarbeiten auf die fünf Topmanager beschränkt , deren Daten öffentlich zugänglich sind .
+Leider gibt es für Manager aus den tieferen Etagen keine öffentlich zugänglichen Daten , um einen Kausalzusammenhang zwischen der leistungsabhängigen Bezahlung durch Boni und der Risikobereitschaft herzustellen .
+In dieser Hinsicht steht der von der US-Regierung eingerichteten Financial Crisis Inquiry Commission ( FCIC ) eine einmalige Möglichkeit zur Verfügung .
+Dank ihrer Befugnis zur Zwangsvorladung kann die FCIC diese Daten sammeln und analysieren .
+Es bleibt zu hoffen , dass wir diese Fragen nach der Veröffentlichung ihres Berichts im Dezember beantworten können .
+Wenn wir davon ausgehen , dass ein Kausalzusammenhang besteht , scheint die europäische Richtlinie recht gut ausgearbeitet zu sein – mit einer großen Schwäche .
+Sie ist deshalb gut ausgearbeitet , weil sie nicht in die Höhe der Vergütungen eingreift ( wie viele gefordert haben ) , sondern in die Form der Vergütung .
+Sie verlangt , dass ein Großteil des Jahresbonus nicht nur drei Jahre zurückgestellt wird , sondern auch , dass dieser zur Risikodeckung zur Verfügung steht .
+Wenn das Unternehmen in den drei Jahren schlechte Leistungen erbringt , verlieren die Manager einen Teil bzw. ihren gesamten angewachsenen Bonus .
+Die Anreize , Risiken einzugehen , werden somit verringert , aber nicht vollständig beseitigt .
+Die größte Schwäche liegt darin , dass diese Vorschriften leicht zu umgehen sind , da sie lediglich für Bonuszahlungen gelten , dabei bleibt das Verhältnis zwischen Gehalt und Bonus den Banken überlassen .
+Gegenwärtig erhalten Bankmanager ihre Bonuszahlungen zu Anfang des Jahres , wobei die Höhe von ihrer individuellen Leistung im Vorjahr abhängt .
+Es wäre äußerst einfach , den Bonus des Vorjahres , der von der Vorjahresleistung abhängig ist , in das Gehalt des aktuellen Jahres umzuwandeln .
+Das Gehalt , das vollständig in bar ausgezahlt werden kann , wird jedes Jahr neu verhandelt und umgeht damit alle regelnden Einschränkungen .
+Ohne direktes Eingreifen der Regierung ist es schwierig , das Problem zu beheben .
+Jedoch beschränkt sich in großen Finanzinstituten der Anreiz , auf Kosten der Steuerzahler zu spekulieren , nicht nur auf die Manager . Er gilt ebenso für die Inhaber von Wertpapieren , die de facto vom Staat geschützt werden .
+Da sie Zugang zu einem versicherten Kredit haben , finden es die Inhaber von Bankaktien unwiderstehlich , sich übermäßig viel Geld zu leihen .
+Schränkt man die leistungsbezogene Bezahlung der Manager ein , ohne etwas an den Anreizen für die Aktieninhaber zu ändern , so zwingt man die Aktieninhaber lediglich dazu , sich aktiver ins Unternehmen einzubringen und andere Wege zu finden , größere Risiken einzugehen .
+Wenn das Problem in der überhöhten Risikobereitschaft ( moral hazard ) liegt , die sich daraus ergibt , dass die Banken zu groß sind , um sie pleite gehen zu lassen , besteht die Lösung nicht darin , die Bezahlung zu beschränken , sondern dieses Risiko zu beseitigen , indem man die Aktieninhaber zwingt , mehr Kapital zu investieren oder ihre Aktien zu verlieren , wenn die Schulden der Banken unsicher werden .
+Wie Oliver Hart und ich vor kurzem in einem Aufsatz erläuterten , ist dies leicht möglich . Dazu muss ein Regulierer immer dann eingreifen , wenn die Credit Default Swaps für die Schulden eines Finanzinstituts zu hoch werden .
+Wenn wir zusätzlich zur Reformierung der Kapitalanforderungen ( nicht anstatt dieser ) bei der Bezahlung eingreifen wollen , ist die effektivste Möglichkeit hierzu eine Variante der Steuer , die der ehemalige britische Premierminister Gordon Brown eingeführt hat : eine Sondersteuer auf sämtliche Vergütungsleistungen oberhalb einer gewissen Grenze , die nicht als Aktien gezahlt werden .
+Diese Steuer hätte zwei positive Nebeneffekte : Sie würde die Banken zu einer Veränderung ihrer Kapitalstruktur veranlassen , wodurch sie ihre exzessive Fremdfinanzierung abbauen würden und die Manager zu einer höheren Risikobeteiligung gezwungen wären .
+Wenn es eine so einfach Lösung gibt , warum hat kein gewähltes Gremium sie umgesetzt ?
+Ich befürchte , die Politiker wollen in der Öffentlichkeit hart gegenüber den Bankern wirken , haben aber kein Interesse daran , das Problem wirklich zu lösen .

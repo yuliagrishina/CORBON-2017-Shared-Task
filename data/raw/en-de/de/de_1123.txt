@@ -1,0 +1,44 @@
+Ist Abschreckung vor einem Cyber-Krieg möglich ?
+CAMBRIDGE – Ängste vor einem „ virtuellen Pearl Harbor “ kamen erstmals in den 1990er Jahren auf , und seit nunmehr zwei Jahrzehnten sorgt sich die Politik , das Hacker Erdölleitungen in die Luft sprengen , das Trinkwasser vergiften , Schleusentore öffnen und Flugzeuge durch Manipulation der Flugsicherungssysteme auf Kollisionskurs bringen könnten .
+Im Jahr 2012 warnte der damalige US-Verteidigungsminister Leon Panetta , dass Hacker „ in weiten Teilen des Landes das Stromnetz abschalten “ könnten .
+Keines dieser Katastrophenszenarien ist bisher eingetreten , aber sie lassen sich sicherlich nicht ausschließen .
+Auf bescheidenerem Niveau haben es Hacker im vergangenen Jahr geschafft , in einem deutschen Stahlwerk einen Hochofen zu zerstören .
+Es stellt sich daher die einfache Sicherheitsfrage : Lassen sich derartige zerstörerische Aktionen durch Abschreckung vermeiden ?
+Es wird manchmal behauptet , dass Abschreckung im virtuellen Raum wegen der Schwierigkeit der Zuordnung der Angriffsquelle und der großen Anzahl der verschiedenen beteiligten staatlichen und nichtstaatlichen Akteure keine effektive Strategie sei .
+Man weiß häufig nicht genau , wessen Anlagen man bedrohen kann und wie lange .
+Die Zuordnung ist tatsächlich ein ernstes Problem .
+Wie ist ein Gegenschlag möglich , wenn der Verursacher unbekannt ist ?
+In Nuklearfragen mag die Zuordnung nicht perfekt funktionieren , aber es gibt nur neun Staaten mit Nuklearwaffen , die isotopischen Kennzeichnungen ihrer nuklearen Materialien sind relativ bekannt , und nichtstaatliche Akteure sehen sich hohen Zugangsbarrieren ausgesetzt .
+Nichts hiervon trifft auf den virtuellen Raum zu , in dem eine Waffe aus einigen wenigen Codezeilen bestehen kann , die sich beliebig viele staatliche oder nicht staatliche Akteure ausdenken ( oder im sogenannten Dark Web erwerben ) können .
+Ein technisch versierter Angreifer kann den Ausgangspunkt des Angriffs durch mehrere Remote-Server tarnen .
+Selbst bei vielen „ Sprüngen “ von einem Server zum anderen ist der Ausgangspunkt forensisch zu ermitteln , doch ist hierfür häufig viel Zeit erforderlich .
+So wurde für einen Cyber-Angriff , bei dem 2014 bei JPMorgan Chase 76 Millionen Kundenadressen gestohlen wurden , weithin Russland verantwortlich gemacht ; 2015 jedoch konnte das US-Justizministerium eine raffinierte Verbrecherbande als Täter ausmachen , die von zwei Israelis und einem Amerikaner mit Wohnsitzen in Moskau und Tel Aviv angeführt wurde .
+Allerdings geht es bei der Zuordnung um eine relative Sicherheit .
+Trotz der Gefahren falscher Fährten und der Schwierigkeit , eine sofortige , qualitativ hochwertige Zuordnung zu gewährleisten , die „ gerichtsfest “ wäre , ist häufig eine ausreichend sichere Zuordnung möglich , um eine Abschreckung zu erlauben .
+So versuchten die USA nach dem Angriff auf SONY Pictures 2014 zunächst , die Mittel , dank derer sie den Angriff auf Nordkorea zurückführten , geheimzuhalten ; daher wurde ihnen mit weit verbreiteter Skepsis begegnet .
+Innerhalb weniger Wochen jedoch wurde an die Presse durchgestochen , dass die USA Zugriff auf nordkoreanische Netze hätten .
+Die Skepsis schwand , allerdings auf Kosten Offenlegung einer sensiblen Informationsquelle .
+Eine schnelle und sichere Zuordnung ist häufig schwierig und teuer , aber nicht unmöglich .
+Und nicht nur die Regierungen verbessern ihre diesbezüglichen Fähigkeiten , sondern es beteiligen sich zunehmend Unternehmen aus der Privatwirtschaft an diesem Spiel , und ihre Teilnahme senkt die Kosten , die sich für Staaten aus der Offenlegung sensibler Quellen ergeben .
+Bei vielen Situationen geht es um die relative Sicherheit der Zuordnung , und mit Verbesserung der diesbezüglichen Forensik durch Fortschritte bei der Technologie könnte die Abschreckungswirkung zunehmen .
+Zudem sollten sich Analysten bei der Bewertung der Abschreckung im virtuellen Raum nicht auf die traditionellen Instrumente der Bestrafung und Verhinderung allein stützen .
+Man sollte auch der Abschreckung durch wirtschaftliche Verflechtungen und durch Normen Aufmerksamkeit schenken .
+Wirtschaftliche Verflechtungen können für ein wichtiges Land wie China die Kosten-Nutzen-Kalkulation ändern : Die Auswirkungen eines Angriffs auf das US-Stromnetz etwa könnten der chinesischen Volkswirtschaft schaden .
+Bei einem Staat wie Nordkorea dagegen , der nur schwach an die Weltwirtschaft angebunden ist , wirken sich derartige Verflechtungen vermutlich kaum aus .
+Es ist unklar , inwieweit Verflechtungen nichtstaatliche Akteure beeinflussen .
+Einige könnten wie Parasiten leiden , wenn sie ihren Träger töten , aber anderen sind derartige Effekte möglicherweise egal .
+Was Normen angeht , so sind wichtige Staaten übereingekommen , dass ein Cyber-Krieg unter das Kriegsvölkerrecht fällt , das die Unterscheidung zwischen militärischen und zivilen Zielen sowie die Verhältnismäßigkeit in Bezug auf die Folgen vorschreibt .
+Im vergangenen Juli hat eine UN-Gruppe aus Regierungsexperten den Ausschluss ziviler Ziele von Cyber-Angriffen empfohlen , und diese Norm wurde auf dem G20-Gipfel im letzten Monat beschlossen .
+Es wird spekuliert , dass Cyber-Waffen bei der Kriegsführung bisher nicht stärker eingesetzt wurden , eben weil die Auswirkungen auf zivile Ziele unsicher und die Folgen unvorhersehbar sind .
+So könnten derartige Normen den Einsatz von Cyber-Waffen durch die USA gegen die irakische und libysche Luftabwehr verhindert haben .
+Und der Einsatz von Cyber-Instrumenten in Russlands „ hybriden “ Kriegen in Georgien und der Ukraine war relativ begrenzt .
+Die Beziehung zwischen den Variablen bei der Cyber-Abschreckung ist eine dynamische , die von Technologie- und Wissensfortschritten beeinflusst werden wird – wobei die Innovation hier mit einem schnelleren Tempo abläuft , als das bei den Nuklearwaffen der Fall war .
+So könnte etwa eine bessere Zuordnungsforensik die Rolle der Bestrafung verstärken , und bessere Verteidigungsmechanismen durch Verschlüsselung könnten die Abschreckung durch Verhinderung steigern .
+Infolgedessen könnte sich der gegenwärtige Vorteil des Angreifers gegenüber dem Verteidiger im Laufe der Zeit wandeln .
+Wissensfortschritte im Cyber-Bereich sind ebenfalls wichtig .
+Mit einem besseren Verständnis der Bedeutung des Internets für die wirtschaftliche Gesundheit von Staaten und Organisationen könnten sich deren Kosten-Nutzen-Rechnungen bezüglich der Zweckmäßigkeit des Cyber-Krieges ändern , genau wie zunehmende Erkenntnisse im Laufe der Zeit das Verständnis der Kosten eines Nuklearkriegs verändert haben .
+Anders als im Nuklearzeitalter gibt es für die Cyber-Ära keine Patentrezepte .
+Oder sind wir diesbezüglich Gefangene eines simplifizierenden Bildes von der Vergangenheit ?
+Schließlich übernahmen die USA , als ein Nuklearschlag irgendwann zu drakonisch schien , um glaubwürdig zu sein , eine konventionelle Strategie der flexiblen Reaktion , um ihren Bemühungen , vor einem sowjetischen Einmarsch in Westeuropa abzuschrecken , ein Element der Verhinderung hinzuzufügen .
+Und während die USA in Bezug auf Nuklearwaffen nie einem offiziellen Erstschlagverbot zustimmten , bildete sich letztlich ein derartiges Tabu heraus , zumindest zwischen den bedeutenden Staaten .
+Die Abschreckung mag in der Cyber-Ära nicht mehr sein , was sie mal war , aber vielleicht war sie das nie .

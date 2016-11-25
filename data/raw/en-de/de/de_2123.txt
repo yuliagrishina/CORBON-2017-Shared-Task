@@ -1,0 +1,36 @@
+Wie unabhängig ist die Europäischen Zentralbank ?
+Während sich die Europäische Union ( EU ) darauf vorbereitet , bis zu zwölf neue Mitglieder aufzunehmen , erhebt sich unter den führenden Beitrittskandidaten eine hitzige Debatte darüber , ob die schnelle Übernahme des Euro ein rasches Aufholwachstum fördert oder eher hemmt .
+Doch mit der Erweiterung der Währungsunion stellen sich auch unter den bisherigen Euro-Mitgliedsländern zwei genauso grundsätzliche Fragen : Führt die formale politische Unabhängigkeit der Europäischen Zentralbank ( EZB ) zu wirklich unabhängigen politischen Entscheidungen ?
+Wenn das nicht zutrifft , wird nicht die Erweiterung der EU die Probleme verschärfen , weil die Voreingenommenheit der EZB-Mitglieder noch weiter auseinandergehen wird , als dies jetzt schon der Fall ist ?
+Mit jedem Land , das der europäischen Währungsunion neu beitritt , wächst auch der Zentralbankrat der EZB , die Gruppe , welche die Geldpolitik für das Euro-Gebiet festlegt , um ein Mitglied .
+Mit 18 Mitgliedern ist der Zentralbankrat der EZB schon heute größer als derjenige der Federal Reserve Bank ( FED ) in den USA , der Bank von England oder der Bank von Japan .
+Um das Risiko , dadurch noch handlungsunfähiger zu werden , zu mindern , muß die EZB ihren Zentralbankrat reformieren .
+Während der Vertrag von Nizza es nicht zulässt , den Zentralbankrat umzubilden , erlaubt er es doch , die Regeln für die Abstimmung im Rat zu ändern .
+Eine Regelung , die ein Rotationsverfahren bei der Abstimmungen unter den Ratsmitgliedern vorsieht oder sie in Abstimmungsblocks gruppiert , könnte das gegenwärtige System : eine Person - eine Stimme , ersetzen .
+Wie würde eine solche Änderung die europäische Finanzpolitik beeinflussen ?
+Die Erweitung der Währungsunion wird die Anzahl der nationalen Zentralbankchefs im Zentralbankrat der EZB vergrößern .
+Mit jedem Beitritt kommt ein Mitglied hinzu . Dagegen ist die Anzahl der leitenden Beamten im Hauptquartier der EZB in Frankfurt auf sechs festgesetzt .
+Einige Beobachter meinen nun , dass diese Verschiebung die europäische Finanzpolitik noch anfälliger für regionale Beeinflussung durch die nationalen Zentralbanken macht .
+Doch wäre es auch falsch anzunehmen , dass den Zentralbankiers in Frankfurt die regionale oder nationale Voreingenommenheit abgeht .
+Ich habe die Frage der regionalen Beeinflussung im Falle der FED in den USA untersucht . Ihr finanzpolitisches Gremium , das Federal Open Market Committee ( FOMC ) , setzt sich aus sieben leitenden Beamten aus Washington und fünf Vertretern der regionalen Zweigstellen zusammen .
+Ich untersuchte die Protokolle der Jahre 1978 bis 2000 , die 214 Treffen und Telefonkonferenzen mit mehr als 2400 Abstimmungen der FOMC-Mitglieder umfassen .
+Anscheinend neigen die politischen Entscheider in Amerikas FED eher dazu , zu Gunsten niedriger Zinssätze gegen das Mehrheitsvotum zu stimmen , wenn die Arbeitslosenquote in ihrer Region größer ist als der nationale Durchschnitt .
+Sie scheinen ebenfalls eher abweichend zu Gunsten steigender Zinssätze zu stimmen , wenn die Arbeitslosenrate ihrer Region unter dem nationalen Durchschnitt liegt .
+Die Beamten in Washington scheinen sogar eher mehr als weniger empfindlich auf die Arbeitslosigkeit in ihrer Region zu reagieren , als die Beamte aus den Regionalbüros der FED .
+Gilt das Gleiche auch für die EZB ?
+Um das herauszufinden , ist eben diese Untersuchung ihrer politischen Erörterungen nötig . Doch vereitelt dies das Fehlen aufgezeichneter und veröffentlichter Abstimmungsergebnisse .
+Ich ersann ein Experiment , das uns zu untersuchen erlaubt , ob seit Einführung des Euros nationale Rücksichtnahmen eine Rolle in der Politik der EZB gespielt haben .
+Dieser Versuch geht davon aus , dass jedes Mitglied im Zentralbankrat der EZB auf der Grundlage des Unterschieds zwischen der Inflationsrate seines Landes und der durchschnittlichen Inflationsrate der gesamten Euro-Zone im jeweiligen Vormonat abstimmt .
+Bei ihm wird ferner unterstellt , dass dann , wenn der Unterschied zwischen der nationalen Inflationsrate und der für das Euro-Gebiet durchschnittlichen Rate im Monat vor einer finanzpolitischen Versammlung einen gewissen Schwellenwert überschritten hat , das Mitglied im Zentralbankrat auf eine ganz bestimmte Weise abstimmen werde .
+Wenn zum Beispiel die nationale Inflation die des gesamten Euro-Gebiets um mehr als einen bestimmten Betrag ( den Schwellenwert ) übertrifft , würde das Rats-Mitglied aus diesem Land zugunsten monetärer Verknappung oder gegen die Lockerung der Geldmenge stimmen .
+Wenn die Rate um mehr als den Schwellenwert niedriger als der Durchschnitt für das Euro-Gebiet ausfällt , dann würde er oder sie gegen finanzielle Verknappung und für monetäre Erleichterungen stimmen .
+Schließlich ging ich davon aus , dass alle finanzpolitischen Entscheidungen aufgrund einfacher Mehrheiten getroffen würden .
+Ich untersuchte die elf Fälle , in denen die EZB zwischen Januar 1999 und Dezember 2001 die Zinssätze verändert hat .
+Ich berücksichtigte die nationale Zugehörigkeit eines jeden Zentralbankratmitglieds und errechnete aufgrund der Annahmen über die Unterschiede zwischen den Inflationsraten der Länder und dem Durchschnitt der Euro-Zone die Gesamtzahl der Mitglieder , die jeweils gegen die finanzpolitische Maßnahme , die tatsächlich getroffen wurde , gestimmt haben sollten .
+Ich wiederholte den Versuch , indem ich unterschiedliche Schwellenwerte zugrundelegte
+Die Ergebnisse zeigen , dass die Entscheidungen der EZB zur Geldpolitik mit der Hypothese über die regionale Beeinflussbarkeit übereinstimmten .
+In beinah jedem Fall und bei jedem zugrunde gelegten Schwellenwert stimmte eine Mehrheit von Zentralbankratsmitgliedern für die jeweilige geldpolitische Änderung , die dann tatsächlich durchkam , mit einem Abstimmungsergebnis , das aus dem Unterschied zwischen ihrer nationalen Inflationsrate und der Durchschnittsrate für das Euro-Gebiet vorausgesagt werden konnte .
+Ein Vorschlag zu Reform des Abstimmungsmodus im Zentralbankrat sieht vor , den sechs ständigen Mitgliedern aus der EZB-Zentrale größeres Gewicht einzuräumen . Er unterstellt , dass diese Beamten wahrscheinlich weniger von nationalen Interessen beeinflusst sein würden .
+Doch mein Versuch zeigt , dass selbst dann , wenn sich die Abstimmung auf diese sechs Beamte beschränkte , die zwischen Januar 1999 und Dezember 2001 gefällten politischen Entscheidungen mit den Mehrheitsverhältnissen übereinstimmten , die sich aus den Unterschieden der regionalen Inflationsraten ergaben .
+Aus alledem ergeben sich zwei ernsthafte Folgerungen : 1. jede Änderung der Abstimmungsregeln im Zentralbankrat der EZB sollte die Möglichkeit für die regionale Einflussnahme , die mit der Osterweiterung nur wachsen kann , vermindern .
+2. die Reformer sollten nicht unterstellen , dass die Beamten aus der Hauptzentrale der EZB in Frankfurt weniger Einseitigkeit erkennen ließen , als die Beamte aus den Zentralbanken der einzelnen Nationen .

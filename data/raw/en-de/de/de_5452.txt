@@ -1,0 +1,40 @@
+Den öffentlichen Raum des Internetzs schützen
+WASHINGTON , DC – Seitdem Edward Snowden enthüllt hat , dass die NSA sowohl private Bürger als auch Politiker in der ganzen Welt ausspioniert , tobt in den USA eine Debatte über die angemessene Balance zwischen nationaler Sicherheit , dem Schutz des Privatlebens und der Freiheit des Einzelnen .
+In letzter Zeit hat sich diese Debatte auf die Verschlüsselung fokussiert und auf die Frage , ob Technologie-Unternehmen Programme entwickeln dürfen , die die Nachrichten ihrer Nutzer so sicher verschlüsseln können , dass niemand außer den Empfängern - noch nicht einmal Regierungen - sie lesen können .
+Es ist eine Debatte , die Regierungen und Bürger überall aufmerksam verfolgen sollten .
+Es überrascht nicht , dass die US-Sicherheitsbehörden gegen eine vollständige Verschlüsselung durch amerikanische Technologie-Unternehmen sind . Sie argumentieren , dass die Sicherheit des Landes gefährdet ist , wenn selbst die Behörden keine so genannte backdoor mehr haben , einen Sicherheitscode , der sie quasi durch die Hintertür hineinlässt .
+Für Softwareentwickler dagegen sind die Hintertüren Schwachstellen , absichtliche Versuche , die Sicherheit zu schwächen .
+Sie reagieren auf Forderungen nach Hintertüren wie Automobilhersteller auf Forderungen nach defekten Motoren reagieren würden .
+Eine große Koalition von Technologie-Unternehmen und Organisationen der Zivilgesellschaft hat vor kurzem einen Brief an Präsident Obama geschickt , in dem sie gegen die Hintertüren argumentiert .
+Die Hintertüren untergraben demnach nicht nur die Cybersicherheit eines jeden Amerikaners und die wirtschaftliche Sicherheit der Nation , sondern die Einführung neuer Schwachstellen zur Beeinträchtigung verschlüsselter Produkte in den USA gefährdeten auch die Menschenrechte und die Informationssicherheit in der ganzen Welt .
+Den Unterstützern der Verschlüsselung ist klar , dass die Fähigkeit amerikanischer Unternehmen , die Daten und Geräte ihrer Kunden auf Anforderung freizugeben , auch andere Regierungen dazu bringen wird , denselben Zugang zu verlangen wie die US-Regierung . Sie werden versuchen , dieselben Funktionen von ihren eigenen Unternehmen zu verlangen .
+Die US-Regierung könnte dann angesichts ihrer eigenen Politik nichts dagegen vorbringen .
+Das Ergebnis sei ein von Schwachstellen durchsiebtes Informationsumfeld , das auch noch von den repressivsten und gefährlichsten Regimes ausgenutzt werden könnte .
+Auf dem Spiel stehe nichts weniger als die „ Gesundheit des globalen digitalen Ökosystems ” .
+Die Technologie-Unternehmen , die diesen Brief unterzeichnet haben , wissen , dass sie zwar US-Unternehmen sind , aber gleichzeitig auch globale Akteure mit globaler Verantwortung .
+Natürlich wissen sie auch , dass Verbraucher aus dem Ausland , die glauben , dass die Nutzung amerikanischer sozialer Medien und Suchmaschinen eine Prüfung durch amerikanische Sicherheitsbehörden bedeutet , andere Provider wählen werden .
+Viele ausländische Regierungen reagierten , indem sie sich darauf konzentrierten , ihre „ technologische Souveränität ” sicherzustellen und zu schützen .
+Informationen überschreiten Grenzen , aber Server und Kabel haben noch immer physische Standorte .
+Das Open Technology Institute bei New America ( dem ich vorstehe ) arbeitet mit dem deutschen Global Public Policy Institute ( GPPi ) an einer Reihe von transatlantischen Dialogen zum Thema „ Sicherheit und Freiheit im digitalen Zeitalter ” .
+Ein Anfangsbericht nennt 18 Vorschläge von mehr als einem Dutzend europäischen Regierungen zu Themen wie Tiefseekabel , Verschlüsselung , lokalisierte Datenspeicherung , Unterstützung der Branche vor Ort , internationale Verhaltensregeln und Datenschutzgesetze .
+Viele dieser Vorschläge werden ihre Ziele nicht erreichen .
+Aber bei den meisten wichtigen Themen , die geklärt werden müssen , geht es nicht so sehr darum , ob sie durchführbar sind , sondern ob sie von einer nationalen und globalen Perspektive aus wünschenswert sind .
+Wie auch bei US-Unternehmen ist es wichtig , die Interessen der verschiedenen Akteure auf unternehmerischer , wirtschaftlicher und öffentlicher Ebene einerseits und auf nationaler und globaler Ebene andererseits voneinander zu unterscheiden .
+Es steht für die Bürger der ganzen Welt viel auf dem Spiel , das richtig zu machen .
+Zunächst einmal sollte digitaler Protektionismus genauso verdächtig sein wie jede andere Form von Protektionismus , wenn auch mit Ausnahmen für Gesundheit , Sicherheit und soziale Solidarität . „ Technologische Souveränität ” kann leicht zum Vorwand dafür werden , dass Bürger dazu angehalten werden , nur noch die technischen Produkte des eigenen Landes kaufen .
+Zudem sollten Regeln global formuliert und national umgesetzt werden .
+Das Internet ist im Wesentlichen ein Land , dessen Bürger staatlich und nicht-staatlich sind .
+Es ist unsere Aufgabe , sicherzustellen , dass es ein freies , offenes und universell zugängliches Land ist , das die universalen Menschenrechte fördert und schützt .
+Die OECD hat 2011 mit den „ Principles for Internet Policy Making ” ein ausgezeichnetes Regelwerk verabschiedet .
+Prinzip Nr. 1 fordert von Entscheidungsträgern , „ den globalen freien Informationsfluss zu fördern und zu schützen ” , Prinzip Nr. 2 soll die „ offene , verteilte und vernetzte Struktur des Internet ” fördern , Prinzip Nr. 8 schreibt „ Transparenz , Fairness und Verantwortlichkeit ” im Internet vor , Prinzip Nr. 11 fördert „ Kreativität und Innovation ” und Prinzip Nr. 13 „ ermutigt Unternehmen , die Sicherheit im Internet zu fördern ” .
+Ähnliche Richtlinien gibt es auch in anderen Ländern und regionalen Organisationen .
+Es geht nicht so sehr um die genauen Formulierungen und noch nicht einmal um den Inhalt , als vielmehr darum , dass sich die Erkenntnis durchsetzt , dass Regeln dieser Art für Entscheidungsträger in der ganzen Welt notwendig sind .
+In diesem Zusammenhang ist es nicht klar , ob die Idee der „ technologischen Souveränität ” hilfreich ist oder eher schadet .
+Es hört sich so an , als sei der digitale Raum ein Luftraum oder ein Hoheitsgewässer , etwas , das sich aus einem physischen Territorium ergibt oder diesem anhängt .
+Ein Bericht von New America - GPPi trägt den Titel : „ Technological Sovereignty : Missing the Point ? ” .
+Die Autoren kommen zu dem Schluss , dass „ Datenschutz und Datensicherheit hauptsächlich nicht davon abhängen , wo Daten physisch gespeichert werden , sondern wie sie gespeichert und übertragen werden ” .
+Was Daten anbelangt , sind wir bereits in einem post-territorialen Zeitalter angelangt .
+Die Trennung von Souveränität und Territorium ist schwer zu bewerkstelligen , besonders nachdem Edward Snowden der Welt gezeigt hat , wie weit die technologischen Tentakel reichen .
+Aber die eigentliche Lektion besteht darin , dass eine Unterscheidung zwischen nationaler Sicherheit und globaler Sicherheit in der digitalen Welt sowohl unmöglich als auch extrem kontraproduktiv sein kann .
+Wir brauchen neue Karten und Denkweisen und neue Koalitionen von Unternehmen , zivilgesellschaftlichen Aktivisten und all denen , die verstehen , dass nationale Sicherheit auch den Schutz privater Daten und die Meinungsfreiheit beinhalten muss .
+Und wir brauchen neue Wege , um sowohl Regierungen als auch Bürger in einer neuen , aufregenden , gefährlichen und noch immer größtenteils unerforschten Welt zu engagieren .

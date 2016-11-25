@@ -1,0 +1,46 @@
+Die Informationsrevolution der Genetik
+Die Entschlüsselung der Geheimnisse des menschlichen Genoms wäre undenkbar ohne die elektronische Verarbeitung enormer Datenmengen , einschließlich des Großteils der drei Milliarden chemischer Einheiten , aus denen der genetische Code unserer Spezies besteht .
+Was uns diese , ,bioinformatische " Revolution aber gebracht hat , ist vor allem die unumstößliche Bestätigung der Evolution als Grundlage allen Lebens auf der Erde .
+Sequenzdaten von Proteinen und Nukleinsäuren sind für die elektronische Verarbeitung gut geeignet , weil sie einfach digitalisiert und in ihre Bestandteile aufgelöst werden können .
+Einfache Computerprogramme können zwei oder mehr Strings dieser Einheiten vergleichen und deren Übereinstimmungsgrad feststellen , riesige Datenbanken durchsuchen , um neue Sequenzen mit bekannten zu vergleichen und Sequenzgruppen in der Form eines Stammbaums zusammen zu fügen .
+Die Auswirkungen der Erforschung der ersten Proteine vor fast einem halben Jahrhundert waren weitreichend .
+Die Sequenzen hatten einen eher geringen Umfang - Insulin hat nur ungefähr 50 Aminosäuren , je nach Spezies - aber die Unterschiede der Arten untereinander konnten eindeutig festgestellt werden .
+Mein eigenes Interesse wurde vor 40 Jahren von einem dieser einfachen Moleküle geweckt , als ich postdoktoraler Student in Schweden war .
+Fibrinpeptide sind kurze Sequenzen , die relativ einfach gereinigt werden können und die den großen Vorteil haben , dass sie von Spezies von Spezies sehr variieren .
+Das heißt , wir können eine starke Übereinstimmung zwischen dem Fossilprotokoll und den meisten Veränderungen feststellen , die wir in den fibrinpeptiden Sequenzen beobachtet haben .
+So war es offensichtlich möglich , die Evolutionsvergangenheit in Bezug auf existierende genetische Sequenzen zu deuten .
+Aber der Fortschritt der elektronischen Datenverarbeitung war unerlässlich , um weiter voranzukommen .
+1965 begann Robert Ledley damit , die erste Sequenzdatenbank anzulegen , den Atlas der Proteinsequenz und -struktur .
+1967 erstellten Forscher den genetischen Stammbaum einer Vielzahl von Tieren und Pilzen , der fast dieselbe Verzweigungsstruktur aufwies , die von einem klassischen Biologen verwendet worden wäre , auch wenn ihr Computer keine Ahnung von komparativer Anatomie , Paläontologie , Embryologie und anderer nicht-molekularen Eigenschaften dieser Kreaturen hatte .
+Schließlich ermöglichte 1970 eine herausragende Computer-Innovation die richtige Anordnung von Aminosäuren-Sequenzen ( was für das gesamte nachfolgende Datenmanagement unbedingt erforderlich ist ) .
+Die Interpretation der Datensequenzierung fand dann zweidimensional statt .
+Zunächst bestand ein natürliches Interesse an den Beziehungen der Organismen untereinander .
+Die Annahme war , dass willkürliche Veränderungen auf allen Verzweigungsebenen eines genetischen Baums auftreten , dass aber je nach Protein immer nur ein Bruchteil überlebt .
+Blieben diese Überlebensraten konstant , konnten die Abstände zwischen den existierenden Sequenzen kalkuliert werden .
+Ein anderer Vergleichsansatz konzentrierte sich auf die sogenannten paralogen Proteine , die in derselben Kreatur von einem gemeinsamen Vorfahren als Folge von Genduplikationen entsteht .
+Beide Vergleichsarten bewiesen , dass neue Proteine von alten abstammen , genau wie die Evolutionstheorie es angenommen hätte .
+Duplikationen von Teilen des DNA-Genoms treten ständig in allen Organismen auf , hauptsächlich als Ergebnis von willkürlichen Bruch- und Wiederzusammenführungs-Ereignissen .
+Die meisten dieser duplizierten Segmente versinken in der Vergessenheit , weil jedes Protein , dass ihre Gene hervorbringen , redundant ist .
+Manchmal stellt sich jedoch ein gering verändertes Genprodukt als vorteilhaft für die Anpassung dar und ein neues Protein ist geboren .
+Oft ähnelt dessen Funktion der des alten sehr , aber gelegentlich treten grundlegende Veränderungen auf .
+1978 wurde die DNA-Sequenzierung zu einer verbreiteten Praxis .
+Sofort überschwemmten frische genetische Informationen die existierende Proteinsequenzdatenbank .
+Ein zweites Lagerhaus , die GenBank wurde eingerichtet , die aber ursprünglich auf DNA-Sequenzen beschränkt war .
+Und doch steckte die eigentlich interessante Information in den übertragenen DNA-Sequenzen , also ihren Protein-Äquivalenten .
+Es war einer dieser seltenen Momente unbegrenzter Möglichkeiten , in dem sich ein Laie mit einem Fachmann messen kann .
+Also startete ich meine eigene Datenbank , die ich NEWAT ( New Atlas ) nannte und für die ich hauptsächlich übertragene DNA-Sequenzen verwendete .
+Ausgerüstet mit einem sehr primitiven Computer und einigen sehr primitiven Programmen , die ein Student geschrieben hatte , begannen wir , jede neue Sequenz mit allen vorher eingetragenen Sequenzen zu vergleichen und entdeckten vollkommen unerwartete Beziehungen .
+Als dann Ende der 80er die Initiative zur Feststellung des menschlichen Genoms ins Leben gerufen wurde , war nicht mehr die Menge der Daten der beschränkende Faktor für die Entwicklung neuen Wissens , sondern plötzlich war es deren Management .
+Viele Wissenschaftler standen dem Projekt des menschlichen Genoms mit Skepsis gegenüber .
+Das menschliche Genom , so gaben sie zu Bedenken , besäße hundert Mal so viele Aminosäurensequenzen wie die vorhandenen Datenbanken .
+Wie also sollten die Gene identifiziert werden ?
+Wie kann etwas verglichen werden , das nie gefunden wurde ?
+Aber nicht jedes Gen eines Genoms ist eine vollständige neue Struktur und nicht alle Proteinsequenzen sind möglich - sonst würde die Anzahl der unterschiedlichen Sequenzen die Anzahl der Atome im Universum um ein Vielfaches übersteigen .
+Nur ein kleinster Bruchteil möglicher Sequenzen ist jemals tatsächlich entstanden , durch Duplikation , Multiplikation oder Modifizierung einer kleinen anfänglichen Gruppe von Genen .
+Daraus folgt , dass die meisten Gene mit anderen Genen in Beziehung stehen .
+Ich war überzeugt davon , dass die Bioinformatik es uns ermöglichen würde , alle Gene einfach durch Sequenzüberprüfung zu identifizieren .
+Aber nach dem Abschluss des ersten Dutzends Mikrobengenome waren noch immer die Hälfte der Gene nicht identifiziert - ein Niveau , das bei den ersten hundert fertiggestellten Genome , einschließlich des menschlichen Genoms , konstant hielt .
+Sogar einer der meist untersuchten Organismen , E. coli , besitzt eine große Anzahl von Genen , deren Funktion nie festgestellt werden konnte .
+Trotzdem ist der Nutzen der Entschlüsselung von Genomen außerordentlich groß .
+Die Versprechungen einer schnellen Nutzung durch die Medizinmögen etwas übertrieben gewesen sein .
+Aber der eigentliche Wert ist unermesslich : die Fähigkeit , zu begreifen , wer wir sind , wo wir herkommen und welche Gene der Mensch mit dem Rest der belebten Welt gemein hat .

@@ -1,0 +1,34 @@
+Was die Wirtschaftswissenschaften vom Gehirn lernen können
+CAMBRIDGE – In seinem zukunftsweisenden Buch Die Zukunft der Intelligenz aus dem Jahr 2005 schlug Jeff Hawkins ein alternatives Paradigma zur Funktionsweise des menschlichen Gehirns vor .
+Seiner Ansicht nach ist das Gehirn keine Turing-Maschine , die Symbole gemäß einer Regeltabelle verarbeitet . Dies war das Modell , auf dem Computer und künstliche Intelligenz bisher beruhten .
+Stattdessen ist das Gehirn ein großer hierarchischer Speicher , der ständig aufnimmt , was er wahrnimmt , und vorhersagt , was als Nächstes kommt .
+Das Gehirn macht Vorhersagen , indem es Ähnlichkeiten zwischen Mustern aus neueren Sinneseindrücken und vorherigen Erfahrungen findet , die in seinem riesigen Speicher aufgezeichnet sind .
+Es verbindet Klangfragmente , die es in einem Geräuschmeer hört , mit einem bekannten Lied oder das Gesicht einer verkleideten Person mit dem des eigenen Kindes .
+Das funktioniert ähnlich wie die automatische Vervollständigung im Suchfeld von Google beispielsweise – anhand dessen , was Sie bereits eingetippt haben , wird permanent geraten , was Sie als Nächstes eingeben werden .
+Um sich die Hierarchie dieses Mechanismus zu verdeutlichen , stellen Sie sich vor , dass Sie ein Wort vorhersagen können , wenn sie nur ein paar Buchstaben davon sehen ; wenn Sie sich nur einige wenige Wörter ansehen , können Sie vorhersagen , was der Satz oder sogar der Absatz bedeutet .
+Tatsächlich werden Sie sich jetzt gerade fragen , worauf ich mit diesem ganzen Kommentar hinauswill .
+Die Hierarchie ermöglicht es Ihnen , den Sinn zu erfassen , unabhängig davon , ob ihr Gehirn die Eindrücke durch Lesen oder Hören erhalten hat .
+Das Gehirn ist also eine induktive Maschine , die die Zukunft vorhersagt , indem sie Ähnlichkeiten findet : auf vielen unterschiedlichen Ebenen , zwischen Gegenwart und Vergangenheit .
+Hawkins alternatives Modell zur Funktionsweise des Gehirns hat bedeutsame Folgen für viele Bereiche , auch für den , über den ich einen Großteil meiner Zeit nachdenke : Strategien zur wirtschaftlichen Entwicklung .
+Per Definition ist Entwicklung nicht einfach noch mehr von dem , was schon war , genau wie ein Erwachsener nicht einfach nur ein großes Baby ist .
+Bei dem Prozess werden neue und vorhandene Fähigkeiten hinzugefügt und kombiniert , um vielfältigere und komplexere Aktivitäten zu ermöglichen .
+Doch kann es knifflig sein , etwas Neues zu finden , das erfolgreich durchführbar ist , da man dazu wissen muss , was man braucht und ob man es beschaffen kann .
+Deshalb ist das Millennium Villages Project von Jeffrey Sachs ins Stocken geraten , wie das jüngste Buch der Journalistin Nina Munk zeigt .
+Bei dem Versuch , Landwirten den Übergang aus der Subsistenzwirtschaft zur kommerziellen Landwirtschaft zu ermöglichen , gibt es laut Munk einfach zu viele fehlende Einzelschritte .
+Das traditionelle Denken im Bereich „ wirtschaftliche Entwicklung “ folgte bisher einem Turing-ähnlichen Ansatz , bei dem versucht wurde , ein allgemeines Modell für die Welt – basierend auf Grundprinzipien – zu formulieren und anhand dieses Modells dann über die Notlage eines Landes oder die potenziellen Auswirkungen einer politischen Maßnahme nachzudenken .
+Doch ist die Welt oft zu komplex und zu vielschichtig für einen solchen Ansatz .
+Wäre es keine große Verbesserung , wenn wir bei der Einschätzung eines bestimmten Standortes auf alle vorherigen Erfahrungen der Welt zurückgreifen und automatisch die relevantesten erkennen könnten , um daraus zu schließen , was wir als Nächstes tun sollten ?
+Wäre es nicht nützlich , die Entwicklungsmöglichkeiten so zu sehen , wie unser Gehirn laut Hawkins die Welt sieht ?
+Bei einem alternativen Ansatz zur wirtschaftlichen Entwicklung , wie ihn Hawkins vorschlägt , würde man gewaltige Mengen an Daten über die Welt sammeln und fragen , was in einem Land oder einer Stadt zu einem bestimmten Zeitpunkt wahrscheinlich als Nächstes folgt . Dabei wird von dem ausgegangen , was bereits vorhanden ist , und es werden die Erfahrungen dort und an allen anderen Orten genutzt .
+Es wäre wie das Empfehlungssystem von Amazon , das einem anhand der eigenen Erfahrungen und der anderer Nutzer Bücher vorschlägt , die einem gefallen könnten .
+In einer neueren Veröffentlichung haben meine Kollegen und ich gezeigt , dass ein solcher Ansatz in der wirtschaftlichen Entwicklung tatsächlich funktioniert .
+In einer bestimmten Stadt oder einem Land kann man sogar ein Jahrzehnt im Voraus vorhersagen , welche Industriezweige neu entstehen oder verschwinden bzw. wachsen oder schrumpfen werden , einfach weil man die Geschichte dieses Ortes aller anderen Orte kennt und weiß , was an einem Standort jeweils vorhanden war .
+Länder scheinen sich für Industriezweige zu entscheiden , die mit denen verwandt sind , die sie bereits haben , oder die sich an Standorten befinden , die ihnen ähnlich sind .
+In unserem neuen Atlas of Economic Complexity haben wir den Ansatz für die Länder benutzerfreundlicher gemacht .
+Die Idee , sich vorherige Erfahrungen anzusehen , um zukünftige Handlungen daran auszurichten , ist so alt wie die Zivilisation selbst .
+Dieser Intuition folgend hat der ehemalige Chefökonom der Weltbank Justin Yifu Lin vorgeschlagen , dass Länder , wenn sie entscheiden , was sie als Nächstes tun , sich ein erfolgreiches Land ansehen sollten , das ihnen vor zwei Jahrzehnten ähnlich war .
+Doch sollten wir in der Lage sein , viel mehr zu erreichen , indem wir uns viele weitere Erfahrungen sehr viel genauer ansehen und einen wesentlich größeren Speicher nutzen , der viele weitere Muster aus einem wesentlich größeren relevanten Erfahrungsschatz der Menschheit heraussuchen kann .
+Stellen Sie sich vor , Sachs ‘ Millenium Villages Project hätte die Abfolge aller bisher erfolgreichen Entwicklungen aus der Subsistenzwirtschaft gekannt , anstatt sich lediglich auf Spekulationen oder Schlussfolgerungen zu verlassen .
+Wäre es nicht nützlich , die Wege – und Sackgassen – der industriellen Entwicklung zu verstehen , die für ein bestimmtes Land heute am relevantesten sind ?
+Dieser alternative Ansatz kann wesentlich mehr Menschen dazu befähigen , erfolgreiche Wege zum Wohlstand zu suchen , indem die Gefahren und Risiken der Suche verringert werden – genau wie Landkarten Menschen dazu befähigen , zu einem gewünschten Ort zu gelangen , indem sie ihnen wesentlich mehr Informationen bieten , als sie normalerweise zur Verfügung hätten .
+Genau wie die Technologien der erweiterten Realität unser Erleben der Welt bereichern ( stellen Sie sich einen sportlichen Wettkampf heute ohne Instant Replay vor ) , ist es jetzt möglich , die weltweiten Entwicklungserfahrungen denjenigen an die Hand zu geben , die sich mit der Förderung von Entwicklung beschäftigen . Wir sollten diese Gelegenheit nutzen .

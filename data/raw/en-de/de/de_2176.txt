@@ -1,0 +1,37 @@
+Menschliche Evolution : Schwer zu reparieren
+MADISON – Menschen sind zweifellos komplex , und sie sind stolz darauf .
+Unsere biologische Überlegenheit steht , so meinen wir , außer Zweifel .
+Durch ein kompliziertes Netz von Interaktionen sind unsere biologischen Funktionen erstaunlich gut reguliert und beständig gegenüber externen Veränderungen .
+Im Gegensatz zu anderen Arten scheinen wir durch Willenskraft und Intellekt in der Lage zu sein , unsere Umgebung zu verändern , um die Folgen unserer abnehmenden Fitness auszugleichen .
+Trotzdem sind wir als Art möglicherweise dem Untergang geweiht , und dies gerade wegen der Art und Weise , auf die unsere Komplexität entstanden ist .
+Wie der Wissenschaftsautor Philip Ball schreibt , scheint die Natur eine Zeitbombe aktiviert zu haben , gegen die unsere Komplexität nur eine kurzfristige Abhilfe ist .
+Um das Problem zu verstehen , müssen wir untersuchen , wie Menschen auf der molekularen Ebene beschaffen sind , und unsere Struktur mit der anderer Arten wie z.B. Einzellern vergleichen , die wir oft als “ rudimentär ” bezeichnen .
+Diese Analyse führt uns zur Untersuchung von Proteinen – unserer zellulären Bausteine und Träger biologischer Funktionen – bei sehr unterschiedlichen Arten .
+Proteine gleicher Abstammung , die “ Orthologe ” genannt werden und bei verschiedenen Arten vorkommen , eignen sich gut zum Vergleich .
+Es herrscht allgemeine Übereinstimmung darüber , dass die grundlegende “ Faltung ” oder Form eines Proteins über die Arten hinweg erhalten bleiben muss , da zwischen Struktur und Funktion ein enger Zusammenhang besteht .
+Proteine , die bei verschiedenen Arten dieselbe Funktion innehaben , was bei Orthologen generell der Fall ist , sollten erwartungsgemäß dieselbe Faltung aufweisen .
+Aber die Sequenz von Aminosäuren , aus denen die Proteinketten in diesen Orthologen bestehen , kann sich deutlich unterscheiden .
+Manchmal gleichen sich die Sequenzen zwischen zwei Orthologen nur zu 25-30 % , obwohl ihre Faltung erstaunlich gleich bleibt , was für die Robustheit der Funktion gegenüber evolutionärer Veränderung spricht .
+Angesichts der Bewahrung der Proteinfaltung über die Arten hinweg ist der Ursprung unserer Komplexität noch rätselhafter , da bekanntlich die Anzahl der menschlichen Gene erstaunlich gering ist – sie beträgt beispielsweise nur etwa das Zehnfache der von Reis .
+Wenn die Struktur der Proteine über die Arten hinweg erhalten bleibt , woher kommt dann unsere Komplexität ?
+In welchem Sinne sind wir überhaupt komplexer ?
+Kürzlich haben Forscher in Orthologen von Arten , die sich vor Milliarden von Jahren voneinander weg entwickelt haben , subtile strukturelle Variationen gefunden .
+In diesen Strukturen verändert sich zwischen den Orthologen etwas Subtileres als die allgemeine Topologie .
+In einigen scheint die Struktur “ loser ” zu sein als in anderen – weniger gut gepackt , mit Oberflächenbereichen , die es umgebendem Wasser ermöglicht , einzudringen und die Struktur zu stören , indem es mit der Hauptkette interagiert .
+Diese strukturellen Schwachstellen werden als Dehydronen bezeichnet .
+Bei der Untersuchung von Orthologen sind die Proteine in Arten mit geringerer effektiver Population degradierter oder reicher an Dehydronen – ein schwer fassbarer Indikator , der sich invers zur Größe und Komplexität des Organismus und zur Komplexität seines Reproduktionsmusters verhält .
+Also haben Menschen ( oder Säugetiere ) deutlich kleinere Populationen als Bakterien ( zehn oder mehr Zehnerpotenzen ) .
+Die Beobachtung , dass strukturelle Degradation mit abnehmender Population von Arten zusammenhängt , spiegelt sich auch im Bereich der Evolution wider , da natürliche Auslese bei kleinerer Populationsgröße ineffizienter wird .
+Also ist strukturelle Degradation ein Indikator für die Anfälligkeit der Art für zufällige genetische Drift : Bei Bakterien ist es viel wahrscheinlicher , dass mäßig schädliche Mutationen , die typischerweise die Proteinstruktur degradieren , ausselektiert werden , bevor sie sich in der gesamten Population ( Milliarden von Individuen ) festsetzen . Bei Menschen hingegen haben solche Mutationen eine viel bessere Überlebenschance .
+Ein Protein , das reicher an Dehydronen ist ein zu ihm orthologes Protein , ist verletzlicher gegenüber einer Störung durch umgebendes Wasser .
+Genau aus diesem Grund wird es “ bedürftiger ” – das heißt , abhängiger von Bindungspartnern , um seine strukturelle Integrität zu erhalten .
+Darüber hinaus sind Dehydronen für ihre Klebrigkeit bekannt , also gehen strukturell degradierte Proteine mit höherer Wahrscheinlichkeit Protein-Protein-Verbindungen ein als Orthologe mit niedrigerem Dehydronengehalt .
+So werden Protein-Protein-Interaktionen , ein Kennzeichen für Komplexität , tatsächlich durch zufällige Drift , die evolutionäre Kraft hinter dem Degradationsprozess der Proteine , begünstigt .
+Es scheint also , dass Komplexität kein Ergebnis natürlicher Selektion ist , sondern statt dessen als kurzfristige Reparatur der Effekte von Selektionsineffizienz auftritt .
+Beim ersten Lesen scheint diese Aussage der Intuition zuwider zu laufen , aber dies liegt einfach an unserer dogmatischen Ansicht , dass komplexe Eigenschaften ein Ergebnis natürlicher Auslese sein müssten .
+Und wohin führt uns dieses Gambit der Natur ?
+Die Proteine mit der größten Akkumulation struktureller Defekte sind die Prione , lösliche Proteine mit einer so schwachen Umhüllung , dass sie ihre funktionelle Faltung preisgeben und abnorme Aggregate bilden , die degenerative Neuropathien zur Folge haben können .
+Dieser extreme Fall eines “ abnorm bedürftigen Proteins ” veranschaulicht das hohe genetische Risiko , dem wir aufgrund unserer kleinen Population ausgesetzt sind .
+Das Prion ist eine “ Fitness ” -Katastrophe , die uns Hinweise darauf gibt , wohin das Gambit der Natur die Menschheit führen könnte .
+Vielleicht sind die langfristigen evolutionären Kosten unserer Komplexität zu hoch , da unser Überleben als Art letztlich von unserer Fähigkeit abhängt , unsere Fitness-Defizite durch immer mühsamere therapeutische Lösungen auszugleichen .
+Wir können nur hoffen , dass wir diesen Test bestehen .

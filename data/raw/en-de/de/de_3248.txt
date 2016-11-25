@@ -1,0 +1,34 @@
+Brasiliens Grundrechte für virtuelle Freiheit
+RIO DE JANEIRO – Es klingt wie das Drehbuch zu einem Horrorfilm – von der Art , wo aufgrund eines kleinen Fehlers in der Matrix das globale Chaos auszubrechen droht .
+Diesmal war es ein simpler , aber verhängnisvoller Programmierfehler , der plötzlich die sensibelsten Daten von Millionen von Verbrauchern zum Ziel von Hackern werden ließ .
+In den Schlagzeilen gab es einen Aufschrei über Gefahren im Internet , die wir kaum verstehen und die massenhaft digitale Piraten auf eine Vielzahl neuer kriminelle Chancen aufmerksam machen .
+Weltweit beeilten sich Firmen , ihre Sicherheit im Netz wieder herzustellen .
+Die Geschichte der so genannten „ Heartbleed ” -Sicherheitslücke ist allerdings viel zu real und weist auf eine bittere Wahrheit hin : In erschreckend kurzer Zeit sind wir vom Internet völlig abhängig geworden , von einem Grenzbereich , den wir gerade einmal in Ansätzen verstehen , geschweige denn beurteilen oder regulieren können .
+Debatten um bedeutsame Fragen – wie etwa Freiheit versus Sicherheit , Datenschutz versus Piraterie und die Auswirkungen des Cyberspace auf die Demokratie – sind weit von einer Lösung entfernt .
+Doch die Ängste hinsichtlich Heartbleed und ähnlicher Bedrohungen sowie die Aufregung rund um die von dem ehemaligen US-Geheimdienstdienstmitarbeiter Edward J. Snowden aufgedeckten aggressiven amerikanischen Überwachungsmaßnahmen haben bereits zahlreiche Länder in die Defensive gedrängt .
+Vielerorts hat man Bemühungen zum Schutz der Freiheit im Internet vereitelt .
+Man kann allerdings auch einen anderen Weg einschlagen , wie mein Heimatland Brasilien vorführt .
+Das brasilianische Repräsentantenhaus hat einen „ Grundrechtekatalog für das Internet “ verabschiedet , der vom Senat einstimmig angenommen und von Präsidentin Dilma Rousseff letzte Woche unterzeichnet wurde , wodurch er – sehr zur Freude der Verfechter aus der Zivilgesellschaft – Gesetzeskraft erlangte .
+Dieses weithin als Internet-Verfassung bezeichnete Gesetz soll die Meinungsfreiheit im Netz schützen sowie die staatliche Erhebung und Nutzung der Metadaten von Internet-Nutzern beschränken .
+Das Gesetz stellt „ Netzneutralität “ sicher ( das heißt , Anbieter von Internet-Diensten müssen alle Informationen und Nutzer gleich behandeln ) . Überdies legt es fest , dass globale Unternehmen wie Google und Facebook brasilianischem Recht unterliegen und Fälle , in die brasilianische Bürger involviert sind , nach brasilianischem Präzedenzrecht beurteilt werden .
+Die Inspiration für Brasiliens Engagement hinsichtlich der Freiheit des Internet stammt teilweise aus dem historischen Wahlkampf von US-Präsident Barack Obama im Jahr 2008 .
+Indem er Millionen von Kleinspenden auf den Seiten sozialer Netzwerke sammelte , revolutionierte er das System der Wahlkampfspenden und schien auch neue Horizonte für Demokratie und ziviles Engagement zu erschließen .
+Es waren allerdings nicht alle überzeugt .
+Eine Gesetzesflut – im Zuge derer verschiedene Arten der Internet-Nutzung wie etwa der Musiktausch kriminalisiert und vermehrte staatliche Überwachung erlaubt wurden - schien der Freiheit im Netz ein Ende zu bereiten .
+Auch in Brasilien erlangten die Behörden stärkere Kontrolle über das Internet , als sich das Land an der Spitze des internationalen Kampfs gegen die Cyberkriminalität positionierte .
+Im Jahr 2009 begann sich die Situation zu ändern , nachdem der damalige brasilianische Präsident , Luiz Inácio Lula da Silva , an einer Veranstaltung über die Freiheit im Internet teilgenommen hatte und anschließend versprach , sämtliche Gesetze , die die Freiheit im Netz beschränken , blockieren zu wollen .
+Überdies sicherte er zu , den Antrag , der schließlich zu dem neuen Gesetz führte , einzubringen .
+Bemerkenswert in diesem Zusammenhang ist auch , dass der Gesetzesentwurf nicht , wie sonst üblich , von Bürokraten konzipiert wurde .
+Vielmehr öffnete man den Prozess für die Öffentlichkeit , wobei gewöhnliche Bürger über einen Regierungsblog Beiträge einbringen konnten .
+In einem bahnbrechenden Beispiel für „ Wiki-Demokratie “ mischten Befürworter freier Software ebenso mit wie Gesetzeshüter und Lobbyisten von Internet-Unternehmen wie etwa Google und Yahoo .
+Nach zwei Jahren der Debatte und Diskussionen wurde im Jahr 2011 ein Gesetzesentwurf im brasilianischen Kongress eingebracht .
+Der Gegenwind war heftig .
+Lobbyisten versuchten , den Entwurf zu verwässern , wobei sich vor allem Telekommunikationsunternehmen gegen die Bestimmungen hinsichtlich der Netzneutralität stellten .
+Doch der Koalition für den Gesetzesentwurf gelang es , traditionelle politische Interessen zu überwinden – mit Hilfe zivilgesellschaftlicher Gruppen , unterstützt durch eine von dem legendären brasilianischen Musiker und ehemaligen Kulturminister Gilberto Gil organisierten Petition , der sich 350.000 Menschen angeschlossen hatten .
+Im Zuge dieses Prozesses scheinen sie einem neuen Modell der Rechtsetzung zum Durchbruch verholfen zu haben .
+In anderen Teilen der Welt haben sich die Dinge allerdings in eine andere Richtung entwickelt .
+Obamas Glanz verblasste nach seiner Wahl .
+Die durch das Internet inspirierten Aufstände im Iran und später in großen Teilen der arabischen Welt wurden brutal niedergeschlagen .
+Neue Enthüllungen über staatliche Überwachung in Kombination mit Sicherheitslücken im Stile Heartbleeds stellen das Vertrauen der Welt in die Freiheit des Internets weiter auf die Probe .
+Doch trotz der Ängste – und der mit einem freien Internet verbundenen Gefahren – darf die Welt die Erkundung des transformativen Potenzials des Cyberspace nicht aufgeben .
+Wer den Mut verliert , muss nur nach Süden blicken , wo Brasilien die Marschrichtung vorgibt .

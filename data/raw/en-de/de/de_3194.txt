@@ -1,0 +1,40 @@
+Das virtuelle Mittelalter
+Die Online-Enzyklopädie Wikipedia ist wohl das eindrucksvollste lexikalische Kollektivprojekt , das jemals in Angriff genommen und vielleicht auch verwirklicht wurde .
+Es fordert sowohl Aufmerksamkeit als auch aktive Beiträge von allen ein , denen es um die Zukunft des Wissens geht .
+Aufgrund der Geschwindigkeit , mit der es sich zum Fixpunkt im virtuellen Raum entwickelt hat , blieb die wahre Bedeutung von Wikipedia weitgehend unbemerkt .
+Seit ihrem sechsten Geburtstag im Jahr 2007 rangierte Wikipedia durchweg unter den Top Ten der am öftesten besuchten Webseiten weltweit .
+Täglich wird die Enzyklopädie von 7 % aller 1,2 Milliarden Internetnutzer aufgerufen , womit ihre Nutzungsrate schneller wächst als die des Internets insgesamt .
+Wikipedia ist eine Enzyklopädie , zu der jeder Mensch mit einem Mindestmaß an Zeit , Ausdrucksvermögen und Computerkenntnissen etwas beitragen kann .
+Jeder kann einen Eintrag ändern oder einen neuen hinzufügen und die Ergebnisse sind unmittelbar für alle sichtbar – und eventuell anfechtbar .
+Das Wort „ Wiki ” stammt aus dem Hawaiianischen und wurde im Jahr 2007 offiziell mit der Bedeutung „ etwas rasch erledigen “ – in diesem Fall Änderungen im gesamten kollektiven Wissen - ins Englische übernommen .
+Ungefähr 4,7 Millionen „ Wikipedianer “ haben 5,3 Millionen Einträge verfasst , von denen ein Drittel in Englisch und der Rest in mehr als 250 anderen Sprachen aufscheint .
+Überdies gibt es einen relativ großen harten Kern an Mitwirkenden : Innerhalb eines beliebigen 30-tägigen Zeitraums verfassen etwa 75.000 Wikipedianer zumindest fünf Beiträge .
+Wie bei einem derartigen selbstorganisiertem System durchaus zu erwarten , variiert die Qualität der Einträge , sie ist jedoch nicht durchgehend schlecht .
+Es stimmt zwar , dass Themen , die bei sexuell ausgehungerten männlichen Computerfreaks beliebt sind , in verstörender Detailgenauigkeit ausgearbeitet sind , wohingegen manche weniger attraktive Themen kaum bearbeitet werden .
+Dennoch wird Wikipedia laut Cass Sunstein , Rechtsprofessor an der University of Chicago , heute in amerikanischen Gerichtsentscheidungen vier Mal öfter zitiert als die Encyclopedia Britannica .
+Im Zuge einer von Nature durchgeführten Bewertung der zwei Enzyklopädien im Hinblick auf vergleichbare wissenschaftliche Artikel ergaben sich für Wikipedia im Schnitt vier Fehler und für die Encyclopedia Britannica drei .
+Diese Differenz ist seither wahrscheinlich noch geringer geworden .
+Wikipedia -Fans preisen die Enzyklopädie als Vorbote des „ Web 2.0 “ .
+Während „ Web 1.0 ” die Speicherung und Übertragung enormer Mengen verschiedenster Information im virtuellen Raum ermöglichte , macht „ Web 2.0 “ den gesamten Prozess interaktiv , wodurch die letzte Grenze zwischen dem Übermittler und dem Empfänger der Information wegfällt .
+So weit waren wir allerdings schon – eigentlich schon die längste Zeit in der Menschheitsgeschichte .
+Die scharfe Trennlinie zwischen Produzenten und Konsumenten von Wissen gibt es erst seit etwa 300 Jahren , als sich die Buchdrucker angesichts unerlaubter Vervielfältigungen auf einem rasch wachsenden Büchermarkt königlichen Schutz für ihr Gewerbe sicherten .
+Das Vermächtnis ihres diesbezüglichen Erfolges , das Urheberrechtsgesetz , steht weiterhin Bemühungen entgegen , den virtuellen Raum zu einem freien Marktplatz für Ideen zu machen .
+In früheren Zeiten gab es weniger Leser und weniger Autoren , aber zu beiden Gruppen gehörten dieselben Menschen , die relativ leicht Zugang zu dem Werk des jeweils anderen hatten .
+Eine viel kleinere , langsamere und auch weniger einheitliche Variante einer Wikipedia-Community entstand mit dem Aufstieg der Universitäten im 12. und 13. Jahrhundert in Europa .
+Die großen , reich verzierten frühmittelalterlichen Handschriften wurden von tragbaren „ Handbüchern “ abgelöst , die für den schwächeren Druck eines Federkiels ausgelegt waren .
+Dennoch bestanden die Seiten dieser Bücher immer noch aus Tierhäuten , die man leicht überschreiben konnte .
+Somit ergaben sich oft Schwierigkeiten bei der Zuordnung der Urheberschaft , weil ein Text aus einem kopierten Textteil bestehen konnte , in dem der Kopierende seine Kommentare eingefügt oder geändert haben konnte , bevor das Buch in andere Hände gelangte .
+Wikipedia hat viele dieser technischen Probleme gelöst .
+Jede Änderung eines Beitrages generiert automatisch ein Protokoll dieses Schrittes , so dass sich der Eintrag wie etwas liest , das mittelalterliche Gelehrte als „ Palimpsest “ bezeichneten – als Text der erfolgreich überschrieben wurde .
+Überdies bieten „ Diskussionsseiten “ breiten Raum für die Erörterung tatsächlicher und möglicher Änderungen .
+Obwohl die Wikipedianer ihre Texte nicht physisch herumreichen müssen – jeder besitzt ja eine virtuelle Ausgabe – bleiben die inhaltlichen Richtlinien für Wikipedia jedoch im Geiste zutiefst mittelalterlich .
+Folgende drei Richtlinien bestehen : 1 ) Keine Theoriefindung , 2 ) ein neutraler Standpunkt und 3 ) Überprüfbarkeit .
+Diese inhaltlichen Richtlinien wenden sich an Menschen , die zwar über Referenzmaterial verfügen , aber nicht befugt sind , dieses zu bewerten .
+Eine solche erkenntnistheoretische Haltung wurde auch im Mittelalter vertreten , als man davon ausging , dass alle Menschen untereinander gleich , aber einem letztlich nicht erforschlichen Gott untergeordnet wären .
+Bestenfalls konnte man demgemäß auf eine wohl ausgewogene Dialektik hoffen .
+Im Mittelalter führte diese Praxis zu scholastischen Disputationen .
+Im virtuellen Raum bildet sie das Herzstück der Qualitätskontrolle von Wikipedia – und wird oftmals als so genanntes „ Trolling “ verunglimpft .
+Wikipedia verkörpert eine demokratische Mittelalterlichkeit , die nur verifizierbare Quellen , jedoch nicht behauptetes persönliches Wissen anerkennt .
+Um diesem Ideal zu entsprechen , könnte man die Teilnahme an Wikipedia für Studierende und Anwärter auf einen Magistertitel weltweit verpflichtend machen .
+Die von diesen Studierenden erwarteten Verhaltensnormen entsprechen genau den inhaltlichen Richtlinien von Wikipedia : Originalarbeiten werden nicht erwartet , sehr wohl aber das Wissen , wo das beste Recherchematerial zu finden ist und wie man es interpretiert .
+Eine derart verpflichtende Teilnahme für Studierende würde nicht nur Wikipedias bereits jetzt sehr eindrucksvolle kollektive Wissensbasis verbessern , sondern möglicherweise auch dazu beitragen , den elitären Ansprüchen der Wissenschaftler im globalen Wissenssystem Einhalt zu gebieten .

@@ -1,0 +1,42 @@
+Hin zum Normalzustand
+BRÜSSEL – Eine Finanzkrise bricht aus , wenn eine große Menge von Vermögenswerten innerhalb des Finanzsystems plötzlich risikobehaftet erscheint und die Anleger ihre Bestände loswerden wollen .
+Diese Vermögenswerte werden dann „ toxisch “ – d.h. sie sind nicht bloß riskant , sondern mit einem nicht quantifizierbaren Risiko belastet .
+Toxische Vermögenswerte werden nicht gemäß einer normalen Risiko-Rendite-Arithmetik gehandelt .
+Da sich ihr Risiko nicht berechnen lässt , wollen ihre Eigentümer sie einfach nur abstoßen – manchmal zu jedem Preis .
+Dies war in den Jahren 2007-2008 in den USA bei den so genannten Residential Mortgage-Backed Securities ( RMBS ) der Fall , einer Klasse von auf Eigenheimhypotheken basierenden Wertpapieren .
+Während der Boomphase wurden diese Wertpapiere in der Annahme , dass die US-Häuserpreise nicht fallen könnten , da dies bisher zu Friedenszeiten noch nie passiert war , als risikofrei verkauft .
+Doch diese Annahme zerbrach , als 2007 ein Rückgang der Immobilienpreise auf breiter Front einsetzte und die Ausfallraten von Hypotheken plötzlich anstiegen .
+Infolgedessen wurden RMBS nun als viel riskanter betrachtet als ursprünglich angenommen .
+Zunächst gab es kaum eine Grundlage , um auf rationale Weise einen neuen Preis für sie festzulegen , weil es das Ereignis ( ein Rückgang der US-Häuserpreise in Friedenszeiten ) noch nie gegeben hatte .
+Zudem waren die Banken und andere Finanzinstitute , die große Bestände an RMBS hielten , unzureichend dafür ausgestattet , das Risiko zu messen , und wären in einigen Fällen bankrott gegangen , wenn sie ihre Bestände auf dem Gipfel der Krise zu Ausverkaufspreisen hätten abgeben müssen .
+Die Eurokrise folgte einem ähnlichen Muster .
+Bis vor kurzem galten Staatsanleihen als die ultimative sichere Anlage .
+Tatsächlich war ihr risikofreier Status in den regulatorischen Rahmen der Europäischen Union eingebettet , was den Banken erlaubt , große Mengen an Staatsanleihen eines beliebigen Landes der Eurozone zu erwerben , ohne Eigenkapital zur Abdeckung potenzieller Verluste zur Seite legen zu müssen .
+Wie bei RMBS war diese Ansicht , dass Staatsanleihen absolut sicher seien , durch die „ Tatsache “ gestützt , dass nach 1945 kein hochentwickeltes Land je in Zahlungsverzug geraten war .
+Die Anleger gingen daher davon aus , dass sie das Kreditrisiko der ( nationalen ) öffentlichen Schulden der Euroländer nicht bewerten müssten .
+Nach dem faktischen Zahlungsverzug Griechenlands Anfang dieses Jahres war es mit dieser Sorglosigkeit der Anleger vorbei .
+Die Staatsanleihen der Peripherieländer der Eurozone wurden damit toxisch .
+Angesichts der beispiellosen Beschaffenheit des griechischen Zahlungsverzugs schwankten die Marktbewertungen der Schulden der Peripherieländer stark ; die Anleger waren und sind noch immer auf der Suche nach „ Fundamentaldaten “ wie Defizit- oder Verschuldungsgraden , die die Entwicklung der Risikoaufschläge im Verlauf der Zeit erklären könnten .
+Zudem hatten viele Banken so viele Staatsanleihen in ihren Bilanzen , dass sie im Falle eines ausgewachsenen Zahlungsausfalls pleite gegangen wären .
+Dies führte zu einer extremen Instabilität im Bankensystem der Eurozone .
+Eine Finanzkrise endet entweder mit der Vergemeinschaftung der fragwürdigen Schulden oder wenn sich deren Bewertung stabilisiert und sie auf Anleger übergehen , die solvent genug sind , um das Risiko zu übernehmen .
+Dies war in den USA der Fall .
+Die Behörden erwarben einige der „ toxischen “ Vermögenswerte , die sich dann im Laufe der Zeit leichter bewerten ließen , da nach einigen Jahren ausreichend Daten über Hypothekenausfallraten vorlagen , um den Anlegern zu erlauben , das Risiko zu messen .
+Die Marktpreise der meisten RMBS erholten sich , da jene Verluste , die darauf beruhten , dass Eigenheimbesitzer ihre Immobilien einfach aufgaben , viel niedriger waren als auf dem Gipfel der Krise befürchtet .
+Zudem gingen viele RMBS-Bestände an Institute über , die in der Lage waren , das verbleibende Risiko zu schultern und zu steuern .
+Inzwischen gelten RMBS nicht mehr als toxisch , was dazu geführt hat , dass der Markt wieder normal funktioniert .
+Letztlich erzielten die US-Behörden sogar einen kleinen Profit mit den Vermögenswerten , die sie auf dem Höhepunkt der Krise erworben hatten .
+Dieses Muster lässt sich in der Eurozone , wo sowohl eine Schuldenvergemeinschaftung als auch eine Rückkehr zur normalen Risikobewertung schwieriger erscheinen , nur bedingt wiederholen .
+Die begrenzte Fähigkeit zur Schuldenvergemeinschaftung ergibt sich aus dem Bailout-Verbot des EU-Vertrages , der die direkte Vergemeinschaftung der ( nationalen ) Staatsschulden auf Ebene der Eurozone untersagt .
+Auch ist die Kapazität des Europäischen Stabilitätsmechanismus , des neuen Rettungsfonds , bei € & nbsp ; 700 Milliarden gedeckelt ; dies jedoch stellt nur einen Bruchteil der gesamten staatlichen Schulden jener Länder dar , die potenziell finanzielle Unterstützung brauchen .
+Nur die Europäische Zentralbank könnte eine echte Vergemeinschaftung der nationalen Schulden in der Eurozone bewirken .
+Doch das EU-Recht verbietet ausdrücklich jede Form von Defizitfinanzierung durch die EZB .
+Eine Rückkehr zur normalen Risikobewertung ist in Europa ebenfalls schwieriger .
+Der Europäische Rat hat hoch und heilig erklärt , dass Griechenlands faktischer Zahlungsausfall ( der durch die so genannte „ Beteiligung des privaten Sektors “ orchestriert wurde ) ein einzigartiger Ausnahmefall bleiben würde .
+Doch das Versprechen einer Rückkehr zum Status quo ante risikofreier öffentlicher Schuldtitel ist mit der anhaltenden Beschränkung der Vergemeinschaftung der nationalen Schulden nicht vereinbar .
+Tatsächlich haben sich die Risiken weiter konzentriert , da die Banken der Peripherie ihre Investitionen in Staatsanleihen ihrer eigenen Länder erhöht haben .
+Ein staatlicher Zahlungsausfall in Europa wird nie ein bloßer Wert sein , der in irgendein statistisches Risikomodell eingegeben wird .
+Diese Unterschiede haben zur Folge , dass eine Rückkehr zu normalen Marktbedingungen im Falle der Eurokrise langsamer verlaufen wird .
+Trotzdem dürfte sich die Krise etwas abschwächen , weil die risikoscheusten Institute ihre Bestände an Staatspapieren der Peripherieländer inzwischen abgestoßen haben .
+Zudem hat die EZB klar erklärt , dass sie einen Zerfall des Euro nicht zulassen werde .
+Diese Garantie hat die Anleger gegen ihr größtes Risiko versichert .

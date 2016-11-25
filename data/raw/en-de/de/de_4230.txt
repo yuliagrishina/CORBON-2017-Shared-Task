@@ -1,0 +1,35 @@
+Diabetes-Überwachung
+WELLINGTON – Die Welt wird derzeit von einer Diabetes-Epidemie heimgesucht .
+Aus einer vor kurzem von Majid Ezzati und Kollegen vom Imperial College London und der Harvard University veröffentlichten Großstudie geht hervor , dass sich die Zahl der Erwachsenen mit Typ-2-Diabetes von 153 Millionen im Jahr 1980 auf 347 Millionen im Jahr 2008 erhöht hat .
+Heute könnten es 370 Millionen sein .
+Betroffen sind sämtliche Regionen der Welt , wenngleich sich die Epidemie in Ozeanien am stärksten ausbreitet und in Ostasien am wenigsten .
+Weltweit steigen die Fälle von Typ-2-Diabetes parallel zu der zunehmenden Fettleibigkeit an .
+Das ist auch kein Wunder – mehr Körperfett und weniger körperliche Bewegung sind die direkten Ursachen von Typ-2-Diabetes ( im Gegensatz zu Typ-1-Diabetes ) .
+Tatsächlich wird ein Großteil der gesundheitlichen Auswirkungen von Fettleibigkeit und Bewegungsmangel über Diabetes vermittelt .
+Diese gesundheitlichen Auswirkungen sind gravierend .
+Diabetes ist in vielen Ländern bereits eine Hauptursache für Nierenversagen , Erblindung und Amputationen der unteren Extremität sowie auch für Herzinfarkte und Schlaganfälle .
+Trotz allem aber ist die Überwachung von Diabetes auf der ganzen Welt , sogar in Ländern mit hohem Einkommen , relativ unterentwickelt .
+Bei der Überwachung der öffentlichen Gesundheit handelt es sich um die „ laufende systematische Sammlung , Analyse , Interpretation und Verbreitung von Gesundheitsdaten zum Zweck der Prävention und Kontrolle von Krankheiten “ – kurz gesagt also um eine Informationsgrundlage für weitere Maßnahmen .
+In dieser Definition steht allerdings nichts davon , dass die Überwachung auf übertragbare Krankheiten beschränkt ist . In der Praxis ist das aber gewöhnlich der Fall .
+Die Gründe dafür sind auch nicht schwer zu verstehen .
+Übertragbare Krankheiten brechen innerhalb von Tagen oder Wochen ( höchstens Monaten ) aus ; die Gefahr ist „ klar erkennbar und existent “ ; und zur Prävention und Kontrolle bedarf es gemeinhin staatlicher Interventionen – Quarantäne für die Erkrankten , Nachverfolgung und Immunisierung von Personen , die mit dem Erkrankten in Kontakt standen oder die Beseitigung der Erregerquellen in der Umwelt .
+Die Situation im Hinblick auf chronische Krankheiten wie Diabetes präsentiert sich ganz anders .
+Eine derartige Epidemie breitet sich über Jahre oder Jahrzehnte im Stillen aus ; die Gefahr wird entweder nicht erkannt oder für unvermeidbar gehalten ; und Gegenmaßnahmen werden oft nicht als Sache des Staates , sondern des Einzelnen ( Umstellung des Lebensstils ) oder des Gesundheitssystems ( Verschreibung von Medikamenten ) betrachtet .
+Doch eine wirksame Überwachung chronischer Krankheiten kann Leben retten .
+Werden Krankheitstrends neben der Reaktion der Patienten auf die Behandlung und den Risikofaktoren in der Bevölkerung überwacht , kann der Erfolg oder Fehlschlag der zur Prävention und Kontrolle der Krankheit ergriffenen Maßnahmen bewertet , die Ressourcenallokation rational nach Priorität geordnet und die Öffentlichkeit umfassend über die Risiken informiert werden .
+In Anerkennung dieser Tatsache ordnete der Gesundheitsrat der Stadt New York im Dezember 2005 die verpflichtende Meldung der Testergebnisse auf glykosiliertes Hämoglobin ( HbA1c ) an – eines Biomarkers für Diabetes und Schlüsselindikator für die Blutglukose-Kontrolle . Damit wurde das erste bevölkerungsbasierte Register für Diabetes geschaffen .
+Die verpflichtende Meldung der HbA1c-Labortestergebnisse ( neben demographischer Grunddaten ) einer definierten Bevölkerung ( Einwohner der Stadt New York ) ermöglichte es dem New Yorker Gesundheitsrat , Trends in der Prävalenz von Diabetes zu überwachen , die Reichweite der Tests einzuschätzen sowie die Inanspruchnahme des Gesundheitswesens und die glykämische Kontrolle der unter Diabetes leidenden Stadtbewohner zu untersuchen .
+Über diese bevölkerungsbasierte Überwachung hinaus war man mit diesem Register in der Lage , die Patientenversorgung zu unterstützen , indem man sicherstellte , dass Gesundheitsdienstleister und Patienten auf erhöhte oder steigende HbA1c-Werte aufmerksam gemacht wurden .
+Sowohl die Patientenunterstützung als auch die Überwachung erforderten den Einsatz einer eindeutigen Patientenidentifikation , so dass Briefe an die Patienten verschickt und Testergebnisse eines Patienten im Laufe der Zeit verknüpft werden konnten .
+Im Jahr 2009 überprüften Thomas Frieden und Kollegen vom New Yorker Gesundheitsamt die ersten vier Jahre des Registers und kamen zu dem Schluss , dass es gut funktioniert hatte .
+Dennoch erwies es sich als schwierig , alle Labors dazu zu bringen , regelmäßige und vollständige Meldungen zu erstatten . Ebenso wollten sich auch nicht alle Gesundheitsdienstleister und Patienten an dieser Maßnahme beteiligen .
+Die Initiative des Gesundheitsamtes wird weithin als exemplarische Anwendung der klassischen , für Infektionskrankheiten bestimmten Überwachungs- und Kontrollinstrumente auf eine chronische Krankheit gelobt .
+Andere Kommentatoren jedoch kritisieren das Register aufgrund möglicher Verletzungen der Vertraulichkeit und der Privatsphäre der Patienten und monieren sogar , dass es die Beziehung zwischen Patienten und Ärzten stört .
+Ob diese Kritik nun gerechtfertigt ist oder nicht : Festzustellen ist jedenfalls , dass das New Yorker Diabetes-Register , obwohl höchst innovativ , bestenfalls eine Zwischenlösung darstellt .
+Anstatt sich auf die Laborergebnisse eines einzigen Biomarkers zu verlassen , würde ein ideales Überwachungssystem chronischer Krankheiten alle nötigen Daten direkt aus der Patientenakte beziehen .
+Jede Diabetes-Diagnose oder anschließende Überwachung des Krankheitsfortschritts erfordert die Konsultation eines Arztes und damit auch einen Eintrag in die Patientenakte – sowie auch in das Patienteninformationssystem der Arztpraxis .
+Logischerweise sollte das Überwachungssystem so funktionieren , dass man die gesamten , für Überwachungszwecke notwendigen Daten aus den Patienteninformationssystemen der Gesundheitsdienstleister bezieht ( „ Front-end-Datenerfassung “ ) .
+Diese Daten würden dann sicher ( auf elektronischem Weg ) in eine geeignete zentrale Datensammlung übermittelt .
+Nach entsprechender Bearbeitung ( Prüfung auf fehlende Daten , Korrektur von Kodierungsfehlern ) sowie Anonymisierung stünden die Daten für Abfragen zur Verfügung .
+Unter der Voraussetzung einer entsprechenden statistischen Analyse und sachgemäßer Interpretation könnten sehr nützliche Berichte für Überwachungszwecke und gegebenenfalls auch für die Patientenversorgung erstellt werden ( wobei die verschlüsselte eindeutige Patientenidentifikation zur Wahrung der Vertraulichkeit gewährleistet sein muss ) .
+Angesichts der steigenden Belastungen durch Diabetes und anderer chronischer Erkrankungen auf der ganzen Welt , muss der Stärkung eines Überwachungssystems für nicht übertragbare Krankheiten auf allen Ebenen – von lokalen Arztpraxen bis zu globalen Institutionen - dringend verstärktes Augenmerk geschenkt werden .

@@ -1,0 +1,38 @@
+Die Wirtschafswissenschaften neu erfinden
+NEW HAVEN – Die Tatsache , dass es den Ökonomen weithin nicht gelungen ist , die Finanzkrise vorherzusagen , die 2008 ausgebrochen ist , hat viel mit fehlerhaften Modellen zu tun .
+Dieses Fehlen zuverlässiger Modelle führte dazu , dass Wirtschaftspolitiker und Zentralbankchefs nicht vor dem gewarnt wurden , was kommen würde .
+Wie George Akerlof und ich in unserem neuen Buch Animal Spirits argumentieren , wurde die gegenwärtige Finanzkrise durch Spekulationsblasen auf dem Immobilienmarkt , an der Börse sowie am Energie- und an anderen Rohstoffmärkten ausgelöst .
+Blasen werden von Rückkopplungsschleifen erzeugt : Steigende spekulative Preise fördern den Optimismus , der zu mehr Käufen führt , wodurch dann die spekulativen Preise weiter steigen – bis der Crash kommt .
+Doch wird man das Wort „ Blase “ in den meisten ökonomischen Abhandlungen oder Lehrbüchern nicht finden .
+Ebenso liefert eine Suche in den Arbeitsunterlagen der Zentralbanken und der Fachbereiche für Wirtschaftswissenschaften aus den letzten Jahren wenige Fundstellen , an denen „ Blasen “ überhaupt erwähnt werden .
+Der Gedanke , dass Blasen existieren , ist in weiten Teilen des Wirtschafts- und Finanzgewerbes sogar so sehr in Verruf geraten , dass eine Bezugnahme auf sie in einem Wirtschaftsseminar so ist , als würde man vor einer Gruppe von Astronomen die Astrologie zur Sprache bringen .
+Das grundlegende Problem besteht darin , dass eine Generation von Mainstream-Theoretikern in der Makroökonomie eine Theorie akzeptiert , die im Kern fehlerhaft ist : das Axiom , dass Menschen vollkommen rational sind .
+Und wie der Statistiker Leonard „ Jimmie “ Savage 1954 demonstrierte , müssen sich Menschen , wenn sie gewissen Axiomen der Vernunft folgen , so verhalten , als würden sie sämtliche Wahrscheinlichkeiten kennen und alle notwendigen Berechnungen ausführen .
+Daher gehen die Wirtschaftswissenschaftler davon aus , dass die Menschen tatsächlich alle öffentlich verfügbaren Informationen nutzen und wissen , mit welcher Wahrscheinlichkeit alle erdenklichen zukünftigen Ereignisse eintreten , oder sich zumindest so verhalten , als wüssten sie es .
+Sie werden von nichts anderem beeinflusst als den Fakten , und die Wahrscheinlichkeiten werden als Fakten angesehen .
+Sie aktualisieren diese Wahrscheinlichkeiten , sobald neue Informationen zur Verfügung stehen , und so muss man jede Verhaltensänderung ihrer rationalen Reaktion auf tatsächlich neue Informationen zuschreiben können .
+Und wenn die Wirtschaftsakteure immer rational handeln , dann sind Blasen – irrationale Marktreaktionen – nicht erlaubt .
+Doch zeigt nun eine Fülle an psychologischen Versuchsergebnissen , dass die Menschen Savages Axiome der Vernunft nicht erfüllen .
+Das ist das zentrale Element der verhaltensökonomischen Revolution , die im letzten Jahrzehnt angefangen hat , die Wirtschaftswissenschaften zu überrollen .
+Tatsächlich kennen die Menschen fast nie die Wahrscheinlichkeit zukünftiger Wirtschaftsereignisse .
+Sie leben in einer Welt , in der Wirtschaftsentscheidungen im Wesentlichen unklar sind , da die Zukunft keine bloße Wiederholung einer quantitativ bestimmbaren Vergangenheit zu sein scheint .
+Vielen Menschen erscheint es immer so , „ als wäre es dieses Mal anders . “
+Die Neurowissenschaftler Scott Huettel und Michael Platt von der Duke University haben anhand von Experimenten mit der Magnetresonanztomographie gezeigt , dass „ die Entscheidungsfindung unter unklaren Bedingungen keinen speziellen , komplexeren Fall der Entscheidungsfindung mit Risiken darstellt ; stattdessen werden diese beiden Formen der Ungewissheit von unterschiedlichen Mechanismen gestützt . “ Anders ausgedrückt : Wenn Unklarheit besteht , sind unterschiedliche Teile des Gehirns und andere emotionale Nervenbahnen involviert .
+Der Wirtschaftsmathematiker Donald J. Brown und die Psychologin Laurie R. Santos , beide von der Yale University , führen Experimente mit Versuchspersonen durch , um zu verstehen , wie die menschliche Toleranz für Unklarheit bei Wirtschaftsentscheidungen im Laufe der Zeit variiert .
+Sie nehmen an , dass „ Haussen von einem Unklarheiten suchenden Verhalten geprägt sind und Baissen von einem Unklarheiten meidenden Verhalten . “ Diese Verhaltensweisen spiegeln unterschiedliche Aspekte des sich ändernden Vertrauens wider .
+Wir fangen gerade erst an , dies zu verstehen .
+Gewiss bleibt die rein rationale Theorie für viele Dinge nützlich .
+Sie kann vorsichtig in Bereichen angewandt werden , in denen die Folgen eines Verstoßes gegen Savages Axiom nicht zu gravierend ausfallen .
+Ökonomen haben seine Theorie auch zu Recht auf eine Reihe makroökonomischer Probleme angewandt , z. B. auf die Frage , warum Monopolisten höhere Preise festlegen .
+Doch wurde die Theorie überzogen .
+Zum Beispiel eignet sich das „ dynamische stochastische allgemeine Gleichgewichtsmodell der Eurozone “ , das von Frank Smets von der Europäischen Zentralbank und Raf Wouters von der Belgischen Nationalbank entwickelt wurde , sehr gut dazu , eine präzise Liste der exogenen Schocks aufzustellen , von denen angenommen wird , dass sie die Wirtschaft bestimmen .
+Aber Blasen kommen nirgendwo in dem Modell vor : Es wird davon ausgegangen , dass die Wirtschaft lediglich in vollkommen rationaler Weise auf diese exogenen Schocks reagiert .
+Milton Friedman ( Savages Mentor und Mitautor ) und Anna J. Schwartz zeigten in ihrem 1963 erschienenen Buch über die Monetäre Geschichte der Vereinigten Staaten , dass Anomalien in der Geldpolitik – ein Paradebeispiel für einen exogenen Schock – ein bedeutender Faktor in der Weltwirtschaftskrise der 1930er Jahre waren .
+Ökonomen wie Barry Eichengreen , Jeffrey Sachs und Ben Bernanke haben dazu beigetragen , uns deutlich zu machen , dass diese Anomalien das Ergebnis der Bemühungen einzelner Zentralbanken waren , am Goldstandard festzuhalten , was dazu führte , dass sie die Zinssätze trotz der schwachen Wirtschaft relativ hoch hielten .
+Für einige stellte diese Offenbarung einen Höhepunkt der Wirtschaftstheorie dar .
+Die schlimmste Wirtschaftskrise des zwanzigsten Jahrhunderts war erklärt – und es wurde eine Korrekturmöglichkeit aufgezeigt – mit einer Theorie , die nicht auf Blasen beruhte .
+Dennoch werden Ereignisse wie die Große Depression und die jüngste Krise nie vollständig verstanden werden , ohne Blasen zu verstehen .
+Die Tatsache , dass Fehler in der Geldpolitik eine bedeutende Ursache für die Große Depression waren , bedeutet nicht , dass wir diese Krise vollständig verstehen oder dass andere Krisen ( einschließlich der gegenwärtigen ) in dieses Schema passen .
+Tatsächlich wird das Versagen der ökonomischen Modelle bei der Vorhersage der aktuellen Krise den Anfang ihrer Revision einläuten .
+Dies wird geschehen , sobald die Wirtschaftswissenschaftler ihre Forschung neu ausrichten , indem sie auf Wissenschaftler anderer Fachgebiete hören .
+Erst dann werden die Währungsbehörden ein besseres Verständnis dafür entwickeln , wann und wie Blasen eine Wirtschaft aus der Bahn werfen können und was getan werden kann , um diesen Ausgang zu verhindern .

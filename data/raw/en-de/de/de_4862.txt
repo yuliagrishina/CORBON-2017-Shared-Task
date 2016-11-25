@@ -1,0 +1,45 @@
+Der Phelps-Faktor
+Am 10. Dezember erhält Edmund Phelps , mein Kollege an der Columbia-Universität , den Nobelpreis für Wirtschaftswissenschaften 2006 .
+Diese Auszeichnung war lange überfällig .
+Während das Nobelpreiskomitee in seiner Begründung Phelps ’ Arbeiten im Bereich der Makroökonomie würdigte , leistete er auch in vielen anderen Bereichen einen Beitrag wie beispielsweise zur Theorie des Wachstums und des technologischen Wandels oder auf den Gebieten optimale Besteuerung und soziale Gerechtigkeit .
+Phelps ’ wichtigste Erkenntnis in der Makroökonomie war , dass die Beziehung zwischen Inflation und Arbeitslosigkeit durch Erwartungen beeinflusst wird . Da diese Erwartungen endogen sind – sich also mit der Zeit ändern – verändert sich auch die Beziehung zwischen Arbeitslosigkeit und Inflation .
+Versucht eine Regierung die Arbeitslosenquote auf ein zu niedriges Niveau zu drücken , steigen die Inflation und auch die Inflationserwartungen .
+Aus dieser Erkenntnis ergeben sich zwei mögliche Schlussfolgerungen .
+Manche Entscheidungsträger zogen aus Phelps ’ Analyse den Schluss , dass die Arbeitslosenquote auf Dauer nicht gesenkt werden könne , ohne ständig steigende Inflationsraten in Kauf zu nehmen .
+Daher sollten sich die Finanzinstitutionen einfach auf die Preisstabilität konzentrieren , indem sie sich jene Arbeitslosenquote zum Ziel setzen , an der die Inflation nicht steigt . Dies wird als „ inflationsstabile Arbeitslosenquote “ ( NAIRU ) bezeichnet .
+Diese NAIRU ist allerdings keine unveränderliche Größe .
+Die richtige Schlussfolgerung , wie Phelps wiederholt betonte , ist , dass Regierungen eine Vielzahl an Strategien , vor allem strukturpolitischer Natur , umsetzen können , um in der Wirtschaft eine niedrigere Arbeitslosenquote zu erreichen .
+Strategien , die sich ausschließlich auf die Inflation konzentrieren sind auch aus mehreren anderen Gründen unsinnig .
+Aus praktischer Sicht ist die Beziehung zwischen Arbeitslosigkeit und Inflation auch höchst instabil , wenn die Erwartungen kontrolliert werden ( was wir , wie Phelps in seiner Arbeit festhält , auch tun ) .
+Außer für ein paar isolierte Zeiträume , ist es nahezu unmöglich , diese Beziehung aus den Daten zu erfassen .
+Veränderungen der Bildungssituation , gewerkschaftliche Organisation und Produktivität sind teilweise eine Erklärung für diese Instabilität .
+Worin aber auch immer die Gründe liegen mögen , die Entscheidungsträger sind mit einem hohen Maß an Unsicherheit hinsichtlich des NAIRU-Niveaus konfrontiert .
+So stehen sie also vor der Wahl , die Arbeitslosigkeit auf ein zu niedriges Niveau zu drücken und damit die Inflation in Gang zu setzen oder gegen die Arbeitslosigkeit nicht entschieden genug vorzugehen , was wiederum zu einer unnötigen Verschwendung von ökonomischen Ressourcen führt .
+Wie man diese Risiken einschätzt , hängt davon ab , wie viel es kostet , diese Fehler zu beheben . Diese Kosten sind wiederum abhängig von anderen Eigenschaften der Beziehung zwischen Inflation und Arbeitslosigkeit , die Phelps in seiner Analyse nicht berücksichtigt .
+Die Beweislage deutet darauf hin , dass die Kosten der Behebung des Fehlers , die Arbeitslosigkeit zu weit zu senken , sehr gering sind , zumindest in Ländern wie den USA , wo diese Beziehung sehr sorgfältig analysiert wurde .
+Im Lichte dieser Erkenntnis sollte die Federal Reserve offensiv eine Politik der niedrigen Arbeitslosigkeit verfolgen , bis sich eine steigende Inflation zeigt .
+Im Gegensatz dazu sind die „ Inflationsfalken “ der Meinung , die Inflation müsse präventiv in Angriff genommen werden .
+Obwohl die meisten Zentralbanken zu diesen Inflationsfalken gehören , ist diese Haltung eher eine Frage der Religion als der Wirtschaftswissenschaften .
+Es gibt einfach wenig bis gar keinen empirischen Beweis , dass die Inflation bei den niedrigen bis mäßigen Werten der letzten Jahrzehnte irgendeinen signifikant nachteiligen realen Effekt auf Produktion , Beschäftigung , Wachstum oder die Einkommensverteilung hat .
+Ebenso wenig gibt es einen Beleg dafür , dass die Inflation bei leichtem Anstieg nicht zu relativ geringen Kosten wieder umgekehrt werden kann – Kosten , die etwa dem Nutzen vermehrter Beschäftigung und zusätzlichen Wachstums während der übermäßigen Expansion der Wirtschaft entsprechen , die zu einem Anstieg der Inflation geführt hat .
+In den frühen 1990er Jahren glaubten die Fed und viele andere , die NAIRU läge bei ungefähr 6 % -6,2 % .
+Aufgrund der Veränderungen in der Ökonomie waren ich und meine Kollegen im wirtschaftlichen Beraterstab von Präsident Clinton jedoch der Ansicht , dass der NAIRU-Wert wesentlich niedriger war .
+Wir hatten Recht .
+Die Arbeitslosigkeit fiel auf 3,8 % , ohne dass damit ein Anstieg der Inflation verbunden gewesen wäre .
+Das ist durchaus relevant , denn wie der große Ökonom Arthur Okun argumentierte , würde eine Senkung der Arbeitslosigkeit um zwei Prozentpunkte , im Fall Amerikas die Produktion um 2 % - 6 % oder 0,5-1,5 Billionen Dollar ansteigen lassen .
+Das ist selbst für ein reiches Land viel Geld .
+Damit könnte man Amerikas Sozialversicherungssystem für die nächsten 75-100 Jahre auf ein solides Fundament stellen .
+Man könnte damit sogar einen wesentlichen Teil der Kosten für einen Krieg wie den im Irak abdecken !
+Phelps ’ Arbeit half uns , die Komplexität der Beziehung zwischen Inflation und Arbeitslosigkeit zu verstehen sowie zu erkennen , welche bedeutende Rolle Erwartungen in dieser Beziehung spielen können .
+Es stellt allerdings einen Missbrauch dieser Arbeit dar , wenn man daraus ableitet , dass gegen Arbeitslosigkeit nichts getan werden kann oder dass Finanzinstitutionen sich ausschließlich um die Inflation kümmern sollten .
+Diese Sichtweise wird von einer Schule der modernen Makroökonomie vertreten , die ihren Annahmen rationale Erwartungen und perfekt funktionierende Märkte zu Grunde legt .
+Mit anderen Worten : Sämtliche Individuen – die üblicherweise als identisch angenommen werden – nützen sämtliche Informationen in vollem Umfang , um zukünftige Entwicklungen in einem Umfeld des perfekten Wettbewerbs zu prognostizieren , in dem es keine Unzulänglichkeiten des Marktes und volle Absicherung gegen alle Risiken gibt .
+Diese Annahmen sind genauso absurd wie die sich daraus ergebenden Schlussfolgerungen : Es gibt keine unfreiwillige Arbeitslosigkeit , die Märkte sind absolut effizient und die Umverteilung hat keine realen Auswirkungen .
+Obwohl die Strategien des Staates , dieser Schule zufolge , ohnehin wirkungslos sind , spielt das keine große Rolle .
+Denn weil Märkte immer effizient sind , gibt es keinen Grund für staatliche Intervention .
+Noch bösartiger argumentieren Verfechter dieser Sichtweise , wenn man sie mit der Realität der Arbeitslosigkeit konfrontiert , indem sie behaupten , dass diese überhaupt nur aufgrund staatlich auferlegter Inflexibilität und wegen der Gewerkschaften existiert .
+Ihre „ ideale “ Welt , in der es weder das eine noch das andere gäbe , wäre nach ihren Angaben frei von Arbeitslosigkeit .
+Über drei Jahrzehnte hat Phelps gezeigt , dass es einen alternativen Ansatz gibt .
+Er versuchte zu verstehen , was wir tun können , um die Arbeitslosigkeit zu senken und das Fortkommen jener am unteren Ende der ökonomischen Skala zu verbessern .
+Aber er bemühte sich auch zu verstehen , was kapitalistische Ökonomien dynamisch macht , was dem Unternehmergeist zu Grunde liegt und wie man diesen fördern kann .
+Phelps ’ Ökonomie ist eine der Aktion und nicht der Resignation .

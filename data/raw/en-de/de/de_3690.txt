@@ -1,0 +1,39 @@
+Absichern synthetischer Wertpapiere
+NEW YORK – Wir können sicher sein , dass Goldman Sachs den Zivilprozess , den die Börsenaufsichtsbehörde der Vereinigten Staaten ( Security and Exchange Commission , SEC ) gegen die Bank angestrengt hat , vehement anfechten wird .
+Doch unabhängig vom letztendlichen Ausgang hat der Fall weitreichende Auswirkungen auf die Gesetzgebung zur Finanzreform , über die der US-Kongress derzeit berät .
+Ob Goldman schuldig ist oder nicht – die fragliche Transaktion hatte eindeutig keinen gesellschaftlichen Vorteil .
+Es ging dabei um ein komplexes synthetisches Wertpapier , das als Derivat von existierenden hypothekenbesicherten Wertpapieren erstellt wurde , indem diese geklont und zu imaginären Einheiten zusammengefasst wurden , die die Originale nachahmten .
+Diese synthetische Collateralized Debt Obligation ( CDO ) finanzierte weder den Besitz zusätzlicher Häuser und Wohnungen noch führte sie zu einer effizienteren Verteilung von Kapital ; sie blähte lediglich das Volumen der hypothekenbesicherten Wertpapiere auf , die an Wert verloren , als die Immobilienblase platzte .
+Der Hauptzweck der Transaktion bestand darin , Gebühren und Provisionen zu erzeugen .
+Der Fall macht deutlich , wie Derivate und synthetische Wertpapiere eingesetzt wurden , um aus dem Nichts imaginäre Werte zu schaffen .
+Tatsächlich wurden mehr CDOs mit AAA-Rating emittiert , als zugrundeliegende AAA-Vermögenswerte vorhanden waren .
+Dies wurde in großem Umfang praktiziert , trotz der Tatsache , dass es sich bei allen beteiligten Parteien um erfahrene Investoren handelte .
+Der Prozess setzte sich über Jahre hinweg fort und gipfelte in einem Crash , der zur Zerstörung von Vermögen in Höhe von mehreren Billionen Dollar führte .
+Derartige Aktivitäten dürfen nicht weiter zugelassen werden .
+Die Verwendung von Derivaten und anderen synthetischen Instrumenten muss reguliert werden , selbst wenn es sich bei allen Parteien um erfahrene Investoren handelt .
+Normale Wertpapiere müssen bei der SEC eingetragen werden , bevor sie gehandelt werden dürfen .
+Synthetische Wertpapiere sollten ebenso reguliert werden , wobei die Aufgabe einer anderen Behörde übertragen werden könnte , z. B. der Commodity Futures Trading Commission , die die Futures- und Optionsmärkte reguliert .
+Derivate können vielen nützlichen Zwecken dienen , doch enthalten sie auch versteckte Gefahren .
+So können sie beispielsweise versteckte Ungleichgewichte beim Angebot oder bei der Nachfrage anwachsen lassen , die plötzlich aufgedeckt werden , wenn eine gewisse Schwelle überschritten wird .
+Das gilt für sogenannte „ Knock-out-Optionen “ , die bei der Wechselkurssicherung eingesetzt werden .
+Ebenso traf es auf die Portfolio-Absicherungsprogramme zu , die im Oktober 1987 den „ Schwarzen Montag “ an der New Yorker Börse verursachten .
+Mit der anschließenden Einführung von Notbremsen wurde stillschweigend anerkannt , dass Derivate zu Störungen führen können , aber es wurden nicht die entsprechenden Schlussfolgerungen gezogen .
+Credit Default Swaps ( CDS ) sind besonders verdächtige Instrumente .
+Sie sollen den Anleihegläubigern eine Absicherung gegen Zahlungsunfähigkeit bieten .
+Doch da sie frei handelbar sind , können sie zur Inszenierung von „ Bear Raids “ genutzt werden – einer Art Börsenstrategie , bei der ein Händler ( oder eine Gruppe von Händlern ) versucht , den Preis einer Aktie zu drücken , um eine Short-Position zu decken .
+Neben der Absicherung bieten sie auch eine Lizenz zum Töten .
+Ihre Verwendung sollte auf diejenigen beschränkt werden , die ein absicherungswürdiges Interesse an den Anleihen eines Landes oder eines Unternehmens haben .
+Es wäre dann die Aufgabe der Regulierungsbehörden , Derivate und synthetische Wertpapiere zu durchschauen und ihre Erstellung zu unterbinden , wenn sie die systemischen Risiken nicht vollständig einschätzen können .
+Diese Aufgabe kann nicht den Investoren überlassen werden – entgegen dem Diktat des marktfundamentalistischen Dogmas , das bis vor Kurzem maßgebend war .
+Derivate , die an der Börse gehandelt werden , sollten als Klasse eingetragen sein .
+Maßgeschneiderte Derivate müssten einzeln eingetragen werden , sodass die Regulierer gezwungen wären , die jeweils damit verbundenen Risiken zu verstehen .
+Eine Eintragung ist mühsam und zeitaufwendig und würde die Verwendung außerbörslicher Derivate unattraktiver machen .
+Maßgeschneiderte Produkte könnten aus börsengehandelten Instrumenten zusammengesetzt werden .
+Dies würde verhindern , dass es erneut zu Missbräuchen kommt , die 2008 zur Finanzkrise beigetragen haben .
+Der Zwang , Derivate und synthetische Wertpapiere einzutragen , wäre eine einfache und wirksame Maßnahme ; doch enthält die Gesetzgebung , über die derzeit in den USA beraten wird , keine derartige Anforderung .
+Der US-Landwirtschaftsausschuss ( Senate Agriculture Committee ) schlägt vor , Depositenbanken vom Handel mit Swaps auszuschließen .
+Das ist ein hervorragender Vorschlag , durch den die Marktverflechtungen weitgehend verringert würden , was einen Contagion-Effekt auf den Finanzmärkten verhindert , doch blieben die Derivate dabei unreguliert .
+Zudem werden sich die fünf großen Banken , die als Marktmacher fungieren und auf die über 95 % der außerbörslichen Geschäfte in den USA entfallen , wahrscheinlich gegen den Vorschlag aussprechen , da er ihre Gewinne beeinträchtigen würde .
+Rätselhafer ist , dass einige multinationale Unternehmen ebenfalls dagegen sind .
+Die einzige plausible Erklärung ist , dass maßgeschneiderte Derivate Steuerhinterziehung und die Manipulation von Einkünften erleichtern können .
+Selbstverständlich sollten diese Erwägungen keinen Einfluss auf die Gesetzgebung haben .

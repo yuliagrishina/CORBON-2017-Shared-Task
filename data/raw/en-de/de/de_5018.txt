@@ -1,0 +1,43 @@
+Die Suche nach Qualität im WWW
+NEW YORK : In nicht allzu ferner Zukunft werden Schüler die weiterführende Schule abschließen können , ohne je ein Buch in der Hand gehabt zu haben .
+Vor 20 Jahren konnten sie ihren Schulabschluss machen , ohne je einen Computer benutzt zu haben .
+Computertechnologie und Internet haben in nur wenigen Jahrzehnten die Grundprinzipien von Information , Wissen und Bildung fundamental verändert .
+Tatsächlich finden heute mehr Bücher auf der Festplatte Ihres Laptops Platz als in einer Buchhandlung , die 60.000 Titel führt .
+Die Zahl der Webseiten im Internet soll angeblich 500 Milliarden überschreiten – genug , um zehn moderne Flugzeugträger mit der entsprechenden Anzahl von jeweils 500 Seiten starken , ein Pfund schweren Büchern zu füllen .
+Derartige Analogien helfen , sich die ungeheure Zunahme der vorhandenen Informationen bildlich vorzustellen und sich die Berechtigung damit einhergehender Bedenken zu verdeutlichen .
+Der einzige Mechanismus , um sich in dieser Lawine von Informationen zurechtzufinden , sind Websuchmaschinen ; daher sollte man diese nicht als optionales Zubehör , Schaltfläche zum Herumspielen oder Hilfsmittel zur Lokalisierung der nächsten Pizzeria missverstehen .
+Suchmaschinen sind die mit Abstand leistungsstärksten Verteilerpunkte von Wissen und Wohlstand – und von Fehlinformationen .
+Wenn man von der Websuche spricht , fällt einem natürlich zuerst Google ein .
+Man kann ohne Übertreibung behaupten , dass Google das Internet zu dem gemacht hat , was es heute ist .
+Google hat eine neue Generation von Menschen geprägt , die sich in auffallender Weise von ihren Eltern unterscheiden .
+Am besten können dies vielleicht die Babyboomer würdigen , denn sie erlebten als Kinder den Rock ’ n ’ Roll und als Eltern dann Google .
+Googles Design basiert auf statistischen Algorithmen .
+Suchtechnologien jedoch , die auf statistischen Algorithmen basieren , können die Informationsqualität nicht berücksichtigen – einfach deshalb , weil Informationen von guter Qualität nicht immer beliebt und beliebte Informationen nicht immer von guter Qualität sind .
+Sie können Statistiken erheben , bis Sie schwarz werden , aber Sie können von ihnen nicht erwarten , etwas zu leisten , wofür sie nicht gemacht sind .
+Darüber hinaus sind Systeme zur Erhebung von Statistiken auf die Vergangenheit ausgerichtet .
+Es braucht Zeit , damit Menschen Empfehlungen abgeben können , und Zeit , um diese zu sammeln .
+Neuveröffentlichungen und dynamische Seiten mit häufig wechselnden Inhalten liegen daher bereits außerhalb des mit Beliebtheitsmethoden abdeckbaren Rahmens , und die Materialsuche ist anfällig selbst für elementare Manipulationstechniken .
+So haben die Leistungsschwächen der heutigen Suchmaschinen beispielsweise eine neue Branche hervorgebracht – so genannte Suchmaschinenoptimierer , die sich auf Strategien konzentrieren , Webseiten einen hohen Beliebtheitsrang in googleartigen Suchmaschinen zu verschaffen .
+Dabei werden Milliarden umgesetzt .
+Wenn Sie genug Geld haben , können Sie ihrer Webseite einen höheren Rang verschaffen , als viele andere glaubwürdigere oder qualitativ bessere Seiten ihn haben . Hochwertige Informationen waren noch nie so anfällig gegenüber der Macht des Kommerzes wie seit Aufkommen von Google .
+Die im Schatten der Websuche ausgeformte Informationsgüte wird die Zukunft der Menschheit bestimmen , doch es wird eines revolutionären Ansatzes bedürfen , um für Qualität zu sorgen – eines technischen Durchbruchs , der über die Statistik hinaus reicht . Diese Revolution ist bereits im Gange ; sie wird als „ semantische Technologie “ bezeichnet .
+Die der semantischen Technologie zugrunde liegende Idee besteht darin , Computern beizubringen , wie die Welt funktioniert .
+Wenn ein Computer dann auf das Wort „ bill “ stößt , wüsste er , dass „ bill “ im Englischen 15 verschiedene Bedeutungen hat .
+Wenn er auf die Formulierung „ killed the bill “ stößt , würde er folgern , dass mit „ bill “ in diesem Fall nur ein der Legislative vorgelegter Gesetzentwurf sein kann , und dass „ kill “ in diesem Zusammenhang nur „ stoppen “ heißen kann .
+„ Kill Bill “ dagegen kann nur der Titel des gleichnamigen Spielfilms sein .
+Letztlich würden durch eine Abfolge derartiger Folgerungen komplette Sätze und Absätze handhabbar , sodass dabei eine korrekte Repräsentation der textlichen Bedeutung herauskäme .
+Um mit Computeralgorithmen ein derartiges Maß an Geschicklichkeit im Umgang mit Sprachen zu erreichen , bedarf es einer Ontologie .
+Eine Ontologie ist weder ein Wörterbuch noch ein Thesaurus .
+Sie ist eine Landkarte miteinander verbundener Konzepte und Wortbedeutungen , die Beziehungen wie die zwischen „ bill “ und „ kill “ widerspiegelt .
+Eine das weltweite Wissen umfassende Ontologie zu schaffen , mag eine Riesenaufgabe sein , die Anstrengungen vergleichbar der Zusammenstellung einer großen Enzyklopädie erfordert und auch die Expertise , sie zu erstellen . Aber es ist machbar .
+Eine Reihe von Startupunternehmen weltweit – wie Hakia , Cognition Search und Lexxe – haben sich der Herausforderung gestellt .
+Was dabei herauskommt , bleibt abzuwarten .
+Wie aber würde eine semantische Suchmaschine das Problem der Informationsqualität lösen ?
+Die Antwort ist einfach : durch Präzision .
+Sobald Computer natürliche Sprachen mit semantischer Präzision handhaben können , brauchen hochwertige Informationen nicht mehr populär zu werden , bevor sie den Endnutzer erreichen – anders , als es heute bei der Websuche erforderlich ist .
+Die semantische Technologie verspricht andere Mittel zur Gewährleistung der Qualität : die Erfassung der Dichte und Kohärenz der in einem Text erfassten Begriffe und Konzepte .
+Falls der Text eine Formulierung wie „ Bush killed the last bill in the Senate . “ ( Bush hat den letzten Gesetzesentwurf im Senat gestoppt . ) umfasst , enthält dann der Text damit zu vereinbarende Begriffe ?
+Oder handelt es sich um eine Spamseite , die eine Menge populärer Einzeiler enthält , ummantelt von Werbung ?
+Semantische Technologie kann es unterscheiden .
+Angesichts der begrenzten Lesegeschwindigkeit des Menschen ( 200-300 Wörter pro Minute ) und der enormen Menge verfügbarer Informationen verlangt eine effektive Entscheidungsfindung heute in allen Aspekten der Wissensverfeinerung nach semantischer Technologie .
+Wir können es uns nicht leisten , dass unser Wissen in Zukunft auf Gnade und Ungnade Beliebtheit und Geld ausgeliefert ist .

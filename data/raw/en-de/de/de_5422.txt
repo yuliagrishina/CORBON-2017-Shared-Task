@@ -1,0 +1,35 @@
+Einen Pfad durch das Gehirn schlagen
+MADRID – Unsere Gehirne sind wie ein dichter Wald – ein komplexes , anscheinend undurchdringliches Dickicht aus interagierenden Neuronen , das Wahrnehmung und Verhalten steuert .
+Die große Herausforderung besteht darin , seine Geheimnisse aufzudecken , also herauszufinden , wie die Neuronen strukturiert und miteinander verbunden sind .
+Wie nah sind wir diesem Ziel ?
+Im Allgemeinen findet der Informationsaustausch zwischen den Milliarden von Neuronen , aus denen das neuronale Dickicht besteht , durch zwei verschiedene hoch spezialisierte Strukturen statt : chemische Synapsen ( die Mehrzahl ) und sogenannte Gap Junctions ( eine Grundlage für eine Klasse elektrischer Synapsen ) .
+Bei der chemischen Übertragung an den Synapsen werden spezifische Moleküle , Neurotransmitter , freigesetzt , die sich durch den interzellulären Raum verbreiten und auf spezifische Rezeptoren wirken , die sich an einem benachbarten Neuron befinden .
+Bei der elektrischen Übertragung über Gap Junctions sind die Plasmamembranen von benachbarten Neuronen durch eine Lücke von etwa zwei Nanometern getrennt ( zwei Milliardstel Meter ) , verfügen aber über kleine Kanäle ( die Gap Junctions ) , die das Zytoplasma der benachbarten Neuronen verbinden , wodurch die Ausschüttung von kleinen Molekülen und das Fließen von elektrischem Strom ermöglicht wird .
+Das große Problem bei der Analyse des Gehirns ist die extreme Komplexität seiner synaptischen Verbindungen .
+Ein äußerst dichtes Netz von Prozessen besetzt den Raum zwischen den Zellkörpern der Neuronen , der Neuroglia ( Zellen , die die Neuronen unterstützen und schützen ) und der Blutgefäße .
+Aus diesem Raum ( dem Neuropil ) bestehen 90-98 % des Volumens der menschlichen Großhirnrinde , mit schätzungsweise einer Milliarde Synapsen pro Kubikmillimeter Neuropil .
+Als ob das die Arbeit der Gehirnkartierer nicht schwierig genug machte , wurde auch noch eine große Vielfalt an synaptischen Beziehungen beobachtet .
+Zudem kann ein ausgeschütteter Neurotransmitter nicht nur auf andere Synapsenkontakte wirken , sondern auch auf extrasynaptische Rezeptoren .
+Ebenso verlaufen nicht alle elektrischen Übertragungen über Gap Junctions , und diese Formen benötigen andere spezialisierte Strukturen .
+Außerdem finden elektrische Interaktionen zwischen dicht aneinander liegenden neuronalen Elementen ohne offensichtliche Membranspezialisierung statt .
+Ferner wird vermutet , dass Gliazellen über ihren bidirektionalen Austausch mit Neuronen an der Informationsverarbeitung beteiligt sind .
+Zudem wissen wir jetzt , dass die Aktivität von neuronalen Schaltkreisen stark von Neuromodulatoren ( wie Dopamin , Serotonin und Acetylcholin ) beeinflusst wird , die von einer kleinen Gruppe von Neuronen abgesondert und durch große Regionen des Nervensystems verbreitet werden .
+Neurohormone , die von neurosekretorischen Zellen ausgeschüttet werden , haben zudem über das Kreislaufsystem eine Wirkung auf viele Gehirnregionen .
+Trotzdem fangen wir an , uns einen Weg durch das Dickicht zu bahnen .
+Die Vernetzung des Gehirns ( auf Englisch „ synaptome “ genannt ) ist die anatomische Grundlage für eine Vielzahl von Funktionen , für die Informationen schnell von einem Punkt zu einem anderen übertragen werden müssen .
+Die neuronalen Schaltkreise , die für Reflexe zuständig sind , sind ein typisches Beispiel – relativ einfache , schnelle , automatische Aktionen , die unterbewusst ablaufen .
+Zu den anderen , wesentlich komplexeren Funktionen , die mit der synaptischen Vernetzung des Gehirns in Beziehung stehen , zählt die Informationsverarbeitung in großen , aber getrennten Schaltkreisen des sensorischen und motorischen Systems und in den Gehirnregionen , die mit dem Sprechen , Rechnen , Schreiben und Denken verbunden sind .
+Die modulatorischen Systeme wirken jedoch auf mehrere neuronale Schaltkreise und Gehirnregionen .
+Diese diffuse Aktion hängt mit den Stimmungen und Zuständen des Gehirns insgesamt zusammen ( beispielsweise Aufmerksamkeit , Schlaf und Angst ) .
+Die schnelle und automatische serielle Rekonstruktion großer Gewebevolumen , die durch die jüngste Entwicklung von automatisierten elektromikroskopischen Techniken ermöglicht wird , ist die Methode der Wahl , um die synaptischen Verbindungen zu erforschen .
+Doch selbst wenn man diese Technologie anwendet , ist der komplette Nachbau ganzer Gehirne nur für relativ einfache Nervensysteme möglich .
+Tatsächlich ist es selbst bei einem kleinen Säugetier wie der Maus unmöglich , das Gehirn auf der ultrastrukturellen Ebene vollständig zu rekonstruieren , da die Vergrößerung , die benötigt wird , um Synapsen sichtbar zu machen , relativ kleine Bilder liefert .
+Es wurde beispielsweise geschätzt , dass wir , wenn wir Sektionen von ungefähr 35 Quadratmikrometern ( Millionsteln eines Meters ) bei einer Stärke von 20 Nanometern verwendeten , über 1,4 Milliarden Sektionen bräuchten , um nur einen Kubikmillimeter Gewebe vollständig zu rekonstruieren .
+Während also vollständige Rekonstruktionen einer kleinen Region des Säugetierhirns machbar sind , können Strukturen wie die Großhirnrinde – mit einer Oberfläche von 0,22 Quadratmetern und einer Stärke von 1,5 bis 4,5 Millimetern – nicht vollständig rekonstruiert werden .
+Dennoch sollte es trotz der technischen Schwierigkeiten möglich sein , bei der Entwirrung der Gehirnorganisation , sogar bei Menschen , sensationelle Fortschritte zu machen , indem geeignete Strategien mit den derzeit verfügbaren Instrumenten umgesetzt werden .
+Obwohl beispielsweise die Dichte der Synapsen in einem bestimmten Bereich und einer bestimmten Ebene unterschiedlich sein kann , ist diese Variabilität relativ eng begrenzt , sodass die statistische Verteilung der Abweichungen modellhaft nachgebildet werden kann .
+Das bedeutet , dass wir nicht die gesamte Ebene in einem bestimmten Bereich rekonstruieren müssen , um die absolute Anzahl und die Arten von Synapsen zu bestimmen ; stattdessen kann die Variabilitätsspanne durch mehrere Proben relativ kleiner Regionen in diesem Bereich bestimmt werden .
+Wenn man diese detaillierten Daten zur Struktur mit den unvollständigen Vernetzungsdiagrammen aus Licht- und Elektronenmikroskopie kombiniert , ist es unter Umständen möglich , ein realistisches statistisches Modell zu erstellen , anstatt zu versuchen , das gesamte Gehirn zu rekonstruieren .
+Computermodelle für neuronale Netzwerke , die auf realen Schaltkreisen beruhen , sind bereits zu nützlichen Instrumenten geworden , um einige Aspekte der funktionalen Organisation des Gehirns zu studieren .
+So ist es möglich , dass es uns , obwohl ein wirkliches Abbild der Synapsen des Säugetierhirns ein utopisches Ziel bleibt , in naher Zukunft gelingt , einen „ Silikonkortex “ zu konstruieren , eine computergestützte Maschine , die auf einem realistischen Modell des gesamten anatomischen , physiologischen und molekularen Bauplans des kortikalen Netzes beruht .
+Wenn uns das gelingt , können wir endlich den Wald sehen – ohne jeden einzelnen Baum suchen zu müssen .

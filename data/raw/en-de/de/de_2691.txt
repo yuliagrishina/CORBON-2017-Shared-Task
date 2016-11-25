@@ -1,0 +1,39 @@
+Wenn Banken mit „ Zitronen “ handeln
+München : Nach der Weltschuldenkrise von 1982 , der Sparkassenkrise in den USA Ende der 1980er Jahre und der asiatischen Finanzkrise von 1997 ist die Subprime-Hypothekenkrise die vierte große Bankenkrise seit dem Zweiten Weltkrieg – und bei weitem die schwerste .
+Laut IMF werden die Abschreibungen in den Bilanzen weltweit fast eine Billion Dollar betragen , wobei der Löwenanteil davon auf US-Finanzinstitute entfallen dürfte .
+Vorsichtigere Schätzungen gehen von einem Gesamtverlust von 400 Mrd. Dollar aus . Angesichts der Tatsache , dass gesamte Eigenkapital aller US-Finanzinstitute nur rund 1,2 Billionen Dollar beträgt , sind beides atemberaubende Zahlen .
+Warum kommt es zu Bankkrisen ?
+Sind Bankmanager dumm ?
+Warum übernehmen sie Risiken , die ihre Banken an den Rand des Ruins führen ?
+Die Antwort liegt im Zusammenwirken eines schlechten Bilanzierungssystems mit verschiedenen Moral-Hazard-Effekten , die durch die bestehenden Aufsichtssysteme nicht eingedämmt werden können .
+Das schlechte Bilanzierungssystem , das inzwischen von Großunternehmen weltweit verwendet wird , ist der International Financial Reporting Standard ( IFRS ) .
+Das Manko des IFRS besteht darin , dass er die systematische Ansteckung infolge von Kursschwankungen nicht dämpft .
+Wenn es bei Wertpapieren zu Kursschwankungen kommt , müssen die Unternehmen , die diese Wertpapiere besitzen , in ihren Büchern Quartal für Quartal Wertberichtigungen vornehmen .
+Die ständige Berichtspflicht über nichtrealisierte Wertzuwächse und – verluste führt deshalb zu einer Übertragung der Kurschwankungen zwischen den Unternehmen und sendet Schockwellen durch das Finanzsystem .
+Eine Alternative wären vorsichtigere Bilanzierungsregeln , wie sie von allen deutschen Unternehmen früher verwendet wurden und bei den meisten auch noch heute in Gebraucht sind .
+Nach dem traditionellen deutschen Bilanzrecht mussten die Vermögenswerte eines Unternehmens nach dem Niedrigst-Wert-Prinzip bewertet werden . Wich der Marktwert eines Wertpapiers von seinem historischen Ankaufwert ab , so ging stets der niedrigere Wert in die Bilanz ein .
+Dies erlaubte es der Geschäftsleitung , langfristige Ziele zu verfolgen , und erwies sich als wirksamer Schutz gegen Ansteckungseffekte .
+Tatsächlich war dies einer der wichtigsten Gründe für die Stabilität des deutschen Finanzsystems .
+In der gegenwärtigen Krise sind drei Moral-Hazard-Effekte von besonderer Bedeutung : Erstens ist die Vergütung des Managements infolge des übermäßigen Einflusses der Investmentbanken auf die Politik der Geschäftsbanken stark von der kurzfristigen Entwicklung des Aktienkurses abhängig .
+Investmentbanken können hohe Renditen nur in einer Welt volatiler Anlagekurse und kurzfristiger Performanceziele erreichen können , und über sie wird in den Unternehmen Druck auf die Manager erzeugt , sich an eher kurzfristigen Zielen zu orientieren .
+Zweitens gehen Banken übermäßige Anlagerisiken ein , weil sie davon ausgehen , dass Ihnen der Staat wenn nötig schon aus der Patsche helfen wird .
+So war es im Fall der amerikanischen Sparkassenkrise , als die US-Regierung sogar explizit für die Sicherheit der Einlagen bürgte .
+Die Banken konnten übermäßig riskante Projekte übernehmen , ohne ihre Anleger zu verschrecken , weil der Staat zur Kreditsicherung bereit stand .
+Während der Subprime-Krise war implizit ein ähnliches Phänomen am Werk : Die Banken spekulierten darauf , dass sie zu groß waren , als dass der Staat sie würde in Konkurs gehen lassen .
+Die Tatsache , dass die englische Zentralbank Northern Rock aus der Bredouille half und die US Federal Reserve Bear Stearns mit 30 Milliarden Dollar rettete , zeigt , wie richtig sie damit lagen .
+Das dritte und vermutlich wichtigste Moral-Hazard-Problem resultiert aus der asymmetrischen Informationsverteilung zwischen den Banken und ihren Kreditgebern .
+Banken geben Wertpapiere mit attraktivem Nominalzins , aber unbekannter Rückzahlungswahrscheinlichkeit aus .
+Häufig werden dabei Wertpapiere geschaffen , die mit komplexen , aus guten und schlechten Anlagewerten bestehenden Portfolios unterlegt sind , deren wahre Risiken nur schwer einzuschätzen sind .
+In der gegenwärtigen Krise unterschätzten selbst die privaten Rating-Agenturen die vorhandenen Risiken gewaltig , was dazu beitrug , dass Geldanleger auf der ganzen Welt viel zu hohe Preise für die hypothekenbesicherten Wertpapiere der US-Emittenten zahlten .
+Also gab es nichts , das die Banken hinderte , minderwertige Anleihen zu verkaufen .
+Wie bei Gebrauchtwagen , die gleich nach dem Kauf liegen bleiben , Tomaten und Äpfeln , die gut aussehen , aber wässrig schmecken , oder Anzügen , die nach kürzester Zeit durchscheuern , haben die Verkäufer auch hier die Produktqualität gemindert und die Kosten gesenkt , ohne dass die Käufer es vor dem Kauf merken konnten . Und da minderwertige Produkte sich zum selben Preis verkauften wie hochwertige , verschwanden Letztere vom Markt .
+In der Ökonomie hat sich hierfür der Begriff des Zitronenhandel eingebürgert , denn die Zitrone steht in Amerika für schlechte alte Autos . Statt guter Anleihen haben die Banken Zitronen verkauft .
+Auf den Kapitalmärkten ist das Problem der asymmetrischen Informationsverteilung zwischen Käufern und Verkäufern besonders gravierend . Banken sehen sich deshalb stets der Versuchung ausgesetzt , zur Steigerung des eigenen Gewinns Wertpapiere auszugeben , deren Rückzahlungswahrscheinlichkeit unter dem von den Käufern erwarteten Niveau liegt .
+Zu diesem Zweck entwickeln sie komplizierte rechtliche Forderungsstrukturen , die kaum jemand völlig durchschaut , und operieren ohne ausreichendes Eigenkapital zur Abdeckung der Risiken .
+Dies zerstört den Markt für solide Finanzierungsinstrumente und untergräbt die Fundamente des kapitalistischen Systems .
+Um diesem Problem zu begegnen , bedarf es einer strengeren Bankenaufsicht , die darauf hinwirkt , die Rückzahlungswahrscheinlichkeit und damit auch die Wertpapierqualität zu erhöhen .
+Finanzprodukte müssen transparent gemacht werden ; außerbilanzielle Aktivitäten müssen beschränkt werden ; und vor allem muss der Umfang fremdfinanzierter Aktivitäten verringert werden , indem eine höhere Eigenkapitalquote vorgeschrieben wird .
+Die Banken lehnen das zwar ab , weil aus ihrer Sicht Eigenkapital teurer ist als Fremdkapital .
+Aber das ist gerade nur wegen des „ Zitroneneffekts “ der Fall und kann nicht als volkswirtschaftlich akzeptables Gegenargument angeführt werden .
+Der IWF , die G7 oder eine gemeinsame amerikanisch-europäische Institution wären vermutlich das passende Forum , neue Regeln für Finanzmärkte zu entwickeln und so die Effizienz und Stabilität der Weltwirtschaft zu stärken .
+Im Gegensatz dazu wäre der Versuch , solche Regeln unilateral von jedem Staat für sich festzulegen , das Rezept für ein Fiasko . Denn der Wettbewerb zwischen den Staaten mit dem Ziel , den eigenen Banken Vorteile zu sichern , würde nur wieder dieselben unzureichenden Regulierungssysteme erzeugen , die den Zitronenhandel ursprünglich hervorgebracht haben .

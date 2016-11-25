@@ -1,0 +1,35 @@
+Kann radioaktive Strahlung gut für uns sein ?
+STANFORD : Die erdbeben- und tsunamibedingten Probleme im japanischen Atomkraftwerk Fukushima Daiichi waren Anlass für endlose Kommentare und Spekulationen .
+Leider jedoch läuft ein großer Teil der Debatte über die Katastrophe und ihre Auswirkungen in uninformierter und problematischer Weise ab .
+Das Strahlungsniveau liegt 20 km vom Atomkraftwerk in Fukushima entfernt um zu 400 Mal über dem Normalwert ; in Milch , Fisch und einer Anzahl von in der Region angebauten Gemüsearten wurde erhöhte Radioaktivität festgestellt , und das Trinkwasser in Tokio ( 225 km von Fukushima entfernt ) wurde , was Kleinkinder angeht , für zum Verzehr ungeeignet erklärt .
+Mehrere Länder haben die Einfuhr von Milch und Gemüse aus der betroffenen Region untersagt .
+Was ist von all dem zu halten ?
+Strahlung auf diesem Niveau stellt eine minimale gesundheitliche Bedrohung für Menschen dar , die sich außerhalb der unmittelbaren Umgebung des Atomkraftwerks selbst aufhalten .
+Der größte Teil der Strahlung geht von Jod 131 aus , was aus mehreren Gründen eine gute Nachricht ist .
+Erstens hat dieses Isotop eine kurze Halbwertzeit – nur etwa acht Tage – , d.h. es baut sich in kurzer Zeit auf ein zu vernachlässigendes Niveau ab ( in zehn Wochen sind weniger als 0,1 % davon übrig ) .
+Zweitens deutet dies darauf hin , dass die Strahlungsquelle der Reaktor selbst ist und nicht etwa verbrauchte Brennstäbe ( die sehr viel langlebigere und gefährlichere Radioisotope beherbergen ) .
+Drittens ist für gefährdete Personen ein jederzeit verfügbares , effektives Gegenmittel vorhanden : nicht radioaktives Jod , das in Tabletten- oder Flüssigform erhältlich ist und die Aufnahme von Jod 131 durch die Schilddrüse verhindert .
+Darüber hinaus fließen in Grenzwerte für Radioaktivität in Nahrungsmitteln gewöhnlich hohe Sicherheitsspielräume ein , die auf der Annahme einer langfristigen Aufnahme mit der Nahrung beruhen .
+Und Japans Grenzwerte für die Strahlungsbelastung sind sogar noch konservativer ( d.h. niedriger ) als jene , die von internationalen Behörden festgelegt wurden .
+Ein weiterer Faktor , der Strahlungsschäden möglicherweise abmildern könnte , ist ein als Hormesis bezeichnetes Phänomen – eine biphasische Dosis-Wirkungs-Beziehung , bei der etwa ein toxisches Schwermetall oder ionisierende Strahlung , die in moderaten bis hohen Dosen schädlich sind , tatsächlich bei niedriger Dosis eine positive adaptive Wirkung hervorrufen können .
+Anders ausgedrückt : Wir haben es nicht mit einer vollständig linearen Beziehung zwischen der Dosis des potenziellen Toxins und seiner schädlichen Wirkung zu tun , sondern vielmehr mit einer Verteilung , die – wenn man die Konzentration auf der X-Achse aufträgt und das Schadensmaß auf der Y-Achse – in etwa die Form eines Häkchens annimmt .
+Die Hormesis ist ein Nebenprodukt der Evolution .
+Von Beginn allen Lebens auf der Erde an waren Organismen potenziell harten Bedingungen ausgesetzt , bei denen einzelne Zellen häufig toxischen Substanzen wie Chemikalien und Strahlung ausgesetzt waren .
+Um frühen Tod und Aussterben zu vermeiden , entwickelten Organismen komplexe Mechanismen zur Bewältigung derartiger Umweltgefahren , darunter die Veränderung der Synthese von Nukleinsäuren und Proteinen zur Aktivierung von Wegen , die gegen Schäden schützen oder diese reparieren .
+So hat etwa der Biologe Paul Z. Myers von der Universität von Minnesota einen Tierversuch beschrieben , bei dem Fischembryonen eine nicht lineare Toxizität des Alkohols erfahren . Alkohol ist ein Gift , das bei Zebrafisch-Embryonen bei hoher Dosis und langanhaltender Belastung schwere Missbildungen hervorruft .
+Hierzu Myers ( http : / / scienceblogs.com / pharyngula / 2011 / 03 / will _ radiation _ hormesis _ protec.php ) :
+Ich habe Konzentrationsreihen durchgeführt , bei denen wir eine Anzahl von Embryonen Belastungen von zunehmender Konzentration aussetzen , und dabei erhalten wir eine hübsche lineare Kurve : Mehr Alkohol führt zu einer zunehmenden Häufigkeit und Schwere von Defekten im Bereich der Mittellinie und des Kiemenbogens .
+Mit einer Ausnahme : Bei niedrigen Konzentrationen von ungefähr 0,5 % Alkohol wiesen die behandelten Embryonen tatsächlich gegenüber der Kontrollgruppe niedrigere Sterblichkeitsraten auf , und auch keine Entwicklungsanomalien .
+Mit anderen Worten , es scheint eine Art Überkompensierung zu geben , die die erhöhten Schutzmechanismen erklärt , die durch kleine Mengen an Toxinen hervorgerufen werden .
+Die Schutzmechanismen werden in stärkerem Maße aktiviert , als dies nötig wäre , um die Bedrohung lediglich zu neutralisieren , was sich in der Summe vorteilhaft auswirkt .
+Es gibt einige epidemiologische Studien , die als Beleg für die Hormesis beim Menschen angepriesen wurden , aber diese haben offensichtliche Mängel .
+Der Krebschirurg David H. Gorski , M.D. , Ph.D. hat hierzu ( siehe http : / / www.sciencebasedmedicine.org / ? p = 11636 ) eine hervorragende Analyse verfasst , für die hanebüchene Übertreibungen der vermutlichen Nutzeffekte der Hormesis in Japan einer amerikanischen Kolumnistin der Anlass waren .
+Diese hatte behauptet : „ Die einzig gute Nachricht dabei ist , dass all jene , die der überhöhten Strahlung aus den Kernkraftwerken ausgesetzt waren , nun vermutlich mit sehr viel geringerer Wahrscheinlichkeit an Krebs erkranken werden . “
+Das freilich wäre nur bei einer zunehmenden Strahlungsbelastung auf äußerst niedrigem Niveau der Fall .
+Angesichts dessen , was wir derzeit wissen – und selbst mit den Daten , die wir in naher Zukunft wohl erhalten werden – können wir uns der Belastung nicht sicher sein .
+Einige der Arbeiter in Fukushima waren vermutlich Strahlendosen ausgesetzt ( nicht nur von Jod 131 , sondern auch von anderen , langlebigeren und gefährlicheren Radioisotopen wie Cäsium 137 ) , die zu hoch waren , um die hormetische Reaktion auszulösen . So erlitten im März drei Arbeiter Strahlungsverbrennungen durch stark radioaktives Wasser , das durch ihre Schutzanzüge drang .
+Und Menschen ( insbesondere Babys und kleinere Kinder ) , die hohen Belastungen mit Jod 131 ausgesetzt waren , bevor sie sich durch eine Jodprophylaxe schützen konnten , könnten sehr wohl Krebs auslösende Strahlendosen erhalten haben .
+Eines ist sicher : Strahlung verursacht Krebs – außer in extrem niedrigen Dosen , die möglicherweise nur geringfügig über der Hintergrundstrahlung liegen .
+Darüber hinaus sind Strahlenphysik und Hormesis sehr obskure und komplexe Phänomene , und ihr Verständnis erfordert mehr als oberflächliches Wissen .
+Wenn Sie sie in allen ihren Nuancen begreifen wollen , machen Sie einen naturwissenschaftlichen Abschluss am M.I.T. oder an der Eidgenössischen Technischen Hochschule in Zürich .
+Ansonsten bleiben Sie am Thema dran , lernen Sie von den Experten , und ziehen Sie keine voreiligen Schlüsse .

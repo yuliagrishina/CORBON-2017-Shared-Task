@@ -1,0 +1,41 @@
+Die Mondtäuschung
+Nur wenige Menschen würden bestreiten , dass der Mond besonders erstaunlich und bezaubernd wirkt , wenn er in Horizontnähe steht . Er erscheint dann näher und größer , als wenn er hoch am Himmel steht .
+Dies jedoch ist eine Täuschung - die „ Mondtäuschung " , um genau zu sein : Die Entfernung , die das Licht vom Mond bis zum Auge des Betrachters zurücklegt , ist im Wesentlichen dieselbe , unabhängig von der Mondhöhe .
+Eine ähnliche Täuschung lässt sich für die untergehende Sonne sowie bei Himmelsdistanzen zwischen Sternen unterschiedlicher Höhe feststellen .
+Die Mondtäuschung ist jedoch nicht nur für den Betrachter faszinierend ; sie ganz nebenbei das vielleicht älteste ungelöste Problem der Naturwissenschaften .
+Hinweise darauf finden sich auf Tontafeln aus den königlichen Bibliotheken von Nineveh und Babylon , die auf die Zeit vor dem sechsten Jahrhundert v. Chr. datiert werden , sowie in einer Lieh Tzu zugeschriebenen Sammlung chinesischer Legenden aus dem fünften Jahrhundert v. Chr. Viele führende Naturwissenschaftler und Mathematiker haben sich im Laufe der Geschichte mit dem Problem auseinander gesetzt , so da Vinci , Kepler und Descartes , um nur einige zu nennen .
+Während des größten Teils der aufgezeichneten Geschichte wurde die Täuschung als Folge eines physischen Prozesses angesehen .
+So führten etwa Aristoteles im dritten Jahrhundert v. Chr. und Ptolemaios im zweiten Jahrhundert n. Chr. die Mondtäuschung unrichtigerweise auf vergrößernde Eigenschaften der Atmosphäre zurück .
+Alhazen ( Ibn al-Haytham ) brachte die Mondtäuschung mit der abgeflachten Erscheinung des Himmelsgewölbes in Verbindung .
+Im 19. Jahrhundert wurde klar , dass die Mondtäuschung ein psychologisches Phänomen ist , eine Folge des kognitiven Prozesses , der der räumlichen Wahrnehmung des menschlichen Gehirns zugrunde liegt .
+Seitdem wurden viele Theorien vorgelegt , um die Täuschung zu erklären , aber noch immer besteht kaum Einigkeit darüber unter den Wissenschaftlern .
+Die meisten modernen Erklärungen behandeln die Täuschung als ein statisches Problem , bei dem ein Beobachter von einem feststehenden Standort aus einen sich über der Erde befindlichen feststehenden Leuchtkörper betrachtet .
+Die wahrgenommene Größe des Mondes wird dabei durch zwei Faktoren bestimmt : den physischen Bereich , in welchem das Licht auf die Netzhaut trifft - auch als Gesichtswinkel bezeichnet - und die auf der Erde verfügbaren Entfernungsinformationen .
+Einige Wissenschaftler beziehen die wahrgenommene Entfernung des Mondes ( d.h. , wie weit entfernt er dem Betrachter zu sein scheint ) in diese Formel mit ein .
+Die Beziehungen zwischen dem Netzhautreiz ( Gesichtswinkel ) und der wahrgenommenen Größe und Entfernung des Mondes werden in der so genannten „ statischen Größen-Distanz-Invarianz-Hypothese " zusammengefasst : Bei einem gegebenen Netzhautbild besteht eine konstante Relation zwischen der wahrgenommenen Größe und der wahrgenommenen Entfernung .
+Die Informationen auf der Erde bestimmen den jeweiligen Wert der Variablen innerhalb dieser Relation .
+Die Größen-Distanz-Invarianz-Hypothese wird manchmal als ein grundlegendes Gesetz der optischen Wahrnehmung angesehen .
+Es ist jedoch diese Relation , die die Mondtäuschung so verwirrend erscheinen lässt , da die Anwendung der Größen-Distanz-Invarianz-Hypothese voraussetzt , dass uns der Mond weiter entfernt scheint , wenn wir ihn als groß wahrnehmen , und näher , wenn wir ihn als klein wahrnehmen .
+Dies ist auch der Grund , warum diese Täuschung manchmal als „ paradox " bezeichnet wird .
+Da unsere Beobachtung der Hypothese widerspricht , haben moderne Erklärungen der Mondtäuschung eine Reihe von Änderungen an der Größen-Distanz-Invarianz-Hypothese vorgeschlagen .
+Eine dieser Änderungen lässt zu , dass von verschiedenen Verhaltensreaktionen gleichzeitig auf die wahrgenommene Entfernung geschlossen werden kann .
+Der Mond könnte also Menschen weiter entfernt scheinen , die sagen : „ Der Mond sieht nah aus . "
+Andere Erklärungen schließen die wahrgenommene Entfernung aus .
+Äußerungen über die wahrgenommene Entfernung werden als Folgerungen auf der Grundlage der wahrgenommenen Größe und nicht als Erfahrungsbeschreibungen beschrieben : „ Der Mond sieht so groß aus , also muss er näher sein . "
+Andere Forscher sind völlig über die Größen-Distanz-Invarianz-Hypothese hinausgegangen und haben den Netzhautreiz durch ein Wahrnehmungsergebnis ersetzt : den wahrgenommenen Gesichtswinkel .
+Anders als bei der Größen-Distanz-Invarianz-Hypothese wird hier eine rein psychologische Beziehung impliziert .
+Keine dieser Theorien allerdings beantwortet die Jahrhunderte alte Frage : Wie lässt sich die gleichzeitige Wahrnehmung des Mondes als groß und als nah erklären ?
+Ich habe eine Lösung vorgeschlagen , die sich der Mondtäuschung von einem anderen Ansatz her nähert .
+Ich setze bei der Beschaffenheit des Wahrnehmungssystems an : Was waren die Bedingungen , unter denen es entstand ?
+Ein wesentliches Element dabei war eindeutig die Bewegung .
+Unser visuelles System hat sich in einem Umfeld entwickelt , das ( überwiegend ) starre , sich bewegende Objekte enthielt .
+Objekte , die sich radial - d.h. , direkt auf den Betrachter zu bzw. von ihm weg - bewegen , lösen einen Netzhautreiz aus , dessen Größe kontinuierlich zu- bzw. abnimmt .
+Unser visuelles System wandelt solche sich verändernden Reize automatisch in Objekte um , die starr erscheinen - d.h. deren wahrgenommene Größe sich nicht ändert - aber die sich im dreidimensionalen Raum radial zu bewegen scheinen .
+Man kann diesen Mechanismus als eine Art kinetischer Form der Größen-Distanz-Invarianz-Hypothese bezeichnen .
+Wie nun würde ein solches Wahrnehmungssystem auf den Reiz der Mondtäuschung reagieren - einen Reiz , der sich allein in Bezug auf den Höhenstand des Mondes über der Erde ändert ?
+Die wahrgenommene Entfernung des Mondes würde durch die kontextabhängigen Reizinformationen am Boden und am Horizont bestimmt - wenn der Mond tief steht , würde er nah scheinen ( d.h. , an oder nahe der anscheinenden Entfernung des Horizonts ) , und wenn der Mond hoch am Himmel steht , würde er sehr viel weiter weg erscheinen .
+Die wahrgenommene Größe des Mondes würde durch die kinetische Größen-Distanz-Invarianz-Hypothese bestimmt , die bei kontinuierlichen Veränderungen der Reizgröße die Wahrnehmung starrer , sich radial bewegender Objekte hervorrufen würde .
+Wenn sich die physische Größe ändert und das Objekt sich in unterschiedlichen Entfernungen zu befinden scheint , muss sich die wahrgenommene Größe des Objekts ändern .
+Dies führt dazu , dass der Mond , der näher scheint ( d.h. , der Mond am Horizont ) , auch größer erscheint als der Mond , der weiter entfernt zu sein scheint .
+Das Verständnis des Wahrnehmungssystems aus evolutionärer Sicht ermöglicht es uns , die Prozesse zu aufzudecken , die unser Bewusstsein von sich im Raum bewegenden Objekten bestimmen .
+Konfrontiert mit einem anomalen Reiz wie dem Mond , hat dieses System die Menschheit mit einer erhabenen Illusion sowohl im Hinblick auf die Größe des Objekts als auch auf seine Entfernung beglückt .

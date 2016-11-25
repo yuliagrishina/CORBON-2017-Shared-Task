@@ -1,0 +1,30 @@
+Mikroökonomie für alle
+TOULOUSE – Im letzten halben Jahrhundert haben die weltweit führenden Universitäten Mikroökonomie durch den Filter des Arrow-Debreu-Modells des allgemeinen Wettbewerbsgleichgewichts gelehrt .
+Das Modell formalisiert eine zentrale Einsicht aus Wohlstand der Nationen von Adam Smith und verkörpert Schönheit , Einfachheit und mangelnden Realismus der beiden grundlegenden Theoreme des Wettbewerbsgleichgewichts . Dies steht in deutlichem Kontrast zur Unordnung und Komplexität der Änderungen , die Ökonomen vorgenommen haben , um besser wiedergeben zu können , wie die Welt tatsächlich funktioniert .
+Mit anderen Worten : Während Forscher versuchen , komplexe Situationen des täglichen Lebens in den Griff zu bekommen , lernen Studenten unrealistische Hypothesen .
+Dieser Ausbildungsansatz entstammt größtenteils der vernünftigen Idee , ein gedanklicher Rahmen über wirtschaftliche Probleme sei für Studenten nützlicher als ein Sammelsurium von Modellen .
+Aber er leidet unter einer anderen , schädlicheren Vorstellung : Wenn Abweichungen vom Arrow-Debreu-Modell realistischer und daher komplexer werden , passen sie weniger gut in den Hörsaal .
+Daraus könnte man folgern , dass „ echtes “ mikroökonomisches Denken den Experten überlassen werden sollte .
+Sicherlich haben grundlegende Modelle – wie die Theorien des Monopols und einfachen Oligopols , die Theorie öffentlicher Güter oder die einfache Theorie asymmetrischer Informationen – für Studenten einen Wert .
+Aber nur wenige Forscher arbeiten tatsächlich mit ihnen .
+Die gängigen Theorien mikroökonomischer Forschung – unvollständige Kontrakte , zweiseitige Märkte , Risikoanalyse , intertemporale Wahlmöglichkeit , Marktsignalisierung , Mikrostruktur der Finanzmärkte , optimale Besteuerung und Mechanism Design – sind viel komplizierter und erfordern außergewöhnliches Können , um Uneleganz zu vermeiden .
+Angesichts dessen werden sie weitgehend aus den Lehrbüchern ausgeschlossen .
+Tatsächlich wurden die mikroökonomischen Lehrbücher in den letzten zwei Jahrzehnten kaum verändert .
+Daher haben Vordiplomstudenten sogar Schwierigkeiten , die Zusammenfassungen der Veröffentlichungen über die komplexen Entsprechungen mikroökonomischer Realität in Fachzeitschriften zu verstehen .
+Und in vielen Bereichen – wie bei der Anti-Kartell-Analyse , beim Auktionsdesign , der Besteuerung , der Umweltpolitik und den industriellen und finanziellen Regulierungen – wird die praktische Anwendung als Aufgabe von Spezialisten gesehen .
+Dies muss nicht der Fall sein .
+Es ist zwar wahr , dass realistische mikroökonomische Modelle komplexer sind als ihre idealisierten Lehrbuchentsprechungen , aber sie zu verstehen erfordert nicht unbedingt jahrelange Forschungserfahrung .
+Ein Beispiel dafür ist die Ökonomie der zweiseitigen Märkte , wo es um Wettbewerb zwischen Plattformen geht , deren „ Hauptprodukt “ darin besteht , zwei Kategorien von Benutzern zu verbinden , deren Vernetzung daraufhin beiden nützt .
+Wenn Märkte zweiseitig sind , treffen viele Annahmen der Anti-Kartell-Analyse nicht mehr zu : Der Markteintritt kann für Kunden schlecht sein , exklusive Verträge können die Anzahl von Unternehmen am Markt vergrößern , und eine Preisgestaltung unterhalb des Kostenniveaus muss nicht zerstörerisch sein .
+In einer Untersuchung von David Evans und Richard Schmalensee werden viele Situationen beschrieben , in denen die Anwendung alter Annahmen zu Fehlern führen können – beispielsweise durch einen Anti-Kartell-Regulierer , der nur über einen Bachelor-Abschluss verfügt .
+Die unmissverständliche Botschaft lautet : „ Versuch dies nicht zu Hause “ .
+Aber alle Verhaltensdivergenzen zwischen zweiseitigen und traditionellen Märkten können durch einfache und grundlegende mikroökonomische Werkzeuge verstanden werden , beispielsweise der Unterschied zwischen Produkten , die sich ergänzen , und solchen , die sich ersetzen .
+Wenn sich Produzenten von Ersatzprodukten absprechen , erhöhen sie meist die Preise ; Produzenten von Ergänzungsprodukten dagegen tun sich zusammen , um sie zu senken .
+Wenn sich also die beiden Plattformen , die ähnliche Dienste anzubieten scheinen , ergänzen – da beispielsweise eine Plattform Konsumenten mit Nutzern verbindet , die ihnen helfen , andere Nutzer höher zu bewerten – kann der Markteintritt für Konsumenten schlecht sein .
+Tatsächlich können zwei Plattformen sogar für gewisse Nutzer ergänzend und für andere ersetzend wirken .
+Die unterschiedlichen Stufen eines im Fernsehen übertragenen ( Fußball- ) Turniers beispielsweise sind für Zuschauer ergänzend und für Inserenten ersetzend .
+Darüber hinaus können Exklusivverträge den Wettbewerb vergrößern , indem sie es zwei Plattformen ermöglichen , unterschiedliche Marktnischen zu besetzen , wobei die Alternative wäre , dass eine die andere vertreibt .
+Also kann man mit einem guten Verständnis zwischen Ergänzung und Ersatz fast alles machen , was auch die schicken Modelle können – ohne auch nur einen teuren Experten einstellen zu müssen .
+Das Grundstudium der Mikroökonomie sollte Studenten stärken und nicht entfremden .
+Natürlich hat das Arrow-Debreu-Modell seinen Wert – es erklärt , wie in einer ungeplanten Volkswirtschaft Ordnung entstehen kann . Aber es ist entmutigend für Studenten , dass das , was sie lernen sollen , wenig Einsicht in lebensnahe Situationen bietet .
+Eine Umstrukturierung des mikroökonomischen Lehrplans würde eine viel inspiriendere – und zutreffendere – Botschaft übermitteln : Sogar komplexe , von Experten entwickelte Ideen können von gebildeten Laien verstanden und angewendet werden .

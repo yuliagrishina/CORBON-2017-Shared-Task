@@ -1,0 +1,40 @@
+Geheim gehaltene Physik
+PRINCETON – Jedes Jahr im Februar beginne ich meine Einführungsseminare über Elektrizität und Magnetismus an der Princeton University , indem ich meinen Studenten mitteile , dass das Material dieses Semesters die Grundlage für die moderne Zivilisation darstellt .
+Wer könnte eine solch unschuldige Bemerkung anzweifeln ?
+Ohne die Entdeckungen der Physiker des neunzehnten Jahrhunderts und ihre Nachfolger können wir uns die heutige Welt kaum vorstellen : keine Elektrizität , keine Fernseher , keine Satelliten , keine iPads .
+Physiker sind zu Recht stolz auf ihre Errungenschaften , die für die Menschheit nützlich waren .
+Aber eine Glühbirne oder ein Telefon zu konstruieren bedeutet nicht , die grundlegenden Prinzipien dahinter zu verstehen ( Thomas Edison und Alexander Bell haben sie sicher nicht verstanden ) .
+Unglücklicherweise stellen viele meiner Kollegen – hauptsächlich die Autoren von Lehrbüchern – die Physik als eine über allem schwebende , makellose Basilika dar , und ignorieren die Lücken in unserem Sammelsurium behelfsmäßiger Modelle .
+Was als eine glitzernde Kathedrale dargestellt wird , ähnelt oft eher einer hastig errichteten Barackenstadt .
+Um beispielsweise das Verhalten eines Gyroskops zu beschreiben , braucht man lediglich die Gleichungen des ersten Semesters . Damit können Ingenieure dann Kreiselkompasse bauen , die Flugzeuge oder Raketen an ihr Ziel bringen .
+Aber sobald man auch nur fragt , “ Wohin genau zeigt eigentlich das Gyroskop ? ” , stürzt man sich Hals über Kopf in eine der tiefsten Fragen der Physik – eine Frage , die Einstein zur Entwicklung seiner allgemeinen Relativitätstheorie geführt hat und auf die auch heute noch keiner eine endgültige Antwort weiß .
+Ich kenne kein grundlegendes studentisches Lehrbuch , das diese Frage stellt .
+Auf einer eklatanteren , wenn auch weniger erhabenen Ebene begegnen wir in den ersten Tagen aller Anfängerseminare dem Phänomen der Reibung .
+Als ob es keinen Zweifel gäbe , behaupten wir , dass Reibung die Bewegung zwischen zwei Körpern behindert , und anhand hochentwickelter mikroskopischer Modelle zeigen wir , wie die Sohlen von Laufschuhen am Boden haften .
+Aber Reibung produziert Wärme und demnach eine Erhöhung der Entropie – einer Meßgröße für die Menge von Energie , die nicht für Arbeit nutzbar ist , und daher die Vergangenheit von der Zukunft unterscheidet .
+Die Erhöhung der Entropie – das zweite Gesetz der Thermodynamik – ist das einzige Gesetz , das diese fundamentale Unterscheidung trifft .
+Wenn die newtonsche Mechanik die Grundlage für alles andere ist , müsste das zweite Gesetz der Thermodynamik aus der newtonschen Physik hergeleitet werden können .
+Aber dies ist nie zufriedenstellend gelungen : Die Inkompatibilität des zweiten thermodynamischen Gesetzes mit den anderen grundlegenden Gesetzen ist wahrscheinlich das größte Paradox der gesamten Physik .
+Trotzdem sind wir schamlos genug , dieses Wunder unkommentiert in die ersten Tage eines Anfängerseminars zu werfen .
+Wir schreiben Gleichungen , die zeigen , wie Reibung die Bewegung gleitender Objekte verlangsamt oder die Vibrationen von Federn abschwächt , aber letztlich gibt die Mathematik nur unsere Beobachtung wieder und versteckt unsere Unwissenheit über das , was hinter ihnen steckt .
+Nach Jahrzehnten und Jahrhunderten solcher Tricks haben die Physiker vergessen , dass sie Phänomene modellieren und nicht unbedingt göttliche Wahrheit aufdecken .
+Beispielsweise können wir die Bewegung eines Balls an einer schwingenden Feder leicht in Gleichungen fassen , aber wenn wir die Feder stark genug dehnen und den Ball stark genug schwingen lassen , können wir diese Gleichungen nicht mehr lösen .
+Die Bewegung wird chaotisch , was eine genaue mathematische Lösung unmöglich macht .
+Mit den heutigen Computern können wir die Bahnkurve näherungsweise genügend genau bestimmen .
+Aber der springende Punkt ist der : Die meisten Physiker und Studenten sind nicht mehr in der Lage , zwischen Annäherung und Exaktheit zu unterscheiden .
+Auch ohne die Gleichungen zu lösen , können wir sicherlich etwas über chaotische Systeme lernen , aber sollte ein altmodischer Mathematiker einen Studenten auffordern , vorherzusagen , wohin sich der Ball bewegt , wäre dieser Student dazu nicht in der Lage .
+Sogar das so grundlegende Newtonsche Gravitationsgesetz ist letztlich nur eine Annäherung an die Wirklichkeit .
+Die Lehrbuchautoren schreiben das berühmte Gesetz pflichtbewusst in die Bücher , ohne zu erwähnen , dass , wenn der Abstand zweier sich gegenseitig anziehender Objekte gegen Null geht , unendlich hohe Kräfte auftreten .
+Solche unendlichen Kräfte sind ein untrügliches Zeichen dafür , dass da gerade eine Theorie in Rauch aufgeht . Trotzdem wird in keinem der Lehrbücher , die auf meinem Schreibtisch liegen , diese offensichtlich pathologische Situation erwähnt .
+Unser Princeton-Text verschlimmert die Lage noch durch die Bemerkung , dass Newtons Gravitationsgesetz “ streng genommen ” nur für Teilchen gilt .
+Nun , Teilchen sind genau der Bereich , wo Newton falsch liegt – und nicht nur in der Physik des ersten Semesters .
+Die grundlegende Gleichung für die Elektrizität ist das “ Coulombsche Gesetz ” , das die elektrische Anziehung oder Abstoßung zwischen geladenen Teilchen behandelt und genauso aussieht wie Newtons Gravitationsgesetz .
+Wir fordern unsere Studenten immer dazu auf , sich Elektronen als Teilchen ohne räumliche Ausdehnung vorzustellen , wobei sie sich dann um diese unendlich großen Kräfte wirklich Sorgen machen sollten .
+Die Probleme , die daraus entstehen , Teilchen im Modell als unendlich klein anzusehen , verseuchen sämtliche fortgeschrittenen Bereiche der Physik .
+Im Zentrum jedes Seminars über Quantenmechanik steht das Konzept des “ Spins ” , der Drehung von Elektronen , aber was sich dort genau dreht , wird nie erklärt .
+Wolfgang Pauli , einer der Begründer dieses Konzepts , hatte diese Idee zunächst abgelehnt , denn besäße das Elektron einen endlichen Radius , würde die Drehung der Oberfläche die Lichtgeschwindigkeit überschreiten .
+Betrachtet man andererseits das Elektron als punktförmig und ohne räumliche Ausdehnung , stellt sich die Frage , wie sich ein Objekt ohne Radius drehen kann .
+Um diese Widersprüche zwischen punktförmigen oder Raum einnehmenden Teilchen zu lösen , haben Physiker moderne Feldtheorien mit eindrucksvollen Namen wie Quantenelektrodynamik erfunden .
+Aber es stellte sich heraus , dass diese Theorien ebenso wie ihre Großeltern vor Unendlichkeiten nicht sicher sind , und auch gegen diese neuen Probleme wurden wiederum ausgefeilte ad hoc-Systeme entwickelt .
+Und so geht es trotz schlagzeilenträchtiger Fortschritte wie der String-Theorie weiter bis zum heutigen Tag .
+Die Vorhersagekraft der modernen Physik kann kaum in Frage gestellt werden , aber wir sollten uns immer daran erinnern , dass wir die Natur lediglich beschreiben und sie nicht immer auch verstehen .

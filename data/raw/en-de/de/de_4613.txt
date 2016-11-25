@@ -1,0 +1,45 @@
+Warum ist die Inflation in den USA so niedrig ?
+CAMBRIDGE , MASS . – Warum geht die quantitative Lockerung bisher in den USA mit Preisstabilität einher ?
+Oder , wie ich es oft höre : „ Warum hat das viele Geld , das die Fed gedruckt hat , keine höhere Inflation verursacht ? “
+Die Inflation war bisher in der Tat sehr niedrig .
+Der Verbraucherpreisindex ist in den letzten fünf Jahren jährlich um lediglich 1,5 % gestiegen .
+Die bevorzugte Messgröße der Federal Reserve für die Inflation – der Preisindex für private Konsumausgaben ohne Nahrungsmittel und Energie – stieg ebenfalls jeweils nur um 1,5 % .
+Dagegen waren die Käufe langfristiger Anleihen , die die Fed tätigte , unerhört umfangreich .
+Die Fed hat für mehr als zwei Billionen Dollar US-Staatsanleihen und hypothekenbesicherte Wertpapiere gekauft ; das ist fast zehnmal so viel wie der jährliche Durchschnitt während des vorhergehenden Jahrzehnts .
+Allein im letzten Jahr ist der Anleihebestand in der Bilanz der Fed um mehr als 20 % gestiegen .
+Die Geschichte zeigt , dass ein rasches Wachstum der Geldmenge in der Tat eine hohe Inflation anheizt .
+Dies war während der Hyperinflation in Deutschland in den 1920er Jahren und der in Lateinamerika in den 1980er Jahren sehr deutlich .
+Doch selbst moderate Veränderungen beim Wachstumstempo der Geldmenge in den USA haben sich in entsprechenden Änderungen der Inflationsrate niedergeschlagen .
+In den 1970er Jahren stieg die Geldmenge in den USA um jährlich 9,6 % , die höchste Rate in den letzten 50 Jahren ; die Inflation wies mit durchschnittlich 7,4 % ebenfalls den höchsten Stand in einem halben Jahrhundert auf .
+In den 1990er Jahren lag das jährliche Durchschnittswachstum der Geldmenge bei nur 3,9 % , und die durchschnittliche Inflationsrate nur bei 2,9 % .
+Dies ist der Grund , warum das Ausbleiben einer inflationären Reaktion auf die enormen Anleihekäufe der Fed der letzten fünf Jahre so rätselhaft erscheint .
+Doch dieses Rätsel löst sich auf , wenn wir uns vergegenwärtigen , dass quantitative Lockerung nicht dasselbe ist wie „ Gelddrucken “ oder , präziser , die Erhöhung der Geldmenge .
+Diejenige Geldmenge , die am engsten mit der Inflation in Beziehung steht , besteht in erster Linie aus den Einlagen von Unternehmen und Haushalten bei den Handelsbanken .
+Traditionell haben größere Anleihekäufe der Fed zu einem schnelleren Wachstum dieser Geldmenge geführt .
+Doch hat eine grundlegende Änderung in den Regeln der Fed im Jahre 2008 die Verknüpfung zwischen den Anleihekäufen der Fed und dem anschließenden Umfang der Geldmenge durchbrochen .
+Infolgedessen hat die Fed enorme Mengen an Anleihen aufgekauft , ohne dass sich dadurch die Geldmenge – und also die Inflationsrate – erhöht hätte .
+Die Verknüpfung zwischen Anleihekäufen und Geldmenge beruht auf den „ Überschussreserven “ der Handelsbanken .
+Kauft die Fed US-Staatsanleihen oder andere Vermögenswerte wie hypothekenbesicherte Wertpapiere auf , schafft sie „ Reserven “ für die Handelsbanken , die die Banken dann bei der Fed selbst deponieren .
+Die Handelsbanken sind verpflichtet , Reserven in Höhe eines festgelegten Anteils ihrer Sichteinlagen zu halten .
+Da die Fed auf Reserven , die den vorgeschriebenen Betrag übersteigen , bis 2008 keine Zinsen zahlte , hatten die Handelsbanken einen Anreiz , Kredite an Haushalte und Unternehmen zu vergeben , bis das daraus resultierende Wachstum bei den Einlagen alle diese Überschussreserven aufbrauchte .
+Diese erhöhten Einlagen bei den Handelsbanken stellten per Definition eine Zunahme der relevanten Geldmenge dar .
+Eine Zunahme der Bankkredite ermöglicht es Haushalten und Unternehmen , ihre Ausgaben zu erhöhen .
+Diese zusätzlichen Ausgaben haben zur Folge , dass sich das nominale BIP ( Produktion zu Marktpreisen ) erhöht .
+Ein Teil des Anstiegs des nominalen BIP erfolgt in Form eines höheren realen ( inflationsbereinigten ) BIP , und der Rest ist Inflation .
+Auf diese Weise haben die Anleihekäufe der Fed historisch die Geldmenge erhöht – und damit die Inflationsrate .
+Die Verknüpfung zwischen den Anleihekäufen der Fed und dem daran anschließenden Wachstum der Geldmenge änderte sich nach 2008 , weil die Fed begann , Überschussreserven zu verzinsen .
+Die Verzinsung dieser absolut sicheren und liquiden Einlagen brachte die Banken dazu , ihre Überschussreserven bei der Fed zu parken , statt Kredite zu vergeben und Einlagen zu schaffen , um die erhöhten Reserven zu neutralisieren , wie sie es vor 2008 getan hätten .
+Infolgedessen hat sich die Menge der bei der Fed hinterlegten Überschussreserven drastisch erhöht : von weniger als zwei Milliarden Dollar im Jahre 2008 auf heute 1,8 Billionen Dollar .
+Doch hatte die neue Politik der Fed , Zinsen auf Überschussreserven zu zahlen , zur Folge , dass diese größeren Überschussreserven nach 2008 nicht zu einer deutlich schnelleren Erhöhung der Einlagen und einer deutlich größeren Geldmenge führten .
+Der Umfang der weit gefassten Geldmenge M2 stieg zwischen Ende 2008 und Ende 2012 mit einer durchschnittlichen Rate von 6,2 % pro Jahr .
+Während das nominale BIP allgemein über lange Zeiträume hinweg mit dem gleichen Tempo wächst wie die Geldmenge , waren Haushalte und Institute nach 2008 bereit , im Vergleich zum nominalen BIP insgesamt mehr Geld zu halten .
+Obwohl also die Geldmenge M2 um mehr als 6 % wuchs , stieg das nominale BIP um nur 3,5 % , und der GDP Price Index um lediglich 1,7 % .
+Es überrascht daher nicht , dass die Inflation so moderat ( tatsächlich niedriger als in irgendeinem Jahrzehnt seit Ende des Zweiten Weltkriegs ) blieb .
+Und es überrascht auch nicht , dass die quantitative Lockerung so wenig zum Anstieg von nominalen Ausgaben und realwirtschaftlicher Aktivität beigetragen hat .
+Dass es in den letzten Jahren keine merkliche Inflation gab , bedeutet freilich nicht , dass die Inflation auch in Zukunft nicht steigen wird .
+Wenn Unternehmen und Haushalte irgendwann mehr Kredite nachfragen , können Handelsbanken mit ausreichender Kapitalausstattung diese Nachfrage durch neue Kreditvergaben befriedigen , ohne an jene Grenzen zu stoßen , die sich andernfalls aus unzureichenden Reserven ergeben würden .
+Der hieraus resultierende Anstieg der Ausgaben von Unternehmen und Haushalten wäre zunächst vielleicht willkommen , würde sich dann jedoch rasch in eine Quelle unerwünschter Inflation verwandeln .
+Die Fed könnte eine inflationäre Kreditvergabe im Prinzip dadurch begrenzen , dass sie die Zinssätze für Überschussreserven erhöht oder indem sie durch Offenmarktgeschäfte den Zinssatz für Tagesgelder erhöht .
+Doch könnte die Fed bedingt durch ihr duales Mandat zur Förderung der Beschäftigung und der Preisstabilität zögern , dies zu tun , oder nicht energisch genug handeln .
+Dies droht insbesondere , falls Arbeitslosigkeit und Unterbeschäftigung trotz steigender Inflationsrate langfristig weiter hoch bleiben .
+Und daher haben die Anleger Recht , wenn sie sich über eine Rückkehr der Inflation Sorgen machen , selbst wenn die enormen Anleihekäufe der Fed in den letzten Jahren nicht dazu geführt haben .

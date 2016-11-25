@@ -1,0 +1,43 @@
+Künstliche Intelligenz und Globalisierung
+Nach der heute gängigen Meinung wird sich im 21. Jahrhundert der Aufstieg Indiens und Chinas als einflussreichster Einzelfaktor auf die Entwicklung von Arbeitsplätzen und Gehältern weltweit erweisen , und gut bezahlte Arbeitnehmer können davon ausgehen , dass ihr Wettbewerbsvorteil durch die Konkurrenz fähiger und enorm hart arbeitender Wettbewerber in Asien , Lateinamerika und möglicherweise eines Tages sogar in Afrika untergraben wird .
+Dies ist eine gute Geschichte , voll von Dramatik und Machtpolitik .
+Ich frage mich allerdings , ob nicht – möglicherweise schon im Verlaufe der nächsten Jahrzehnte – ein weiterer Faktor unser Arbeitsleben noch stärker beeinflussen wird : die exponentielle Zunahme von Anwendungen mit künstlicher Intelligenz .
+Mein eigener Zugang zur Welt der künstlichen Intelligenz ist ein eng umgrenzter : das über 500 Jahre alte Brettspiel Schach .
+Vielleicht haben Sie an Schach , das lange als ultimativer Denksport betrachtet wurde , nicht ein Jota Interesse .
+Die atemberaubenden Entwicklungen , die während des vergangenen Jahrzehnts aus der Welt des Schachs zu uns gelangt sind , verdienen trotzdem Ihre Aufmerksamkeit .
+Schach stand lange im Mittelpunkt der Forschung im Bereich der künstlichen Intelligenz .
+Obgleich Schach prinzipiell lösbar ist , ist die rechnerische Komplexität des Spiels nahezu unglaublich .
+Es wäre übertrieben , zu behaupten , die Anzahl der möglichen Züge in einer Schachpartie überstiege die der Atome in einem Universum – aber nur geringfügig .
+Während des größten Teils des 20. Jahrhunderts waren die Programmierer bei der Entwicklung von Schachcomputern , die mit den besten menschlichen Spielern mithalten konnten , offenkundig erfolglos .
+Die Fähigkeit eines menschlichen Schachmeisters im Bereich der Intuition , Visualisierung und Priorisierung behielt gegen den Brute-Force-Ansatz der Computer ( d.h. das Durchspielen aller Zugmöglichkeiten bis zu einer gewissen Zugtiefe ;
+Anmerkung des Übersetzers ) mit Leichtigkeit die Oberhand . Die Computer verbesserten sich allmählich , aber sie schienen den besten menschlichen Spielern noch immer deutlich unterlegen .
+So dachten wir zumindest .
+Dann , im Jahre 1997 , verblüffte der IBM-Computer „ Deep Blue “ die Welt , als er Weltmeister Gary Kasparow besiegte – ein Ereignis , das sicher noch lange als Meilenstein in der Geschichte des modernen Menschen betrachtet werden wird .
+Der stolze Kasparow , der vielleicht verblüffter war als alle anderen , war sich sicher , dass das IBM-Team geschummelt haben müsse .
+Sarkastisch äußerte er gegenüber Reportern , seinem Gespür nach habe „ die Hand Gottes “ seinen Silikongegenspieler geleitet .
+Aber das IBM-Team hatte nicht gemogelt .
+Vielmehr hatte es – durch eine Verbindung von genialer Software und enormer parallel geschalteter Rechnerleistung – ein Gebilde geschaffen , das zu einer Finesse und Subtilität in der Lage war , die internationale Schachgroßmeister weltweit ( mich eingeschlossen ) einfach verblüffte .
+Seit 1997 haben sich die Computer nur weiter verbessert , und sie sind inzwischen so spielstark , dass Computerprogrammierer es nicht länger als große Herausforderung betrachten , Menschen zu besiegen .
+Es ist nur ein Spiel , sagen Sie ?
+Vielleicht , aber lassen Sie mich Ihnen eines sagen : Als ich vor 30 Jahren professionell Schach spielte ( und ich vertrat einmal die Vereinigten Staaten beim Schachweltmeisterschaftszyklus ) , war ich der Ansicht , dass ich viel über die Persönlichkeit eines Menschen aussagen könnte , wenn ich ihm beim Spiel zusehen konnte – selbst bei einem Amateur .
+Und bis vor kurzem konnte ich mit Sicherheit einen Computer von einem menschlichen Gegner unterscheiden .
+All dies hat sich nun in Blitzesschnelle geändert .
+Die Maschinen lassen sich inzwischen sogar dahingehend einstellen , dass sie berühmte menschliche Spieler – einschließlich ihrer Schwächen – imitieren , und zwar so gut , dass nur das Auge eines Experten ( und manchmal nur ein anderer Computer ! ) den Unterschied erkennen kann .
+Vor mehr als einem halben Jahrhundert argumentierte der Taufpate der künstlichen Intelligenz , Alan Turing , dass sich die Funktion des Gehirns in Gänze auf die Mathematik reduzieren ließe und dass eines Tages ein Computer mit der menschlichen Intelligenz würde konkurrieren können .
+Der ultimative Beweis künstlicher Intelligenz wäre erbracht , so Turing , wenn ein menschlicher Fragender nicht feststellen könne , ob er mit einem Computer kommuniziere .
+Der „ Turing-Test “ ist der heilige Gral der Forschung im Bereich der künstlichen Intelligenz .
+Für mich nun ist eine Schachpartie eine Art von Kommunikation .
+Aus meiner Sicht sind die heutigen Standardcomputerprogramme sehr nahe dran , Turings Test zu erfüllen .
+Im Verlauf einer kleinen Zahl von Partien über das Internet fiel es mir nicht leicht , den Unterschied zu erkennen .
+Es stimmt , die heutigen Computer haben sich nicht auf das Niveau des geistig verwirrten Schach spielenden HAL im Meisterwerk des Filmemachers Stanley Kubrick , „ 2001 : Odyssee im Weltraum “ entwickelt , und noch viel weniger auf das der Arnold-Schwarzenegger-artigen Androiden aus den Terminator-Spielfilmen .
+Aber das Niveau , dass die Computer bereits erreicht haben , ist Furcht einflößend genug .
+Was wird als Nächstes kommen ?
+Ich als Wirtschaftsprofessor fühle mich eindeutig nicht vor ihnen sicher !
+Ich habe keinen Zweifel daran , dass wir irgendwann im Verlauf dieses Jahrhunderts Taschenprofessoren – vielleicht mit holografischem Abbild – werden kaufen können – genau so einfach , wie man heute einen Kasparow-Taschenschachcomputer kaufen kann .
+Also lassen Sie uns zu Indien und China zurückkehren .
+Die Globalisierung ist während eines Großteils des vergangenen Jahrhunderts mit großer Geschwindigkeit fortgeschritten – und mit einem besonders stark beschleunigtem Tempo während der letzten beiden Jahrzehnte .
+Die vorhandenen Daten jedoch legen mit überwältigender Mehrheit nahe , dass der technologische Wandel einen sehr viel größeren Einfluss auf die weltweiten Gehaltsprofile hatten als der Handel .
+Das heißt , die Technologie , nicht der Handel , war die große Story bei der wirtschaftlichen Entwicklung des 20. Jahrhunderts . ( Natürlich beeinflussen sich beide gegenseitig , wobei der Handel hilft , Technologie zu verbreiten und zu stimulieren , aber dies ist eine Frage der Semantik . )
+Können wir uns so sicher sein , dass es in diesem Jahrhundert anders sein wird ?
+Oder wird die künstliche Intelligenz das Mantra von Fremdvergabe und Produktionsverlagerung ersetzen ?
+Schachspieler kennen die Antwort bereits .
