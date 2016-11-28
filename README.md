@@ -6,7 +6,7 @@ This repository contains:
 
 1) raw parallel data (data/raw): English-German and English-Russian News-Commentary11 raw sentence-aligned corpus (Tiedemann, 2012), split into documents and tokenised by EuroParl tools (Koehn, 2005).
 
-2) berkeley resolved English data (data/training): English part of News-Commentary11 corpus coref-resolved by Berkeley Entity Resolution System (coref-predict mode) (Durrett and Klein, 2013).
+2) coreference-resolved English data (data/training): English part of News-Commentary11 corpus coref-resolved by Berkeley Entity Resolution System (coref-predict mode) (Durrett and Klein, 2013).
 
 3) annotation guidelines (parallel_annotation_guidelines.pdf): parallel pronominal coreference annotation guidelines as described in (Grishina and Stede, 2015).
 
