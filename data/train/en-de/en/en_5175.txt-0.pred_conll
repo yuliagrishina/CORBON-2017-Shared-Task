@@ -1,0 +1,6 @@
+#begin document (en_5175.txt); part 000
+en_5175.txt	0	0	The	NNP	(TOP(NP*	-	-	-	-	*	-
+en_5175.txt	0	1	Veil	NNP	*	-	-	-	-	*	-
+en_5175.txt	0	2	Wars	NNPS	*))	-	-	-	-	*	-
+
+#end document

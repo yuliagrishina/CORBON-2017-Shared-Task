@@ -1,0 +1,8 @@
+#begin document (en_621.txt); part 000
+en_621.txt	0	0	Biology	NNP	(TOP(NP(NP(NP*	-	-	-	-	*	-
+en_621.txt	0	1	'	POS	*)	-	-	-	-	*	-
+en_621.txt	0	2	s	NNP	*)	-	-	-	-	*	-
+en_621.txt	0	3	Armaments	NNP	(NP*	-	-	-	-	*	-
+en_621.txt	0	4	Race	NNP	*)))	-	-	-	-	*	-
+
+#end document

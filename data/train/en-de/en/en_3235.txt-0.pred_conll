@@ -1,0 +1,7 @@
+#begin document (en_3235.txt); part 000
+en_3235.txt	0	0	Past-time	JJ	(TOP(ADJP*	-	-	-	-	*	-
+en_3235.txt	0	1	for	IN	(PP*	-	-	-	-	*	-
+en_3235.txt	0	2	Pension	NNP	(NP*	-	-	-	-	*	-
+en_3235.txt	0	3	Reform	NNP	*))))	-	-	-	-	*	-
+
+#end document

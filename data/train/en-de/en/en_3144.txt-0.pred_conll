@@ -1,0 +1,5 @@
+#begin document (en_3144.txt); part 000
+en_3144.txt	0	0	Obesity	NNP	(TOP(NP*	-	-	-	-	*	-
+en_3144.txt	0	1	Unbound	NNP	*))	-	-	-	-	*	-
+
+#end document

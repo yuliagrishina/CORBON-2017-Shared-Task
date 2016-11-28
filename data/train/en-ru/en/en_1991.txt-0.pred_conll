@@ -1,0 +1,12 @@
+#begin document (en_1991.txt); part 000
+en_1991.txt	0	0	Is	VBZ	(TOP(SQ*	-	-	-	-	*	-
+en_1991.txt	0	1	an	DT	(NP(NP*	-	-	-	-	*	-
+en_1991.txt	0	2	Alzheimer	NNP	*	-	-	-	-	*	-
+en_1991.txt	0	3	'	POS	*)	-	-	-	-	*	-
+en_1991.txt	0	4	s	NNP	*	-	-	-	-	*	-
+en_1991.txt	0	5	Cure	NNP	*)	-	-	-	-	*	-
+en_1991.txt	0	6	at	IN	(VP(PP*	-	-	-	-	*	-
+en_1991.txt	0	7	Hand	NNP	(NP*)))	-	-	-	-	*	-
+en_1991.txt	0	8	?	.	*))	-	-	-	-	*	-
+
+#end document

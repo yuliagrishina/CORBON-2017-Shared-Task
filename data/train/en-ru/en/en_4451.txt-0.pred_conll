@@ -1,0 +1,10 @@
+#begin document (en_4451.txt); part 000
+en_4451.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_4451.txt	0	1	World	NNP	*	-	-	-	-	*	-
+en_4451.txt	0	2	Economy	NNP	*)	-	-	-	-	*	-
+en_4451.txt	0	3	:	:	*	-	-	-	-	*	-
+en_4451.txt	0	4	Shaken	NNS	(S(NP*)	-	-	-	-	*	-
+en_4451.txt	0	5	Not	RB	(ADJP*	-	-	-	-	*	-
+en_4451.txt	0	6	Doomed	JJ	*))))	-	-	-	-	*	-
+
+#end document

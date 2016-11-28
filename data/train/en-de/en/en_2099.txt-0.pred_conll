@@ -1,0 +1,16 @@
+#begin document (en_2099.txt); part 000
+en_2099.txt	0	0	Hot	NNP	(TOP(X(X*	-	-	-	-	*	-
+en_2099.txt	0	1	Memory	NNP	*	-	-	-	-	*	-
+en_2099.txt	0	2	/	SYM	(X*)	-	-	-	-	*	-
+en_2099.txt	0	3	Cold	NNP	*)	-	-	-	-	*	-
+en_2099.txt	0	4	Memory	NN	(NP(NP*)	-	-	-	-	*	-
+en_2099.txt	0	5	:	:	*	-	-	-	-	*	-
+en_2099.txt	0	6	The	DT	(NP(NP(NP*	-	-	-	-	*	-
+en_2099.txt	0	7	Political	NNP	*	-	-	-	-	*	-
+en_2099.txt	0	8	Half-Life	NNP	*)	-	-	-	-	*	-
+en_2099.txt	0	9	of	IN	(PP*	-	-	-	-	*	-
+en_2099.txt	0	10	Fascism	NNP	(NP*)))	-	-	-	-	*	-
+en_2099.txt	0	11	and	CC	*	-	-	-	-	*	-
+en_2099.txt	0	12	Communism	NNP	(NP*)))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,7 @@
+#begin document (en_862.txt); part 000
+en_862.txt	0	0	China	NNP	(TOP(UCP(NP*)	-	-	-	-	*	(0)
+en_862.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_862.txt	0	2	its	PRP$	(NP*	-	-	-	-	*	(0)
+en_862.txt	0	3	Enemies	NNS	*)))	-	-	-	-	*	-
+
+#end document

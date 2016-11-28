@@ -1,0 +1,10 @@
+#begin document (en_566.txt); part 000
+en_566.txt	0	0	Bridging	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_566.txt	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+en_566.txt	0	2	World	NNP	*	-	-	-	-	*	-
+en_566.txt	0	3	'	POS	*)	-	-	-	-	*	-
+en_566.txt	0	4	s	PRP	*	-	-	-	-	*	-
+en_566.txt	0	5	Genetic	NNP	*	-	-	-	-	*	-
+en_566.txt	0	6	Divide	VB	*))))	-	-	-	-	*	-
+
+#end document

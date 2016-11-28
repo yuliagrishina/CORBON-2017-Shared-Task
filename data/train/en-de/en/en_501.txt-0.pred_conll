@@ -1,0 +1,1379 @@
+#begin document (en_501.txt); part 000
+en_501.txt	0	0	A	DT	(TOP(NP*	-	-	-	-	*	(0
+en_501.txt	0	1	UN	NNP	*	-	-	-	-	*	-
+en_501.txt	0	2	Consensus	NNP	*))	-	-	-	-	*	0)
+
+en_501.txt	0	0	``	``	(TOP(S*	-	-	-	-	*	-
+en_501.txt	0	1	When	WRB	(S(SBAR(WHADVP*)	-	-	-	-	*	-
+en_501.txt	0	2	you	PRP	(S(NP*)	-	-	-	-	*	(1)
+en_501.txt	0	3	say	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	4	everything	NN	(SBAR(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	6	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	7	priority	NN	*)))))))	-	-	-	-	*	-
+en_501.txt	0	8	,	,	*	-	-	-	-	*	-
+en_501.txt	0	9	then	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	10	you	PRP	(NP*)	-	-	-	-	*	(1)
+en_501.txt	0	11	are	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	12	saying	VBG	(VP*	-	-	-	-	*	-
+en_501.txt	0	13	you	PRP	(NP*)	-	-	-	-	*	(1)
+en_501.txt	0	14	don	NNS	(S(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	15	'	POS	*)	-	-	-	-	*	-
+en_501.txt	0	16	t	NN	*)	-	-	-	-	*	-
+en_501.txt	0	17	really	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	18	have	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	19	any	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	20	priorities	NNS	*)))))	-	-	-	-	*	-
+en_501.txt	0	21	.	.	*	-	-	-	-	*	-
+en_501.txt	0	22	''	''	*)	-	-	-	-	*	-
+en_501.txt	0	23	Those	DT	(NP*)	-	-	-	-	*	-
+en_501.txt	0	24	were	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	25	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	26	words	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	27	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	28	US	NNP	(NP*	-	-	-	-	*	-
+en_501.txt	0	29	ambassador	NN	*)))	-	-	-	-	*	-
+en_501.txt	0	30	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	31	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	32	United	NNP	*	-	-	-	-	*	-
+en_501.txt	0	33	Nations	NNPS	*)	-	-	-	-	*	-
+en_501.txt	0	34	John	NNP	(NP*	-	-	-	-	*	(2
+en_501.txt	0	35	Bolton	NNP	*)))	-	-	-	-	*	2)
+en_501.txt	0	36	as	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	37	he	PRP	(S(NP*)	-	-	-	-	*	(2)
+en_501.txt	0	38	attempted	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	39	my	PRP$	(NP*	-	-	-	-	*	(2)
+en_501.txt	0	40	challenge	NN	*)	-	-	-	-	*	-
+en_501.txt	0	41	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	42	establish	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	43	concrete	JJ	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	44	priorities	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	45	for	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	46	the	DT	(NP*	-	-	-	-	*	(3
+en_501.txt	0	47	world	NN	*))))))))))	-	-	-	-	*	3)
+en_501.txt	0	48	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Political	NN	(TOP(S(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	recognition	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	4	importance	NN	*)	-	-	-	-	*	-
+en_501.txt	0	5	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	6	priorities	NNS	(NP*)))))	-	-	-	-	*	-
+en_501.txt	0	7	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	8	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	9	crucial	JJ	*	-	-	-	-	*	-
+en_501.txt	0	10	development	NN	*))	-	-	-	-	*	-
+en_501.txt	0	11	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Politicians	NNS	(TOP(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	avoid	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	creating	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	3	prioritized	JJ	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	4	‘	NN	*)	-	-	-	-	*	-
+en_501.txt	0	5	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+en_501.txt	0	6	do	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	7	'	''	*	-	-	-	-	*	-
+en_501.txt	0	8	lists	NNS	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	9	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+en_501.txt	0	10	could	MD	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	11	upset	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	12	groups	NNS	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	13	whose	WP$	(SBAR(WHNP*	-	-	-	-	*	-
+en_501.txt	0	14	interests	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	15	do	VBP	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	16	not	RB	*	-	-	-	-	*	-
+en_501.txt	0	17	come	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	18	first	RB	(ADVP*)))))))))))))))))))	-	-	-	-	*	-
+en_501.txt	0	19	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	simpler	JJR	(ADJP*)	-	-	-	-	*	-
+en_501.txt	0	3	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	4	declare	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	6	every	DT	(S(NP*	-	-	-	-	*	-
+en_501.txt	0	7	challenge	NN	*)	-	-	-	-	*	-
+en_501.txt	0	8	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	9	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	10	‘	JJ	*	-	-	-	-	*	-
+en_501.txt	0	11	top	JJ	*	-	-	-	-	*	-
+en_501.txt	0	12	priority	NN	*)	-	-	-	-	*	-
+en_501.txt	0	13	'	''	*)))))))	-	-	-	-	*	-
+en_501.txt	0	14	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(0
+en_501.txt	0	1	UN	NNP	*)	-	-	-	-	*	0)
+en_501.txt	0	2	spends	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	billions	NNS	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	4	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	5	dollars	NNS	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	6	promoting	VBG	(VP(VP*	-	-	-	-	*	-
+en_501.txt	0	7	human	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	8	rights	NNS	*))	-	-	-	-	*	-
+en_501.txt	0	9	,	,	*	-	-	-	-	*	-
+en_501.txt	0	10	protecting	VBG	(VP*	-	-	-	-	*	-
+en_501.txt	0	11	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	12	environment	NN	*))	-	-	-	-	*	-
+en_501.txt	0	13	,	,	*	-	-	-	-	*	-
+en_501.txt	0	14	fighting	VBG	(VP*	-	-	-	-	*	-
+en_501.txt	0	15	disease	NN	(NP*))	-	-	-	-	*	-
+en_501.txt	0	16	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	17	reducing	VBG	(VP*	-	-	-	-	*	-
+en_501.txt	0	18	poverty	NN	(NP*)))))))	-	-	-	-	*	-
+en_501.txt	0	19	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(S(NP(NP*	-	-	-	-	*	(4
+en_501.txt	0	1	organization	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	'	POS	*)	-	-	-	-	*	4)
+en_501.txt	0	3	s	NN	*	-	-	-	-	*	-
+en_501.txt	0	4	budget	NN	*)	-	-	-	-	*	-
+en_501.txt	0	5	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	6	vast	JJ	(ADJP*)))	-	-	-	-	*	-
+en_501.txt	0	7	but	CC	*	-	-	-	-	*	-
+en_501.txt	0	8	–	SYM	(FRAG(X*)	-	-	-	-	*	-
+en_501.txt	0	9	like	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	10	all	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	11	budgets	NNS	*))	-	-	-	-	*	-
+en_501.txt	0	12	–	SYM	(X*)	-	-	-	-	*	-
+en_501.txt	0	13	limited	JJ	(ADJP*))	-	-	-	-	*	-
+en_501.txt	0	14	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Yet	RB	(TOP(S(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	1	,	,	*	-	-	-	-	*	-
+en_501.txt	0	2	choices	NNS	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	3	about	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	4	battling	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	5	humanity	NNS	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	6	'	POS	*)	-	-	-	-	*	-
+en_501.txt	0	7	s	JJ	*	-	-	-	-	*	-
+en_501.txt	0	8	biggest	JJS	*	-	-	-	-	*	-
+en_501.txt	0	9	challenges	NNS	*)))))	-	-	-	-	*	-
+en_501.txt	0	10	are	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	11	rarely	RB	(VP(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	12	founded	VBN	*	-	-	-	-	*	-
+en_501.txt	0	13	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	14	a	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	15	principled	JJ	*	-	-	-	-	*	-
+en_501.txt	0	16	framework	NN	*)	-	-	-	-	*	-
+en_501.txt	0	17	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	18	prioritization	NN	(NP*))))))	-	-	-	-	*	-
+en_501.txt	0	19	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Decisions	NNS	(TOP(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	are	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	mired	VBN	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	4	a	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	5	constant	JJ	*	-	-	-	-	*	-
+en_501.txt	0	6	battle	NN	*)	-	-	-	-	*	-
+en_501.txt	0	7	for	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	8	resources	NNS	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	9	between	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	10	competing	VBG	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	11	interest	NN	*	-	-	-	-	*	-
+en_501.txt	0	12	groups	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	13	,	,	*	-	-	-	-	*	-
+en_501.txt	0	14	countries	NNS	(NP*	-	-	-	-	*	-
+en_501.txt	0	15	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	16	organizations	NNS	*)))))))))	-	-	-	-	*	-
+en_501.txt	0	17	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	UN	NNP	(TOP(S(NP*	-	-	-	-	*	(5
+en_501.txt	0	1	Deputy	NNP	*	-	-	-	-	*	-
+en_501.txt	0	2	Secretary-General	NNP	*	-	-	-	-	*	-
+en_501.txt	0	3	Mark	NNP	*	-	-	-	-	*	-
+en_501.txt	0	4	Malloch	NNP	*	-	-	-	-	*	-
+en_501.txt	0	5	Brown	NNP	*)	-	-	-	-	*	5)
+en_501.txt	0	6	has	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	7	pointed	VBN	(VP*	-	-	-	-	*	-
+en_501.txt	0	8	out	RP	(PRT*)	-	-	-	-	*	-
+en_501.txt	0	9	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	10	there	EX	(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	11	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	12	distrust	JJ	(ADJP*	-	-	-	-	*	-
+en_501.txt	0	13	between	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	14	representatives	NNS	(NP(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	15	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	16	populous	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	17	developing	VBG	*	-	-	-	-	*	-
+en_501.txt	0	18	nations	NNS	*)))	-	-	-	-	*	-
+en_501.txt	0	19	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	20	those	DT	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	21	from	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	22	wealthier	JJR	(NP*	-	-	-	-	*	-
+en_501.txt	0	23	states	NNS	*))))))	-	-	-	-	*	-
+en_501.txt	0	24	–	SYM	(SBAR(X(X*)	-	-	-	-	*	-
+en_501.txt	0	25	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	26	stand-off	NN	*))	-	-	-	-	*	-
+en_501.txt	0	27	he	PRP	(S(NP*)	-	-	-	-	*	(5)
+en_501.txt	0	28	calls	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	29	``	``	(S*	-	-	-	-	*	-
+en_501.txt	0	30	numbers	NNS	(NP*	-	-	-	-	*	-
+en_501.txt	0	31	versus	CC	*	-	-	-	-	*	-
+en_501.txt	0	32	pocketbooks	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	33	''	''	*)))))))))	-	-	-	-	*	-
+en_501.txt	0	34	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	This	DT	(TOP(S(NP*	-	-	-	-	*	-
+en_501.txt	0	1	backdrop	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	makes	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	this	DT	(S(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	4	week	NN	*	-	-	-	-	*	-
+en_501.txt	0	5	'	POS	*)	-	-	-	-	*	-
+en_501.txt	0	6	s	JJ	*	-	-	-	-	*	-
+en_501.txt	0	7	achievement	NN	*)	-	-	-	-	*	-
+en_501.txt	0	8	all	PDT	(ADJP(ADVP*	-	-	-	-	*	-
+en_501.txt	0	9	the	DT	*	-	-	-	-	*	-
+en_501.txt	0	10	more	RBR	*)	-	-	-	-	*	-
+en_501.txt	0	11	remarkable	JJ	*)))	-	-	-	-	*	-
+en_501.txt	0	12	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	*	(2)
+en_501.txt	0	1	gathered	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	UN	NNP	(NP*	-	-	-	-	*	(6
+en_501.txt	0	3	ambassadors	NNS	*)	-	-	-	-	*	6)
+en_501.txt	0	4	from	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	5	the	DT	(NP(NP*	-	-	-	-	*	(7
+en_501.txt	0	6	US	NNP	(NAC*	-	-	-	-	*	-
+en_501.txt	0	7	,	,	*	-	-	-	-	*	-
+en_501.txt	0	8	China	NNP	*	-	-	-	-	*	-
+en_501.txt	0	9	,	,	*)	-	-	-	-	*	-
+en_501.txt	0	10	India	NNP	(NAC*	-	-	-	-	*	-
+en_501.txt	0	11	,	,	*	-	-	-	-	*	-
+en_501.txt	0	12	Pakistan	NNP	*	-	-	-	-	*	-
+en_501.txt	0	13	,	,	*)	-	-	-	-	*	-
+en_501.txt	0	14	Tanzania	NNP	(NAC*	-	-	-	-	*	-
+en_501.txt	0	15	,	,	*	-	-	-	-	*	-
+en_501.txt	0	16	Zambia	NNP	*	-	-	-	-	*	-
+en_501.txt	0	17	,	,	*)	-	-	-	-	*	-
+en_501.txt	0	18	Russia	NNP	*)	-	-	-	-	*	7)
+en_501.txt	0	19	,	,	*	-	-	-	-	*	-
+en_501.txt	0	20	Egypt	NNP	(NP*)	-	-	-	-	*	-
+en_501.txt	0	21	,	,	*	-	-	-	-	*	-
+en_501.txt	0	22	Thailand	NNP	(NP*)	-	-	-	-	*	(8)
+en_501.txt	0	23	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	24	Vietnam	NNP	(NP*)))	-	-	-	-	*	-
+en_501.txt	0	25	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	26	a	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	27	project	NN	*)	-	-	-	-	*	-
+en_501.txt	0	28	called	VBN	(VP*	-	-	-	-	*	-
+en_501.txt	0	29	Copenhagen	NNP	(S(NP*	-	-	-	-	*	(9
+en_501.txt	0	30	Consensus	NNP	*))))))	-	-	-	-	*	9)
+en_501.txt	0	31	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	I	PRP	(TOP(S(NP*)	-	-	-	-	*	(2)
+en_501.txt	0	1	asked	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	them	PRP	(NP*)	-	-	-	-	*	(6)
+en_501.txt	0	3	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	4	set	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	priorities	NNS	(NP*)	-	-	-	-	*	-
+en_501.txt	0	6	for	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	7	the	DT	(NP*	-	-	-	-	*	(3
+en_501.txt	0	8	world	NN	*))))))	-	-	-	-	*	3)
+en_501.txt	0	9	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(10
+en_501.txt	0	1	ambassadors	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	2	–	SYM	(SBAR(S(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	3	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+en_501.txt	0	4	together	RB	(S(VP(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	5	represent	VBP	*	-	-	-	-	*	-
+en_501.txt	0	6	about	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	7	half	NN	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	8	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	9	the	DT	(NP(NP*	-	-	-	-	*	(3
+en_501.txt	0	10	world	NN	*	-	-	-	-	*	-
+en_501.txt	0	11	'	POS	*)	-	-	-	-	*	3)
+en_501.txt	0	12	s	JJ	*	-	-	-	-	*	-
+en_501.txt	0	13	population	NN	*))))	-	-	-	-	*	-
+en_501.txt	0	14	–	SYM	(X*)))))	-	-	-	-	*	-
+en_501.txt	0	15	listened	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	16	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	17	climate	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	18	change	NN	*	-	-	-	-	*	-
+en_501.txt	0	19	experts	NNS	*))))))	-	-	-	-	*	10)
+en_501.txt	0	20	tell	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	21	them	PRP	(NP*)	-	-	-	-	*	(10)
+en_501.txt	0	22	that	IN	(SBAR(SBAR*	-	-	-	-	*	-
+en_501.txt	0	23	global	JJ	(S(NP*	-	-	-	-	*	(11
+en_501.txt	0	24	warming	NN	*)	-	-	-	-	*	11)
+en_501.txt	0	25	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	26	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	27	vital	JJ	*	-	-	-	-	*	-
+en_501.txt	0	28	issue	NN	*))))	-	-	-	-	*	-
+en_501.txt	0	29	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	30	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	31	the	DT	(S(NP*	-	-	-	-	*	(12
+en_501.txt	0	32	Kyoto	NNP	*	-	-	-	-	*	-
+en_501.txt	0	33	Protocol	NNP	*)	-	-	-	-	*	12)
+en_501.txt	0	34	could	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	35	be	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	36	used	VBN	(VP*	-	-	-	-	*	-
+en_501.txt	0	37	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	38	tackle	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	39	it	PRP	(NP*)))))))))))	-	-	-	-	*	(11)
+en_501.txt	0	40	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	*	(10)
+en_501.txt	0	1	heard	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	from	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	3	health	NN	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	4	experts	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	5	who	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+en_501.txt	0	6	said	VBD	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	7	that	IN	(SBAR(SBAR*	-	-	-	-	*	-
+en_501.txt	0	8	communicable	JJ	(S(NP*	-	-	-	-	*	-
+en_501.txt	0	9	diseases	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	10	were	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	11	rampant	JJ	(ADJP*))))	-	-	-	-	*	-
+en_501.txt	0	12	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	13	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	14	mosquito	JJ	(S(NP*	-	-	-	-	*	-
+en_501.txt	0	15	nets	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	16	would	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	17	be	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	18	a	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	19	great	JJ	*	-	-	-	-	*	-
+en_501.txt	0	20	way	NN	*)	-	-	-	-	*	-
+en_501.txt	0	21	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+en_501.txt	0	22	combat	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	23	malaria	NN	(NP*)))))))))))))))))	-	-	-	-	*	-
+en_501.txt	0	24	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Other	JJ	(TOP(S(NP*	-	-	-	-	*	(13
+en_501.txt	0	1	experts	NNS	*)	-	-	-	-	*	13)
+en_501.txt	0	2	told	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	them	PRP	(NP*)	-	-	-	-	*	(13)
+en_501.txt	0	4	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	5	two-and-a-half	JJ	(S(S(NP(QP*	-	-	-	-	*	-
+en_501.txt	0	6	billion	CD	*)	-	-	-	-	*	-
+en_501.txt	0	7	people	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	8	lack	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	9	access	NN	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	10	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	11	sanitation	NN	(NP*)))))	-	-	-	-	*	-
+en_501.txt	0	12	but	CC	*	-	-	-	-	*	-
+en_501.txt	0	13	investment	NN	(S(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	14	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	15	relatively	RB	(NP(ADJP*	-	-	-	-	*	-
+en_501.txt	0	16	simple	JJ	*)	-	-	-	-	*	-
+en_501.txt	0	17	projects	NNS	*)))	-	-	-	-	*	-
+en_501.txt	0	18	could	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	19	drastically	RB	(VP(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	20	reduce	VB	*	-	-	-	-	*	-
+en_501.txt	0	21	that	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	22	number	NN	*)))))))	-	-	-	-	*	-
+en_501.txt	0	23	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	All	DT	(TOP(FRAG(NP*	-	-	-	-	*	-
+en_501.txt	0	1	important	JJ	*	-	-	-	-	*	-
+en_501.txt	0	2	problems	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	3	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Each	DT	(TOP(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	should	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	be	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	tackled	VBN	(VP*)))	-	-	-	-	*	-
+en_501.txt	0	4	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	But	CC	(TOP(S*	-	-	-	-	*	-
+en_501.txt	0	1	with	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	limited	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	3	resources	NNS	*))	-	-	-	-	*	-
+en_501.txt	0	4	,	,	*	-	-	-	-	*	-
+en_501.txt	0	5	we	PRP	(NP*)	-	-	-	-	*	-
+en_501.txt	0	6	need	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	7	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	8	commit	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	9	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	10	solving	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	11	some	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	12	problems	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	13	before	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	14	others	NNS	(NP*))))))))))	-	-	-	-	*	-
+en_501.txt	0	15	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	makes	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	sense	NN	(NP*)	-	-	-	-	*	-
+en_501.txt	0	3	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	4	first	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	5	invest	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	6	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	7	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	8	areas	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	9	that	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+en_501.txt	0	10	achieve	VBP	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	11	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	12	greatest	JJS	*	-	-	-	-	*	-
+en_501.txt	0	13	benefits	NNS	*))))))))))	-	-	-	-	*	-
+en_501.txt	0	14	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	(14
+en_501.txt	0	1	essential	JJ	*	-	-	-	-	*	-
+en_501.txt	0	2	question	NN	*)	-	-	-	-	*	-
+en_501.txt	0	3	put	VBN	(VP*	-	-	-	-	*	-
+en_501.txt	0	4	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	5	the	DT	(NP*	-	-	-	-	*	(10
+en_501.txt	0	6	ambassadors	NNS	*))))	-	-	-	-	*	14)|10)
+en_501.txt	0	7	was	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	8	:	:	*	-	-	-	-	*	-
+en_501.txt	0	9	if	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	10	you	PRP	(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	11	had	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	12	an	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	13	extra	JJ	*	-	-	-	-	*	-
+en_501.txt	0	14	$	$	(QP*	-	-	-	-	*	-
+en_501.txt	0	15	50	CD	*	-	-	-	-	*	-
+en_501.txt	0	16	billion	CD	*))	-	-	-	-	*	-
+en_501.txt	0	17	,	,	*	-	-	-	-	*	-
+en_501.txt	0	18	how	WRB	(SBARQ(WHADVP*)	-	-	-	-	*	-
+en_501.txt	0	19	should	MD	(SQ*	-	-	-	-	*	-
+en_501.txt	0	20	it	PRP	(NP*)	-	-	-	-	*	(14)
+en_501.txt	0	21	be	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	22	spent	VBN	(VP*	-	-	-	-	*	-
+en_501.txt	0	23	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	24	achieve	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	25	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	26	most	RBS	*	-	-	-	-	*	-
+en_501.txt	0	27	‘	NN	*	-	-	-	-	*	-
+en_501.txt	0	28	good	JJ	*	-	-	-	-	*	-
+en_501.txt	0	29	'	''	*)	-	-	-	-	*	-
+en_501.txt	0	30	possible	JJ	(ADJP*))))))))	-	-	-	-	*	-
+en_501.txt	0	31	?	.	*	-	-	-	-	*	-
+en_501.txt	0	32	'	''	*)))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(10
+en_501.txt	0	1	ambassadors	NNS	*)	-	-	-	-	*	10)
+en_501.txt	0	2	considered	VBD	(VP(VP*	-	-	-	-	*	-
+en_501.txt	0	3	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	4	expert	JJ	*	-	-	-	-	*	-
+en_501.txt	0	5	evidence	NN	*))	-	-	-	-	*	-
+en_501.txt	0	6	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	7	debated	VBN	(VP*	-	-	-	-	*	-
+en_501.txt	0	8	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	9	pro	NN	*	-	-	-	-	*	-
+en_501.txt	0	10	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	11	cons	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	12	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	13	each	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	14	option	NN	*)))	-	-	-	-	*	-
+en_501.txt	0	15	before	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	16	putting	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	17	together	RP	(PRT*)	-	-	-	-	*	-
+en_501.txt	0	18	a	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	19	prioritized	JJ	*	-	-	-	-	*	-
+en_501.txt	0	20	‘	NN	*)	-	-	-	-	*	-
+en_501.txt	0	21	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+en_501.txt	0	22	do	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	23	'	''	*	-	-	-	-	*	-
+en_501.txt	0	24	list	NN	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	25	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	26	solutions	NNS	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	27	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	28	the	DT	(NP(NP*	-	-	-	-	*	(3|(15
+en_501.txt	0	29	world	NN	*	-	-	-	-	*	-
+en_501.txt	0	30	'	POS	*)	-	-	-	-	*	3)
+en_501.txt	0	31	s	JJ	*	-	-	-	-	*	-
+en_501.txt	0	32	greatest	JJS	*	-	-	-	-	*	-
+en_501.txt	0	33	challenges	NNS	*))	-	-	-	-	*	15)
+en_501.txt	0	34	-LRB-	-LRB-	(PRN*	-	-	-	-	*	-
+en_501.txt	0	35	See	NNP	(NP*	-	-	-	-	*	-
+en_501.txt	0	36	List	NNP	*)	-	-	-	-	*	-
+en_501.txt	0	37	-RRB-	-RRB-	*))))))))))))))	-	-	-	-	*	-
+en_501.txt	0	38	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	*	(15)
+en_501.txt	0	1	concluded	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	3	the	DT	(S(NP(NP*	-	-	-	-	*	(3
+en_501.txt	0	4	world	NN	*	-	-	-	-	*	-
+en_501.txt	0	5	'	POS	*)	-	-	-	-	*	3)
+en_501.txt	0	6	s	JJ	*	-	-	-	-	*	-
+en_501.txt	0	7	top	JJ	*	-	-	-	-	*	-
+en_501.txt	0	8	solutions	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	9	are	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	10	better	JJR	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	11	health	NN	*)	-	-	-	-	*	-
+en_501.txt	0	12	,	,	*	-	-	-	-	*	-
+en_501.txt	0	13	cleaner	JJR	(NP*	-	-	-	-	*	-
+en_501.txt	0	14	water	NN	*)	-	-	-	-	*	-
+en_501.txt	0	15	,	,	*	-	-	-	-	*	-
+en_501.txt	0	16	more	JJR	(NP*	-	-	-	-	*	-
+en_501.txt	0	17	education	NN	*)	-	-	-	-	*	-
+en_501.txt	0	18	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	19	less	JJR	(NP*	-	-	-	-	*	-
+en_501.txt	0	20	hunger	NN	*))))))	-	-	-	-	*	-
+en_501.txt	0	21	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	burden	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	3	disease	NN	(NP*)))	-	-	-	-	*	-
+en_501.txt	0	4	ruins	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	lives	NNS	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	6	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	7	entire	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	8	communities	NNS	*)))	-	-	-	-	*	-
+en_501.txt	0	9	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Nine	CD	(TOP(S(NP(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	out	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	3	ten	JJ	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	4	deaths	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	5	from	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	6	communicable	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	7	diseases	NNS	*))))))	-	-	-	-	*	-
+en_501.txt	0	8	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	9	the	DT	(NP*	-	-	-	-	*	(3
+en_501.txt	0	10	developing	VBG	*	-	-	-	-	*	-
+en_501.txt	0	11	world	NN	*)))	-	-	-	-	*	3)
+en_501.txt	0	12	are	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	13	avoidable	JJ	(ADJP*))	-	-	-	-	*	-
+en_501.txt	0	14	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(3
+en_501.txt	0	1	world	NN	*)	-	-	-	-	*	3)
+en_501.txt	0	2	could	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	fight	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	4	back	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	5	with	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	6	general	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	7	health	NN	*	-	-	-	-	*	-
+en_501.txt	0	8	services	NNS	*))	-	-	-	-	*	-
+en_501.txt	0	9	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	10	at-need	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	11	areas	NNS	*))	-	-	-	-	*	-
+en_501.txt	0	12	along	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	13	with	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	14	more	RBR	(NP(ADJP*	-	-	-	-	*	-
+en_501.txt	0	15	focused	JJ	*)	-	-	-	-	*	-
+en_501.txt	0	16	efforts	NNS	*	-	-	-	-	*	-
+en_501.txt	0	17	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	18	combat	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	19	HIV	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	20	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	21	malaria	NN	*)))))))))	-	-	-	-	*	-
+en_501.txt	0	22	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(10
+en_501.txt	0	1	ambassadors	NNS	*)	-	-	-	-	*	10)
+en_501.txt	0	2	found	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	4	providing	VBG	(S(S(VP(VP*	-	-	-	-	*	-
+en_501.txt	0	5	clean	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	6	drinking	NN	*	-	-	-	-	*	-
+en_501.txt	0	7	water	NN	*))	-	-	-	-	*	-
+en_501.txt	0	8	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	9	sanitation	NN	(VP*	-	-	-	-	*	-
+en_501.txt	0	10	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	11	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	12	billion	CD	*	-	-	-	-	*	-
+en_501.txt	0	13	people	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	14	lacking	VBG	(VP*	-	-	-	-	*	-
+en_501.txt	0	15	such	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	16	amenities	NNS	*)))))))	-	-	-	-	*	-
+en_501.txt	0	17	was	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	18	crucial	JJ	(ADJP*)))))	-	-	-	-	*	-
+en_501.txt	0	19	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	*	(10)
+en_501.txt	0	1	also	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	2	concluded	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	4	without	IN	(S(PP*	-	-	-	-	*	-
+en_501.txt	0	5	a	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	6	constant	JJ	*	-	-	-	-	*	-
+en_501.txt	0	7	focus	NN	*)	-	-	-	-	*	-
+en_501.txt	0	8	on	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	9	education	NN	(NP*))))	-	-	-	-	*	-
+en_501.txt	0	10	,	,	*	-	-	-	-	*	-
+en_501.txt	0	11	other	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	12	gains	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	13	could	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	14	not	RB	*	-	-	-	-	*	-
+en_501.txt	0	15	be	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	16	sustained	VBN	(VP*))))))	-	-	-	-	*	-
+en_501.txt	0	17	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	*	(10)
+en_501.txt	0	1	decided	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	3	dealing	VBG	(S(S(VP*	-	-	-	-	*	-
+en_501.txt	0	4	with	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	5	malnutrition	NN	(NP*))))	-	-	-	-	*	-
+en_501.txt	0	6	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	7	also	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	8	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	9	crucial	JJ	*	-	-	-	-	*	-
+en_501.txt	0	10	priority	NN	*)))))	-	-	-	-	*	-
+en_501.txt	0	11	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Eight	JJ	(TOP(S(NP(QP*	-	-	-	-	*	-
+en_501.txt	0	1	hundred	CD	*	-	-	-	-	*	-
+en_501.txt	0	2	million	CD	*)	-	-	-	-	*	-
+en_501.txt	0	3	people	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	4	are	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	chronically	RB	(VP(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	6	undernourished	VBN	*	-	-	-	-	*	-
+en_501.txt	0	7	while	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	8	three	CD	(S(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	9	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	10	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	11	half	JJ	*	-	-	-	-	*	-
+en_501.txt	0	12	billion	CD	*	-	-	-	-	*	-
+en_501.txt	0	13	lack	NN	*))	-	-	-	-	*	-
+en_501.txt	0	14	micronutrients	VBZ	(VP*)))))	-	-	-	-	*	-
+en_501.txt	0	15	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	But	CC	(TOP(S*	-	-	-	-	*	-
+en_501.txt	0	1	choosing	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	2	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	3	issues	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	4	at	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	6	top	NN	*)	-	-	-	-	*	-
+en_501.txt	0	7	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	8	a	DT	(NP*	-	-	-	-	*	(16
+en_501.txt	0	9	priority	NN	*	-	-	-	-	*	-
+en_501.txt	0	10	list	NN	*))))))	-	-	-	-	*	16)
+en_501.txt	0	11	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	12	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	13	easy	JJ	*	-	-	-	-	*	-
+en_501.txt	0	14	part	NN	*))	-	-	-	-	*	-
+en_501.txt	0	15	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Asking	VBG	(TOP(S(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	politicians	NNS	(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	2	to	TO	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	choose	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	4	what	WP	(SBAR(WHNP*)	-	-	-	-	*	-
+en_501.txt	0	5	shouldn	NNS	(S(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	6	'	POS	*)	-	-	-	-	*	-
+en_501.txt	0	7	t	NN	*)	-	-	-	-	*	-
+en_501.txt	0	8	come	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	9	first	RB	(ADVP*)))))))))	-	-	-	-	*	-
+en_501.txt	0	10	was	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	11	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	12	real	JJ	*	-	-	-	-	*	-
+en_501.txt	0	13	test	NN	*))	-	-	-	-	*	-
+en_501.txt	0	14	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	(10
+en_501.txt	0	1	ambassadors	NNS	*)	-	-	-	-	*	10)
+en_501.txt	0	2	showed	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	courage	NN	(NP*))	-	-	-	-	*	-
+en_501.txt	0	4	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	They	PRP	(TOP(S(NP*)	-	-	-	-	*	(10)
+en_501.txt	0	1	concluded	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	3	although	IN	(S(SBAR*	-	-	-	-	*	-
+en_501.txt	0	4	migration	NN	(S(NP*	-	-	-	-	*	-
+en_501.txt	0	5	,	,	*	-	-	-	-	*	-
+en_501.txt	0	6	corruption	NN	*	-	-	-	-	*	-
+en_501.txt	0	7	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	8	conflicts	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	9	are	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	10	vital	JJ	(ADJP*))))	-	-	-	-	*	-
+en_501.txt	0	11	,	,	*	-	-	-	-	*	-
+en_501.txt	0	12	these	DT	(NP*)	-	-	-	-	*	(10)
+en_501.txt	0	13	should	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	14	not	RB	*	-	-	-	-	*	-
+en_501.txt	0	15	come	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	16	first	JJ	(ADJP*)	-	-	-	-	*	-
+en_501.txt	0	17	on	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	18	the	DT	(NP*	-	-	-	-	*	(16
+en_501.txt	0	19	global	JJ	*	-	-	-	-	*	-
+en_501.txt	0	20	priority	NN	*	-	-	-	-	*	-
+en_501.txt	0	21	list	NN	*)))))))	-	-	-	-	*	16)
+en_501.txt	0	22	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	-
+en_501.txt	0	1	evidence	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	led	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	them	PRP	(S(NP*)	-	-	-	-	*	(10)
+en_501.txt	0	4	to	TO	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	believe	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	6	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	7	proposed	VBN	(S(NP(NP(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	8	solutions	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	9	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	10	financial	JJ	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	11	instability	NN	*)	-	-	-	-	*	-
+en_501.txt	0	12	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	13	global	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	14	warming	NN	*))))	-	-	-	-	*	-
+en_501.txt	0	15	–	SYM	(X*))	-	-	-	-	*	-
+en_501.txt	0	16	while	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	17	both	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	18	important	JJ	*	-	-	-	-	*	-
+en_501.txt	0	19	topics	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	20	–	SYM	(X*))))	-	-	-	-	*	-
+en_501.txt	0	21	are	VBP	(VP*	-	-	-	-	*	-
+en_501.txt	0	22	not	RB	*	-	-	-	-	*	-
+en_501.txt	0	23	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	24	right	JJ	*	-	-	-	-	*	-
+en_501.txt	0	25	investments	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	26	to	TO	(SBAR(S(VP*	-	-	-	-	*	-
+en_501.txt	0	27	start	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	28	with	IN	(PP*)))))))))))))	-	-	-	-	*	-
+en_501.txt	0	29	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	The	DT	(TOP(S(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	UN	NNP	*	-	-	-	-	*	-
+en_501.txt	0	2	ambassadors	NNS	(NP*	-	-	-	-	*	-
+en_501.txt	0	3	'	POS	*)	-	-	-	-	*	-
+en_501.txt	0	4	first	JJ	*	-	-	-	-	*	-
+en_501.txt	0	5	attempt	NN	*)	-	-	-	-	*	-
+en_501.txt	0	6	at	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	7	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	8	deliberate	JJ	*	-	-	-	-	*	-
+en_501.txt	0	9	prioritization	NN	*)))	-	-	-	-	*	-
+en_501.txt	0	10	shows	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	11	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	12	this	DT	(S(NP*	-	-	-	-	*	(17
+en_501.txt	0	13	approach	NN	*)	-	-	-	-	*	17)
+en_501.txt	0	14	could	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	15	be	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	16	used	VBN	(VP*	-	-	-	-	*	-
+en_501.txt	0	17	on	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	18	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	19	much	RB	(ADJP*	-	-	-	-	*	-
+en_501.txt	0	20	bigger	JJR	*)	-	-	-	-	*	-
+en_501.txt	0	21	scale	NN	*))))))))	-	-	-	-	*	-
+en_501.txt	0	22	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	It	PRP	(TOP(S(NP*)	-	-	-	-	*	(17)
+en_501.txt	0	1	could	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	help	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	4	put	VB	(VP(VP*	-	-	-	-	*	-
+en_501.txt	0	5	the	DT	(NP*	-	-	-	-	*	(4
+en_501.txt	0	6	organization	NN	*)	-	-	-	-	*	4)
+en_501.txt	0	7	back	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	8	on	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	9	track	NN	(NP*)))	-	-	-	-	*	-
+en_501.txt	0	10	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	11	assist	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	12	it	PRP	(NP*)	-	-	-	-	*	(4)
+en_501.txt	0	13	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	14	focus	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	15	on	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	16	doing	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	17	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	18	best	JJS	*	-	-	-	-	*	-
+en_501.txt	0	19	things	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	20	first	RB	(ADVP*)))))))))))))	-	-	-	-	*	-
+en_501.txt	0	21	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	As	IN	(TOP(S(SBAR*	-	-	-	-	*	-
+en_501.txt	0	1	John	NNP	(S(NP*	-	-	-	-	*	(2
+en_501.txt	0	2	Bolton	NNP	*)	-	-	-	-	*	2)
+en_501.txt	0	3	pointed	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	4	out	RP	(PRT*))))	-	-	-	-	*	-
+en_501.txt	0	5	,	,	*	-	-	-	-	*	-
+en_501.txt	0	6	the	DT	(NP*	-	-	-	-	*	(0
+en_501.txt	0	7	UN	NNP	*)	-	-	-	-	*	0)
+en_501.txt	0	8	has	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	9	9,000	CD	(NP*	-	-	-	-	*	-
+en_501.txt	0	10	mandates	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	11	,	,	*	-	-	-	-	*	-
+en_501.txt	0	12	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+en_501.txt	0	13	means	VBZ	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	14	9,000	CD	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	15	top	JJ	*	-	-	-	-	*	-
+en_501.txt	0	16	priorities	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	17	,	,	*	-	-	-	-	*	-
+en_501.txt	0	18	which	WDT	(SBAR(WHNP*)	-	-	-	-	*	-
+en_501.txt	0	19	essentially	RB	(S(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	20	means	VBZ	(VP*))))))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	Thailand	NNP	(TOP(S(NP(NP*	-	-	-	-	*	(8|(18
+en_501.txt	0	1	'	POS	*)	-	-	-	-	*	8)
+en_501.txt	0	2	s	JJ	*	-	-	-	-	*	-
+en_501.txt	0	3	ambassador	NN	*)	-	-	-	-	*	18)
+en_501.txt	0	4	pointed	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	out	RP	(PRT*)	-	-	-	-	*	-
+en_501.txt	0	6	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	7	using	VBG	(S(S(VP*	-	-	-	-	*	-
+en_501.txt	0	8	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	9	Copenhagen	NNP	*	-	-	-	-	*	-
+en_501.txt	0	10	Consensus	NNP	*	-	-	-	-	*	-
+en_501.txt	0	11	prioritization	NN	*	-	-	-	-	*	-
+en_501.txt	0	12	framework	NN	*)))	-	-	-	-	*	-
+en_501.txt	0	13	could	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	14	help	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	15	the	DT	(S(NP*	-	-	-	-	*	(0
+en_501.txt	0	16	UN	NNP	*)	-	-	-	-	*	0)
+en_501.txt	0	17	to	TO	(VP*	-	-	-	-	*	-
+en_501.txt	0	18	ensure	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	19	better	JJR	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	20	,	,	*	-	-	-	-	*	-
+en_501.txt	0	21	more	RBR	(ADJP*	-	-	-	-	*	-
+en_501.txt	0	22	effective	JJ	*)	-	-	-	-	*	-
+en_501.txt	0	23	utilization	NN	*)	-	-	-	-	*	-
+en_501.txt	0	24	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	25	scarce	JJ	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	26	resources	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	27	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	28	tackling	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	29	top	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	30	issues	NNS	*)))))))))))))))	-	-	-	-	*	-
+en_501.txt	0	31	.	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Zambia	NNP	(TOP(SBARQ(S(NP(NP*	-	-	-	-	*	(7|(18
+en_501.txt	0	1	'	POS	*)	-	-	-	-	*	7)
+en_501.txt	0	2	s	JJ	*	-	-	-	-	*	-
+en_501.txt	0	3	ambassador	NN	*)	-	-	-	-	*	18)
+en_501.txt	0	4	believed	VBD	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	6	``	``	*	-	-	-	-	*	-
+en_501.txt	0	7	all	DT	(S(NP(NP*	-	-	-	-	*	(19
+en_501.txt	0	8	member	NN	*	-	-	-	-	*	-
+en_501.txt	0	9	countries	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	10	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	11	the	DT	(NP*	-	-	-	-	*	(0
+en_501.txt	0	12	UN	NNP	*)))	-	-	-	-	*	19)|0)
+en_501.txt	0	13	would	MD	(VP*	-	-	-	-	*	-
+en_501.txt	0	14	benefit	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	15	from	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	16	going	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	17	through	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	18	a	DT	(NP*	-	-	-	-	*	(20
+en_501.txt	0	19	similar	JJ	*	-	-	-	-	*	-
+en_501.txt	0	20	process	NN	*)))))	-	-	-	-	*	20)
+en_501.txt	0	21	,	,	*	-	-	-	-	*	-
+en_501.txt	0	22	becoming	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	23	more	RBR	(ADJP*	-	-	-	-	*	-
+en_501.txt	0	24	aware	JJ	*	-	-	-	-	*	-
+en_501.txt	0	25	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	26	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	27	need	NN	*	-	-	-	-	*	-
+en_501.txt	0	28	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	29	prioritize	VB	(VP*)))))))))))))	-	-	-	-	*	-
+en_501.txt	0	30	.	.	*	-	-	-	-	*	-
+en_501.txt	0	31	''	''	*	-	-	-	-	*	-
+en_501.txt	0	32	Perhaps	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	33	it	PRP	(S(NP*)	-	-	-	-	*	(20)
+en_501.txt	0	34	is	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	35	now	RB	(ADVP*)	-	-	-	-	*	-
+en_501.txt	0	36	time	NN	(NP*)	-	-	-	-	*	-
+en_501.txt	0	37	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	38	convene	VB	(VP(VP*	-	-	-	-	*	-
+en_501.txt	0	39	all	DT	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	40	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	41	the	DT	(NP*	-	-	-	-	*	(19
+en_501.txt	0	42	UN	NNP	*	-	-	-	-	*	-
+en_501.txt	0	43	member	NN	*	-	-	-	-	*	-
+en_501.txt	0	44	countries	NNS	*))))	-	-	-	-	*	19)
+en_501.txt	0	45	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	46	ask	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	47	them	PRP	(NP*)	-	-	-	-	*	(19)
+en_501.txt	0	48	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	49	hard	JJ	(ADJP*	-	-	-	-	*	-
+en_501.txt	0	50	but	CC	*	-	-	-	-	*	-
+en_501.txt	0	51	vital	JJ	*)	-	-	-	-	*	-
+en_501.txt	0	52	question	NN	*)))))))	-	-	-	-	*	-
+en_501.txt	0	53	:	:	*	-	-	-	-	*	-
+en_501.txt	0	54	given	VBN	(PP*	-	-	-	-	*	-
+en_501.txt	0	55	that	IN	(SBAR*	-	-	-	-	*	-
+en_501.txt	0	56	we	PRP	(S(NP*)	-	-	-	-	*	(21)
+en_501.txt	0	57	can	MD	(VP*))))	-	-	-	-	*	-
+en_501.txt	0	58	'	:	*	-	-	-	-	*	-
+en_501.txt	0	59	t	PRP	(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	60	do	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	61	it	PRP	(NP*	-	-	-	-	*	-
+en_501.txt	0	62	all	DT	*))))	-	-	-	-	*	-
+en_501.txt	0	63	,	,	*	-	-	-	-	*	-
+en_501.txt	0	64	what	WP	(WHNP*)	-	-	-	-	*	-
+en_501.txt	0	65	should	MD	(SQ*	-	-	-	-	*	-
+en_501.txt	0	66	we	PRP	(NP*)	-	-	-	-	*	(21)
+en_501.txt	0	67	do	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	68	first	RB	(ADVP*)))	-	-	-	-	*	-
+en_501.txt	0	69	?	.	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	List	NN	(TOP(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	priorities	NNS	(NP*	-	-	-	-	*	-
+en_501.txt	0	3	,	,	*	-	-	-	-	*	-
+en_501.txt	0	4	outcome	NN	*	-	-	-	-	*	-
+en_501.txt	0	5	document	NN	*))	-	-	-	-	*	-
+en_501.txt	0	6	from	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	7	Copenhagen	NNP	(NP*	-	-	-	-	*	(9
+en_501.txt	0	8	Consensus	NNP	*))	-	-	-	-	*	9)
+en_501.txt	0	9	by	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	10	UN	NNP	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	11	ambassadors	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	12	,	,	*	-	-	-	-	*	-
+en_501.txt	0	13	June	NNP	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	14	16-17	CD	*	-	-	-	-	*	-
+en_501.txt	0	15	2006	CD	*)	-	-	-	-	*	-
+en_501.txt	0	16	at	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	17	Georgetown	NNP	(NP*	-	-	-	-	*	-
+en_501.txt	0	18	University	NNP	*)))))	-	-	-	-	*	-
+en_501.txt	0	19	:	:	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	challenge	VB	(TOP(INTJ*))	-	-	-	-	*	-
+
+en_501.txt	0	0	opportunity	NN	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	1	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Communicable	NNP	(TOP(NP*	-	-	-	-	*	(22
+en_501.txt	0	1	Diseases	NNPS	*))	-	-	-	-	*	22)
+
+en_501.txt	0	0	Scaled-up	JJ	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	basic	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	health	NN	*	-	-	-	-	*	-
+en_501.txt	0	3	services	NNS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	2	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Sanitation	NNP	(TOP(NP*	-	-	-	-	*	(23
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Water	NNP	*))	-	-	-	-	*	23)
+
+en_501.txt	0	0	Community-managed	JJ	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	water	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	supply	NN	*	-	-	-	-	*	-
+en_501.txt	0	3	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	4	sanitation	NN	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	3	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Education	NNP	(TOP(NP*))	-	-	-	-	*	(24)
+
+en_501.txt	0	0	Physical	JJ	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	expansion	NN	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	4	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Malnutrition	NNP	(TOP(NP*	-	-	-	-	*	(25
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Hunger	NNP	*))	-	-	-	-	*	25)
+
+en_501.txt	0	0	Improving	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	infant	NN	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	2	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	3	child	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	4	nutrition	NN	*)))))	-	-	-	-	*	-
+
+en_501.txt	0	0	5	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Malnutrition	NNP	(TOP(NP*	-	-	-	-	*	(25
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Hunger	NNP	*))	-	-	-	-	*	25)
+
+en_501.txt	0	0	Investment	NN	(TOP(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	technology	NN	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	3	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	4	developing	VBG	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	5	country	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	6	agriculture	NN	*)))))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	6	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Communicable	NNP	(TOP(NP*	-	-	-	-	*	(22
+en_501.txt	0	1	Diseases	NNPS	*))	-	-	-	-	*	22)
+
+en_501.txt	0	0	Control	NNP	(TOP(X(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	HIV	NNP	(NP*))	-	-	-	-	*	-
+en_501.txt	0	3	/	SYM	(X*)	-	-	-	-	*	-
+en_501.txt	0	4	AIDS	NNP	(NP*)))	-	-	-	-	*	-
+
+en_501.txt	0	0	7	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Communicable	NNP	(TOP(NP*	-	-	-	-	*	(22
+en_501.txt	0	1	Diseases	NNPS	*))	-	-	-	-	*	22)
+
+en_501.txt	0	0	Control	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	malaria	NN	(NP*))))	-	-	-	-	*	-
+
+en_501.txt	0	0	8	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Malnutrition	NNP	(TOP(NP*	-	-	-	-	*	(25
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Hunger	NNP	*))	-	-	-	-	*	25)
+
+en_501.txt	0	0	Reducing	VBG	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	micro	JJ	*	-	-	-	-	*	-
+en_501.txt	0	2	nutrient	NN	*	-	-	-	-	*	-
+en_501.txt	0	3	deficiencies	NNS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	9	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Subsidies	NNP	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Trade	NNP	*	-	-	-	-	*	-
+en_501.txt	0	3	Barriers	NNPS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Optimistic	JJ	(TOP(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	Doha	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	:	:	*	-	-	-	-	*	-
+en_501.txt	0	3	50	CD	(NP*	-	-	-	-	*	-
+en_501.txt	0	4	%	NN	*	-	-	-	-	*	-
+en_501.txt	0	5	liberalization	NN	*)))	-	-	-	-	*	-
+
+en_501.txt	0	0	10	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Education	NNP	(TOP(NP*))	-	-	-	-	*	(24)
+
+en_501.txt	0	0	Improve	FW	(TOP(X*	-	-	-	-	*	-
+en_501.txt	0	1	quality	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	/	SYM	(X*)	-	-	-	-	*	-
+en_501.txt	0	3	Systemic	NNP	*	-	-	-	-	*	-
+en_501.txt	0	4	reforms	NNS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	11	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Sanitation	NNP	(TOP(NP*	-	-	-	-	*	(23
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Water	NNP	*))	-	-	-	-	*	23)
+
+en_501.txt	0	0	Small-scale	JJ	(TOP(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	water	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	technology	NN	*)	-	-	-	-	*	-
+en_501.txt	0	3	for	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	4	livelihoods	NNS	(NP*))))	-	-	-	-	*	-
+
+en_501.txt	0	0	12	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Education	NNP	(TOP(NP*))	-	-	-	-	*	(24)
+
+en_501.txt	0	0	Expand	VB	(TOP(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	demand	NN	(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	2	for	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	3	schooling	NN	(NP*))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	13	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Malnutrition	NNP	(TOP(NP*	-	-	-	-	*	(25
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Hunger	NNP	*))	-	-	-	-	*	25)
+
+en_501.txt	0	0	Reducing	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	Low	NNP	(NP*	-	-	-	-	*	-
+en_501.txt	0	2	Birth	NNP	*	-	-	-	-	*	-
+en_501.txt	0	3	Weight	NNP	*)	-	-	-	-	*	-
+en_501.txt	0	4	for	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	5	high	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	6	risk	NN	*	-	-	-	-	*	-
+en_501.txt	0	7	pregnancies	NNS	*)))))	-	-	-	-	*	-
+
+en_501.txt	0	0	14	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Education	NNP	(TOP(NP*))	-	-	-	-	*	(24)
+
+en_501.txt	0	0	Reductions	VBZ	(TOP(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	3	cost	NN	*)	-	-	-	-	*	-
+en_501.txt	0	4	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	5	schooling	NN	(NP*))))	-	-	-	-	*	-
+en_501.txt	0	6	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	7	increase	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	8	demand	NN	(NP*)))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	15	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Sanitation	NNP	(TOP(NP*	-	-	-	-	*	(23
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Water	NNP	*))	-	-	-	-	*	23)
+
+en_501.txt	0	0	Research	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	2	increase	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	3	water	NN	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	4	productivity	NN	*)	-	-	-	-	*	-
+en_501.txt	0	5	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	6	food	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	7	production	NN	*)))))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	16	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Migration	NN	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Migration	NN	(TOP(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	for	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	development	NN	(NP*))))	-	-	-	-	*	-
+
+en_501.txt	0	0	17	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Corruption	NNP	(TOP(NP*))	-	-	-	-	*	(26)
+
+en_501.txt	0	0	Procurement	JJ	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	reform	NN	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	18	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Conflicts	UH	(TOP(INTJ*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Aid	NN	(TOP(FRAG(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	post-conflict	JJ	(ADJP*	-	-	-	-	*	-
+en_501.txt	0	2	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	3	reduce	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	4	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	5	risk	NN	*)	-	-	-	-	*	-
+en_501.txt	0	6	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	7	repeat	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	8	conflict	NN	*)))))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	19	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Sanitation	NNP	(TOP(NP*	-	-	-	-	*	(23
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Water	NNP	*))	-	-	-	-	*	23)
+
+en_501.txt	0	0	Re-using	JJ	(TOP(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	waste	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	water	NN	*)	-	-	-	-	*	-
+en_501.txt	0	3	for	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	4	agriculture	NN	(NP*))))	-	-	-	-	*	-
+
+en_501.txt	0	0	20	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Migration	NN	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Guest	JJS	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	worker	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	policies	NNS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	21	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Sanitation	NNP	(TOP(NP*	-	-	-	-	*	(23
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Water	NNP	*))	-	-	-	-	*	23)
+
+en_501.txt	0	0	Sustainable	VB	(TOP(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	food	NN	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	2	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	3	fish	NN	*	-	-	-	-	*	-
+en_501.txt	0	4	production	NN	*)	-	-	-	-	*	-
+en_501.txt	0	5	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	6	wetlands	NNS	(NP*))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	22	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Corruption	NNP	(TOP(NP*))	-	-	-	-	*	(26)
+
+en_501.txt	0	0	Grassroots	NNS	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	monitoring	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	3	service	NN	*	-	-	-	-	*	-
+en_501.txt	0	4	delivery	NN	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	23	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Corruption	NNP	(TOP(NP*))	-	-	-	-	*	(26)
+
+en_501.txt	0	0	Technical	NNP	(TOP(S(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	assistance	NN	(VP*	-	-	-	-	*	-
+en_501.txt	0	2	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	3	develop	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	4	monitoring	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	5	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	6	transparency	NN	*	-	-	-	-	*	-
+en_501.txt	0	7	initiatives	NNS	*)))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	24	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Migration	NN	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Active	JJ	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	immigration	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	policies	NNS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	25	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Subsidies	NNP	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Trade	NNP	*	-	-	-	-	*	-
+en_501.txt	0	3	Barriers	NNPS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Pessimistic	JJ	(TOP(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	Doha	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	:	:	*	-	-	-	-	*	-
+en_501.txt	0	3	25	CD	(NP(ADJP*	-	-	-	-	*	-
+en_501.txt	0	4	%	NN	*)	-	-	-	-	*	-
+en_501.txt	0	5	liberalization	NN	*)))	-	-	-	-	*	-
+
+en_501.txt	0	0	26	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Corruption	NNP	(TOP(NP*))	-	-	-	-	*	(26)
+
+en_501.txt	0	0	Reduction	NNP	(TOP(X(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	3	state-imposed	JJ	*	-	-	-	-	*	-
+en_501.txt	0	4	costs	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	5	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	6	business	NN	(NP*))))	-	-	-	-	*	-
+en_501.txt	0	7	/	SYM	(X*)	-	-	-	-	*	-
+en_501.txt	0	8	government	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	9	relations	NNS	*)))	-	-	-	-	*	-
+
+en_501.txt	0	0	27	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Climate	NNP	(TOP(NP*	-	-	-	-	*	(27
+en_501.txt	0	1	Change	NNP	*))	-	-	-	-	*	27)
+
+en_501.txt	0	0	The	DT	(TOP(NP*	-	-	-	-	*	(12
+en_501.txt	0	1	Kyoto	NNP	*	-	-	-	-	*	-
+en_501.txt	0	2	Protocol	NNP	*))	-	-	-	-	*	12)
+
+en_501.txt	0	0	28	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Conflicts	UH	(TOP(INTJ*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Aid	VBN	(TOP(S(VP*	-	-	-	-	*	-
+en_501.txt	0	1	as	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	conflict	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	3	prevention	NN	*)))))	-	-	-	-	*	-
+
+en_501.txt	0	0	29	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Corruption	NNP	(TOP(NP*))	-	-	-	-	*	(26)
+
+en_501.txt	0	0	Reform	NN	(TOP(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	revenue	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	3	collection	NN	*))))	-	-	-	-	*	-
+
+en_501.txt	0	0	30	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Financial	NNP	(TOP(NP*	-	-	-	-	*	(28
+en_501.txt	0	1	Instability	NNP	*))	-	-	-	-	*	28)
+
+en_501.txt	0	0	International	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	solution	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	to	TO	(PP*	-	-	-	-	*	-
+en_501.txt	0	3	the	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	4	currency-mismatch	JJ	*	-	-	-	-	*	-
+en_501.txt	0	5	problem	NN	*))))	-	-	-	-	*	-
+
+en_501.txt	0	0	31	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Conflicts	UH	(TOP(INTJ*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Transparency	NN	(TOP(S(NP(NP*)	-	-	-	-	*	-
+en_501.txt	0	1	in	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	2	natural	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	3	resource	NN	*)))	-	-	-	-	*	-
+en_501.txt	0	4	rents	VBZ	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	as	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	6	conflict	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	7	prevention	NN	*)))))	-	-	-	-	*	-
+
+en_501.txt	0	0	32	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Conflicts	UH	(TOP(INTJ*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Military	JJ	(TOP(FRAG(NP*	-	-	-	-	*	-
+en_501.txt	0	1	spending	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	post-conflict	JJ	(ADJP*	-	-	-	-	*	-
+en_501.txt	0	3	to	TO	(S(VP*	-	-	-	-	*	-
+en_501.txt	0	4	reduce	VB	(VP*	-	-	-	-	*	-
+en_501.txt	0	5	the	DT	(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	6	risk	NN	*)	-	-	-	-	*	-
+en_501.txt	0	7	of	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	8	repeat	NN	(NP*	-	-	-	-	*	-
+en_501.txt	0	9	conflict	NN	*)))))))))	-	-	-	-	*	-
+
+en_501.txt	0	0	33	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Financial	NNP	(TOP(NP*	-	-	-	-	*	(28
+en_501.txt	0	1	Instability	NNP	*))	-	-	-	-	*	28)
+
+en_501.txt	0	0	Re-regulate	JJ	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	domestic	JJ	*	-	-	-	-	*	-
+en_501.txt	0	2	financial	JJ	*	-	-	-	-	*	-
+en_501.txt	0	3	markets	NNS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	34	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Conflicts	UH	(TOP(INTJ*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Shortening	JJ	(TOP(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	conflicts	NNS	*)	-	-	-	-	*	-
+en_501.txt	0	2	:	:	*	-	-	-	-	*	-
+en_501.txt	0	3	Natural	JJ	(NP*	-	-	-	-	*	-
+en_501.txt	0	4	resource	NN	*	-	-	-	-	*	-
+en_501.txt	0	5	tracking	NN	*)))	-	-	-	-	*	-
+
+en_501.txt	0	0	35	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Financial	NNP	(TOP(NP*	-	-	-	-	*	(28
+en_501.txt	0	1	Instability	NNP	*))	-	-	-	-	*	28)
+
+en_501.txt	0	0	Reimpose	JJ	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	capital	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	controls	NNS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	36	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Financial	NNP	(TOP(NP*	-	-	-	-	*	(28
+en_501.txt	0	1	Instability	NNP	*))	-	-	-	-	*	28)
+
+en_501.txt	0	0	Adopt	IN	(TOP(X*	-	-	-	-	*	-
+en_501.txt	0	1	a	DT	(NP*	-	-	-	-	*	-
+en_501.txt	0	2	common	JJ	*	-	-	-	-	*	-
+en_501.txt	0	3	currency	NN	*)))	-	-	-	-	*	-
+
+en_501.txt	0	0	37	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Subsidies	NNP	(TOP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	2	Trade	NNP	*	-	-	-	-	*	-
+en_501.txt	0	3	Barriers	NNPS	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Full	JJ	(TOP(NP(NP*	-	-	-	-	*	-
+en_501.txt	0	1	reform	NN	*)	-	-	-	-	*	-
+en_501.txt	0	2	:	:	*	-	-	-	-	*	-
+en_501.txt	0	3	100	CD	(NP*	-	-	-	-	*	-
+en_501.txt	0	4	%	NN	*	-	-	-	-	*	-
+en_501.txt	0	5	liberalization	NN	*)))	-	-	-	-	*	-
+
+en_501.txt	0	0	38	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Climate	NNP	(TOP(NP*	-	-	-	-	*	(27
+en_501.txt	0	1	Change	NNP	*))	-	-	-	-	*	27)
+
+en_501.txt	0	0	Optimal	JJ	(TOP(INTJ*	-	-	-	-	*	-
+en_501.txt	0	1	carbon	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	tax	NN	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	39	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Climate	NNP	(TOP(NP*	-	-	-	-	*	(27
+en_501.txt	0	1	Change	NNP	*))	-	-	-	-	*	27)
+
+en_501.txt	0	0	Value-at-risk	JJ	(TOP(INTJ*	-	-	-	-	*	-
+en_501.txt	0	1	carbon	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	tax	NN	*))	-	-	-	-	*	-
+
+en_501.txt	0	0	40	CD	(TOP(NP*))	-	-	-	-	*	-
+
+en_501.txt	0	0	Climate	NNP	(TOP(NP*	-	-	-	-	*	(27
+en_501.txt	0	1	Change	NNP	*))	-	-	-	-	*	27)
+
+en_501.txt	0	0	A	DT	(TOP(S(NP*	-	-	-	-	*	-
+en_501.txt	0	1	carbon	NN	*	-	-	-	-	*	-
+en_501.txt	0	2	tax	NN	*)	-	-	-	-	*	-
+en_501.txt	0	3	starting	VBG	(VP(VP*	-	-	-	-	*	-
+en_501.txt	0	4	at	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	5	$	$	(NP*	-	-	-	-	*	-
+en_501.txt	0	6	2	CD	*)))	-	-	-	-	*	-
+en_501.txt	0	7	and	CC	*	-	-	-	-	*	-
+en_501.txt	0	8	ending	VBG	*	-	-	-	-	*	-
+en_501.txt	0	9	at	IN	(PP*	-	-	-	-	*	-
+en_501.txt	0	10	$	$	(NP*	-	-	-	-	*	-
+en_501.txt	0	11	20	CD	*)))))	-	-	-	-	*	-
+
+#end document

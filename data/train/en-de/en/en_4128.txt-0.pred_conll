@@ -1,0 +1,12 @@
+#begin document (en_4128.txt); part 000
+en_4128.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_4128.txt	0	1	Climate	NN	*	-	-	-	-	*	-
+en_4128.txt	0	2	Change	NNP	*	-	-	-	-	*	-
+en_4128.txt	0	3	Agreement	NNP	*)	-	-	-	-	*	-
+en_4128.txt	0	4	:	:	*	-	-	-	-	*	-
+en_4128.txt	0	5	Bridging	NNP	(NP(NP*	-	-	-	-	*	-
+en_4128.txt	0	6	Gaps	NNP	*)	-	-	-	-	*	-
+en_4128.txt	0	7	through	IN	(PP*	-	-	-	-	*	-
+en_4128.txt	0	8	Science	NNP	(NP*)))))	-	-	-	-	*	-
+
+#end document

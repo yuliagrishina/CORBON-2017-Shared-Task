@@ -1,0 +1,9 @@
+#begin document (en_435.txt); part 000
+en_435.txt	0	0	Backing	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_435.txt	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+en_435.txt	0	2	Right	NNP	*	-	-	-	-	*	-
+en_435.txt	0	3	Horse	NNP	*)	-	-	-	-	*	-
+en_435.txt	0	4	in	IN	(PP*	-	-	-	-	*	-
+en_435.txt	0	5	Pakistan	NNP	(NP*))))))	-	-	-	-	*	-
+
+#end document

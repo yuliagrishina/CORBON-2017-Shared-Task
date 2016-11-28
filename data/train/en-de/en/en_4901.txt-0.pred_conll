@@ -1,0 +1,8 @@
+#begin document (en_4901.txt); part 000
+en_4901.txt	0	0	The	DT	(TOP(NP*	-	-	-	-	*	-
+en_4901.txt	0	1	Problem	NNP	*	-	-	-	-	*	-
+en_4901.txt	0	2	with	IN	*	-	-	-	-	*	-
+en_4901.txt	0	3	Proxy	NNP	*	-	-	-	-	*	-
+en_4901.txt	0	4	Wars	NNPS	*))	-	-	-	-	*	-
+
+#end document

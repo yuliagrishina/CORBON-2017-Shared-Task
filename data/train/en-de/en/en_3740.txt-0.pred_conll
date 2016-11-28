@@ -1,0 +1,9 @@
+#begin document (en_3740.txt); part 000
+en_3740.txt	0	0	Shevardnadze	NNP	(TOP(S(NP*)	-	-	-	-	*	-
+en_3740.txt	0	1	'	:	*	-	-	-	-	*	-
+en_3740.txt	0	2	s	VBZ	(VP*	-	-	-	-	*	-
+en_3740.txt	0	3	Last	JJ	(NP*	-	-	-	-	*	-
+en_3740.txt	0	4	Stand	NNS	*))	-	-	-	-	*	-
+en_3740.txt	0	5	?	.	*))	-	-	-	-	*	-
+
+#end document

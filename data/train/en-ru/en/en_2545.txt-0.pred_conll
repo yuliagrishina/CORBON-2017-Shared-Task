@@ -1,0 +1,7 @@
+#begin document (en_2545.txt); part 000
+en_2545.txt	0	0	NATO	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_2545.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_2545.txt	0	2	the	DT	(NP*	-	-	-	-	*	-
+en_2545.txt	0	3	Baltics	NNP	*)))	-	-	-	-	*	-
+
+#end document

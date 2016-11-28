@@ -1,0 +1,6 @@
+#begin document (en_1070.txt); part 000
+en_1070.txt	0	0	Cooperating	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_1070.txt	0	1	Over	IN	(PP*	-	-	-	-	*	-
+en_1070.txt	0	2	Competition	NN	(NP*)))))	-	-	-	-	*	-
+
+#end document

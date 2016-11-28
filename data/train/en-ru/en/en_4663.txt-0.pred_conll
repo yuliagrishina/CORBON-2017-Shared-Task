@@ -1,0 +1,6 @@
+#begin document (en_4663.txt); part 000
+en_4663.txt	0	0	Waiting	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_4663.txt	0	1	for	IN	(PP*	-	-	-	-	*	-
+en_4663.txt	0	2	America	NNP	(NP*)))))	-	-	-	-	*	-
+
+#end document

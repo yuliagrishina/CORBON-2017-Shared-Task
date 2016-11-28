@@ -1,0 +1,7 @@
+#begin document (en_3714.txt); part 000
+en_3714.txt	0	0	The	DT	(TOP(S(NP*	-	-	-	-	*	-
+en_3714.txt	0	1	Euro	NNP	*)	-	-	-	-	*	-
+en_3714.txt	0	2	is	VBZ	(VP*	-	-	-	-	*	-
+en_3714.txt	0	3	Coming	VBG	(VP*))))	-	-	-	-	*	-
+
+#end document

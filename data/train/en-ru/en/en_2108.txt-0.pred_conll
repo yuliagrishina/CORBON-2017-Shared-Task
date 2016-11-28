@@ -1,0 +1,9 @@
+#begin document (en_2108.txt); part 000
+en_2108.txt	0	0	Japan	NNP	(TOP(NP(NP*)	-	-	-	-	*	(0)
+en_2108.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_2108.txt	0	2	Its	PRP$	(NP(NP*	-	-	-	-	*	(0)
+en_2108.txt	0	3	Neighbors	NNS	*)	-	-	-	-	*	-
+en_2108.txt	0	4	After	IN	(PP*	-	-	-	-	*	-
+en_2108.txt	0	5	Yasukuni	NNP	(NP*)))))	-	-	-	-	*	-
+
+#end document

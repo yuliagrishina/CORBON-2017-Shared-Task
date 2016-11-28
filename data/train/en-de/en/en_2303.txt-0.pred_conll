@@ -1,0 +1,10 @@
+#begin document (en_2303.txt); part 000
+en_2303.txt	0	0	In	IN	(TOP(PP*	-	-	-	-	*	-
+en_2303.txt	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+en_2303.txt	0	2	Shadow	NNP	*)	-	-	-	-	*	-
+en_2303.txt	0	3	of	IN	(PP*	-	-	-	-	*	-
+en_2303.txt	0	4	the	DT	(NP*	-	-	-	-	*	-
+en_2303.txt	0	5	Taj	NNP	*	-	-	-	-	*	-
+en_2303.txt	0	6	Mahal	NNP	*)))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,10 @@
+#begin document (en_264.txt); part 000
+en_264.txt	0	0	An	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_264.txt	0	1	Agenda	NNP	*)	-	-	-	-	*	-
+en_264.txt	0	2	for	IN	(PP*	-	-	-	-	*	-
+en_264.txt	0	3	the	DT	(NP(NP*	-	-	-	-	*	-
+en_264.txt	0	4	Group	NNP	*)	-	-	-	-	*	-
+en_264.txt	0	5	of	IN	(PP*	-	-	-	-	*	-
+en_264.txt	0	6	7	CD	(NP*))))))	-	-	-	-	*	-
+
+#end document

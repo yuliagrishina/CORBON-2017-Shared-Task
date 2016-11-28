@@ -1,0 +1,8 @@
+#begin document (en_653.txt); part 000
+en_653.txt	0	0	Can	MD	(TOP(SQ*	-	-	-	-	*	-
+en_653.txt	0	1	Koizumi	NNP	(NP*)	-	-	-	-	*	-
+en_653.txt	0	2	Save	VB	(VP*	-	-	-	-	*	-
+en_653.txt	0	3	Japan	NNP	(NP*))	-	-	-	-	*	-
+en_653.txt	0	4	?	.	*))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,8 @@
+#begin document (en_1876.txt); part 000
+en_1876.txt	0	0	India	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_1876.txt	0	1	\	NN	(NP*	-	-	-	-	*	-
+en_1876.txt	0	2	u0027s	NN	*	-	-	-	-	*	-
+en_1876.txt	0	3	Untouchable	NNP	*	-	-	-	-	*	-
+en_1876.txt	0	4	Apartheid	NNP	*)))	-	-	-	-	*	-
+
+#end document

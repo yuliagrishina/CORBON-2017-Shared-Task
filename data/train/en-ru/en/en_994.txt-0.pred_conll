@@ -1,0 +1,7 @@
+#begin document (en_994.txt); part 000
+en_994.txt	0	0	Democracy	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_994.txt	0	1	in	IN	(PP*	-	-	-	-	*	-
+en_994.txt	0	2	Latin	NNP	(NP*	-	-	-	-	*	-
+en_994.txt	0	3	America	NNP	*))))	-	-	-	-	*	-
+
+#end document

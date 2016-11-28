@@ -1,0 +1,11 @@
+#begin document (en_1731.txt); part 000
+en_1731.txt	0	0	Fix	VB	(TOP(S(VP*	-	-	-	-	*	-
+en_1731.txt	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+en_1731.txt	0	2	Financial	NNP	*	-	-	-	-	*	-
+en_1731.txt	0	3	Road	NNP	*)	-	-	-	-	*	-
+en_1731.txt	0	4	Before	IN	(PP*	-	-	-	-	*	-
+en_1731.txt	0	5	the	DT	(NP*	-	-	-	-	*	-
+en_1731.txt	0	6	Others	NNPS	*	-	-	-	-	*	-
+en_1731.txt	0	7	Crash	NNP	*))))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,9 @@
+#begin document (en_3444.txt); part 000
+en_3444.txt	0	0	Reform	NNP	(TOP(FRAG(NP*	-	-	-	-	*	-
+en_3444.txt	0	1	or	CC	*	-	-	-	-	*	-
+en_3444.txt	0	2	Revolution	NNP	(NP*))	-	-	-	-	*	-
+en_3444.txt	0	3	in	IN	(PP*	-	-	-	-	*	-
+en_3444.txt	0	4	Iran	NNP	(NP*))	-	-	-	-	*	-
+en_3444.txt	0	5	?	.	*))	-	-	-	-	*	-
+
+#end document

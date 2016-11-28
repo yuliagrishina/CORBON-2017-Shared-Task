@@ -1,0 +1,7 @@
+#begin document (en_1783.txt); part 000
+en_1783.txt	0	0	Free	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_1783.txt	0	1	Trade	NNP	*)	-	-	-	-	*	-
+en_1783.txt	0	2	and	CC	*	-	-	-	-	*	-
+en_1783.txt	0	3	Labor	NNP	(NP*)))	-	-	-	-	*	-
+
+#end document

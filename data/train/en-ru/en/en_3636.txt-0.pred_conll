@@ -1,0 +1,12 @@
+#begin document (en_3636.txt); part 000
+en_3636.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_3636.txt	0	1	Eagle	NNP	*)	-	-	-	-	*	-
+en_3636.txt	0	2	,	,	*	-	-	-	-	*	-
+en_3636.txt	0	3	the	DT	(NP*	-	-	-	-	*	-
+en_3636.txt	0	4	Peacock	NNP	*)	-	-	-	-	*	-
+en_3636.txt	0	5	,	,	*	-	-	-	-	*	-
+en_3636.txt	0	6	and	CC	*	-	-	-	-	*	-
+en_3636.txt	0	7	the	DT	(NP*	-	-	-	-	*	-
+en_3636.txt	0	8	Taliban	NNP	*)))	-	-	-	-	*	-
+
+#end document

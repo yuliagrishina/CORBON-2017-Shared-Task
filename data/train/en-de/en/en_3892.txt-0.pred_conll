@@ -1,0 +1,7 @@
+#begin document (en_3892.txt); part 000
+en_3892.txt	0	0	Survival	JJ	(TOP(S(VP(ADJP*)	-	-	-	-	*	-
+en_3892.txt	0	1	of	IN	(PP*	-	-	-	-	*	-
+en_3892.txt	0	2	the	DT	(NP*	-	-	-	-	*	-
+en_3892.txt	0	3	Weakest	NNP	*)))))	-	-	-	-	*	-
+
+#end document

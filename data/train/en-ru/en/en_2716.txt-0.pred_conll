@@ -1,0 +1,10 @@
+#begin document (en_2716.txt); part 000
+en_2716.txt	0	0	O	NNP	(TOP(S(NP(NP*	-	-	-	-	*	-
+en_2716.txt	0	1	'	POS	*)	-	-	-	-	*	-
+en_2716.txt	0	2	Neill	NNP	*	-	-	-	-	*	-
+en_2716.txt	0	3	'	POS	*)	-	-	-	-	*	-
+en_2716.txt	0	4	s	VBZ	(VP*	-	-	-	-	*	-
+en_2716.txt	0	5	Cheap	JJ	(NP*	-	-	-	-	*	-
+en_2716.txt	0	6	Shot	NNP	*))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,9 @@
+#begin document (en_5021.txt); part 000
+en_5021.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_5021.txt	0	1	Second	NNP	*	-	-	-	-	*	-
+en_5021.txt	0	2	Life	NNP	*)	-	-	-	-	*	-
+en_5021.txt	0	3	of	IN	(PP*	-	-	-	-	*	-
+en_5021.txt	0	4	Chairman	NNP	(NP*	-	-	-	-	*	-
+en_5021.txt	0	5	Mao	NNP	*))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,7 @@
+#begin document (en_1041.txt); part 000
+en_1041.txt	0	0	Competing	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_1041.txt	0	1	over	IN	(PP*	-	-	-	-	*	-
+en_1041.txt	0	2	Competition	NN	(NP*	-	-	-	-	*	-
+en_1041.txt	0	3	Policy	NN	*)))))	-	-	-	-	*	-
+
+#end document

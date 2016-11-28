@@ -1,0 +1,7 @@
+#begin document (en_5574.txt); part 000
+en_5574.txt	0	0	When	WRB	(TOP(SBAR(WHADVP*)	-	-	-	-	*	-
+en_5574.txt	0	1	Capital	NNP	(S(NP*	-	-	-	-	*	-
+en_5574.txt	0	2	Markets	NNPS	*	-	-	-	-	*	-
+en_5574.txt	0	3	Fail	NNP	*))))	-	-	-	-	*	-
+
+#end document

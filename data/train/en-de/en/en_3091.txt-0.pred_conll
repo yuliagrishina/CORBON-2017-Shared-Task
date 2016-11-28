@@ -1,0 +1,9 @@
+#begin document (en_3091.txt); part 000
+en_3091.txt	0	0	Now	RB	(TOP(X(ADVP*)	-	-	-	-	*	-
+en_3091.txt	0	1	,	,	*	-	-	-	-	*	-
+en_3091.txt	0	2	A	DT	(NP(NP*	-	-	-	-	*	-
+en_3091.txt	0	3	World	NNP	*)	-	-	-	-	*	-
+en_3091.txt	0	4	in	IN	(PP*	-	-	-	-	*	-
+en_3091.txt	0	5	Recession	NN	(NP*)))))	-	-	-	-	*	-
+
+#end document

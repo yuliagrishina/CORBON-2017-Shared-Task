@@ -1,0 +1,8 @@
+#begin document (en_4327.txt); part 000
+en_4327.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_4327.txt	0	1	Strange	JJ	*	-	-	-	-	*	-
+en_4327.txt	0	2	Death	NN	*)	-	-	-	-	*	-
+en_4327.txt	0	3	of	IN	(PP*	-	-	-	-	*	-
+en_4327.txt	0	4	Solidarity	NNP	(NP*))))	-	-	-	-	*	-
+
+#end document

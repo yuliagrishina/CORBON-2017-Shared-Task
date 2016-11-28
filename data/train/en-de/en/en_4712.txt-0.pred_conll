@@ -1,0 +1,8 @@
+#begin document (en_4712.txt); part 000
+en_4712.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_4712.txt	0	1	Maoists	NNP	*)	-	-	-	-	*	-
+en_4712.txt	0	2	and	CC	*	-	-	-	-	*	-
+en_4712.txt	0	3	the	DT	(NP*	-	-	-	-	*	-
+en_4712.txt	0	4	Massacre	NNP	*)))	-	-	-	-	*	-
+
+#end document

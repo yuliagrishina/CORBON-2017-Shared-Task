@@ -1,0 +1,11 @@
+#begin document (en_4383.txt); part 000
+en_4383.txt	0	0	The	DT	(TOP(NP(NP(NP*	-	-	-	-	*	-
+en_4383.txt	0	1	EU	NNP	*	-	-	-	-	*	-
+en_4383.txt	0	2	'	POS	*)	-	-	-	-	*	-
+en_4383.txt	0	3	s	NNP	*)	-	-	-	-	*	-
+en_4383.txt	0	4	Looming	NNP	(NP*	-	-	-	-	*	-
+en_4383.txt	0	5	Crisis	NNP	*	-	-	-	-	*	-
+en_4383.txt	0	6	over	IN	*	-	-	-	-	*	-
+en_4383.txt	0	7	Cyprus	NNP	*)))	-	-	-	-	*	-
+
+#end document

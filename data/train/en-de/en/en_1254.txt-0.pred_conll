@@ -1,0 +1,7 @@
+#begin document (en_1254.txt); part 000
+en_1254.txt	0	0	Does	VBZ	(TOP(SQ*	-	-	-	-	*	-
+en_1254.txt	0	1	Inequality	NNP	(NP*)	-	-	-	-	*	-
+en_1254.txt	0	2	Kill	NNP	(NP*)	-	-	-	-	*	-
+en_1254.txt	0	3	?	.	*))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,10 @@
+#begin document (en_1728.txt); part 000
+en_1728.txt	0	0	Fixing	NN	(TOP(NP(NP*)	-	-	-	-	*	-
+en_1728.txt	0	1	,	,	*	-	-	-	-	*	-
+en_1728.txt	0	2	not	RB	*	-	-	-	-	*	-
+en_1728.txt	0	3	Sinking	NNP	(NP(NP*)	-	-	-	-	*	-
+en_1728.txt	0	4	,	,	*	-	-	-	-	*	-
+en_1728.txt	0	5	the	DT	(NP*	-	-	-	-	*	-
+en_1728.txt	0	6	WTO	NN	*))))	-	-	-	-	*	-
+
+#end document

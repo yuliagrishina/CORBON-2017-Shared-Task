@@ -1,0 +1,7 @@
+#begin document (en_2045.txt); part 000
+en_2045.txt	0	0	Islam	NNP	(TOP(SBARQ(WHNP*	-	-	-	-	*	-
+en_2045.txt	0	1	versus	CC	*	-	-	-	-	*	-
+en_2045.txt	0	2	Modernity	NNP	*)	-	-	-	-	*	-
+en_2045.txt	0	3	?	.	*))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,8 @@
+#begin document (en_586.txt); part 000
+en_586.txt	0	0	Berlusconi	NNP	(TOP(NP(NP(NP*	-	-	-	-	*	-
+en_586.txt	0	1	'	POS	*)	-	-	-	-	*	-
+en_586.txt	0	2	s	NNP	*)	-	-	-	-	*	-
+en_586.txt	0	3	Silent	NNP	(NP*	-	-	-	-	*	-
+en_586.txt	0	4	Majority	NNP	*)))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,8 @@
+#begin document (en_4599.txt); part 000
+en_4599.txt	0	0	Ukraine	NNP	(TOP(NP(NP(NP*	-	-	-	-	*	-
+en_4599.txt	0	1	'	POS	*)	-	-	-	-	*	-
+en_4599.txt	0	2	s	NNP	*)	-	-	-	-	*	-
+en_4599.txt	0	3	Secret	NNP	(NP*	-	-	-	-	*	-
+en_4599.txt	0	4	Turnaround	NNP	*)))	-	-	-	-	*	-
+
+#end document

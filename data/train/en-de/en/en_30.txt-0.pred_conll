@@ -1,0 +1,7 @@
+#begin document (en_30.txt); part 000
+en_30.txt	0	0	A	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_30.txt	0	1	Civilization	NN	*)	-	-	-	-	*	-
+en_30.txt	0	2	in	IN	(PP*	-	-	-	-	*	-
+en_30.txt	0	3	Crisis	NNP	(NP*))))	-	-	-	-	*	-
+
+#end document

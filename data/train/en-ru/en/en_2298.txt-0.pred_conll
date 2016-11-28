@@ -1,0 +1,8 @@
+#begin document (en_2298.txt); part 000
+en_2298.txt	0	0	Lessons	VBZ	(TOP(S(VP*	-	-	-	-	*	-
+en_2298.txt	0	1	from	IN	(PP*	-	-	-	-	*	-
+en_2298.txt	0	2	the	DT	(NP*	-	-	-	-	*	-
+en_2298.txt	0	3	Global	NNP	*	-	-	-	-	*	-
+en_2298.txt	0	4	Slowdown	NNP	*)))))	-	-	-	-	*	-
+
+#end document

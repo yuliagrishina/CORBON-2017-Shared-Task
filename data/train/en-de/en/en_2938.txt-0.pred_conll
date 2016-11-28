@@ -1,0 +1,8 @@
+#begin document (en_2938.txt); part 000
+en_2938.txt	0	0	Monetary	NNP	(TOP(NP*	-	-	-	-	*	-
+en_2938.txt	0	1	Policy	NNP	*	-	-	-	-	*	-
+en_2938.txt	0	2	and	CC	*	-	-	-	-	*	-
+en_2938.txt	0	3	European	NNP	*	-	-	-	-	*	-
+en_2938.txt	0	4	Growth	NNP	*))	-	-	-	-	*	-
+
+#end document

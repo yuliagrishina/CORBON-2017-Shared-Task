@@ -1,0 +1,7 @@
+#begin document (en_2992.txt); part 000
+en_2992.txt	0	0	Restrain	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_2992.txt	0	1	the	DT	(NP*	-	-	-	-	*	-
+en_2992.txt	0	2	Northern	NNP	*	-	-	-	-	*	-
+en_2992.txt	0	3	Alliance	NNP	*)))	-	-	-	-	*	-
+
+#end document

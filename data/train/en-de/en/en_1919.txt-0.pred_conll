@@ -1,0 +1,8 @@
+#begin document (en_1919.txt); part 000
+en_1919.txt	0	0	Globalization	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_1919.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_1919.txt	0	2	the	DT	(NP*	-	-	-	-	*	-
+en_1919.txt	0	3	Genoa	NNP	*	-	-	-	-	*	-
+en_1919.txt	0	4	Summit	NNP	*)))	-	-	-	-	*	-
+
+#end document

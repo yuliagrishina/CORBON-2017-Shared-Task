@@ -1,0 +1,8 @@
+#begin document (en_27.txt); part 000
+en_27.txt	0	0	A	DT	(TOP(NP*	-	-	-	-	*	-
+en_27.txt	0	1	Century	NNP	(NAC*	-	-	-	-	*	-
+en_27.txt	0	2	of	IN	(PP*	-	-	-	-	*	-
+en_27.txt	0	3	Chinese	NNPS	(NP*)))	-	-	-	-	*	-
+en_27.txt	0	4	Protests	NNPS	*))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,10 @@
+#begin document (en_470.txt); part 000
+en_470.txt	0	0	Beijing	NNP	(TOP(S(NP(NP*	-	-	-	-	*	-
+en_470.txt	0	1	Benefits	NNPS	*)	-	-	-	-	*	-
+en_470.txt	0	2	from	IN	(PP*	-	-	-	-	*	-
+en_470.txt	0	3	Taiwan	NNP	(NP*))	-	-	-	-	*	-
+en_470.txt	0	4	'	''	*)	-	-	-	-	*	-
+en_470.txt	0	5	s	VBZ	(VP*	-	-	-	-	*	-
+en_470.txt	0	6	Troubles	NNS	(NP*))))	-	-	-	-	*	-
+
+#end document

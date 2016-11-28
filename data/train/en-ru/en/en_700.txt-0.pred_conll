@@ -1,0 +1,9 @@
+#begin document (en_700.txt); part 000
+en_700.txt	0	0	Challenging	NNP	(TOP(S(NP*	-	-	-	-	*	-
+en_700.txt	0	1	Europe	NNP	*	-	-	-	-	*	-
+en_700.txt	0	2	'	POS	*)	-	-	-	-	*	-
+en_700.txt	0	3	s	VBZ	(VP*	-	-	-	-	*	-
+en_700.txt	0	4	Last	JJ	(NP*	-	-	-	-	*	-
+en_700.txt	0	5	Autocrat	NNP	*))))	-	-	-	-	*	-
+
+#end document

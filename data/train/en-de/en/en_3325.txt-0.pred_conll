@@ -1,0 +1,7 @@
+#begin document (en_3325.txt); part 000
+en_3325.txt	0	0	Protecting	NNP	(TOP(NP*	-	-	-	-	*	-
+en_3325.txt	0	1	Research	NNP	*	-	-	-	-	*	-
+en_3325.txt	0	2	and	CC	*	-	-	-	-	*	-
+en_3325.txt	0	3	Discovery	NNP	*))	-	-	-	-	*	-
+
+#end document

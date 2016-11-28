@@ -1,0 +1,8 @@
+#begin document (en_1920.txt); part 000
+en_1920.txt	0	0	In	IN	(TOP(PP*	-	-	-	-	*	-
+en_1920.txt	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+en_1920.txt	0	2	Shadow	NNP	*)	-	-	-	-	*	-
+en_1920.txt	0	3	of	IN	(PP*	-	-	-	-	*	-
+en_1920.txt	0	4	Tamarlane	NNP	(NP*)))))	-	-	-	-	*	-
+
+#end document

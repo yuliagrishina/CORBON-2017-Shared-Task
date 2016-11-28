@@ -1,0 +1,8 @@
+#begin document (en_1176.txt); part 000
+en_1176.txt	0	0	Defeating	NN	(TOP(S(NP*)	-	-	-	-	*	-
+en_1176.txt	0	1	Terrorism	VBZ	(VP*	-	-	-	-	*	-
+en_1176.txt	0	2	through	IN	(PP*	-	-	-	-	*	-
+en_1176.txt	0	3	Global	JJ	(NP*	-	-	-	-	*	-
+en_1176.txt	0	4	Prosperity	NN	*)))))	-	-	-	-	*	-
+
+#end document

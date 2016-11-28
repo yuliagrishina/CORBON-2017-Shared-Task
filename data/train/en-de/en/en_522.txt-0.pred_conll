@@ -1,0 +1,9 @@
+#begin document (en_522.txt); part 000
+en_522.txt	0	0	Avoiding	RB	(TOP(X(ADVP*)	-	-	-	-	*	-
+en_522.txt	0	1	the	DT	(NP*	-	-	-	-	*	-
+en_522.txt	0	2	Terrorists	NNPS	*)	-	-	-	-	*	-
+en_522.txt	0	3	\	SYM	(X*)	-	-	-	-	*	-
+en_522.txt	0	4	u0027	JJ	*	-	-	-	-	*	-
+en_522.txt	0	5	Trap	NNP	*))	-	-	-	-	*	-
+
+#end document

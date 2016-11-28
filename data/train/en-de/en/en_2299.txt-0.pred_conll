@@ -1,0 +1,9 @@
+#begin document (en_2299.txt); part 000
+en_2299.txt	0	0	In	IN	(TOP(PP*	-	-	-	-	*	-
+en_2299.txt	0	1	the	DT	(NP(NP*	-	-	-	-	*	-
+en_2299.txt	0	2	D-Mark	NNP	*	-	-	-	-	*	-
+en_2299.txt	0	3	'	POS	*)	-	-	-	-	*	-
+en_2299.txt	0	4	s	PRP	*	-	-	-	-	*	-
+en_2299.txt	0	5	Shadow	NNP	*)))	-	-	-	-	*	-
+
+#end document

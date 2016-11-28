@@ -1,0 +1,7 @@
+#begin document (en_3090.txt); part 000
+en_3090.txt	0	0	No	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_3090.txt	0	1	War	NNP	*)	-	-	-	-	*	-
+en_3090.txt	0	2	of	IN	(PP*	-	-	-	-	*	-
+en_3090.txt	0	3	Civilizations	NNPS	(NP*))))	-	-	-	-	*	-
+
+#end document

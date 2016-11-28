@@ -1,0 +1,9 @@
+#begin document (en_2292.txt); part 000
+en_2292.txt	0	0	International	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_2292.txt	0	1	Economic	NNP	*	-	-	-	-	*	-
+en_2292.txt	0	2	Strategy	NNP	*)	-	-	-	-	*	-
+en_2292.txt	0	3	after	IN	(PP*	-	-	-	-	*	-
+en_2292.txt	0	4	September	NNP	(NP*	-	-	-	-	*	-
+en_2292.txt	0	5	11	CD	*))))	-	-	-	-	*	-
+
+#end document

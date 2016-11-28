@@ -1,0 +1,9 @@
+#begin document (en_1859.txt); part 000
+en_1859.txt	0	0	George	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_1859.txt	0	1	W.	NNP	*	-	-	-	-	*	-
+en_1859.txt	0	2	Bush	NNP	*)	-	-	-	-	*	-
+en_1859.txt	0	3	,	,	*	-	-	-	-	*	-
+en_1859.txt	0	4	International	NNP	(NP*	-	-	-	-	*	-
+en_1859.txt	0	5	Anarchist	NNP	*)))	-	-	-	-	*	-
+
+#end document

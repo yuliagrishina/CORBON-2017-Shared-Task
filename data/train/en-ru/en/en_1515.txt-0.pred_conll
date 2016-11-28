@@ -1,0 +1,8 @@
+#begin document (en_1515.txt); part 000
+en_1515.txt	0	0	From	IN	(TOP(FRAG(PP(PP*	-	-	-	-	*	-
+en_1515.txt	0	1	Red	NNP	(NP*))	-	-	-	-	*	-
+en_1515.txt	0	2	to	TO	(PP*))	-	-	-	-	*	-
+en_1515.txt	0	3	Green	NN	(NP*)	-	-	-	-	*	-
+en_1515.txt	0	4	?	.	*))	-	-	-	-	*	-
+
+#end document

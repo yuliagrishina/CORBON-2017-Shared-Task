@@ -1,0 +1,9 @@
+#begin document (en_944.txt); part 000
+en_944.txt	0	0	Daniel	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_944.txt	0	1	Ortega	NNP	*)	-	-	-	-	*	-
+en_944.txt	0	2	:	:	*	-	-	-	-	*	-
+en_944.txt	0	3	Back	RB	(S(ADVP*	-	-	-	-	*	-
+en_944.txt	0	4	in	IN	(PP*	-	-	-	-	*	-
+en_944.txt	0	5	Pink	NNP	(NP*))))))	-	-	-	-	*	-
+
+#end document

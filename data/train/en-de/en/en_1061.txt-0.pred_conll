@@ -1,0 +1,7 @@
+#begin document (en_1061.txt); part 000
+en_1061.txt	0	0	Consulting	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_1061.txt	0	1	America	NNP	*	-	-	-	-	*	-
+en_1061.txt	0	2	is	VBZ	*)	-	-	-	-	*	-
+en_1061.txt	0	3	Futile	NNP	*))	-	-	-	-	*	-
+
+#end document

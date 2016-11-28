@@ -1,0 +1,7 @@
+#begin document (en_3428.txt); part 000
+en_3428.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_3428.txt	0	1	Alchemy	NN	*)	-	-	-	-	*	-
+en_3428.txt	0	2	of	IN	(PP*	-	-	-	-	*	-
+en_3428.txt	0	3	Violence	NNP	(NP*))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,9 @@
+#begin document (en_421.txt); part 000
+en_421.txt	0	0	Avoiding	RB	(TOP(X(ADVP*)	-	-	-	-	*	-
+en_421.txt	0	1	the	DT	(NP*	-	-	-	-	*	-
+en_421.txt	0	2	Terrorists	NNPS	*)	-	-	-	-	*	-
+en_421.txt	0	3	\	SYM	(X*)	-	-	-	-	*	-
+en_421.txt	0	4	u0027	JJ	*	-	-	-	-	*	-
+en_421.txt	0	5	Trap	NNP	*))	-	-	-	-	*	-
+
+#end document

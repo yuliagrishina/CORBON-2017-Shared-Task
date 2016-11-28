@@ -1,0 +1,8 @@
+#begin document (en_1076.txt); part 000
+en_1076.txt	0	0	Dracula	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_1076.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_1076.txt	0	2	the	DT	(NP*	-	-	-	-	*	-
+en_1076.txt	0	3	Class	NNP	*	-	-	-	-	*	-
+en_1076.txt	0	4	Struggle	NNP	*)))	-	-	-	-	*	-
+
+#end document

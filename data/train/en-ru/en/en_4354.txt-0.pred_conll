@@ -1,0 +1,8 @@
+#begin document (en_4354.txt); part 000
+en_4354.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_4354.txt	0	1	Tidal	NNP	*	-	-	-	-	*	-
+en_4354.txt	0	2	Wave	NNP	*)	-	-	-	-	*	-
+en_4354.txt	0	3	of	IN	(PP*	-	-	-	-	*	-
+en_4354.txt	0	4	Memory	NN	(NP*))))	-	-	-	-	*	-
+
+#end document

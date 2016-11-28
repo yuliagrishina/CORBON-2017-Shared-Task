@@ -1,0 +1,8 @@
+#begin document (en_1889.txt); part 000
+en_1889.txt	0	0	Getting	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_1889.txt	0	1	Over	IN	(PP*	-	-	-	-	*	-
+en_1889.txt	0	2	the	DT	(NP*	-	-	-	-	*	-
+en_1889.txt	0	3	Irish	JJ	*	-	-	-	-	*	-
+en_1889.txt	0	4	Stew	NNP	*)))))	-	-	-	-	*	-
+
+#end document

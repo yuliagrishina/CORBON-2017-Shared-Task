@@ -1,0 +1,7 @@
+#begin document (en_5602.txt); part 000
+en_5602.txt	0	0	Whither	RB	(TOP(FRAG(ADVP*)	-	-	-	-	*	-
+en_5602.txt	0	1	the	DT	(NP*	-	-	-	-	*	-
+en_5602.txt	0	2	Dollar	NN	*)	-	-	-	-	*	-
+en_5602.txt	0	3	?	.	*))	-	-	-	-	*	-
+
+#end document

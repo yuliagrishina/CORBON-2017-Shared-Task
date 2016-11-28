@@ -1,0 +1,9 @@
+#begin document (en_1136.txt); part 000
+en_1136.txt	0	0	Daniel	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_1136.txt	0	1	Ortega	NNP	*)	-	-	-	-	*	-
+en_1136.txt	0	2	:	:	*	-	-	-	-	*	-
+en_1136.txt	0	3	Back	RB	(S(ADVP*	-	-	-	-	*	-
+en_1136.txt	0	4	in	IN	(PP*	-	-	-	-	*	-
+en_1136.txt	0	5	Pink	NNP	(NP*))))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,9 @@
+#begin document (en_4592.txt); part 000
+en_4592.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_4592.txt	0	1	IMF	NNP	*	-	-	-	-	*	-
+en_4592.txt	0	2	'	POS	*)	-	-	-	-	*	-
+en_4592.txt	0	3	s	NNP	*	-	-	-	-	*	-
+en_4592.txt	0	4	Missed	NNP	*	-	-	-	-	*	-
+en_4592.txt	0	5	Opportunity	NNP	*))	-	-	-	-	*	-
+
+#end document

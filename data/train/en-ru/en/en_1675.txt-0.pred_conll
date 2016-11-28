@@ -1,0 +1,9 @@
+#begin document (en_1675.txt); part 000
+en_1675.txt	0	0	Growth	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_1675.txt	0	1	in	IN	(PP*	-	-	-	-	*	-
+en_1675.txt	0	2	An	DT	(NP*	-	-	-	-	*	-
+en_1675.txt	0	3	Age	NNP	*))	-	-	-	-	*	-
+en_1675.txt	0	4	of	IN	(PP*	-	-	-	-	*	-
+en_1675.txt	0	5	Anxiety	NN	(NP*))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,8 @@
+#begin document (en_2474.txt); part 000
+en_2474.txt	0	0	Is	VBZ	(TOP(SQ*	-	-	-	-	*	-
+en_2474.txt	0	1	Russia	NNP	(NP*	-	-	-	-	*	-
+en_2474.txt	0	2	Dying	NNP	*)	-	-	-	-	*	-
+en_2474.txt	0	3	Out	RB	(VP(ADVP*))	-	-	-	-	*	-
+en_2474.txt	0	4	?	.	*))	-	-	-	-	*	-
+
+#end document

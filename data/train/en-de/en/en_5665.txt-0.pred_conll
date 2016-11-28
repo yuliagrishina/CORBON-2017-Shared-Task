@@ -1,0 +1,9 @@
+#begin document (en_5665.txt); part 000
+en_5665.txt	0	0	Why	WRB	(TOP(SBARQ(WHADVP*)	-	-	-	-	*	-
+en_5665.txt	0	1	Chinese	JJ	(S(NP*	-	-	-	-	*	-
+en_5665.txt	0	2	Companies	NNS	*)	-	-	-	-	*	-
+en_5665.txt	0	3	Stay	VB	(VP*	-	-	-	-	*	-
+en_5665.txt	0	4	at	IN	(PP*	-	-	-	-	*	-
+en_5665.txt	0	5	Home	NNP	(NP*))))))	-	-	-	-	*	-
+
+#end document

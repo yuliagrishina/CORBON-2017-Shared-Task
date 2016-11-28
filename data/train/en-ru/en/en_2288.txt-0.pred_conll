@@ -1,0 +1,7 @@
+#begin document (en_2288.txt); part 000
+en_2288.txt	0	0	Legislating	VBG	(TOP(S(VP*	-	-	-	-	*	-
+en_2288.txt	0	1	Women	NNS	(NP*)	-	-	-	-	*	-
+en_2288.txt	0	2	into	IN	(PP*	-	-	-	-	*	-
+en_2288.txt	0	3	Science	NNP	(NP*)))))	-	-	-	-	*	-
+
+#end document

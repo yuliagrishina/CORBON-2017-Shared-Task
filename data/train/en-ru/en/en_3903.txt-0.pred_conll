@@ -1,0 +1,7 @@
+#begin document (en_3903.txt); part 000
+en_3903.txt	0	0	The	DT	(TOP(FRAG(X*	-	-	-	-	*	-
+en_3903.txt	0	1	Ides	RB	*)	-	-	-	-	*	-
+en_3903.txt	0	2	of	IN	(PP*	-	-	-	-	*	-
+en_3903.txt	0	3	August	NNP	(NP*))))	-	-	-	-	*	-
+
+#end document

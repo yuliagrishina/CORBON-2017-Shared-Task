@@ -1,0 +1,7 @@
+#begin document (en_5057.txt); part 000
+en_5057.txt	0	0	The	DT	(TOP(NP(NP*	-	-	-	-	*	-
+en_5057.txt	0	1	Spookiness	NN	*)	-	-	-	-	*	-
+en_5057.txt	0	2	of	IN	(PP*	-	-	-	-	*	-
+en_5057.txt	0	3	Reality	NN	(NP*))))	-	-	-	-	*	-
+
+#end document

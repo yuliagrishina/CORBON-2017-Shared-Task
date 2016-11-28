@@ -1,0 +1,10 @@
+#begin document (en_3787.txt); part 000
+en_3787.txt	0	0	Singapore	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_3787.txt	0	1	:	:	*	-	-	-	-	*	-
+en_3787.txt	0	2	The	DT	(NP(NP*	-	-	-	-	*	-
+en_3787.txt	0	3	Myth	NNP	*)	-	-	-	-	*	-
+en_3787.txt	0	4	of	IN	(PP*	-	-	-	-	*	-
+en_3787.txt	0	5	the	DT	(NP*	-	-	-	-	*	-
+en_3787.txt	0	6	Miracle	NNP	*)))))	-	-	-	-	*	-
+
+#end document

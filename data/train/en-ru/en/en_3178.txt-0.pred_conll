@@ -1,0 +1,10 @@
+#begin document (en_3178.txt); part 000
+en_3178.txt	0	0	Serbia	NNP	(TOP(S(NP(NP(NP*	-	-	-	-	*	-
+en_3178.txt	0	1	'	POS	*)	-	-	-	-	*	-
+en_3178.txt	0	2	s	NNP	*	-	-	-	-	*	-
+en_3178.txt	0	3	Advantages	NNP	*)	-	-	-	-	*	-
+en_3178.txt	0	4	in	IN	(PP*	-	-	-	-	*	-
+en_3178.txt	0	5	Coming	NNP	(NP*)))	-	-	-	-	*	-
+en_3178.txt	0	6	Late	JJ	(ADJP*)))	-	-	-	-	*	-
+
+#end document

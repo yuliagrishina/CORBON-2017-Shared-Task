@@ -1,0 +1,10 @@
+#begin document (en_1945.txt); part 000
+en_1945.txt	0	0	Goodbye	NNP	(TOP(UCP(NP*)	-	-	-	-	*	-
+en_1945.txt	0	1	and	CC	*	-	-	-	-	*	-
+en_1945.txt	0	2	Hello	JJ	(ADJP*	-	-	-	-	*	-
+en_1945.txt	0	3	to	TO	(PP*	-	-	-	-	*	-
+en_1945.txt	0	4	the	DT	(NP*	-	-	-	-	*	-
+en_1945.txt	0	5	Universal	NNP	*	-	-	-	-	*	-
+en_1945.txt	0	6	Bank	NNP	*)))))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,10 @@
+#begin document (en_1610.txt); part 000
+en_1610.txt	0	0	Global	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_1610.txt	0	1	Public	NNP	*	-	-	-	-	*	-
+en_1610.txt	0	2	Goods	NNP	*)	-	-	-	-	*	-
+en_1610.txt	0	3	:	:	*	-	-	-	-	*	-
+en_1610.txt	0	4	The	NNP	(NP*	-	-	-	-	*	-
+en_1610.txt	0	5	Missing	NNP	*	-	-	-	-	*	-
+en_1610.txt	0	6	Component	NNP	*)))	-	-	-	-	*	-
+
+#end document

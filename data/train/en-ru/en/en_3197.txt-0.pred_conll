@@ -1,0 +1,8 @@
+#begin document (en_3197.txt); part 000
+en_3197.txt	0	0	Sharing	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_3197.txt	0	1	Globalization	NNP	*	-	-	-	-	*	-
+en_3197.txt	0	2	'	POS	*)	-	-	-	-	*	-
+en_3197.txt	0	3	s	NNP	*	-	-	-	-	*	-
+en_3197.txt	0	4	Benefits	NNP	*))	-	-	-	-	*	-
+
+#end document

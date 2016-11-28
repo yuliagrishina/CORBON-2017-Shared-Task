@@ -1,0 +1,7 @@
+#begin document (en_2225.txt); part 000
+en_2225.txt	0	0	Know	NNP	(TOP(NP(NP*	-	-	-	-	*	-
+en_2225.txt	0	1	Thyself	NNP	*)	-	-	-	-	*	-
+en_2225.txt	0	2	,	,	*	-	-	-	-	*	-
+en_2225.txt	0	3	Russia	NNP	(NP*)))	-	-	-	-	*	-
+
+#end document

@@ -1,0 +1,6 @@
+#begin document (en_254.txt); part 000
+en_254.txt	0	0	America	NNP	(TOP(NP(NP*)	-	-	-	-	*	-
+en_254.txt	0	1	the	DT	(NP*	-	-	-	-	*	-
+en_254.txt	0	2	Pariah	NNP	*)))	-	-	-	-	*	-
+
+#end document
