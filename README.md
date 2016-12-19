@@ -11,3 +11,7 @@ This repository contains:
 3) annotation guidelines (parallel_annotation_guidelines.pdf): parallel pronominal coreference annotation guidelines as described in (Grishina and Stede, 2015).
 
 4) sample annotation (data/sample_annotation): sample files annotated according to the guidelines in (3).
+
+5) test data for German and Russian (data/test).
+
+
